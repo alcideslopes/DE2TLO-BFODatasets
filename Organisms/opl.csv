@@ -1,0 +1,414 @@
+class;term;comment
+process;Schistosoma haematobium 3 day schistosomulum stage;A 3 days schistosomulum stage of Schistosoma haematobium occurs in the definitive host 3 days post-infection.
+process;3 week parasitic worm stage;A parasitic worm stage of development 3 weeks post differentiation into a worm form.
+material entity;Trypanosoma cruzi amastigote;A Trypanosoma cruzi that is the intracellular dividing form in the cytoplasm of mammalian cells. It is a round/oval-shaped cell with no protruding flagellum.
+material entity;Trypanosoma brucei trypomastigote;A Trypanosoma brucei that is a Trypomastigote form of Trypanosoma brucei. In this form the large kinetoplast is postnuclear and is at the most posterior part of the body and the flagellum emerges from the flagellar pocket, and runs along the entire length of the body as an undulating membrane.
+process;Trypanosoma cruzi amastigote stage;An amastigote stage in the lifecycle of Trypanosoma cruzi that occurs in mammalian hosts.
+process;Trypanosoma cruzi lifecycle stage;A lifecycle stage of Trypanosoma cruzi.
+process;Schistosoma mansoni 24 hour schistosomulum stage;A 24 hours schistosomulum stage of Schistosoma mansoni that occurs in the definitive host 24 hours post-infection.
+process;Schistosoma japonicum mother sporocyst stage;A mother sporocyst stage in the Schistosoma japonicum lifecycle that occurs in the snail intermediate host.
+process;6 day schistosomulum stage;A schistosomulum stage that occurs in 6 days after infection of the mammalian host.
+process;Plasmodium falciparum ookinete stage;An ookinete stage in the Plasmodium falciparum lifecycle that occurs in the midgut of a mosquito vector and on the outside of the midgut.
+process;Schistosoma japonicum sporocyst stage;A sporocyst stage in the Schistosoma japonicum lifecycle that is found within the snail intermediate host.
+process;Plasmodium falciparum macrogametocyte stage;A macrogametocyte stage in the Plasmodium falciparum lifecycle that occurs either in the bloodstream of a human host or the midgut of a mosquito vector.
+process;Leishmania major promastigote stage;A promastigote stage in the Leishmania major lifecycle.
+material entity;Schistosoma mansoni 3 hour schistosomulum;A Schistosoma mansoni schistosomulum in a migratory larval formi that is found within blood vessels of the definitive host, mammal, 3 hours post-infection.
+material entity;Plasmodium falciparum schizont;A Plasmodium falciparum divides through schizogony. Depending on its location, it is either called hepatic or erythrocytic schizont. The schizont is a dividing stage with 2 or more nuclei.
+process;parasite lifecycle stage;A life cycle stage of a parasite.
+process;egg stage;A life cycle stage of some parasites in which a non-operculate egg emerges from the adult female worm.
+process;hepatic schizont stage;A schizont stage that occurs in hepatocyte where sporozoites mature into a schizont.
+process;Leishmania major procyclic promastigote stage;A procyclic promastigote stage in the Leishmania major lifecycle.
+material entity;Schistosoma japonicum miracidium;A Schistosoma japonicum in a free-living motile form that is covered with cilia, and develops in the snail intermediate host.
+process;oocyst stage;A parasite lifecycle stage of sporozoa consisting of a zygote enclosed by cyst wall.
+material entity;Phlebotominae midgut;A midgut that is a part of or originated from a sand fly of genus Phlebotominae.
+process;Schistosoma japonicum egg stage;An egg stage in the lifecycle of Schistosoma japonicum that occurs in the mammalian host.
+process;Schistosoma japonicum 3 hour schistosomulum stage;A 3 hours schistosomulum stage of Schistosoma japonicum that occurs in the definitive host 3 hours post-infection.
+process;Plasmodium falciparum macrogamete stage;A macrogamete stage in the Plasmodium falciparum lifecycle that occurs in the midgut of a mosquito vector.
+material entity;Schistosoma mansoni mother sporocyst;A Schistosoma mansoni sporocyst that produces more sporocysts.
+process;Schistosoma haematobium 3 hour schistosomulum stage;A 3 hours schistosomulum stage of Schistosoma haematobium that occurs in the definitive host 3 hours post-infection.
+process;Schistosoma japonicum 24 hour schistosomulum stage;A 24 hours schistosomulum stage of Schistosoma japonicum that occurs in the definitive host 24 hours post-infection.
+material entity;Schistosoma japonicum schistosomulum;A Schistosoma japonicum in a migratory larval form that is found within blood vessels of the definitive host and develops into the worm.
+material entity;Schistosoma haematobium adult male worm;A Schistosoma haematobium adult worm is a fully developed mature male form of Schistosoma haematobium and capable of sexual reproduction, which lives in the pelvic blood vessels of the vesicle plexis of the mammal host and has 4-5 testes.
+process;procyclic trypomastigote stage;A trypomastigote stage where trypomastigote form of parasites are in dividing form. This stage occurs in fly vector.
+process;Schistosoma haematobium schistosomulum stage;A schistosomulum stage of Schistosoma haematobium that occurs in the definitive host and is followed by the parasitic worm stage.
+material entity;Schistosoma haematobium cercaria;A Schistosoma haematobium is the parasitic larval form of the Schistosoma haematobium that develops in a freshwater snail and is released into the water.
+process;erythrocytic schizont stage;A schizont stage that occurs in erythrocytes where trophozoites mature into a schizont and schizont produces daughter trophozoites or merozoites.
+process;Plasmodium falciparum zygote stage;A zygote stage in the Plasmodium falciparum lifecycle that occurs in the midgut of the mosquito vector where a microgamete and a macrogamete fertilizes each other to produce a diploid cell.
+material entity;Plasmodium falciparum hepatic schizont;A Plasmodium falciparum schizont that is found in infected hepatocytes (i.e., liver cells) of a human host.
+process;Schistosoma japonicum worm stage;A worm stage of Schistosoma japonicum that is fully developed mature form and found in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the mammalian host.
+process;Plasmodium falciparum gametocyte stage;A gametocyte stage in the lifecycle of Plasmodium falciparum.
+process;cercaria stage;A parasite lifecycle stage that is a free-living larval stage of Digenea, developed within the germinal cells of the sporocyst or redia. A cercaria has a tapering head with large penetration glands. It may or may not have a long swimming "tail", depending on the species. The motile cercaria finds and settles in a host where it will become either an adult, or a mesocercaria, or a metacercaria, according to species.
+material entity;Schistosoma mansoni daughter sporocyst;A Schistosoma mansoni sporocyst that develops into cercariae.
+process;Schistosoma haematobium miracidium stage;A miracidium stage in the Schistosoma haematobium lifecycle that occurs in the intermediate snail host.
+material entity;Homo sapiens hepatocyte;A hepatocyte that is a part of or originated from a human (Homo sapiens).
+material entity;Plasmodium falciparum zygote;A Plasmodium falciparum zygote is formed after fertilisation of the macrogamete by a microgamete in the midgut of the mosquito vector. This round form is the only diploid stage in the Plasmodium falciparum life cycle.
+material entity;Plasmodium erythrocytic trophozoite;A Plasmodium trophozoite that is found in erythrocytes of a vertebrate host.
+material entity;Leishmania major procyclic promastigote;A Leishmania major promastigote that is found in the alimentary tract of an insect vector. It is non-infective to its mammalian host.
+material entity;Plasmodium trophozoite;A Plasmodium that is a feeding form which has a single nucleus during the trophozoite stage. Depending on its location, it is either called hepatic or erythrocytic trophozoite.
+process;Plasmodium falciparum erythrocytic ring trophozoite stage;An erythrocytic ring trophozoite stage in the Plasmodium falciparum life cycle that occurs in erythrocytes of a human host. During this stage some Plasmodium falciparum merozoites undergo asexual reproduction cycle in erythrocytes and form young trophozoites that are referred to as "ring form" due to their morphology.
+process;Schistosoma haematobium daughter sporocyst stage;A daughter sporocyst stage in the lifecycle of Schistosoma haematobium that occurs within the snail intermediate host.
+material entity;Plasmodium hepatic trophozoite;A Plasmodium trophozoite that is found in hepatocytes.
+process;Schistosoma mansoni sporocyst stage;A sporocyst stage in the Schistosoma mansoni lifecycle that occurs in the snail intermediate host.
+material entity;Plasmodium falciparum exflagellated microgametocyte;A Plasmodium falciparum microgametocyte that is matured with flagellated motile microgametes still attached to its central body. Exflagellated microgametocyte of Plasmodium falciparum is found in the midgut of a mosquito vector.
+material entity;Plasmodium erythrocytic ring trophozoite;A Plasmodium erythrocytic trophozoite that has a typical 'ring-like' appearance. Ring-form trophozoites of Plasmodium are often thin and delicate, measuring on average 1/5 the diameter of the red blood cell.
+process;procyclic promastigote stage;A promastigote stage where the form of parasite is short, ovoid, and slightly motile.
+process;Plasmodium falciparum lifecycle stage;A lifecycle stage of Plasmodium falciparum.
+process;Plasmodium gamete stage;A gamete stage in the Plasmodium lifecycle that occurs in the midgut of a mosquito vector.
+material entity;Schistosoma japonicum cercaria;A Schistosoma japonicum in a parasitic larval form that develops in a freshwater snail and is released into the water.
+material entity;Trypanosoma cruzi trypomastigote;A Trypanosoma cruzi that is found in the bloodstream of infected mammals. It is a non-dividing form that is infectious for its insect vector.
+material entity;Plasmodium zygote;A Plasmodium that is formed after fertilization of the macrogamete by a microgamete in the midgut of the mosquito vector. This round form is the only diploid stage in the Plasmodium life cycle.
+process;Schistosoma japonicum 6 day schistosomulum stage;A schistosoma japonicum schistosomulum stage that occurs in the definitive host 6 days post-infection.
+material entity;Plasmodium falciparum macrogamete;A Plasmodium falciparum gamete that is a matured form of the macrogametocyte and is found in the midgut of a mosquito vector. The macrogamete is fertilized by the microgamete, forming the zygote
+process;Plasmodium microgamete stage;A microgamete stage in the Plasmodium lifecycle that occurs in the midgut of a mosquito vector.
+process;Schistosoma mansoni 6 day schistosomulum stage;A 6 day schistosomulum stage of Schistosoma mansoni that occurs in the definitive host 6 days post-infection.
+material entity;Schistosoma haematobium sporocyst;A Schistosoma haematobium that is an elongated sac and develops from the miracidium within the snail indermediate host, and that either produces more sporocysts or develops into cercariae.
+process;Plasmodium macrogamete stage;A macrogamete stage in the Plasmodium lifecycle that occurs in the midgut of a mosquito vector.
+material entity;Plasmodium salivary gland-derived sporozoite;A Plasmodium sporozoite that is found in the salivary glands of the mosquito vector.
+material entity;Schistosoma haematobium worm;A Schistosoma haematobium is a mature form of Schistosoma haematobium and capable of sexual reproduction, which lives in the pelvic blood vessels of the vesicle plexis of the mammal host.
+process;Plasmodium falciparum schizont stage;A schizont stage in the Plasmodium falciparum lifecycle that occurs in erythrocytes or in hepatocytes.
+material entity;Plasmodium oocyst-derived sporozoite;A Plasmodium sporozoite that is found in the infected hepatocytes of a vertebrate host.
+process;merozoite stage;A parasite lifecycle stage of apicomplexan species where a daughter cell, called merozoite is produced from schizont through schizogony.
+process;Leishmania major amastigote stage;An amastigote stage in the lifecycle of Leishmania major that occurs in mammalian hosts.
+material entity;Plasmodium sporozoite;A Plasmodium that is formed in the oocyst and migrates to and reside in the salivary glands of the mosquito vector. A distinction is made between oocyst-derived and salivary gland-derived sporozoites. Sporozoites invade hepatocytes in the vertebrate host.
+process;Plasmodium yoelii ookinete stage;An ookinete stage in the Plasmodium yoelii.
+material entity;Schistosoma japonicum 6 day schistosomulum;A Schistosoma japonicum schistosomulum in a migratory larval form that is found within blood vessels of the mammal, as definitive host, 6 days post-infection.
+material entity;Schistosoma mansoni schistosomulum;A Schistosoma mansoni in a migratory larval form that is found within blood vessels of the definitive host, mammal, and develops into the worm.
+process;Schistosoma japonicum 3 day schistosomulum stage;A 3 days schistosomulum stage of Schistosoma japonicum that occurs in the definitive host 3 days post-infection.
+material entity;Schistosoma japonicum 7 week worm;A Schistosoma japonicum worm is the mature form of Schistosoma japonicum and capable of sexual reproduction, which is found in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the human host 7 weeks after infection of the mammal host.
+process;24 hour schistosomulum stage;A schistosomulum stage that occurs in 24 hours after infection of the mammalian host.
+process;Plasmodium erythrocytic merozoite stage;An erythrocytic merozoite stage in the Plasmodium lifecycle that occurs in the bloodstream of a vertebrate host.
+material entity;Plasmodium falciparum microgametocyte;A Plasmodium falciparum gametocyte that is a male gametocyte and found in either bloodstream of a human host or midgut of a mosquito vector. The microgametocyte is a precursor cell of the microgamete.
+role;human parasite role;A parasite role which is realized only during parasitic infection of a human.
+process;Plasmodium merozoite stage;A merozoite stage in the Plasmodium lifecycle that occurs in the bloodstream or hepatocytes of a vertebrate host.
+material entity;Schistosoma japonicum 3 week worm;A Schistosoma japonicum worm is capable of sexual reproduction, which is found in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the mammal host 3 weeks after infection of the human host.
+material entity;Plasmodium falciparum microgamete;A Plasmodium falciparum gamete that is a matured form of exflagellated microgametocyte and found in the midgut of a mosquito vector. The microgamete fertilizes the macrogamete, forming the zygote.
+process;Plasmodium oocyst stage;An oocyst stage in the Plasmodium lifecycle that occurs on the hemocoel side of the midgut of a mosquito vector. During this stage Plasmodium ookinete invades and escapes midgut wall of mosquito and embed itself onto the exterior of the gut membrane and develop encysted zygote, called oocyst.
+material entity;Schistosoma japonicum egg;A Schistosoma japonicum in an egg form that is laid by the female adult worm and released into the host gut where they leave the host in the faeces.
+process;hypnozoite stage;A parasite lifecycle stage of some Plasmodium sp., such as Plasmodium vivax and Plasmodium ovale, the parasite in the liver cells do not achieve matuaration to a schizont immediately, but remain in a dormant form. This dormant form stage is called hypnozoite stage.
+process;Plasmodium hepatic merozoite stage;A hepatic merozoite stage in the Plasmodium lifecycle that occurs in the hepatocyte of a vertebrate host.
+material entity;Homo sapiens ureter;A ureter that is a part of or originated from a human (Homo sapiens).
+process;Plasmodium schizont stage;A schizont stage in the Plasmodium lifecycle that occurs in erythrocytes or in hepatocytes.
+process;Trypanosoma brucei trypomastigote stage;A trypomastigote stage in the Trypanosoma brucei lifecycle that occurs in the vertebrate host.
+process;Plasmodium ookinete stage;An ookinete stage in the Plasmodium lifecycle that occurs in the midgut of a mosquito vector and on the outside of the midgut.
+process;trophozoite stage;A parasite lifecycle stage of some protozoan parasites that is a non-reproductive, feeding and growing stage.
+material entity;Schistosoma haematobium schistosomulum;A Schistosoma haematobium in a migratory larval form that is found within blood vessels of the definitive host, mammal, and develops into the flatworm.
+process;Plasmodium hepatic schizont stage;A hepatic schizont stage in the Plasmodium lifecycle that occurs in the infected hepatocytes of a vertebrate host.
+process;Trypanosoma brucei metacyclic trypomastigote stage;A metacyclic trypomastigote stage in the lifecycle of Trypanosoma brucei that occurs either in vertebrate host bloodstream or in salivary glands of an insect vector.
+process;Schistosoma haematobium lifecycle stage;A lifecycle stage of Schistosoma haematobium.
+process;Plasmodium erythrocytic schizont stage;An erythrocytic schizont stage in the Plasmodium lifecycle that occurs in the infected erythrocytes of a vertebrate host.
+process;Plasmodium falciparum microgamete stage;A microgamete stage in the Plasmodium falciparum lifecycle that occurs in the midgut of a mosquito vector.
+process;Plasmodium microgametocyte stage;A microgametocyte stage in the Plasmodium lifecycle that occurs either in the bloodstream of a vertebrate host or the midgut of a mosquito vector.
+process;Plasmodium macrogametocyte stage;A macrogametocyte stage in the Plasmodium lifecycle that occurs either in the bloodstream of a vertebrate host or the midgut of a mosquito vector.
+process;Trypanosoma brucei lifecycle stage;A lifecycle stage of Trypanosoma brucei.
+process;Trypanosoma cruzi trypomastigote stage;A trypomastigote stage in the Trypanosoma cruzi lifecycle that occurs either in the vertebrate host or an insect vector.
+material entity;Homo sapiens mesenteric vein;A mesenteric vein that is a part of or originated from a human (Homo sapiens).
+material entity;Schistosoma mansoni cercaria;A Schistosoma mansoni in a parasitic larval form that develops in a freshwater snail and is released into the water.
+process;Plasmodium gametocyte stage;A gametocyte stage in the lifecycle of Plasmodium.
+material entity;Trypanosoma cruzi epimastigote;A Trypanosoma cruzi that is found in the intestinal tract of the insect vector. In this form, the kinetoplast is found anterior and adjacent to the nucleus. The flagellum emerges in the middle of the cell.
+process;schizont stage;A parasite lifecycle stage that is the multinucleate stage in the development of some members of the Sarcodina and some sporozoans during schizogony.
+material entity;Bulinus hepatopancreas;Hepatopancreas that is a part of or originated from a Bulinus snail.
+process;daughter sporocyst stage;A sporocyst stage of Trematodes produced by a mother sporocyst. it lacks a gut and is capable of asexual production of either rediae or cercariae.
+process;macrogamete stage;A gamete stage in parasites when macrogametocytes produce macrogametes through the process known as gametogenesis.
+material entity;Triatominae midgut;A midgut that is a part of or originated from a Triatominae bug.
+material entity;Schistosoma haematobium 7 week worm;A Schistosoma haematobium worm is the mature form of Schistosoma haematobium and capable of sexual reproduction, which is found in the pelvic blood vessels of the vesicle plexis of the mammal host 7 weeks after infection of the mammal host.
+material entity;Plasmodium falciparum ookinete;A Plasmodium falciparum that is a 'banana-shaped' form and originates from the round zygote. The ookinete is found in the midgut of a mosquito vector and traverses the midgut wall of a mosquito vector.
+process;parasite lifecycle in host liver stage;A parasite lifecycle stage that occurs in the liver of the host organism. For Plasmodium species these stages can include sporozoites, trophozoites, schizonts, and merozoites.
+process;parasitic worm stage;A parasite lifecycle stage of some parasites in which the parasite develops into a worm form, and undergoes maturation.
+process;Trypanosoma brucei procyclic trypomastigote stage;A procyclic promastigote stage in the Trypanosoma brucei lifecycle.
+process;schistomulum stage;A parasite lifecycle stage that is the migratory stage between cercaria and adult of the schistosomes. equivalent to the metacercarial stage in other digeneans.
+material entity;Schistosoma japonicum sporocyst;A Schistosoma japonicum is an elongated sac that develops from the miracidium within the snail indermediate host, and that either produces more sporocysts or develops into cercariae.
+material entity;Homo sapiens vesical venus plexus;Vesical venus plexus that is a part of or originated from a human (Homo sapiens).
+material entity;Homo sapiens erythrocyte;An erythrocyte that is a part of or originated from a human (Homo sapiens).
+material entity;Schistosoma haematobium 3 week worm;A Schistosoma haematobium worm is the mature form of Schistosoma haematobium and capable of sexual reproduction, which is found in the pelvic blood vessels of the vesicle plexis of the human host 3 weeks after infection of the mammal host.
+process;sporocyst stage;A parasite lifecycle stage that is the early developmental stage capable of asexual reproduction: in sporozoans it is usually enclosed within an oocyst. in digeneans it is an intramolluscan stage lacking a gut.
+process;Schistosoma haematobium worm stage;A worm stage of Schistosoma haematobium that is fully developed mature form and found in the pelvic blood vessels of the vesicle plexis of the mammalian host.
+material entity;Schistosoma mansoni 3 week worm;A Schistosoma mansoni worm that is capable of sexual reproduction, which is found in the small inferior mesenteric blood vessels surrounding the large intestine of the mammal host 3 weeks after infection of the mammalian host.
+process;Plasmodium falciparum hepatic schizont stage;A hepatic schizont stage in the lifecycle of Plasmodium falciparum that occurs in the infected hepatocytes of a human host.
+material entity;Trypanosoma brucei epimastigote;A Trypanosoma brucei that is found in the salivary glands of tse-tse fly. In this form the kinetoplast is anterior to the nucleus with a short undulating membrane running about half the length of the body.
+material entity;Neospora caninum bradyzoite;A Neospora caninum in bradyzoite stage.
+process;Cryptosporidium parvum lifecycle stage;A lifecycle stage of Cryptosporidium parvum.
+process;Eimeria acervulina lifecycle stage;A lifecycle stage of Eimeria acervulina.
+process;Eimeria acervulina merozoite stage;A merozoite stage in the Eimeria acervulina.
+process;Plasmodium knowlesi gametocyte stage;A gametocyte stage in the Plasmodium knowlesi.
+process;Cryptosporidium parvum sporozoite stage;A sporozoite stage in the Cryptosporidium parvum.
+process;Cryptosporidium parvum oocyst stage;An oocyst stage in the Cryptosporidium parvum.
+process;Plasmodium yoelii lifecycle stage;A lifecycle stage of Plasmodium yoelii.
+material entity;Primates erythrocyte;An erythrocyte that is a part of or originated from a primate.
+process;Plasmodium knowlesi lifecycle stage;A lifecycle stage of Plasmodium knowlesi.
+process;Plasmodium chabaudi lifecycle stage;A lifecycle stage of Plasmodium chabaudi.
+material entity;Vertebrate blood;Blood that is part of or originated from a vertebrate.
+process;Schistosoma japonicum adult worm stage;An adult worm stage in the Schistosoma japonicum lifecycle.
+process;Schistosoma haematobium adult worm stage;An adult worm stage in the Schistosoma haematobium lifecycle.
+process;Plasmodium oocyst-derived sporozoite stage;A sporozoite stage in the Plasmodium lifecycle that develops in oocyst of the mosquito midgut.
+process;Plasmodium sporozoite stage;A sporozoite stage in the Plasmodium lifecycle that occurs in the salivary glands of the mosquito and invades hepatocytes in the vertebrate host.
+process;Neospora caninum bradyzoite stage;A bradyzoite stage in the Neospora caninum.
+process;Plasmodium trophozoite stage;A trophozoite stage in the Plasmodium lifecycle that occurs in a vertebrate host.
+process;Plasmodium salivary gland-derived sporozoite stage;A salivary gland-derived sporozoite stage in the Plasmodium lifecycle that occurs in the salivary glands of the mosquito and invades hepatocytes in the vertebrate host.
+process;Plasmodium erythrocytic ring trophozoite stage;An erythrocytic ring trophozoite stage in the Plasmodium life cycle that occurs in erythrocytes of a vertebrate host. During this stage some Plasmodium merozoites undergo asexual reproduction cycle in erythrocytes and form young trophozoites that are referred to as "ring form" due to their morphology.
+process;Plasmodium erythrocytic trophozoite stage;An erythrocytic trophozoite stage in the Plasmodium life cycle that occurs in erythrocytes of a vertebrate host.
+process;Plasmodium zygote stage;A zygote stage in the Plasmodium lifecycle that occurs in the midgut of the mosquito vector where a microgamete and a macrogamete fertilizes each other to produce a diploid cell.
+process;Plasmodium hepatic trophozoite stage;A hepatic trophozoite stage in the Plasmodium life cycle that occurs in hepatocytes of a vertebrate host.
+process;Plasmodium knowlesi sporozoite stage;A sporozoite stage in the Plasmodium knowlesi.
+process;Plasmodium knowlesi ookinete stage;An ookinete stage in the Plasmodium knowlesi.
+process;Plasmodium knowlesi merozoite stage;A merozoite stage in the Plasmodium knowlesi.
+process;Plasmodium yoelii sporozoite stage;A sporozoite stage in the Plasmodium yoelii.
+process;Plasmodium yoelii gametocyte stage;A gametocyte stage in the Plasmodium yoelii.
+process;Plasmodium yoelii merozoite stage;A merozoite stage in the Plasmodium yoelii.
+process;Plasmodium chabaudi sporozoite stage;A sporozoite stage in the Plasmodium chabaudi.
+process;Plasmodium chabaudi ookinete stage;An ookinete stage in the Plasmodium chabaudi.
+process;Plasmodium chabaudi gametocyte stage;A gametocyte stage in the Plasmodium chabaudi.
+process;Plasmodium chabaudi merozoite stage;A merozoite stage in the Plasmodium chabaudi.
+process;Schistosoma mansoni daughter sporocyst stage;A daughter sporocyst stage of Schistosoma mansoni that occurs in the snail intermediate host.
+material entity;Leishmania amazonensis promastigote;A Leishmania amazonensis that occurs in the gut of a sandfly.
+material entity;Toxoplasma gondii oocyst;A Toxoplasma gondii that oocyst is formed, found in the gut of the bug vector.
+process;Schistosoma haematobium cercaria stage;A cercaria stage in the lifecycle of Schistosoma haematobium that occurs in a freshwater snail and in fresh water.
+material entity;Plasmodium falciparum erythrocytic ring trophozoite;A Plasmodium falciparum erythrocytic trophozoite that is found in erythrocytes. It is a young trophozoite stage that has a typical 'ring-like' appearance. Ring-form trophozoites of Plasmodium falciparum are often thin and delicate, measuring on average 1/5 the diameter of the red blood cell.
+material entity;Leishmania donovani promastigote;A Leishmania donovani that is that occurs in the gut of a sandfly.
+process;Schistosoma mansoni schistosomulum stage;A schistosomulum stage of Schistosoma mansoni that occurs in the definitive host and is followed by the parasitic worm stage.
+process;3 day schistosomulum stage;A schistosomulum stage that occurs in 3 days after infection of the mammalian host.
+material entity;Leishmania amazonensis amastigote;A Leishmania amazonensis that occurs in a mammal tissue.
+material entity;vesical venus plexus;The vesical plexus envelops the lower part of the bladder and the base of the prostate and communicates with the pudendal and prostatic plexuses.
+material entity;Eimeria tenella sprozoite;An Eimeria tenella is formed in the oocyst. It migrates to and resides in the gut of the mosquito vector.
+process;Schistosoma haematobium mother sporocyst stage;A mother sporocyst stage in the Schistosoma haematobium lifecycle that occurs in the snail intermediate host.
+material entity;Eimeria maxima gametocyte;An Eimeria maxima that is located in the bloodstream of the human host.
+material entity;Glossina midgut;A midgut that is a part of or originated from a tsetse fly of genus Glossina.
+material entity;Sarcocystis neurona merozoite;A Sarcocystis neurona that is found in the bloodstream of the human host and invades erythrocytes.
+process;mother sporocyst stage;A sporocyst stage of Digenea formed after penetration of the miracidium into a mollusc. it lacks a gut and gives rise asexually to daughter sporocysts or rediae.
+material entity;Eimeria tenella oocyst;An Eimeria tenella that oocyst is formed, found in the gut of the mosquito vector.
+process;Schistosoma mansoni 7 week worm stage;A 7 week worm stage of Schistosoma mansoni that is the mature stage of Schistosoma mansoni and found in the small inferior mesenteric blood vessels surrounding the large intestine of the definitive host 7 weeks after weeks after infection.
+material entity;Toxoplasma gondii tachyzoite;A Toxoplasma gondii that is formed in tissue in a host and replicates quickly. This replaces the previous term as .
+process;Trypanosoma brucei epimastigote stage;An epimastigote stage in the lifecycle of Trypanosoma brucei.
+material entity;Sarcocystis neurona sporozoite;A Sarcocystis neurona is formed in the oocyst. It migrates to and resides in the gut of the mosquito vector.
+material entity;Homo sapiens urinary bladder;A urinary bladder that is a part of or originated from a human (Homo sapiens).
+material entity;Schistosoma mansoni 6 day schistosomulum;A Schistosoma mansoni schistosomulum in a migratory larval formi that is found within blood vessels of the definitive host, mammal, 6 days post-infection.
+material entity;Toxoplasma gondii bradyzoite;A Toxoplasma gondii that is formed in a tissue cyst of host, replicating slowly.
+process;Plasmodium vivax gametocyte stage;A gametocyte stage in the Plasmodium vivax life cycle.
+material entity;Plasmodium falciparum erythrocytic schizont;A Plasmodium falciparum schizont that is found in infected erythrocytes of a human host.
+material entity;Schistosoma mansoni adult female worm;A Schistosoma mansoni adult worm is the fully developed mature female form of Schistosoma mansoni and capable of sexual reproduction, which lives within the gynacophoric canal of the adult male worm in the small inferior mesenteric blood vessels surrounding the large intestine of the mammal host.
+process;Plasmodium berghei merozoite stage;A merozoite stage in the Plasmodium berghei life cycle.
+process;Schistosoma mansoni adult male worm stage;An adult male worm stage of Schistosoma mansoni that is fully developed mature male stage of Schistosoma mansoni and found in the small inferior mesenteric blood vessels surrounding the large intestine of the mammalian host.
+process;Plasmodium berghei sporazoite stage;A sporozoite stage in the Plasmodium berghei life cycle.
+process;Schistosoma mansoni miracidium stage;A miracidium stage in the Schistosoma mansoni lifecycle that occurs in the intermediate snail host.
+material entity;Schistosoma haematobium adult worm;A Schistosoma haematobium worm is a fully developed mature form of Schistosoma haematobium and capable of sexual reproduction, which lives in the pelvic blood vessels of the vesicle plexis of the mammal host.
+process;Eimeria maxima gametocyte stage;A gametocyte stage in the Eimeria maxima life cycle.
+process;Schistosoma haematobium 7 week worm stage;A 7 week worm stage of Schistosoma haematobium that is the mature stage of Schistosoma haematobium and found in the pelvic blood vessels of the vesicle plexis of the definitive host 7 weeks after weeks after infection .
+material entity;parasite organism;An organism living in, with, or on another organism in parasitism. Individual members of parasite species, such as Leishmania, Plasmodium, Trypanosoma, etc. are members of this class.
+process;Neospora caninum tachyzoite stage;A tachyzoite stage in the Neospora caninum life cycle.
+process;Plasmodium falciparum merozoite stage;A merozoite stage in the Plasmodium falciparum lifecycle that occurs in the bloodstream or hepatocytes of a human host.
+process;Schistosoma japonicum adult female worm stage;An adult female worm stage of Schistosoma japonicum that is fully developed mature female stage of Schistosoma japonicum and occurs in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the mammalian host.
+material entity;Leishmania infantum promastigote;A Leishmania infantum that is that occurs in the gut of a sandfly.
+process;Leishmania major metacyclic promastigote stage;A metacyclic promastigote stage in the lifecycle of Leishmania major.
+process;Trypanosoma cruzi epimastigote stage;An epimastigote stage in the lifecycle of Trypanosoma cruzi.
+material entity;Leishmania donovani amastigote;A Leishmania donovani that is that occurs in a mammal tissue.
+material entity;Schistosoma mansoni egg;A Schistosoma mansoni in an egg form that is laid by the female adult worm and released into the host gut where they leave the host in the faeces.
+material entity;Schistosoma japonicum adult worm;A Schistosoma japonicum worm is a fully developed mature form of Schistosoma japonicum and capable of sexual reproduction, which lives in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the mammal host.
+process;Plasmodium vivax ookinete stage;An ookinete stage in Plasmodium vivax life cycle.
+material entity;Biomphalaria hepatopancreas;Hepatopancreas that is a part of or originated from a Biomphalaria snail.
+process;Schistosoma japonicum adult male worm stage;An adult male worm stage of Schistosoma japonicum that is fully developed mature male stage of Schistosoma japonicum and occurs in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the mammalian host.
+material entity;Leishmania infantum amastigote;A Leishmania infantum that is that occurs in a mammal tissue.
+process;Schistosoma mansoni 3 week worm stage;A worm stage of Schistosoma mansoni that is found in the small inferior mesenteric blood vessels surrounding the large intestine of the definitive host 3 weeks after infection.
+process;Schistosoma haematobium adult male worm stage;An adult male worm stage of Schistosoma haematobium that is fully developed mature male stage of Schistosoma haematobium and found in the pelvic blood vessels of the vesicle plexis of the mammalian host.
+process;Plasmodium vivax merozoite stage;A merozoite stage in the Plasmodium vivax life cycle.
+process;Schistosoma japonicum 3 week worm stage;A worm stage of Schistosoma japonicum that is found in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the definitive host 3 weeks after infection.
+material entity;Schistosoma mansoni adult worm;A Schistosoma mansoni worm is the fully developed mature form of Schistosoma mansoni and capable of sexual reproduction, which lives in the small inferior mesenteric blood vessels surrounding the large intestine of the mammal host.
+process;Plasmodium vivax sporozoite stage;A sporozoite stage in Plasmodium vivax life cycle.
+material entity;Schistosoma haematobium daughter sporocyst;A Schistosoma haematobium sporocyst that develops into cercariae.
+process;epimastigote stage;A parasite lifecycle stage of Trypanosomatids. During this stage, the undulating membrane is shortened and the flagellar pocket and the kinetoplast are anterior to the nucleus. This stage occurs in the insect host.
+material entity;Schistosoma japonicum adult male worm;A Schistosoma japonicum adult worm is a fully developed mature male form of Schistosoma japonicum and capable of sexual reproduction, which lives in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the mammal host and has 4-5 testes.
+material entity;Schistosoma haematobium egg;A Schistosoma haematobium in an egg form that is laid by the female adult worm and released into the host gut where they leave the host in the faeces.
+material entity;Mammalia macrophage;A macrophage that is a part of or originated from a mammalia.
+material entity;Mammalia blood;Blood that is part of or originated from a mammalia.
+process;Schistosoma mansoni adult worm stage;An adult worm stage in the Schistosoma mansoni lifecycle.
+material entity;Vertebrate hepatocyte;A hepatocyte that is a part of or originated from a vertebrate.
+material entity;Vertebrate erythrocyte;An erythrocyte that is a part of or originated from a vertebrate.
+material entity;Mammalia skin;A skin that is a part of or originated from a mammalian body.
+material entity;Mammalia cerebrospinal fluid;Cerebrospinal fluid that is a part of or originated from a mammal.
+material entity;Mammalia lung;A lung that is a part of or originated from a mammal (Mammalia).
+material entity;Mammalia liver;A liver that is a part of or originated from a mammal (Mammalia).
+material entity;Mammalia intestine;An intestine that is a part of or originated from a mammal (Mammalia).
+material entity;Mammalia mesenteric vein;A mesenteric vein that is a part of or originated from a mammal (Mammalia).
+material entity;Plasmodium berghei sporazoite;A Plasmodium berghei is formed in the oocyst. It migrates to and resides in the gut of the mosquito vector.
+process;Schistosoma mansoni worm stage;A worm stage of Schistosoma mansoni that is fully developed mature form and found in the small inferior mesenteric blood vessels surrounding the large intestine of the mammalian host.
+material entity;Neospora caninum tachyzoite;A Neospora caninum that is found intracellular in the intermediate hosts in which asexual replication takes place.
+process;Schistosoma mansoni cercaria stage;A cercaria stage in the lifecycle of Schistosoma mansoni that occurs in a freshwater snail and in fresh water.
+material entity;Plasmodium berghei merozoite;A Plasmodium berghei that is found in the bloodstream of the human host and invades erythrocytes.
+process;Leishmania major lifecycle stage;A parasite lifecycle stage of Leishmania major.
+process;Schistosoma haematobium 3 week worm stage;A worm stage of Schistosoma haematobium that is found in the pelvic blood vessels of the vesicle plexis of the definitive host 3 weeks after infection.
+process;Trypanosomatida procyclic stage;A parasite lifecycle stage of trypanosomatidae in which the organism is in dividing form and it occurs in fly vector.
+material entity;Schistosoma haematobium 6 day schistosomulum;A Schistosoma haematobium schistosomulum in a migratory larval form that is found within blood vessels of mammal, as definitive host, 6 days post-infection.
+process;Trypanosomatida metacyclic stage;A parasite lifecycle stage of trypanosomatidae in which the organism is infectious and does not multiply.
+material entity;Leishmania major amastigote;A Leishmania major that is the intracellular, non-motile form of the parasite found in the mammalian host.
+process;tachyzoite stage;A parasite lifecycle stage that parasite replicates rapidly within the host cell.
+process;Schistosoma mansoni lifecycle stage;A lifecycle stage of Schistosoma mansoni.
+process;bradyzoite stage;A parasite life cycle stage found in the tissue cyst which replicates slowly within a parasitophorous vacuole within the host cell.
+material entity;Plasmodium falciparum macrogametocyte;A Plasmodium falciparum gametocyte that is a female gametocyte and found either in bloodstream of a human host or midgut of mosquito vector. The macrogametocyte is a precursor of the macrogamete.
+material entity;Plasmodium vivax sporozoite;A Plasmodium vivax is formed in the oocyst. It migrates to and resides in the gut of the mosquito vector.
+material entity;Schistosoma haematobium 3 day schistosomulum;A Schistosoma haematobium schistosomulum in a migratory larval form that is found within blood vessels of mammal, as definitive host, 3 days post-infection.
+material entity;Plasmodium vivax ookinete;A Plasmodium vivax that is found in the midgut of a mosquito vector.
+material entity;Schistosoma mansoni miracidium;A Schistosoma mansoni in a free-living motile form that is covered with cilia and develops in the snail intermediate host.
+material entity;Plasmodium vivax gametocyte;A Plasmodium vivax that is located in the bloodstream of the human host.
+process;Plasmodium falciparum erythrocytic trophozoite stage;An erythrocytic trophozoite stage in the Plasmodium falciparum life cycle that occurs in erythrocytes of a human host.
+material entity;Plasmodium vivax merozoite;A Plasmodium vivax that is found in the bloodstream of the human host and invades erythrocytes.
+process;gamete stage;A life cycle stage of some parasites that develop into mature sexual cells.
+process;Leishmania amazonensis lifecycle stage;A lifecycle stage of Leishmania amazonensis.
+process;Toxoplasma gondii lifecycle stage;A lifecycle stage of Toxoplasma gondii.
+material entity;Schistosoma japonicum 3 day schistosomulum;A Schistosoma japonicum schistosomulum in a migratory larval form that is found within blood vessels of the mammal, as definitive host, 3 days post-infection.
+material entity;Homo sapiens intestine;An intestine that is a part of or originated from a human (Homo sapiens).
+process;Plasmodium falciparum gamete stage;A gamete stage in the Plasmodium falciparum lifecycle that occurs in the midgut of a mosquito vector.
+process;Leishmania infantum lifecycle stage;A lifecycle stage of Leishmania infantum.
+process;erythrocytic ring trophozoite stage;An early trophozoite stage of Plasmodium sp. where a large central vacuole and peripheral nucleus give an appearance of a signet ring.
+process;hepatic trophozoite stage;A trophozoite stage in some protozoan parasite life cycle that occurs in hepatocytes.
+process;Leishmania donovani lifecycle stage;A lifecycle stage of Leishmania donovani.
+process;bloodstream trypomastigote stage;A trypomastigote stage where trypmastigote form of parasites are found in mammalian host blood stream.
+process;microgametocyte stage;A gametocyte stage where a cell differentiates into a male sexual form called microgametocyte.
+material entity;Plasmodium gamete;A Plasmodium that is found in the midgut of a mosquito vector during gamete lifecycle stage. There are two forms of gametes: micro- and macrogametocytes.
+material entity;Plasmodium yoelii sporozoite;A Plasmodium yoelii in sporozoite stage.
+material entity;Schistosoma japonicum 3 hour schistosomulum;A Schistosoma japonicum schistosomulum in a migratory larval form that is found within blood vessels of the mammal, as definitive host, 3 weeks post-infection.
+process;Schistosoma mansoni mother sporocyst stage;A mother sporocyst stage in the Schistosoma mansoni lifecycle that occurs in the snail intermediate host.
+process;asexual lifecycle in host red blood cell stage;A parasite lifecycle stage that occurs as a result of asexual replication in the red blood cells of the host organism. For Plasmodium species these stages can include merozoites, trophozoites, and schizonts.
+material entity;Plasmodium yoelii ookinete;A Plasmodium yoelii in ookinete stage.
+process;Schistosoma japonicum daughter sporocyst stage;A daughter sporocyst stage of Schistosoma japonicum that occurs in the snail intermediate host.
+material entity;Schistosoma japonicum mother sporocyst;A Schistosoma japonicum sporocyst that produces more sporocysts.
+material entity;Plasmodium microgamete;A Plasmodium gamete that is in a matured form of exflagellated microgametocyte and found in the midgut of a mosquito vector. The microgamete fertilises the macrogamete, forming the zygote.
+material entity;Plasmodium yoelii gametocyte;A Plasmodium yoelii in gametocyte stage.
+process;Schistosoma japonicum miracidium stage;A miracidium stage in the Schistosoma japonicum lifecycle that occurs in the intermediate snail host.
+material entity;Schistosoma haematobium mother sporocyst;A Schistosoma haematobium sporocyst that produces more sporocysts.
+material entity;Plasmodium macrogamete;A Plasmodium gamete that is in a matured form of the macrogametocyte and found in the midgut of a mosquito vector. The macrogamete is fertilized by the microgamete, forming the zygote.
+material entity;Plasmodium yoelii merozoite;A Plasmodium yoelii in merozoite stage.
+material entity;Phlebotominae proboscis;A proboscis that is a part of or originated from a sand fly of genus Phlebotominae.
+material entity;Schistosoma mansoni 7 week worm;A Schistosoma mansoni worm is the mature form of Schistosoma mansoni and capable of sexual reproduction, which is found in the small inferior mesenteric blood vessels surrounding the large intestine of the mammal host 7 weeks after infection of the mammalian host.
+material entity;Plasmodium falciparum hepatic trophozoite;A Plasmodium falciparum trophozoite that is found in hepatocytes of a human host. It is a feeding stage with a single nucleus
+process;Eimeria tenella lifecycle stage;A lifecycle stage of Eimeria tenella.
+process;Schistosoma mansoni 3 day schistosomulum stage;A 3 days schistosomulum stage of Schistosoma mansoni that occurs in the definitive host 3 days post-infection.
+process;Schistosoma mansoni egg stage;An egg stage in the lifecycle of Schistosoma mansoni that occurs in the mammalian host.
+process;oocyst-derived sporozoite stage;A sporozoite stage in some parasite lifecycle that occurs in the hemocoel and the salivary glands of the mosquito. Sporozoites invade hepatocytes in the vertebrate host.
+process;Eimeria maxima lifecycle stage;A lifecycle stage of Eimeria maxima.
+process;3 hour schistosomulum stage;A schistosomulum stage that occurs in 3 hours after infection of the mammalian host.
+material entity;Plasmodium falciparum oocyst;A Plasmodium falciparum that oocyst is formed, after traversal of the midgut wall by the ookinete stage, on the hemocoel side of the midgut wall of the mosquito vector.
+material entity;Plasmodium falciparum oocyst-derived sporozoite;A Plasmodium falciparum sporozoite that is found in the infected hepatocytes of a human host.
+material entity;Leishmania major promastigote;A Leishmania major that is extracellular and motile form with an anterior flagellum. It grows and divides by longitudinal binary fission in the insect vector. i.e., sandfly.
+material entity;Plasmodium falciparum sporozoite;A Plasmodium falciparum is formed in the oocyst. It migrates to and resides in the salivary glands of the mosquito vector. A distinction is made between oocyst-derived and salivary gland-derived sporozoites. Sporozoites invade hepatocytes in the vertebrate host.
+material entity;Plasmodium falciparum gamete;A Plasmodium falciparum that is found in midgut of mosquito vector. There are two forms of gametes: micro- and macrogametocytes.
+process;Sarcocystis neurona lifecycle stage;A lifecycle stage of Sarcocystis neurona.
+material entity;Homo sapiens cerebrospinal fluid;Cerebrospinal fluid that is a part of or originated from a human (Homo sapiens).
+process;miracidium stage;A parasite lifecycle stage of Trematodes where the parasite is in free-living motile form, covered with cilia and settles in the mollusc to become a sporocyst.
+process;Schistosoma japonicum 7 week worm stage;A 7 week worm stage of Schistosoma japonicum that is the mature stage of Schistosoma japonicum and found in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the definitive host 7 weeks after weeks after infection.
+process;gametocyte stage;A life cycle stage where a cell differentiates into male or female sexual forms.
+material entity;Plasmodium erythrocytic merozoite;A Plasmodium merozoite that is produced in an erythrocytic schizont and released into the bloodstream of a vertebrate host. These forms invade erythrocytes.
+material entity;Plasmodium knowlesi ookinete;A Plasmodium knowlesi in ookinete stage.
+material entity;Plasmodium merozoite;A Plasmodium that is during merozoite lifecycle stage, occurs in the bloodstream of a vertebrate host.
+material entity;Plasmodium chabaudi gametocyte;A Plasmodium chabaudi in gametocyte stage.
+material entity;Trypanosoma brucei procyclic trypomastigote;A Trypanosoma brucei trypomastigote that is a dividing form of Trypanosoma brucei found in the midgut of an insect vector.
+process;sporozoite stage;A parasite lifecycle stage of some sporozoans where cells divide through sporogony producing daughter cells called sporozoites that infect new hosts.
+material entity;Plasmodium oocyst;A Plasmodium that is formed after traversal of the midgut wall by the ookinete stage, on the hemocoel side of the midgut wall of the mosquito vector.
+material entity;Plasmodium knowlesi merozoite;A Plasmodium knowlesi in merozoite stage.
+material entity;Schistosoma japonicum daughter sporocyst;A Schistosoma japonicum sporocyst that develops into cercariae.
+process;promastigote stage;A parasite lifecycle stage of Trypanosomatids. In this stage, the flagellum is found anterior of nucleus and flagellum not attached to the cell body. The kinetoplast is located in front of the nucleus, near the anterior end of the body. (Wikipedia: Trypanosomatid)
+material entity;Plasmodium hepatic merozoite;A Plasmodium merozoite that is produced in a hepatic schizont and released into the bloodstream of a vertebrate host. These forms invade erythrocytes.
+material entity;Plasmodium knowlesi sporozoite;A Plasmodium knowlesi in sporozoite stage.
+process;trypomastigote stage;A parasite lifecycle stage of trypanosomes. In trypomastigote stage, the kinetoplast is near the posterior end of the body, and the flagellum lies attached to the cell body for most of its length by an undulating membrane.
+material entity;Glossina salivary gland;A salivary gland that is a part of or originated from a tsetse fly of genus Glossina.
+material entity;Plasmodium schizont;A Plasmodium that is a form divides through schizogony. Depending on its location, it is either called hepatic or erythrocytic schizont. The schizont is a dividing stage with 2 or more nuclei.
+material entity;Eimeria acervulina merozoite;A Eimeria acervulina in merozoite stage.
+material entity;Anopheles midgut;A midgut that is a part of or originated from an Anopheles mosquito.
+process;ookinete stage;A parasite lifecycle stage of some sporozoans where motile and elongated zygote is formed by the fertilization of the macrogamete during the sexual reproductive phase of the sporozoan life cycle, specifically the malarial parasite Plasmodium.
+material entity;Plasmodium ookinete;A Plasmodium that is a 'banana-shaped' form originates from the round zygote. The ookinete is found in the midgut of a mosquito vector and traverses the midgut wall of a mosquito vector.
+material entity;Plasmodium knowlesi gametocyte;A Plasmodium knowlesi in gametocyte stage.
+process;Plasmodium falciparum erythrocytic schizont stage;An erythrocytic schizont stage in the Plasmodium falciparum lifecycle that occurs in the infected erythrocytes of a human host.
+process;Schistosoma japonicum lifecycle stage;A lifecycle stage of Schistosoma japonicum.
+material entity;Plasmodium hepatic schizont;A Plasmodium schizont that is found in infected hepatocytes (i.e. liver cells) of a vertebrate host.
+material entity;Cryptosporidium parvum sporozoite;A Cryptosporidium parvum in sporozoite stage.
+material entity;Trypanosoma brucei metacyclic trypomastigote;A Trypanosoma brucei trypomastigote that is a non-dividing form infectious for the mammal host. It is found in the salivary gland of an insect vector or blood of a mammal host.
+material entity;Plasmodium erythrocytic schizont;A Plasmodium schizont that is found in infected erythrocytes of a vertebrate host.
+material entity;Cryptosporidium parvum oocyst;A Cryptosporidium parvum in oocyst stage.
+material entity;Plasmodium chabaudi merozoite;A Plasmodium chabaudi in merozoite stage.
+process;microgamete stage;A gamete stage in apicomplexan parasites when exflagellated microgametocyte divides into microgamete.
+material entity;Schistosoma mansoni sporocyst;A Schistosoma mansoni is an elongated sac that develops from the miracidium within the snail indermediate host, and that either produces more sporocysts or develops into cercariae.
+material entity;Plasmodium macrogametocyte;A Plasmodium gametocyte that is a female gametocyte of Plasmodium and found either in the bloodstream of the vertebrate host or midgut of mosquito vector. The macrogametocyte is a precursor of the macrogamete.
+material entity;Plasmodium chabaudi sporozoite;A Plasmodium chabaudi in sporozoite stage.
+material entity;Schistosoma mansoni 24 hour schistosomulum;A Schistosoma mansoni schistosomulum in a migratory larval formi that is found within blood vessels of the definitive host, mammal, 24 hours post-infection.
+material entity;Plasmodium falciparum trophozoite;A Plasmodium falciparum is a feeding form. The trophozoite stage has only 1 nucleus. Depending on its location, it is either called hepatic or erythrocytic trophozoite.
+material entity;Plasmodium gametocyte;A Plasmodium that is located either in the bloodstream of the vertebrate host or midgut of mosquito vector during gametocyte stage. Gametocytes are the precursor cells of the macro- or microgametes
+material entity;Plasmodium chabaudi ookinete;A Plasmodium chabaudi in ookinete stage.
+process;macrogametocyte stage;A gametocyte stage where a cell differentiates into a female sexual form called macrogametocyte.
+process;metacyclic trypomastigote stage;A trypomastigote stage of Trypanosoma species which are nondividing forms resistant to mammalian complement that have the capacity to infect mammalian cells.
+material entity;Homo sapiens skin;A skin that is a part of or originated from a human (Homo sapiens) body.
+process;7 week parasitic worm stage;A parasitic worm stage of development 7 weeks post differentiation into a worm form.
+material entity;Plasmodium microgametocyte;A Plasmodium gametocyte that is a male gametocyte of Plasmodium and found either in the bloodstream of a vertebrate host or midgut of a mosquito vector. The microgametocyte is a precursor cell of the microgamete
+material entity;Schistosoma haematobium 24 hour schistosomulum;A Schistosoma haematobium schistosomulum in a migratory larval form that is found within blood vessels of mammal, as definitive host, 24 hours post-infection.
+material entity;Schistosoma mansoni adult male worm;A Schistosoma mansoni adult worm is the fully developed mature male form of Schistosoma mansoni and capable of sexual reproduction, which lives in the small inferior mesenteric blood vessels surrounding the large intestine of the mammal host and has 4-5 testes.
+process;Toxoplasma gondii oocyst stage;An oocyst stage in the Toxoplasma gondii life cycle.
+process;Toxoplasma gondii bradyzoite stage;A bradyzoite stage in the Toxoplasma gondii life cycle.
+material entity;Anopheles salivary gland;A salivary gland that is a part of or originated from an Anopheles mosquito.
+material entity;Plasmodium falciparum erythrocytic merozoite;A Plasmodium falciparum merozoite that is produced in an erythrocytic schizont and released into the bloodstream of a human host. These forms invade erythrocytes.
+process;Leishmania amazonensis amastigote stage;An amastigote stage in the Leishmania amazonensis life cycle.
+process;Schistosoma mansoni 3 hour schistosomulum stage;A 3 hours schistosomulum stage of Schistosoma mansoni that occurs in the definitive host 3 hours post-infection.
+material entity;Plasmodium falciparum hepatic merozoite;A Plasmodium falciparum merozoite that is produced in a hepatic schizont and released into the bloodstream of a human host. These forms invade erythrocytes.
+process;Leishmania amazonensis promastigote stage;A promastigote stage in the Leishmania amazonensis life cycle.
+material entity;Leishmania major metacyclic promastigote;A Leishmania major promastigote that undergoes a second developmental transition yielding the metacyclic promastigote. This form of parasite is infective to its mammalian host.
+material entity;Schistosoma mansoni 3 day schistosomulum;A Schistosoma mansoni schistosomulum in a migratory larval formi that is found within blood vessels of the definitive host, mammal, 3 days post-infection.
+material entity;Plasmodium falciparum erythrocytic trophozoite;A Plasmodium falciparum trophozoite that is found in erythrocytes. It is a feeding stage with a single nucleus.
+process;Leishmania donovani amastigote stage;An amastigote stage in the Leishmania donovani life cycle.
+material entity;Homo sapiens macrophage;A macrophage that is a part of or originated from a human (Homo sapiens).
+process;erythrocytic trophozoite stage;A trophozoite stage in some protozoan parasite life cycle that occurs in erythrocytes.
+process;Leishmania donovani promastigote stage;A promastigote stage in the Leishmania donovani life cycle.
+process;amastigote stage;A parasite lifecycle stage is a nonflagellate intracellular developmental stage in the trypanosomatid parasites lifecycle that occurs in mammalian host.
+material entity;Schistosoma haematobium adult female worm;A Schistosoma haematobium adult worm is a fully developed mature female form of Schistosoma haematobium and capable of sexual reproduction, which lives within the gynacophoric canal of the adult male worm in the pelvic blood vessels of the vesicle plexis of the mammal host.
+process;Eimeria tenella oocyst stage;An oocyst stage in the Eimeria tenella life cycle.
+process;Plasmodium falciparum oocyst stage;An oocyst stage in the Plasmodium falciparum lifecycle that occurs on the hemocoel side of the midgut of a mosquito vector. During this stage Plasmodium falciparum ookinete invades and escapes midgut wall of mosquito and embed itself onto the exterior of the gut membrane and develop encysted zygote, called oocyst.
+process;Schistosoma haematobium adult female worm stage;An adult female worm stage of Schistosoma haematobium that is fully developed mature female stage of Schistosoma haematobium and found in the pelvic blood vessels of the vesicle plexis of the mammalian host.
+process;Eimeria tenella sporozoite stage;A sporozoite stage in the Eimeria tenella life cycle.
+material entity;Trypanosoma cruzi metacyclic trypomastigote;A Trypanosoma cruzi trypomastigote that is found in blood or cells of mammal hosts at the infectious stage for mammals.
+process;adult parasitic worm stage;A parasitic worm stage where the worm is matured and ready to pair up with another adult worm of the opposite gender, and reproduce.
+process;Sarcocystis neurona sporozoite stage;A sporozoite stage in the Sarcocystis neurona life cycle.
+process;Plasmodium falciparum sporozoite stage;A sporozoite stage in the Plasmodium falciparum lifecycle that occurs in the salivary glands of the mosquito and invades hepatocytes in the human host.
+process;Schistosoma mansoni adult female worm stage;An adult female worm stage of Schistosoma mansoni that is fully developed mature female stage of Schistosoma mansoni and found in the small inferior mesenteric blood vessels surrounding the large intestine of the mammalian host.
+process;Sarcocystis neurona merozoite stage;A merozoite stage in the Sarcocystis neurona life cycle.
+process;Schistosoma japonicum schistosomulum stage;A schistosomulum stage of Schistosoma japonicum that occurs in the definitive host and is followed by the parasitic worm stage.
+process;adult male parasitic worm stage;An adult worm stage of a male parasitic worm.
+material entity;Homo sapiens blood;Blood that is part of or originated from a human (Homo sapiens).
+material entity;Schistosoma japonicum adult female worm;A Schistosoma japonicum adult worm is a fully developed mature female form of Schistosoma japonicum and capable of sexual reproduction, which lives within the gynacophoric canal of the adult male worm in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the mammal host.
+process;Toxoplasma gondii tachyzoite stage;A tachyzoite stage in the Toxoplasma gondii life cycle.
+process;exflagellated microgametocyte stage;A microgametocyte stage in some apicomplexan parasites where microgametocyte gets matured and form microgamete through the process known as exflagellation.
+material entity;Gallus gallus midgut;A midgut that is a part of or originated from a Gallus gallus.
+material entity;Plasmodium falciparum merozoite;A Plasmodium falciparum that is produced in a schizont, found in the bloodstream of a human host and invades erythrocytes.
+process;Plasmodium falciparum trophozoite stage;A trophozoite stage in the Plasmodium falciparum lifecycle that occurs in a human host.
+material entity;Mammalia muscle tissue;A muscle tissue that is a part of or originated from a Mammalia.
+process;Plasmodium falciparum hepatic trophozoite stage;A hepatic trophozoite stage in the Plasmodium falciparum life cycle that occurs in hepatocytes of a human host.
+material entity;Gallus gallus intestine;An intestine that is a part of or originated from a Gallus gallus.
+material entity;Schistosoma haematobium 3 hour schistosomulum;A Schistosoma haematobium schistosomulum in a migratory larval form that is found within blood vessels of mammal, as definitive host, 3 hours post-infection.
+material entity;Schistosoma japonicum 24 hour schistosomulum;A Schistosoma japonicum schistosomulum in a migratory larval form that is found within blood vessels of the mammal, as definitive host, 24 hours post-infection.
+process;salivary gland-derived sporozoite stage;A sporozoite stage in the Plasmodium lifecycle that occurs in the hemocoel and the salivary glands of the mosquito. Sporozoites invade hepatocytes in the vertebrate host.
+process;Plasmodium vivax lifecycle stage;A lifecycle stage of Plasmodium vivax.
+process;Plasmodium falciparum microgametocyte stage;A microgametocyte stage in the Plasmodium falciparum lifecycle that occurs either in the bloodstream of a human host or the midgut of a mosquito vector.
+process;Trypanosoma cruzi metacyclic trypomastigote stage;A metacyclic trypomastigote stage in the lifecycle of Trypanosoma cruzi that occurs in a vertebrate host.
+process;Plasmodium falciparum oocyst-derived sporozoite stage;A sporozoite stage in the Plasmodium falciparum lifecycle that occurs in the hemocoel and the salivary glands of the mosquito. Sporozoites invade hepatocytes in the human host.
+material entity;Triatominae intestine;An intestine that is a part of or originated from a Triatominae.
+material entity;Oncomelania hepatopancreas;Hepatopancreas that is a part of or originated from a Oncomelania snail.
+material entity;Plasmodium falciparum salivary gland-derived sporozoite;A Plasmodium falciparum sporozoite that is formed in the oocyst. It migrates to and resides in the salivary glands of the mosquito vector. Sporozoites invade hepatocytes in a human host.
+process;Neospora caninum lifecycle stage;A lifecycle stage of Neospora caninum.
+material entity;Schistosoma haematobium miracidium;A Schistosoma haematobium in a free-living motile form that is covered with cilia and develops in the snail intermediate host.
+material entity;Homo sapiens lung;A lung that is a part of or originated from a human (Homo sapiens).
+process;Plasmodium falciparum salivary gland-derived sporozoite stage;A salivary gland-derived sporozoite stage in the Plasmodium falciparum lifecycle that occurs in the hemocoel and the salivary glands of the mosquito. Sporozoites invade hepatocytes in the human host.
+process;Plasmodium berghei lifecycle stage;A lifecycle stage of Plasmodium berghei.
+material entity;Triatominae hindgut;A hindgut that is a part of or originated from a Triatominae bug.
+process;Schistosoma haematobium egg stage;An egg stage in the lifecycle of Schistosoma haematobium that occurs in the mammalian host..
+process;Plasmodium falciparum hepatic merozoite stage;A hepatic merozoite stage in the Plasmodium falciparum lifecycle that occurs in the hepatocyte of a human host.
+process;Leishmania infantum amastigote stage;An amastigote stage in the Leishmania infantum life cycle.
+process;Schistosoma haematobium 6 day schistosomulum stage;A 6 day schistosomulum stage of Schistosoma haematobium that occurs in the definitive host 6 days post-infection.
+process;Plasmodium falciparum erythrocytic merozoite stage;An erythrocytic merozoite stage in the Plasmodium falciparum lifecycle that occurs in the bloodstream of a human host.
+process;Leishmania infantum promastigote stage;A promastigote stage in the Leishmania infantum life cycle.
+process;metacyclic promastigote stage;A promastigote stage of some kinetoplastids.
+process;adult female parasitic worm stage;An adult worm stage of a female parasitic worm.
+process;erythrocytic merozoite stage;A merozoite stage in the apicomplexan lifecycle that occurrs in the bloodstream of a vertebrate host.
+material entity;Canis lupus familiaris erythrocyte;An erythrocyte that is a part of or originated from a Canis lupus familiaris.
+material entity;Homo sapiens liver;A liver that is a part of or originated from a human (Homo sapiens).
+material entity;Schistosoma japonicum worm;A Schistosoma japonicum is the mature form of Schistosoma japonicum and capable of sexual reproduction, which lives in the small superior mesenteric blood vessels associated with the ileo-caecal area of the intestine of the mammal host.
+process;hepatic merozoite stage;A merozoite stage in the Plasmodium lifecycle that occurs in the hepatocyte of a vertebrate host.
+material entity;Gallus gallus erythrocyte;An erythrocyte that is a part of or originated from a Gallus gallus.
+process;Schistosoma haematobium sporocyst stage;A sporocyst stage in the Schistosoma haematobium lifecycle that occurs within the snail intermediate host.
+process;Schistosoma haematobium 24 hour schistosomulum stage;A 24 hours schistosomulum stage of Schistosoma haematobium that occurs in the definitive host 24 hours post-infection.
+process;Plasmodium falciparum exflagellated microgametocyte stage;An exflagellated microgametocyte stage in the lifecycle of Plasmodium falciparum that occurs in the midgut of a mosquito vector.
+material entity;Schistosoma mansoni worm;A Schistosoma mansoni in the mature form that is capable of sexual reproduction, which lives in the small inferior mesenteric blood vessels surrounding the large intestine of the mammal host.
+material entity;Plasmodium falciparum gametocyte;A Plasmodium falciparum that is located either in the bloodstream of the human host or midgut of mosquito vector. Gametocytes are the precursor cells of the macro- or micro-gametes.
+process;Schistosoma japonicum cercaria stage;A cercaria stage in the lifecycle of Schistosoma japonicum that occurs in a freshwater snail and in fresh water.

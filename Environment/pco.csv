@@ -1,0 +1,65 @@
+class;term;comment
+object aggregate;ecological community;A multi-species collection of organisms of at least two different species, living in a particular area. Must have at least two populations of different species as members.
+specifically dependent continuant;quality of a population;A quality that inheres in a population of organisms.
+object aggregate;tidal mangrove shrubland community;An ecological community which is composed primarily of dwarf or short mangroves, often populations of Laguncularia racemosa, Avicennia germinans, Sarcocornia pacifica, or Batis maritima.
+specifically dependent continuant;quality of an ecological community;A quality that inheres in a community.
+specifically dependent continuant;invisible to unaided eye;A physical object quality that is inhered in a material entity that is too small to be viewed by the unaided eye.
+process;population process;A process that has as primary participant a population. Includes processes such as population growth, extinction, evolution, selection, and adaptation. Population processes may depend on the processes of individual organisms {e.g., population growth reflects the cumulative multicellular organism reproduction (GO:0032504) and death (GO:0016265) of all individuals in a population}, but cannot be described for an individual organism. Some of these processes (e.g., evolution, extinction) can also occur at the species level, so PCO distinguishes between, for example, population extinction and species extinction.
+material entity;microbe;
+specifically dependent continuant;population birth rate;The rate of birth of a population of organisms.
+specifically dependent continuant;population death rate;The rate of death of a population of organsisms.
+specifically dependent continuant;population growth rate;The rate of growth of a population.
+specifically dependent continuant;plant density of an ecological community;The density of plants in an ecological community (multiple species), often measured as the number of plants per area.
+specifically dependent continuant;seedling density of a population;The density of seedlings in a population or organisms (a single species), often measured as the number of seedlings per area.
+specifically dependent continuant;seedling density of an ecological community;The density of seedlings in an ecological community (multiple species), often measured as the number of plants per area.
+object aggregate;collection of organisms;A material entity that consists of two or more organisms, viruses, or viroids.
+object aggregate;population of organisms;A collection of organisms, all of the same species, that live in the same place.
+process;exponential population growth;A population growth process that leads to an exponential increase in the number of individuals in a population.
+specifically dependent continuant;overcrowded population;An increased mass density of a population of organisms such that the density of organisms in an area is increased beyond sustainable levels.
+specifically dependent continuant;overcrowded human population;A quality of a human population such that the density humans in an area is increased beyond sustainable levels.
+object aggregate;taxon as collection of organisms;A collection of organisms that has as members every organism of a taxon and no organisms of any other equal or higher ranked taxon. The taxon may be at any level. If the taxon is species, then this is the same as the class species as a collection of organisms. When defining a taxon, it is generally understood that members include both living organisms and dead organisms that are known through specimens or observations.
+object aggregate;species as a collection of organisms;A collection of organisms that has as parts every organism of a species and no organisms of any other species.
+object aggregate;species as a collection of organisms;A collection of organisms that has as members every organism of given species and no organisms of any other species.
+object aggregate;human migratory population;A migratory population of humans, travelling with the intention of settling in a new area.
+object aggregate;single-species collection of organisms;A material entity that has as parts two or more organisms, viruses, or viroids of the same species and no members of any other species.
+object aggregate;microbial community;An ecological community which is composed of co-existing populations of microbial organisms that interact, directly or indirectly, such that they impact one another's ecological fitness.
+specifically dependent continuant;community species diversity;The number of different species that are represented in a given community, weighted by their abundance. Community species diversity can be calculated in different ways, but consists of two components: species richness and species evenness.
+process;population migration;A population process during which a population moves from one area to another.
+process;human population migration;A population migration during which a population of humans moves from one area to another with the intention of settling permanently in the new location.
+object aggregate;migratory population;A population which is participating in a migration process.
+object aggregate;multi-species collection of microbes;A multi-species collection of organisms that consists of two or more microbes from at least two species.
+object aggregate;microbial population;A population of organisms consisting of only microbes of the same species, that live in the same place.
+specifically dependent continuant;community species richness;The number of different species represented in an ecological community.
+generically dependent continuant;number of generations of multicellular organism;A count data item of the number of steps in the line of descent from a common ancestor for a multicellular organism.
+process;population growth;A process that leads to a change in the number of individuals (positive or negative) in a population.
+process;logistic population growth;A population process that leads to an increase in the numbers of individuals in a population following a logistic (S-shaped) curve. Generally occurs when the population has a carrying capacity in a particular habitat.
+material entity;household;An organismal entity that consists of one or more people who live in the same dwelling and also share at meals or living accommodation, and may consist of a single family or some other grouping of people.
+object aggregate;collection of humans;A collection of organisms of the same species that has as members only humans.
+object aggregate;multi-species collection of organisms;A collection of organisms that consists of two or more organisms from at least two species.
+material entity;microbial parasite;An organism or virus or viroid that is a microbe and a parasite.
+object aggregate;parasite isolate population;A microbial population of parasites that is defined by shared features such as genetic markers reflecting a common origin and distinguishing the population from other related parasite populations.
+specifically dependent continuant;Shannon diversity index;A community species diversity metric that accounts for both the abundance and evenness of the species present quantified via the following formula: the negative sum of, the product of the proportion of species i relative to the total number of species (pi) multiplied by the natural logarithm of this proportion (ln pi).
+specifically dependent continuant;Simpson diversity index;A community species diversity metric that is quantified via the following formula: the reciprocal of the sum of squared proportion of species i relative to the total number of species (pi).
+object aggregate;family;A domestic group, or a number of domestic groups linked through descent (demonstrated or stipulated) from a common ancestor, marriage, or adoption.
+specifically dependent continuant;inverse Simpson diversity index;A community species diversity metric that is quantified via the following formula: the sum of squared proportion of species i relative to the total number of species (pi).
+process;population extinction;A population process that ultimately leads to the death of all individuals in a population.
+process;species extinction;A process that ultimately leads to the death of all individuals in a population.
+specifically dependent continuant;community species evenness;A quality of an ecological community that reflects how close in abundance all species in a community are.
+process;party;A human social gathering in which the intention is to have a good time. Often the intention is to celebrate something like a birthday, anniversary, or holiday, but there is not always a purpose.
+specifically dependent continuant;plant density of a population;The density of plants in a population or organisms (a single species), often measured as the number of plants per area.
+process;potluck;A human social gathering at which each participant is expected to bring food to share. A potluck also can be party, a social meal, or some other type of social gathering.
+process;wedding;A human social gathering at which two people are married. May include a legal or social ceremony.
+process;baby shower;A human social gathering at which the key participant is an expectant parent and other guests bring presents for the soon to be born baby.
+material entity;alga excluding Cyanobacteria;An organism that is part of a polyphyletic group of mostly photosynthetic Eukaryotes encompassing green plants excluding Embriophyta (land plants). Included organisms range from unicellular microalgae, such as Chlorella and diatoms to multicellular forms such as giant kelp.
+material entity;agricultural household;A household in which the majority of the income of its members is derived from agricultural activities.
+specifically dependent continuant;alpha diversity;A community species diversity that is the mean species diversity at a site or within a specific habitat.
+material entity;organismal entity;A material entity that is one or more organisms, viruses or viroids.
+specifically dependent continuant;beta diversity;A community species diversity that is the ratio between regional and local species diversity.
+object aggregate;biological family;A collection of organisms of the same species whose members are all either genealogically related to each other or have mated with each other.
+specifically dependent continuant;gamma diversity;A community species diversity that is the total species diversity in a landscape. The area or landscape of interest may be of very different sizes in different situations, but it should encompass multiple sites or habitats as measured by alpha diversity.
+object aggregate;pair of interacting organisms;A collection of organisms that consists of exactly two organism, viruses, or viroids that are interacting with each other.
+process;human social gathering activity;A type of social behavior in which a collection of humans intentionally gathers together on a temporary basis to engage socially.
+specifically dependent continuant;plant density;
+object aggregate;pair of interacting organisms of the same species;A pair of interacting organisms that consists of exactly two organism, viruses, or viroids of the same species that are interacting with each other.
+process;human community event;A human social event in which humans living in the same area or neighborhood gather to carry out activiites relevent to the people living in the area.
+specifically dependent continuant;seedling density;The density of seedlings in an ecological community or population, often measured as the number of seedlings per area.

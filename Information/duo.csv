@@ -1,0 +1,36 @@
+class;term;comment
+process;population research;An investigation concerning a specific population group.
+process;method development;An investigation concerning development of methods, algorithms, software or analytical tools.
+generically dependent continuant;research specific restrictions;This data use modifier indicates that use is limited to studies of a certain research type.
+process;age category research;An investigation concerning specific age categories.
+generically dependent continuant;population origins or ancestry research only;This data use permission indicates that use of the data is limited to the study of population origins or ancestry.
+process;ancestry research;An investigation concerning ancestry or population origins.
+process;research control;An investigation concerning use of data as reference or control material.
+process;gender category research;An investigation concerning specific gender categories.
+generically dependent continuant;genetic studies only;This data use modifier indicates that use is limited to genetic studies only (i.e., studies that include genotype research alone or both genotype and phenotype research, but not phenotype research exclusively)
+process;genetic research;Biomedical research concerning genetics (i.e., the study of genes, genetic variations and heredity).
+generically dependent continuant;no general methods research;This data use modifier indicates that use does not allow methods development research (e.g., development of software or algorithms).
+process;biomedical research;An investigation concerning health, medical, or biomedical research.
+generically dependent continuant;not for profit, non commercial use only;This data use modifier indicates that use of the data is limited to not-for-profit organizations and not-for-profit use, non-commercial use.
+generically dependent continuant;data use modifier;Data use modifiers indicate additional conditions for use.
+process;drug development research;Biomedical research concerning drug development.
+generically dependent continuant;publication required;This data use modifier indicates that requestor agrees to make results of studies using the data available to the larger scientific community.
+process;disease category research;Biomedical research research concerning specific disease/s
+generically dependent continuant;ethics approval required;This data use modifier indicates that the requestor must provide documentation of local IRB/ERB approval.
+generically dependent continuant;clinical care use;This data use modifier indicates that use is allowed for clinical use and care.
+generically dependent continuant;collaboration required;This data use modifier indicates that the requestor must agree to collaboration with the primary study investigator(s).
+generically dependent continuant;general research use;This data use permission indicates that use is allowed for general research use for any research purpose.
+generically dependent continuant;data use permission;A data item that is used to indicate consent permissions for datasets and/or materials, and relates to the purposes for which datasets and/or material might be removed, stored or used.
+generically dependent continuant;not for profit organisation use only;This data use modifier indicates that use of the data is limited to not-for-profit organizations.
+generically dependent continuant;geographical restriction;This data use modifier indicates that use is limited to within a specific geographic region.
+generically dependent continuant;time limit on use;This data use modifier indicates that use is approved for a specific number of months.
+generically dependent continuant;publication moratorium;This data use modifier indicates that requestor agrees not to publish results of studies until a specific date.
+generically dependent continuant;non-commercial use only;This data use modifier indicates that use of the data is limited to not-for-profit use.
+generically dependent continuant;project specific restriction;This data use modifier indicates that use is limited to use within an approved project.
+generically dependent continuant;no restriction;This data use permission indicates there is no restriction on use.
+generically dependent continuant;user specific restriction;This data use modifier indicates that use is limited to use by approved users.
+generically dependent continuant;disease specific research;This data use permission indicates that use is allowed provided it is related to the specified disease.
+generically dependent continuant;return to database or resource;This data use modifier indicates that the requestor must return derived/enriched data to the database/resource.
+generically dependent continuant;health or medical or biomedical research;This data use permission indicates that use is allowed for health/medical/biomedical purposes. does not include the study of population origins or ancestry.
+generically dependent continuant;institution specific restriction;This data use modifier indicates that use is limited to use within an approved institution.
+generically dependent continuant;population origins or ancestry research prohibited;This data use modifier indicates use for purposes of population, origin, or ancestry research is prohibited.

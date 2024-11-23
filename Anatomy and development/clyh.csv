@@ -1,0 +1,157 @@
+class;term;comment
+material entity;gastrula outer layer;Outer layer of the gastrula.
+material entity;tentacle;
+material entity;subumbrella striated muscle;Striated muscle of the subumbrella.
+material entity;tissue layer;
+material entity;oral gastrula outer layer;Oral part of the outer layer of the gastrula.
+occurrent;planula period;
+material entity;spermatid;A male germ cell that develops from the haploid secondary spermatocytes. Without further division, spermatids undergo structural changes and give rise to spermatozoa.
+material entity;oogonium;An undifferentiated germ cell that proliferates rapidly and gives rise to oocytes.
+material entity;oocyte;A female germ cell that has entered meiosis.
+material entity;spermatozoid;A mature male germ cell that develops from a spermatid.
+material entity;female germ cell;
+material entity;gamete;A mature sexual reproductive cell having a single set of unpaired chromosomes.
+material entity;subumbrella nervous cell;Nervous cells of the subumbrella.
+material entity;egg cell;A female gamete where meiosis is complete and is able to participate in fertilization.
+material entity;smooth muscle cell;Epithelial cell containing smooth myofibers.
+material entity;growing oocyte;Oocyte incorporating yolk.
+material entity;fully grown oocyte;Oocyte greater than 150 micrometers in diameter competent to undergo meiotic maturation.
+material entity;mouth;
+material entity;striated muscle cell;Epithelial cell containing striated myofibers.
+material entity;tentacle system;
+material entity;striated muscle of the velum;Striated muscle of the velum.
+material entity;blastocoel roof cell;
+material entity;smooth muscle of the velum;Smooth muscle of the velum.
+material entity;subumbrella smooth muscle;Smooth muscle of the subumbrella.
+material entity;aboral gastrula ingressing cells;Cells ingressing from the outer layer into the blastocoel on the aboral side of the gastrula.
+material entity;epithelium covering buds;Epithelial cell layer positioned between the developing medusa buds and the theca of the gonozoid.
+material entity;planula endoderm;Inner layer of the planula.
+material entity;gastrula ingressing cells;Cells ingressing from the outer layer of the gastrula into the blastocoel.
+material entity;gonozoid ectoderm;Outer layer of the gonozoid including central tube and developing buds.
+material entity;oral gastrula ingressing cells;Cells ingressing from the outer layer into the blastocoel on the oral side of the gastrula.
+material entity;gonozoid endoderm;Inner layer of the gonozoid including central tube and developing buds.
+material entity;gland cell;Specialized cell participating in mucus secretion.
+material entity;planula aboral gland cell;Gland cell located on the aboral side of the planula larva, in the outer layer.
+material entity;gastrozoid gland cell;Gland cell of the gastrozoid.
+material entity;interstitial cell;Multipotent stem cell.
+material entity;planula gland cell;Gland cell located in the inner layer of the planula larva.
+material entity;manubrium gland cell;Gland cell of the manubrium.
+material entity;aboral gastrula outer layer;Aboral part of the outer layer of the gastrula.
+material entity;planula interstitial cell;Interstitial cell in the planula.
+material entity;lateral gastrula outer layer;Mid part of the outer layer of the gastrula.
+material entity;gastrozoid interstitial cell;Interstitial cell in the feeding polyp.
+material entity;stolon ectoderm;Outer layer within the stolon.
+material entity;stolon interstitial cell;Interstitial cell in the stolon.
+material entity;embryo interstitial cell;Interstitial cell in the embryo.
+material entity;stolon mesoglea;Mesoglea layer between the inner and outer layers of the stolon.
+material entity;aboral planula ectoderm;Aboral part of the outer layer of the planula.
+material entity;planula ectoderm;Outer layer of the planula.
+material entity;stolon endoderm;Inner layer within the stolon.
+material entity;oral planula ectoderm;Oral part of the outer layer of the planula.
+occurrent;medusa phase;
+material entity;developing striated muscle;Developing striated muscle within the medusa bud.
+material entity;developing circular canal;Developing circular canal within the medusa bud.
+material entity;oral planula endoderm;Inner layer of the planula on the oral side of the planula.
+material entity;fertilized egg;Cell formed by fusion of a mature female reproductive cell and a mature male reproductive cell at fertilization.
+material entity;aboral planula endoderm;Inner layer of the planula on the aboral side of the planula.
+material entity;developing tentacle bulbs;Developing tentacle bud within the medusa bud.
+material entity;developing radial canal;Developing radial canal within the medusa bud.
+material entity;entocodon;Group of cells between the inner and outer layers of the early medusa bud.
+material entity;developing manubrium;Developing manubrium within the medusa bud.
+material entity;gonozoid mesoglea;Mesoglea layer between the inner and outer tissue layers of the gonozoid central tube.
+occurrent;colony phase;colony containing mature or developing gonozoids , gastrozoids and stolons.
+occurrent;metamorphosis period;
+material entity;matrix;
+material entity;theca;Chitinous acellular layer surronding and protecting the polyps.
+material entity;gastrozoid tentacle;Tentacle surrounding the gastrozoid mouth.
+material entity;gastrozoid mouth;Mouth of the gastrozoid.
+material entity;hydrotheca;Chitinous acellular layer surronding the gastrozoid.
+material entity;mesoglea;Jelly-like layer between epithelial layer. The mesoglea is mostly acellular and composed of extracellular matrix.
+material entity;gonotheca;Chitinous acellular layer surronding the gonozoid.
+material entity;stolon perisarc;Chitinous acellular layer surronding the stolon.
+material entity;umbrella;Dome-shaped part of the medusa stage.
+material entity;subumbrella endodermal plate;Inner layer of the subumbrella in direct contact with the thick mesoglea layer of the medusa.
+material entity;thick mesoglea layer of the umbrella;Thick mesoglea layer of the umbrella forming the bulk of the umbrella.
+material entity;medusa tentacle system;Medusa tentacle system comprising tentacles, tentacle bulbs and tentacle buds.
+material entity;bell margin;Outer border of the umbrella.
+material entity;statocyst;Sensory structure of the medusa, located on the bell margin, consisting of a sensory vesicle containing statoliths.
+material entity;spindle-associated;Region of the cell closely surrounding the mitotoc spindle.
+material entity;nematogenic ectoderm of the bulb;Cresent-shaped nematogenic area of the tentacle bulb, located on the oral side of the bulb outer layer.
+material entity;animal cortex;Region inheriting the peripheral region of the egg around the animal pole.
+material entity;non-nematogenic ectoderm of the bulb;V-shaped non-nematogenic ectodermal area of the tentacle bulb, located on the aboral side of the bulb.
+material entity;vegetal cortex;Region inheriting the peripheral region of the egg around the vegetal pole.
+material entity;primary medusa tentacle;Four first medusa tentacles of the newly hatched medusa, connected to both radial and circular canals.
+material entity;vegetal cortex of oocyte;Region of a stage III oocyte cortex close to the oocyte nucleus.
+material entity;secondary medusa tentacle;Medusa tentacle generated after medusa hatching and connected to the circular but not to the radial canal.
+material entity;animal cortex of oocyte;
+material entity;tentacle bulb endoderm;Inner layer of the medusa tentacle bulb.
+material entity;animal cortex of egg cell;
+material entity;medusa tentacle;Tentacle of the medusa not including the tentacle bulb.
+material entity;animal cytoplasm;
+material entity;velum;A muscular flap of tissue surrounding the margin of the bell.
+material entity;animal cytoplasm of oocyte;Region of cytoplasm in a stage III oocyte in the same hemishere as the nucleus.
+material entity;vegetal cortex of egg;Egg cortex region containing the site of polar body formation.
+material entity;medusa tentacle ectoderm;Outer layer of the medusa tentacle.
+material entity;cytoplasm;
+material entity;medusa tentacle endoderm;Inner layer of the medusa tentacle.
+occurrent;embryonic development;
+material entity;manubrium nematoblast;Nematoblast of the manubrium.
+occurrent;gamete period;
+material entity;nematocyte;Specialized cell containing one giant explosive secretory organelle called nematocyst used for prey capture and defense from predators.
+material entity;planula nematoblast;Nematoblast in the planula.
+material entity;tentacle bulb nemtoblast;Nematoblast of the tentacle bulb.
+occurrent;spermatogenesis period;
+material entity;planula nematocyte;Nematocyte of the planula.
+material entity;medusa tentacle nematocyte;Nematocyte of the medusa tentacle.
+material entity;vegetal cytoplasm;
+material entity;radial canal;Canal connecting the manubrium with the bell margin.
+material entity;vegetal cytoplasm of oocyte;
+material entity;circular canal;Canal running along the bell margin.
+material entity;inner layer of the velum;Inner layer of the velum.
+material entity;animal cytoplasm of egg;Cytoplasm in egg hemisphere containing site of polar body formation.
+material entity;outerlater of the velum;Outer layer of the velum.
+material entity;oral pole of embryo;
+material entity;outer nerve ring;Nerve ring located farest to the centre of the medusa.
+material entity;oral pole of planula larva;
+material entity;manubrium;Central structure of the medusa bearing the mouth and performing extracellular digestion.
+material entity;vegetal cytoplasm of egg;
+material entity;nerve ring;Concentration of nerve cell bodies and projections running around the margin of the bell.
+material entity;oral territory;
+material entity;inner nerve ring;Nerve ring located closest to the centre of the medusa.
+material entity;oral pole of gastrula;
+material entity;nematoblast;Differenciating nematocyte.
+material entity;stolon nematoblast;Nematoblast in the stolon.
+material entity;oral pole blastomeres;
+material entity;gonozoid interstitial cell;Interstitial cell within the gonozoid.
+material entity;medusa mouth;Medusa mouth as part of the manubrium.
+material entity;oral pole of blastula;
+material entity;manubrium interstital cell;Interstital cell of the manubrium.
+material entity;manubrium roof;Inner layer of the manubrium opposite to the mouth and in direct contact with the thick mesoglea layer of the medusa.
+occurrent;gametogenesis period;phase of sexual reproduction in which certain cells of a female or male individual (parent) are transformed into specialized reproductive cells (gametes) that will initiate development of a progeny individual (offspring) upon fertilization.
+material entity;nerve cell of the circular canal;Nerve cells of the circular canal.
+occurrent;oogenesis period;
+material entity;nerve cells of the gonad ectoderm;Nerve cells located in the gonad outer layer.
+material entity;plaunula aboral ectoderm neural cells;Neural cell in the aboral part of the planula.
+material entity;nerve cell of the radial canal;Nerve cells of the radial canal.
+material entity;nerve cell of the tentacle bulb;Nerve cell of the medusa tentacle bulb.
+occurrent;gametogenesis;
+material entity;manubrium ectoderm;Outer layer of the manubrium.
+material entity;aboral pole of planula larva;
+material entity;gonad ectoderm;Outer layer of the gonad.
+material entity;aboral pole blastomeres;
+material entity;gonad endoderm;Inner layer of the gonad.
+material entity;aboral territory;
+material entity;manubrium endoderm;Inner digestive layer of the manubrium.
+material entity;aboral pole of embryo;
+material entity;gonad;Reproductive organ of the medusa.
+material entity;blastomere;Single cell of a cleavage cel embryo.
+material entity;germ cell;
+material entity;manubrium nematocyte;Nematocyte located on the manubrium.
+material entity;aboral pole of blastula;
+material entity;aboral pole of gastrula;
+material entity;planula neural cell;Neural cell in the planula.
+material entity;planula lateral neural cells;Neural cell in the mid part of the planula.
+material entity;male germ cell;
+material entity;gastrozoid tentacle nematocyte;Nematocyte located on the tentacle.
+material entity;spermatogonium;An undeveloped male germ cell. Spermatogonia develop into primary spermatocytes.
+material entity;neural cell;A cell that is part of the nervous system.

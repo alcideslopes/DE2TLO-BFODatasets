@@ -1,0 +1,573 @@
+class;term;comment
+generically dependent continuant;preferred name;
+generically dependent continuant;WPSA-3;
+generically dependent continuant;serine count;
+generically dependent continuant;Preferred IUPAC Name for Inorganic Compounds;
+generically dependent continuant;WNSA-1;
+generically dependent continuant;threonine count;
+generically dependent continuant;zagreb index;
+generically dependent continuant;WNSA-2;
+generically dependent continuant;tyrosine count;
+generically dependent continuant;WNSA-3;
+generically dependent continuant;valine count;
+generically dependent continuant;+/- stereochemical descriptor;
+generically dependent continuant;relative positive charge;
+generically dependent continuant;+ stereochemical descriptor;
+generically dependent continuant;covalent unit count;
+generically dependent continuant;histidine count;
+generically dependent continuant;FNSA-1;
+generically dependent continuant;isoleucine count;
+generically dependent continuant;Preferred IUPAC Name for Organic Compounds;
+generically dependent continuant;FNSA-2;
+generically dependent continuant;proline count;
+generically dependent continuant;positional descriptor;
+generically dependent continuant;FNSA-3;
+generically dependent continuant;leucine count;
+generically dependent continuant;molecular formula;
+generically dependent continuant;WPSA-1;
+generically dependent continuant;lysine count;
+generically dependent continuant;molecular entity name;
+generically dependent continuant;WPSA-2;
+generically dependent continuant;methionine count;
+generically dependent continuant;chemical connectivity table;
+generically dependent continuant;RPSA;
+generically dependent continuant;inductive atomic hardness;
+generically dependent continuant;aromaticity descriptor;
+generically dependent continuant;collection of 3D coordinates;
+generically dependent continuant;TPSA (fragments);
+generically dependent continuant;melt mass flow rate;
+generically dependent continuant;file;
+two-dimensional continuant fiat boundary;collection of 3D atomic coordinates;
+generically dependent continuant;VABC volume descriptor;
+generically dependent continuant;MOLfile;
+generically dependent continuant;molecular polarizability;
+generically dependent continuant;InChIKey;
+generically dependent continuant;tryptophan count;
+generically dependent continuant;relative negative charge;
+generically dependent continuant;Highest Occupied Molecular Orbital Energy;
+generically dependent continuant;- stereochemical descriptor;
+generically dependent continuant;relative positive charge surface area;
+generically dependent continuant;Lowest Unoccupied Molecular Orbital Energy;
+generically dependent continuant;DL stereochemical descriptor;
+generically dependent continuant;relative negative charge surface area;
+generically dependent continuant;acidic group count;
+generically dependent continuant;D stereochemical descriptor;
+generically dependent continuant;THSA;
+generically dependent continuant;basic group count;
+generically dependent continuant;L stereochemical descriptor;
+generically dependent continuant;TPSA;
+generically dependent continuant;ALogP descriptor;
+quality;molecular composition;
+generically dependent continuant;RHSA;
+generically dependent continuant;hybridization descriptor (VSEPR);
+generically dependent continuant;information about a polyatomic entity;
+generically dependent continuant;MLogP descriptor;
+quality;cyclicity;
+generically dependent continuant;maximal ratio of length to breadth descriptor;
+generically dependent continuant;functional group descriptor;
+generically dependent continuant;ratio of length to breadth descriptor;A descriptor characterizing the ratio of the length to the breadth of a given entity.
+quality;polarity;
+generically dependent continuant;fragment complexity descriptor;
+generically dependent continuant;dimensional extent descriptor;
+generically dependent continuant;vertex adjacency matrix descriptor;
+generically dependent continuant;identifying descriptor;
+generically dependent continuant;Petitjean Topological Shape Index;
+generically dependent continuant;bond order descriptor;
+generically dependent continuant;Petitjean Geometric Shape Index;
+material entity;chemical bond;
+generically dependent continuant;Petitjean number;
+generically dependent continuant;QSAR descriptor;
+generically dependent continuant;Petitjean Shape Index;
+generically dependent continuant;molecular entity descriptor;
+generically dependent continuant;XLogP descriptor;
+quality;non-aromatic;
+generically dependent continuant;molecular weight calculated by pipeline pilot;A molecular weight descriptor calculated by a relevant module of the Pipeline Pilot software tool.
+generically dependent continuant;neutron count;
+generically dependent continuant;absolute SMILES descriptor;
+generically dependent continuant;proton count;
+generically dependent continuant;minimal ratio of length to breadth descriptor;
+quality;polar;
+generically dependent continuant;ionization energy descriptor;An ionization energy descriptor is a descriptor that describes the minimum amount of energy required to remove an electron (to an infinite distance) from an atom or molecule in a gaseous state. X + energy → X+ + e- The term 'ionization potential' has historically been used but is now no longer recommended.
+quality;nonpolar;
+generically dependent continuant;eccentric connectivity index descriptor;
+quality;cyclic;
+generically dependent continuant;equilibrium constant;
+quality;acyclic;
+generically dependent continuant;acid dissociation constant;
+quality;chiral;
+generically dependent continuant;pKa;
+quality;achiral;
+material entity;cycle;
+quality;aromatic;
+material entity;substructure;
+material entity;chemical entity;
+disposition;electronegativity;
+generically dependent continuant;volume descriptor;
+generically dependent continuant;organic carbon adsorption coefficient at pH 5.5 calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;average molecular weight descriptor calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;molar refractivity;
+generically dependent continuant;electronegativity descriptor;
+generically dependent continuant;aromatic bond count;
+generically dependent continuant;organic carbon adsorption coefficient at pH 7.4 calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;monoisotopic molecular weight descriptor calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;atomic polarizability sum;
+generically dependent continuant;chemical descriptor;
+generically dependent continuant;hydrogen bond donor count;
+generically dependent continuant;bioconcentration factor at pH 5.5 calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;partial positive surface area;
+quality;radius;
+generically dependent continuant;hydrogen bond acceptor count;
+generically dependent continuant;bioconcentration factor at pH 7.4 calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;energy band gap;A descriptor that describes the energy range in a solid where no electron states can exist. In graphs of the electron band structure of solids, the band gap generally refers to the energy difference (in electron volts) between the top of the valence band and the bottom of the conduction band in insulators and semiconductors. [http://en.wikipedia.org/wiki/Band gap]
+generically dependent continuant;PPSA-2;
+quality;atomic radius;
+generically dependent continuant;size of largest chain;
+generically dependent continuant;number of rule of five violations calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;metal element mass descriptor;A descriptor describing the mass of the metal element component of a composite substance.
+generically dependent continuant;RS stereochemical descriptor;
+quality;ionic radius;
+quality;surface area;
+generically dependent continuant;surface tension calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;R stereochemical descriptor;
+quality;van der Waals radius;
+disposition;relative permittivity;
+generically dependent continuant;covalent unit count generated by pubchem software library;
+generically dependent continuant;canonical SMILES descriptor;
+quality;covalent radius;
+generically dependent continuant;solvation entropy descriptor;
+generically dependent continuant;charge weighted partial positive surface area;
+quality;bond multiplicity;
+generically dependent continuant;flash point calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;size of largest aliphatic chain;
+generically dependent continuant;enthalpy of vaporization calculated by ACD/Labs PhysChem software library version 12.01;
+quality;charge;
+generically dependent continuant;formation enthalpy descriptor;
+generically dependent continuant;vapour pressure calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;partial negative surface area;
+generically dependent continuant;bond length descriptor;
+generically dependent continuant;refractive index descriptor;
+generically dependent continuant;undefined atom stereocenter count generated by the pubchem software library;
+generically dependent continuant;Bond Polarizabilities;
+quality;sp hybridized;
+generically dependent continuant;rotatable bond count;
+generically dependent continuant;undefined bond stereocenter count generated by the pubchem software library;
+generically dependent continuant;partition coefficient;The ratio of a dissolved substance in a two-phase system, giving a measure of the difference in solubility of the substance in the two phases.
+generically dependent continuant;oxidation state;
+quality;chirality;
+quality;sp2 hybridized;
+disposition;vaporizability;
+generically dependent continuant;canonical smiles generated by OEChem;
+quality;reactivity;
+generically dependent continuant;chemical entity information format specification;
+quality;sp3 hybridized;
+generically dependent continuant;melting point descriptor;
+generically dependent continuant;OEChem software library;http://www.eyesopen.com/oechem-tk
+quality;photoreactivity;
+generically dependent continuant;PNSA-2;
+generically dependent continuant;constitutional descriptor;
+generically dependent continuant;boiling point descriptor;
+generically dependent continuant;OEChem software library version 1.9.0;
+generically dependent continuant;energetic descriptor;
+generically dependent continuant;Wiener polarity number descriptor;
+disposition;solubility;
+generically dependent continuant;isomeric SMILES generated by OEChem;
+generically dependent continuant;information about a chemical entity;
+process;software execution;
+disposition;disposition to form;
+generically dependent continuant;SMILES descriptor;
+generically dependent continuant;software implementation;
+generically dependent continuant;SMARTS descriptor;
+generically dependent continuant;molecular formula calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;defined atom stereocenter count generated by the pubchem software library;
+generically dependent continuant;solvation enthalpy descriptor;
+generically dependent continuant;defined bond stereocenter count generated by pubchem software library;
+generically dependent continuant;bond multiplicity descriptor;
+generically dependent continuant;logP descriptor;
+generically dependent continuant;isotope atom count generated by pubchem software library;
+generically dependent continuant;atomic order;
+generically dependent continuant;charge descriptor;
+generically dependent continuant;bond dissociation enthalpy descriptor;
+generically dependent continuant;heavy atom count generated by pubchem software library;
+generically dependent continuant;molecular structure encoding format specification;
+generically dependent continuant;atomic charge density descriptor;
+generically dependent continuant;Cactvs software library;http://www2.ccc.uni-erlangen.de/software/cactvs/tools.html
+generically dependent continuant;molecular stereochemistry format specification;
+generically dependent continuant;algorithm to calculate a chemical descriptor;
+generically dependent continuant;bond dissociation entropy descriptor;
+generically dependent continuant;Cactvs software library version 3.408;
+generically dependent continuant;RS stereochemistry specification;
+material entity;chemical substance;
+generically dependent continuant;hydrogen bond donor count calculated by cactvs;
+generically dependent continuant;physical descriptor;
+generically dependent continuant;topological surface area descriptor;
+generically dependent continuant;effective rotor count;
+generically dependent continuant;hydrogen bond acceptor count calculated by cactvs;
+generically dependent continuant;DL stereochemistry specification;
+process;parameterized software execution;
+generically dependent continuant;total formal charge descriptor;
+generically dependent continuant;rotatable bond count calculated by cactvs;
+generically dependent continuant;stereochemical descriptor;
+generically dependent continuant;conformer volume descriptor;
+generically dependent continuant;specification of stereochemistry by configuration;
+generically dependent continuant;generic SMILES descriptor;
+generically dependent continuant;specification of stereochemistry by optical activity;
+generically dependent continuant;cycle count;A descriptor that specifies the integer count of cycles in a given molecular entity.
+generically dependent continuant;formation entropy descriptor;
+generically dependent continuant;aromatic cycle count;A descriptor that specifies the integer count of aromatic cycles in a given molecular entity.
+generically dependent continuant;PubChem compound identifier (CID);
+generically dependent continuant;relative permittivity descriptor;
+generically dependent continuant;IUPAC Name generated by LexiChem;
+generically dependent continuant;SMILES format specification;
+generically dependent continuant;PubChem substance identifier (SID);
+quality;2-D extent;
+generically dependent continuant;LexiChem;http://www.eyesopen.com/news/lexichem-v210-released
+generically dependent continuant;SMARTS format specification;
+generically dependent continuant;Pipeline Pilot library;http://accelrys.com/products/pipeline-pilot/
+generically dependent continuant;atom count;
+generically dependent continuant;LexiChem version 2.2.0;
+quality;molecular structure;
+generically dependent continuant;DPSA-1;
+generically dependent continuant;cysteine count;
+generically dependent continuant;InChI calculated by library version 1.0.4;
+generically dependent continuant;S stereochemical descriptor;
+generically dependent continuant;DPSA-2;
+generically dependent continuant;phenylalanine count;
+generically dependent continuant;InChI software library;http://old.iupac.org/inchi/download/index.html
+generically dependent continuant;atomic connectivity molecular structure encoding format specification;
+generically dependent continuant;DPSA-3;
+generically dependent continuant;glutamate count;
+generically dependent continuant;InChI software library version 1.0.4;
+generically dependent continuant;molecular composition format specification;
+generically dependent continuant;FPSA-1;
+generically dependent continuant;glutamine count;
+generically dependent continuant;InChIKey generated by software version 1.0.4;
+generically dependent continuant;IUPAC chemical formula;
+generically dependent continuant;FPSA-2;
+generically dependent continuant;glycine count;
+generically dependent continuant;InChI format specification;
+generically dependent continuant;FPSA-3;
+generically dependent continuant;molecular entity name format specification;
+generically dependent continuant;structure complexity calculated by cactvs;
+generically dependent continuant;amino acid count;
+generically dependent continuant;tautomer count calculated by cactvs;
+generically dependent continuant;isomeric SMILES format specification;
+generically dependent continuant;alanine count;
+generically dependent continuant;TPSA calculated by cactvs;
+generically dependent continuant;+/- stereochemistry specification;
+generically dependent continuant;canonical SMILES format specification;
+generically dependent continuant;arginine count;
+generically dependent continuant;XLogP3 software library;http://www.sioc-ccbg.ac.cn/skins/ccbgwebsite/software/xlogp3/manual/XLOGP3 Manual.pdf
+quality;molecular entity quality;
+generically dependent continuant;topological polar surface area descriptor;
+generically dependent continuant;asparagine count;
+generically dependent continuant;XLogP3 software library version 3.0;
+generically dependent continuant;isomeric SMILES descriptor;
+generically dependent continuant;charge weighted partial negative surface area;
+generically dependent continuant;aspartate count;
+generically dependent continuant;xlogp3 calculated by the xlogp3 software;
+generically dependent continuant;atom counting algorithm;
+generically dependent continuant;molecular mass descriptor;The mass of a molecule calculated according to some assumption about the isotopic identity of the atoms constituting it.
+disposition;polarizability;
+generically dependent continuant;cis-trans stereochemical descriptor;
+generically dependent continuant;cis stereochemical descriptor;
+generically dependent continuant;trans stereochemical descriptor;
+generically dependent continuant;mass descriptor;
+generically dependent continuant;atomic mass descriptor;
+generically dependent continuant;structural descriptor;
+quality;chemical quality;
+generically dependent continuant;electronic descriptor;
+generically dependent continuant;atomic softness descriptor;
+generically dependent continuant;atomic degree;
+quality;hybridization;
+generically dependent continuant;topological descriptor;
+generically dependent continuant;geometric descriptor;
+generically dependent continuant;charge delocalization descriptor;
+generically dependent continuant;hybridization descriptor;
+generically dependent continuant;atomic valence;
+generically dependent continuant;atomic hardness descriptor;
+quality;valency;
+generically dependent continuant;parameter data item;A parameter data item is a data item that plays the role of a parameter to a software method.
+generically dependent continuant;numeric data item;A numeric data item is a data item which has a value which is numeric.
+generically dependent continuant;textual data item;A textual data item is a data item which has a value that has at least some non-numeric characters included in it.
+generically dependent continuant;numeric parameter;
+generically dependent continuant;textual parameter;
+generically dependent continuant;software message data item;A software message data item is a data item that plays the role of a message generated by a software implementation, for example, an error, warning or success message.
+generically dependent continuant;warning message;
+generically dependent continuant;error message;
+generically dependent continuant;success message;
+generically dependent continuant;numeric data format specification;A numeric data format specification is a data format specification for data items which are numeric, that is, they contain only numeric values.
+generically dependent continuant;textual data format specification;A textual data format specification is a specification of the format of data items which are textual, that is, they consist of character data.
+generically dependent continuant;numeric chemical descriptor;
+generically dependent continuant;textual chemical descriptor;
+generically dependent continuant;chemical substance descriptor;
+quality;specific surface area;A property of solids which is the total surface area of a material per unit of mass, solid or bulk volume, or cross-sectional area.
+generically dependent continuant;group of an atom;
+generically dependent continuant;NInChI descriptor;
+generically dependent continuant;TUCAN descriptor;
+generically dependent continuant;absolute configuration stereochemical descriptor;
+generically dependent continuant;RDKit software library;http://www.rdkit.org/
+generically dependent continuant;RDKit software library version 2015 09 2;http://www.rdkit.org/
+generically dependent continuant;number of rule of five violations calculated by RDKit software library version 2015 09 2;
+generically dependent continuant;hydrogen bond acceptor count calculated by RDKit software library version 2015 09 2;
+generically dependent continuant;hydrogen bond donor count calculated by RDKit software library version 2015 09 2;
+generically dependent continuant;logP descriptor calculated by RDKit software library version 2015 09 2;
+generically dependent continuant;molecular formula calculated by RDKit software library version 2015 09 2;
+generically dependent continuant;average molecular weight calculated by RDKit software library version 2015 09 2;
+generically dependent continuant;total polar surface area calculated by RDKit software library version 2015 09 2;
+generically dependent continuant;vapor density descriptor;
+generically dependent continuant;drug trade name;Trade name of a drug compound.
+generically dependent continuant;ACD/Labs PhysChem software library;http://www.acdlabs.com/resources/knowledgebase/app notes/physchem/
+generically dependent continuant;odor detection threshold descriptor;
+generically dependent continuant;International Non-proprietary Name;International Non-proprietary Name, defined by the WHO.
+generically dependent continuant;Moreau-Broto Autocorrelation (charge) descriptors;
+generically dependent continuant;logP calculated by ACD/Labs PhysChem software;
+generically dependent continuant;pH descriptor;
+generically dependent continuant;Unique Ingredient Identifier;
+generically dependent continuant;Moreau-Broto autocorrelation (mass) descriptors;
+generically dependent continuant;logD descriptor;octanol-water distribution coefficient calculated at a given pH.
+generically dependent continuant;evaporation rate descriptor;
+generically dependent continuant;LipidMaps identifier;
+generically dependent continuant;Moreau-Broto autocorrelation (polarizability) descriptors;
+generically dependent continuant;tautomer count;
+generically dependent continuant;logD calculated at pH 7.4 by ACD/Labs PhysChem software;ACD LogD(pH7.4) Distribution Coefficient calculated at pH7.4
+generically dependent continuant;autoignition temperature descriptor;
+generically dependent continuant;National Service Center number;
+generically dependent continuant;carbon types;
+generically dependent continuant;stereocenter count;
+generically dependent continuant;most acidic pKa calculated by ACD/Labs PhysChem software library;Most acidic pKa of the molecule
+generically dependent continuant;soil half-life descriptor;
+generically dependent continuant;RTECS identifier;
+generically dependent continuant;carbon connectivity index (order 0);
+generically dependent continuant;most basic pKa calculated by ACD/Labs PhysChem software library;Most basic pKa of the molecule
+generically dependent continuant;CAS registry number;
+generically dependent continuant;Wikidata identifier;
+generically dependent continuant;valence connectivity index (order 0);
+generically dependent continuant;atom stereocenter count;
+generically dependent continuant;molecular species at pH 7.4 descriptor;Molecular Species is a description of the predominant form of the molecule at pH7.4.
+generically dependent continuant;European Community number;
+generically dependent continuant;EINECS No;
+generically dependent continuant;EC number;
+generically dependent continuant;DSSTOX substance identifier;
+generically dependent continuant;valence carbon connectivity index (order 0);
+generically dependent continuant;defined atom stereocenter count;
+generically dependent continuant;molecular species at pH 7.4 calculated by ACD/Labs PhysChem software;These are defined according to the definitions: Acid(A) ACD MOST ApKa <6.5 and ACD MOST BpKa<8.5 Bas (B) ACD MOST ApKa >6.5 and ACD MOST BpKa>8.5 Neutral (N) ACD MOST ApKa >6.5 and ACD MOST BpKa<8.5 Zwitterion (ZW) ACD MOST ApKa <6.5 and ACD MOST BpKa>8.5
+generically dependent continuant;metal atom count;A descriptor that specifies the integer count of metal atoms in a given chemical entity.
+generically dependent continuant;European Registry of Materials identifier;
+generically dependent continuant;carbon connectivity index (order 1);
+generically dependent continuant;formation energy descriptor;
+generically dependent continuant;ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;oxygen atom count;A descriptor that specifies the integer count of oxygen atoms in a given chemical entity.
+generically dependent continuant;valence connectivity index (order 1);
+generically dependent continuant;solvation energy descriptor;
+generically dependent continuant;Pipeline Pilot Server Version 8.5.0;
+generically dependent continuant;valence carbon connectivity index (order 1);
+generically dependent continuant;count descriptor;
+generically dependent continuant;structural validation information data item;
+generically dependent continuant;software module to calculate a molecular descriptor;
+generically dependent continuant;PDB ligand identifier;
+generically dependent continuant;distance to atom;
+generically dependent continuant;dissociation energy descriptor;
+generically dependent continuant;PDB structure identifier;
+generically dependent continuant;effective polarizability;
+quality;dimensional extent quality;
+generically dependent continuant;PubChem software library;http://pubchem.ncbi.nlm.nih.gov/help.html
+generically dependent continuant;hybridization ratio;
+generically dependent continuant;undefined atom stereocenter count;
+generically dependent continuant;PubChem software library version 2.1;
+generically dependent continuant;Kier and Hall kappa molecular shape indices;
+generically dependent continuant;bond stereocenter count;
+generically dependent continuant;molecular weight calculated by the pubchem software library;
+generically dependent continuant;partial pi charge;
+generically dependent continuant;defined bond stereocenter count;
+generically dependent continuant;molecular formula calculated by the pubchem software library;
+generically dependent continuant;partial sigma charge;
+generically dependent continuant;undefined bond stereocenter count;
+generically dependent continuant;total formal charge calculated by the pubchem software library;
+generically dependent continuant;pi electronegativity;
+generically dependent continuant;average molecular weight descriptor;
+generically dependent continuant;monoisotopic mass calculated by the pubchem software library;
+generically dependent continuant;exact mass descriptor;
+generically dependent continuant;exact mass calculated by pubchem software library;
+generically dependent continuant;monoisotopic mass descriptor;
+generically dependent continuant;pubchem depositor-supplied molecular entity name;A molecular entity name that has been supplied by a depositor to the PubChem database. This is just a molecular entity name with additional provenance associated.
+generically dependent continuant;complexity descriptor;
+generically dependent continuant;SwissLipids identifier;
+generically dependent continuant;algorithm to calculate a molecular descriptor;
+generically dependent continuant;MolMeDB identifier;
+generically dependent continuant;cis-trans stereochemistry specification;
+generically dependent continuant;software method;
+generically dependent continuant;MOLfile format specification;
+generically dependent continuant;Ghose/Crippen ALogP calculation algorithm;Fragment Method used for the calculation of ALogP as defined by Ghose and Crippen. Ghose, A.K., Viswanadhan V.N., and Wendoloski, J.J., Prediction of Hydrophobic (Lipophilic) Properties of Small Organic Molecules Using Fragment Methods: An Analysis of AlogP and CLogP Methods. J. Phys. Chem. A, 1998, 102, 3762-3772.
+generically dependent continuant;software library;
+quality;chemical substance quality;
+quality;volume;
+generically dependent continuant;software application;
+generically dependent continuant;chemical database identifier;An identifying descriptor which is used within a particular database system to identify a chemical system.
+quality;crystal structure;
+generically dependent continuant;pi-system size;
+generically dependent continuant;logD calculated at pH 5.5 by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;ChemSpider validated synonym;A preferred name in ChemSpider by virtue of having been validated by a curator.
+generically dependent continuant;software module to calculate a chemical descriptor;
+generically dependent continuant;bond dissociation Gibbs energy descriptor;
+generically dependent continuant;hydrogen bond acceptor count calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;ChemSpider unvalidated synonym;A molecular entity name in the ChemSpider database which has not been validated by a curator.
+generically dependent continuant;molecular QSAR descriptor;
+generically dependent continuant;solvation Gibbs energy descriptor;
+generically dependent continuant;hydrogen bond donor count calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;validated chemical database identifier;A chemical database identifier which has been validated by a curator.
+generically dependent continuant;cycle basis;
+generically dependent continuant;bond charge density descriptor;
+generically dependent continuant;Boiling point at 760 mmHg pressure calculated by ACD/Labs PhysChem software library version 12.01;
+role;curator role;A role inhering in a person which is realized when they perform a curation task.
+generically dependent continuant;systematic name;
+quality;3-D extent;
+generically dependent continuant;number of freely rotating bonds calculated by ACD/Labs PhysChem software library version 12.01;
+process;CRID validation;A planned process in which a person bearing a curator role confirms an association between a CRID and an information content entity.
+generically dependent continuant;IUPAC name;
+disposition;refractive index;
+generically dependent continuant;polar surface area calculated by ACD/Labs PhysChem software library version 12.01;
+quality;atomic quality;
+generically dependent continuant;surface area descriptor;
+generically dependent continuant;trivial name;
+generically dependent continuant;software module;
+generically dependent continuant;fused cycles;
+generically dependent continuant;charge density descriptor;
+generically dependent continuant;index of refraction calculated by ACD/Labs PhysChem software library version 12.01;
+process;chemical name deprecation;A planned process in which a person bearing a curator role deprecates an association between a chemical name and an information content entity.
+generically dependent continuant;CML format specification;
+generically dependent continuant;aromatic atom count;
+disposition;polarizability calculated by ACD/Labs PhysChem software library version 12.01;
+process;CRID deprecation;A planned process in which an association between a CRID and an information content entity is deprecated.
+generically dependent continuant;atomic QSAR descriptor;
+generically dependent continuant;bond count;
+process;execution of ACD/Labs PhysChem software library version 12.01;
+process;CRID devalidation;A planned process in which an association between a CRID and an information content entity is marked as unconfirmed.
+generically dependent continuant;InChI descriptor;
+generically dependent continuant;PubChem conformer identifier;
+process;execution of Pipeline Pilot;
+generically dependent continuant;ChemSpider title;A ChemSpider validated synonym that has been identified as a title by the ChemSpider software.
+generically dependent continuant;MOLfile descriptor;
+disposition;disposition to dissociate;
+generically dependent continuant;GGA Indigo;http://ggasoftware.com/opensource/indigo
+quality;aromaticity;
+quality;charge density;
+process;execution of GGA Indigo;
+generically dependent continuant;atomic connectivity index;
+generically dependent continuant;bond aromaticity descriptor;
+generically dependent continuant;molar volume calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;Wiener path number;
+disposition;meltability;
+generically dependent continuant;density calculated by ACD/Labs PhysChem software library version 12.01;
+generically dependent continuant;formal charge descriptor;
+generically dependent continuant;formation Gibbs energy descriptor;
+generically dependent continuant;partial charge descriptor;
+process;chemical name devalidation;A planned process in which a person bearing a curator role marks an association between a chemical name and an information content entity as unconfirmed.
+generically dependent continuant;molecular weight of the corresponding free base;
+process;CRID registry curation;A planned process in which a person bearing a curator role modifies a CRID registry.
+quality;composition;
+generically dependent continuant;molar refractivity calculated by ACD/Labs PhysChem software library version 12.01;
+process;chemical name validation;A planned process in which a person bearing a curator role confirms an association between a chemical name and an information content entity.
+generically dependent continuant;relative configuration stereochemical descriptor;
+generically dependent continuant;chemical graph;
+quality;double bond equivalent;
+quality;neutral charge;
+quality;smallest set of smallest rings;
+quality;positive charge;
+generically dependent continuant;ACD/Labs index name;
+quality;negative charge;
+generically dependent continuant;InChI with fixedH layer;
+disposition;chemical disposition;
+generically dependent continuant;ChemSpider identifier;
+generically dependent continuant;DrugBank identifier;
+generically dependent continuant;ChEBI identifier;
+generically dependent continuant;HMDB identifier;
+generically dependent continuant;KEGG identifier;
+generically dependent continuant;Wikipedia identifier;
+generically dependent continuant;Reactome identifier;
+generically dependent continuant;BCUT;
+generically dependent continuant;ChEMBL identifier;
+generically dependent continuant;bond partial pi charge;
+generically dependent continuant;organic carbon adsorption descriptor;
+generically dependent continuant;bond partial sigma charge;
+generically dependent continuant;bioconcentration factor descriptor;
+generically dependent continuant;bond partial total charge;
+generically dependent continuant;molar volume descriptor;
+generically dependent continuant;bond sigma electronegativity;
+generically dependent continuant;density descriptor;
+generically dependent continuant;bonds to Atom;
+generically dependent continuant;flash point descriptor;
+generically dependent continuant;chi chain indices;
+generically dependent continuant;enthalpy of vaporization descriptor;
+generically dependent continuant;chi cluster indices;
+generically dependent continuant;vapour pressure descriptor;
+generically dependent continuant;chi path indices;
+generically dependent continuant;chi path-cluster indices;
+generically dependent continuant;surface tension descriptor;
+generically dependent continuant;heavy atom count;
+generically dependent continuant;validation algorithm;
+generically dependent continuant;gravitational index;
+generically dependent continuant;isotope atom count;
+generically dependent continuant;standardization algorithm;
+generically dependent continuant;gravitational index (square and cube roots);
+generically dependent continuant;PubChem Identifier;
+generically dependent continuant;structural validation algorithm;
+generically dependent continuant;acceptor field atoms (Boehm,Klebe);
+generically dependent continuant;GenBank Protein Identifier;
+generically dependent continuant;structural standardization algorithm;
+generically dependent continuant;hydrogen bond acceptors (Daylight);
+generically dependent continuant;GenBank Nucleotide Identifier;
+generically dependent continuant;structural validation warning;
+generically dependent continuant;acceptors or donors field atoms (Boehm,Klebe);
+generically dependent continuant;ALogP calculated by Pipeline Pilot;
+generically dependent continuant;structural validation error;
+generically dependent continuant;donor field atoms (Boehm,Klebe);
+generically dependent continuant;Ertl polar surface area calculation algorithm;Fast calculation of molecular polar surface area as a sum of fragment based contributions and its application to the prediction of drug transport properties, Ertl, P., Rohde, B., Selzer, P., J. Med. Chem. 2000, 43, 3714-3717.
+process;structural standardization;
+generically dependent continuant;hydrogen bond donors (Daylight);
+generically dependent continuant;polar surface area descriptor;
+process;structural validation;
+generically dependent continuant;proton belonging to an aromatic system;
+generically dependent continuant;polar surface area descriptor calculated by Pipeline Pilot;
+generically dependent continuant;OEChem software library version 1.7.6;
+generically dependent continuant;proton belonging to a pi-system;
+generically dependent continuant;hydrogen bond acceptor count calculated by pipeline pilot;
+generically dependent continuant;Kier Hall SMARTS;
+generically dependent continuant;ChEBI name;A ChEBI name is a preferred name annotated by the ChEBI database. The ChEBI name has the additional feature that it is unique within the ChEBI dataset.
+generically dependent continuant;structural alert count;The number of structural alerts, that is, unwanted features as defined according to the procedure followed in Brenk et al., 2008. Brenk R, et al. Lessons learnt from assembling screening libraries for drug discovery for neglected diseases. Chem Med Chem. 2008.3:435–444.
+generically dependent continuant;hydrogen bond donor count calculated by pipeline pilot;
+generically dependent continuant;weighted quantitative estimate of drug-likeness;A descriptor which gives a quantitative estimate of drug likeness according to the procedure outlined in Bickerton et al., 2012. http://www.ncbi.nlm.nih.gov/pubmed/22270643 Nat Chem. 2012 Jan 24.4(2):90-8. doi: 10.1038/nchem.1243. Quantifying the chemical beauty of drugs. Bickerton GR, Paolini GV, Besnard J, Muresan S, Hopkins AL.
+generically dependent continuant;algorithm to interpret a connection table;
+generically dependent continuant;molecular distance edge;
+generically dependent continuant;rotatable bond count calculated by pipeline pilot;
+generically dependent continuant;freezing point descriptor;
+generically dependent continuant;structural standardization error;
+generically dependent continuant;moments of inertia;
+generically dependent continuant;rule of five violations descriptor;Number of properties defined in Lipinski’s Rule of 5 (RO5) that the compound fails. Conditions which violate the RO5 are: Molecular weight>=500 AlogP>=5 HBD>=5 HBA>=10
+generically dependent continuant;Henry's Law constant;
+generically dependent continuant;structural standardization warning;
+generically dependent continuant;partial total charge (MMFF94);
+generically dependent continuant;Lipinski rule of five violation calculation algorithm;Lipinski, C. A.. Lombardo, F.. Dominy, B. W.. Feeney, P. J. Experimental and Computational Approaches to Estimate Solubility and Permeability in Drug Discovery and Development Settings. Adv. Drug Deliv. Rev., 1997, 23, 3-25.
+generically dependent continuant;atmospheric OH rate constant;
+generically dependent continuant;connection table interpretation warning;
+generically dependent continuant;period of an atom;
+generically dependent continuant;rule of five violations calculated by pipeline pilot;
+generically dependent continuant;upper explosive limit descriptor;
+generically dependent continuant;connection table interpretation error;
+generically dependent continuant;pi-contact of two atoms;
+generically dependent continuant;rule of three passes descriptor;Rule of 3 passes. It is suggested that compounds that pass all these criteria are more likely to be hits in fragment screening. molecular weight <=300, number of hydrogen bond donors <=3, number of hydrogen bond acceptors <=3 AlogP <=3. RTB <=3 PSA<=60
+generically dependent continuant;lower explosive limit descriptor;
+generically dependent continuant;information data item;
+generically dependent continuant;proton total partial charge;
+generically dependent continuant;rule of three passes calculation algorithm;A ‘Rule of Three’ for fragment-based lead discovery? Miles Congreve, Robin Carr, Chris Murray and Harren Jhoti. Drug Discovery Today, 2003,8(19), 876-877
+generically dependent continuant;minimum explosive concentration descriptor;
+generically dependent continuant;connection table interpretation information data item;
+generically dependent continuant;RDF proton descriptor;
+generically dependent continuant;rule of three passes calculated by pipeline pilot;
+generically dependent continuant;specific gravity descriptor;
+generically dependent continuant;structural standardization information data item;
+generically dependent continuant;TAE RECON descriptors for amino acid sequences;
+generically dependent continuant;medchem friendly descriptor;MedChem Friendly These are functional groups that may not be desirable from a medicinal chemistry perspective. For example reactive groups will be flagged as “N” (not MedChem Friendly). Molecules which do not contain any of these groups will be flagged as “Y” (MedChem Friendly). The groups are defined by the following list of SMARTS: [N+]([O-])=O [C.!R](-[C.!R]=O)=[C.!R] C(-N)=S P O-N=C OS(=O)=O O1-CC-O-C-1 C(-N)=C [C.H2]-[C.H2]-[C.H2]-[C.H2]-[C.H2]-[C.H2]-[C.H2] OC1OCC(O)C1 C=N-C(-O) [N.H]-[C.H]-[N.H] [C.!R]=[C.!R]-N-[C.D1&H3,D2&H2,D3&H1,D4] [S.!R]-[C.!R]-[O.!R] [O.D2]-[C.!H0](([F,Br,I,Cl])([F,Br,I,Cl])([!F,!Br,!I,!Cl])) CC([O.!R])([O.!R]) C1-C-O1 C(=O)-S-C(=S) [S.H] SC#N
+generically dependent continuant;relative density descriptor;
+generically dependent continuant;weighted path;
+generically dependent continuant;medchem friendly descriptor calculated by pipeline pilot;
+generically dependent continuant;WHIM;

@@ -1,0 +1,18 @@
+class;term;comment
+material entity;Illumina TruSeq Stranded;
+generically dependent continuant;verse;
+material entity;Illumina TruSeq Rapid SBS Kit v2;
+material entity;TIVA tag;
+generically dependent continuant;number of flow cell lanes;
+generically dependent continuant;library preparation protocol;
+generically dependent continuant;number of flow cells;
+material entity;region of material anatomical entity;
+generically dependent continuant;pairwise sequence alignment application;
+generically dependent continuant;date of specimen library preparation;
+material entity;specimen harvest source type;
+generically dependent continuant;date of specimen amplification;
+material entity;RNA harvest compound;
+generically dependent continuant;experiment name;
+generically dependent continuant;star;
+generically dependent continuant;enzymatic amplification protocol;
+material entity;specimen harvest source unit;

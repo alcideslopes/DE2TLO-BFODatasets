@@ -1,0 +1,1511 @@
+class;term;comment
+material entity;ventrointernal chaeta;The group of chaetae located on ventrointernal side of antenna.
+material entity;ventroexteroposterior chaeta;The group of chaetae located on ventroexternoposterior side of head.
+material entity;labral proximal chaeta;The group of chaetae located on proximal side of labrum.
+material entity;labral chaeta;The group of chaetae located on labrum.
+material entity;anterior chaeta;The group of chaetae that compose the anterior row on dorsal side of cephalic capsule.
+material entity;digestive tract diverticulum;Branch or outpocketing of the digestive tract.
+material entity;fifth abdominal segment chaeta;The group of chaetae located on abdominal segment 5.
+material entity;ventrolateral chaeta;The group of chaetae located on ventrolateral side of antenna.
+material entity;fourth abdominal segment chaeta;The group of chaetae located on abdominal segment 4.
+material entity;intracellular part;Any constituent part of the living contents of a cell. the matter contained within (but not including) the plasma membrane, usually taken to exclude large vacuoles and masses of secretory or ingested material. In eukaryotes it includes the nucleus and cytoplasm.
+material entity;first abdominal segment chaeta;The group of chaetae located on abdominal segment 1.
+material entity;caecum;A blind sac or tube-like structure that serve as one of caecal tibes or pouches.
+material entity;first instar vestiture;The group of chaetae located on body in the first instar.
+material entity;cell;An anatomical structure that has as its parts a maximally connected cell compartment surrounded by a plasma membrane.
+material entity;inmature vestiture;The group of chaetae located on body in the inmature stage.
+material entity;nuclear part;Any constituent part of the nucleus, a membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated.
+material entity;labial chaeta;The group of chaetae located on labium.
+material entity;organism subdivision;Anatomical structure which is a primary subdivision of whole organism. The mereological sum of these is the whole organism.
+material entity;interocular chaeta;The group of chaetae located on interocular area.
+material entity;membrane;A lipid bilayer along with all the proteins and protein complexes embedded in it an attached to it.
+material entity;metatrochanteral organ;The group of chaetae located on external side of metatrochanter.
+material entity;ventroexternomedial chaeta;The group of chaetae located on ventroexternomedial side of head.
+material entity;ventral chaeta;The chaeta located on the ventral side of the manubrium.
+material entity;protrochanteral organ;The group of chaetae located on external side of protrochanter.
+material entity;ventroexternal chaeta;The group of chaetae located on ventroexternal side of antenna.
+material entity;ventrocentral chaeta;The group of chaetae located on ventrocentral side of antenna.
+material entity;ventroexternocentral chaeta;The group of chaetae located on ventroexternocentral side of abdominal segment 4.
+material entity;ventroexternoanterior chaeta;The group of chaetae located on ventroexternoanterior side of head.
+material entity;ventroexternolateral chaeta;The group of chaetae located on ventroexternolateral side of abdominal segment 3.
+material entity;ventroexternointernal chaeta;The group of chaetae located on ventroexternointernal side of abdominal segment 4.
+material entity;antennal muscle;The muscle that inserts on the antenna.
+material entity;anatomical system;Anatomical group that is has as its parts distinct anatomical structures interconnected by anatomical structures at a lower level of granularity.
+material entity;Antennal segment 3 sense organ;The chaetae group of modified located on anterior margin of antennal segment 3.
+material entity;antennal sclerite;The sclerite that is ring-like and is part of the antenna.
+material entity;anal spines;The group of chaetae with spine-shaped located on anal area.
+material entity;antennal rim;The rim that surrounds the antennal foramen.
+material entity;AOIII chaeta;The chaeta that is part of the sensory organ of antennal segment III.
+material entity;articular surface;The region of the cuticle that is composed two articular surfaces that are adjacent to each other.
+material entity;anterior spines;The group of modified chaetae located on abdominal segment 6.
+material entity;antennal segment;The antennomere that is an appendage segment.
+material entity;anterior bothriotrichal complex;The group of chaetae that together chaeta T2 is located in the anterior region of abdominal segment 4.
+material entity;femur;The leg segment that is distal to the trochanter and proximal to the tibiotarsus.
+material entity;bothriotrical complex;The group of chaetae located on abdominal segment 2, abdominal segment 3, and abdominal segment 2 and composed of supplementary chaetae and a bothriotricha
+material entity;basal lamina;Acellular anatomical structure that consists of a thin sheet of fibrous proteins that underlie and support the cells of an epithelium. It separates the cells of an epithelium from any underlying tissue.
+material entity;circumanal chaeta;The group of chaetae around of genital plate.
+material entity;mandible;The appendage that is located inside of cephalic capsule and connecting via stipital stud to maxilla and articulates with the cranium via apodeme of head capsule and lateral part of clypeus
+material entity;posterior bothriotrichal complex;The group of chaetae that together chaeta T4 is located in the anterior region of abdominal segment 4.
+material entity;leg;The appendage that is composed of the coxa and all distal leg segments and is connected to thorax.
+material entity;collophore chaeta;The group of chaetae located on collophore.
+material entity;collar;The group of chaetae located on anterior margin of mesothorax.
+material entity;apophysis;The apodeme that is tubercle-like or spine-like.
+material entity;leg chaeta;The group of chaetae located on legs.
+material entity;tagma;The anatomical structure that is a distinctly delimited group of segments.
+immaterial entity;foramen;The anatomical space that is surrounded by sclerites and allows for the passage of haemolymph, nerves and tracheae.
+material entity;anal crown;A tubercles group located in the anal area.
+material entity;mesothoracic chaeta;The group of chaetae located on mesothorax.
+material entity;mouthparts;The anatomical cluster that is composed of the labrum, epipharyngeal wall, hypopharyngeal wall (including the sitophore), mandibles, maxillae, labium and conjunctivae connecting them.
+material entity;manubrial chaeta;The group of chaetae located on manubrium.
+material entity;tubercle;The process that is small and knob-like or round.
+material entity;plurichaetosis;The group of chaetae extra located on dorsal side of cephalic capsule or trunk
+material entity;thorax;The tagma that is composed of the prothorax, mesothorax and metathorax.
+material entity;metathoracic chaeta;The group of chaetae located on metathorax.
+material entity;labial palp;A pair of palps located in the anterolateral side of labium close and ventral to buccal opening.
+material entity;tibiotarsal chaeta;The group of chaetae located on tibiotarsus.
+material entity;anatomical cluster;The anatomical group that has its parts adjacent to one another.
+material entity;second abdominal segment chaeta;The group of chaetae located on the abdominal segment 2.
+material entity;abdominal segment;The segment that is located posterior to the head and is does not bear legs.
+material entity;thoracic chaeta;The group of chaetae located on thorax.
+material entity;third abdominal segment chaeta;The group of chaetae located on abdominal segment 3.
+material entity;anatomical group;Anatomical structure consisting of at least two non-overlapping organs, multi-tissue aggregates or portion of tissues or cells of different types that does not constitute an organism, organ, multi-tissue aggregate, or portion of tissue.
+material entity;posterior pseudotentorium;The posterior connective area of cuticular fulcro-tentorimum.
+material entity;accessory crown of tubules;The citoskeleton that suppport the flagellum of the spermatozoon.
+material entity;chaeta a2.ab2;The second chaeta of anterior row on medial-external axis of abdominal segment 2.
+material entity;ventrolateral arm;The connective tissue posterior to the pseudotentorium.
+material entity;tibiotarsal whorl;The whorl of chaetae located in the tibiotarsus.
+material entity;whorl;The arrangement of chaetae that radiate from a single point.
+material entity;retinaculum;A ventral appendage of the third abdominal segment.
+material entity;maxilla;The appendage that is located inside of cephalic capsule and connecting via stipital stud to mandible and articulates with the cranium via apodeme of head capsule and cardo-posterior tentorial membrane
+material entity;endonuclear rod;The nuclear part that is adjacent to the acrosomal complex located in the spermatozoon.
+material entity;internal endonuclear cylinder;A cylindral layer that covers internally the flagellum of the spermatozoon.
+material entity;mesotrochanteral organ;The group of chaetae located on external side of mesotrochanter.
+material entity;trochanteral organ;The group of chaetae located on external side of trochanter.
+material entity;row a.mt2;The third row of chaetae posterior to row p.mt1 and located in the trunk.
+material entity;posteroventral chaeta;The chaeta located in the posteroventral side of the antennal segment 4.
+material entity;subadanal chaeta;The group of chaetae located on the subadanal area.
+material entity;s-chaeta;The specialized chaetae group located on any tagma of body.
+material entity;sublobal chaeta;The group of chaeta located on sublobal plate.
+material entity;subapical organ;The modified chaeta located in the subapical region of the antennal segment 4.
+material entity;supplementary chaeta;The group of chaetae that compose the bothriotrical complex on Abdominal segment 2, 3, and 4.
+material entity;craniumcardinal muscle;The skeletal muscle that connects the dorsomedial side of occiput and lateral margin of cardo.
+material entity;protrochanter;The trochanter located on anterior legs.
+material entity;metatrochanter;The trochanter located on posterior legs.
+material entity;posterior chaeta;The group of chaetae that compose the posterior row on dorsal side of capsule head.
+material entity;chaeta s;The supplementary chaeta that is part of the anterior bothriotrical complex and adjacent to the chaeta m on the abdominal tergite 4.
+material entity;outer thickening of stipes;The apodeme that is elongated and located on the external side of the stipe.
+material entity;transverse mandibular tendon;The tendon connected to the mandible.
+material entity;manubrial plate;The area located in the anterodorsal of manubrium.
+material entity;labial muscle;The muscle that connects the labium with the posterior tentorial apodeme.
+material entity;mesotrochanter;The trochanter located on medial legs.
+material entity;sublobal plate;The plate where the maxillary palp is located.
+material entity;stress fiber;A contractile actin filament bundle that consists of short actin filaments with alternating polarity, cross-linked by alpha-actinin and possibly other actin bundling proteins, and with myosin present in a periodic distribution along the fiber.
+material entity;nucleus;A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+material entity;rhabdomere;The specialized microvilli-containing organelle on the apical surfaces of a photoreceptor cell containing the visual pigment rhodopsin and most of the proteins involved in phototransduction.
+material entity;microvillus;Thin cylindrical membrane-covered projections on the surface of an animal cell containing a core bundle of actin filaments. Present in especially large numbers on the absorptive surface of intestinal cells.
+material entity;chromatin;The ordered and organized complex of DNA, protein, and sometimes RNA, that forms the chromosome.
+material entity;cytoplasmic organelle;Cell part which consists of macromolecules aggregated into discrete structures in the protoplasm.
+material entity;cytoplasm;All of the contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+material entity;chromosomal part;Any constituent part of a chromosome, a structure composed of a very long molecule of DNA and associated proteins (e.g. histones) that carries hereditary information.
+material entity;cytoskeleton;Any of the various filamentous elements that form the internal framework of cells, and typically remain after treatment of the cells with mild detergent to remove membrane constituents and soluble components of the cytoplasm.
+material entity;cytoplasmic structures;Any structure as cytoskeleton located in the cellular cytoplasm.
+material entity;posterior suspensory muscle;The cephalic muscle attached to the posterior tentorial apodeme and the ventral groove.
+material entity;cell projection assembly;Formation of a prolongation or process extending from a cell, e.g. a flagellum or axon.
+material entity;protactor muscle;A muscle drawing a part forward, as antagonistic to a retractor.
+material entity;cellular component;A location, relative to cellular compartments and structures, occupied by a macromolecular machine when it carries out a molecular function. There are two ways in which the gene ontology describes locations of gene products: (1) relative to cellular structures (e.g., cytoplasmic side of plasma membrane) or compartments (e.g., mitochondrion), and (2) the stable macromolecular complexes of which they are parts (e.g., the ribosome).
+material entity;cilium;A specialized eukaryotic organelle that consists of a filiform extrusion of the cell surface and of some cytoplasmic parts. Each cilium is largely bounded by an extrusion of the cytoplasmic (plasma) membrane, and contains a regular longitudinal array of microtubules, anchored to a basal body.
+material entity;internalsagital muscle 3;
+immaterial entity;ostium;The anatomical structure which is part of a pulsatile organ, and connects the lumen of the pulsatile organ with the surrounding hemocoel.
+material entity;internalsagital muscle 4;
+material entity;dorsoventral muscle;The muscle that is attached to the dorsoposterior side head capsule and the ventralposterior side of the head capsule
+material entity;carbohydrate;A class of hydrocarbons with an empirical formula of Cm(H20)n (where m and n may be equal) and includes monomers, polymers and derivatives of aldoses, ketoses, saccharides, and alditols.
+material entity;oblique endoskeletal muscle;The muscle that connects the posterior tentorial apodeme and pseudotentorium.
+material entity;biological macromolecule;Anatomical structure which has as its parts one or more ordered aggregates of nucleotide, amino acid fatty acid or sugar molecules bonded to one another.
+material entity;pharyngeal dilator muscle;The cephalic muscle attached to the pharynx and the median septum of the head capsule.
+material entity;chitin;Long-chain polymer of N-acetylglucosamine, is a derivative of glucose.
+material entity;pharyngeal muscle;Any muscle attached to the pharynx and the head capsule.
+material entity;polysaccharide;A biomacromolecule consisting of large numbers of monosaccharide residues linked glycosidically. This term is commonly used only for those containing more than ten monosaccharide residues.
+material entity;pinnate muscle;A pennate or pinnate muscle (also called a penniform muscle) is a type of skeletal muscle with fascicles that attach obliquely.
+material entity;cell part;The components of the cell.
+material entity;posterior dorso-ventral muscle;The cephalic muscle attached to the dorsal side of the head capsule, posterior to the pseudotentorium, and the ventral posteroventral side of the head capsule.
+material entity;glycogen;A polydisperse, highly branched glucan composed of chains of D-glucopyranose residues in alpha(1->4) glycosidic linkage, joined together by alpha(1->6) glycosidic linkages.
+material entity;subapical organite;The sensillum located in the subapical region of the antennal segment 4.
+material entity;tritocerebral commissure;Commissure of the adult tritocerebrum, formed by the terminals of the fibers ascending through the cervical connective that extend to either half of the tritocerebrum.
+material entity;pleuro-metafurcalis muscle;The muscle that connects the metafurca and pleuron.
+material entity;maxillary muscle;The muscle that connects with the maxilla posteriorly.
+material entity;protocerebrum;The anterior part of the arthropod brain.
+material entity;TP-sensillum;Sensilla with a terminal pore system appear as hairs, pegs, or cuticular elevations.
+material entity;ventral nerve cord;The pair of closely united ventral longitudinal nerves with their segmental ganglia that is characteristic of many elongate invertebrates
+material entity;anterior sterno-coxal muscle 1;The abdominal muscle attached to the collophore and metafurca.
+material entity;ventral sensillum;The sensillum located in the ventral side of antennal segment 2.
+material entity;tritocerebrum;Posterior division of insect brains, formed by ganglia of third segment of head.
+material entity;ventratubular muscle;The muscle that connects the collophore.
+material entity;WP-sensillum;Within the group of sensilla with wall pores. the most frequent ones are those in which pores lead into pore tubules by which the stimulus, odorant molecules, is conveyed t o the dendritic membranes.
+material entity;segmental subdivision of nervous system;Any segmental subdivision of a nervous system. Includes metameric developmental segments, such as vertebrates neuromeres.
+material entity;subdivision of tube;Any subdivision of the hollow cylindrical anatomical structure.
+material entity;anterior tergum-metafurcal muscle;The abdominal muscle attached to the tergum, anterior to the posterior tergum-metafurcal muscle, and the metafurcal.
+material entity;NP-sensillum;A conspicuous well-defined sensillum type in insects has been overlooked until recently: pegs that possess no pores with the exception of a terminal molting pore and that are connected to the surrounding cuticle by a rigid, nondeformable socket
+material entity;posterior antecosta-metafurcalis muscle;The thoracic muscle attached to the phragma V, posterior to the anterior antecosta-metafurcalis muscle, and the metafurca.
+material entity;sensilla chaetica;Hairlike seta that is short and thick walled.
+material entity;stomatogastric nervous system;A group of small, interconnected ganglia situated posterior to and between the two brain hemispheres and associated with the pharynx, esophagus and aorta.
+material entity;pleuro-pleuralis muscle;The muscle that connects the pleuron.
+material entity;sensilla trichodea;Hairlike seta that is long.
+material entity;eye part;Any component associated with the organ for sight or vision.
+material entity;posterior tergum-metafurcal muscle;The abdominal muscle attached to the tergum, posterior to the anterior tergum-metafurcal muscle, and the metafurcal.
+material entity;neuromere;A segmental subdivision of the nervous system.
+material entity;pleuron;The region of the cuticle on the lateral region of the insect thorax that is attached to the notum and the sternum and is attached to the coxae by skeletal muscle tissue and the basal coxal conjunctiva.
+material entity;subapical microsensillum;Any small sensillum located on the abdominal tergite 2 and abdominal tergite 3.
+material entity;deutocerebrum;A preoral neuromere or middle portion of insect brain wich represents fused ganglia of hypothetical antennal segment of head.
+material entity;tergum-pleuralis muscle;The abdominal muscle attached to the notum and pleuron.
+material entity;hypopharynx;The sclerite located medially in the preoral cavivity, posterior to labium, ventral to gnathal pouch, and attached to the posterior tentorial apodeme.
+material entity;tubercle De;The tubercle located in the dorsoposterior side and external to the tubercle Di on the head capsule.
+material entity;organ system subdivision;A subdivision of an anatomical system.
+material entity;metafurca-endosternal muscle;The muscle that connects the endosternite and metafurca.
+material entity;hypopharyngeal fulturae;The connective tissue that is part of the hyphopharynx.
+material entity;subocular tubercle;The tubercle located on dorsointernal side of subocular area.
+material entity;organ part;A multicellular structure that is a part of an organ.
+material entity;lateral antecosta-antecostalis abdominal muscle;The abdominal muscle attached to the phragma III, lateral to the medial antecosta-antecostalis abdominal muscle and phragma IV.
+material entity;frontal organ;The organ located under the cuticle and lie near the oesophagus.
+material entity;tubercle DL;The tubercle located on the dorsolateral side and external to the tubercle L.
+material entity;embryo;Anatomical entity that comprises the organism in the early stages of growth and differentiation that are characterized by cleavage, the laying down of fundamental tissues, and the formation of primitive organs and organ systems. For example, for mammals, the process would begin with zygote formation and end with birth. For insects, the process would begin at zygote formation and end with larval hatching. For plant zygotic embryos, this would be from zygote formation to the end of seed dormancy. For plant vegetative embryos, this would be from the initial determination of the cell or group of cells to form an embryo until the point when the embryo becomes independent of the parent plant.
+material entity;phragma V;The phragma of the abdominal tergite 2 that attaches to muscles attached to the abdominal tergite 2.
+material entity;external sensillum;The sensillum located in the lateral side of the abdominal segment 5 and abdominal segment 6.
+material entity;tubercle Di;The tubercle located in the dorsoposterior side and internal to the tubercle De on the head capsule.
+material entity;sense organ;An organ that is capable of transducing sensory stimulus to the nervous system.
+material entity;phragma IV;The phragma of the abdominal tergite 1 that attaches to muscles attached to the abdominal tergite 1.
+material entity;guard sensillum;The "rod-like" modified chaetae that composed the sense organ on the antennal segment 3.
+material entity;organ;Anatomical structure that performs a specific function or group of functions
+material entity;lateral sensillum;Any sensillum located on the abdominal tergite 2 and abdominal tergite 3.
+material entity;tissue;Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+material entity;anterior antecosta-metafurcalis muscle;The thoracic muscle attached to the phragma V, anterior to the posterior antecosta-metafurcalis muscle, and the metafurca.
+material entity;organ of special sense part;Any component associated with the anatomic structures in the head responsible for special sensations rather than general sensations, including the eyes, ears, nose, and tongue.
+material entity;dental tubercle;The tubercle located in the in proximal side of dens
+material entity;neuron;The basic cellular unit of nervous tissue. Each neuron consists of a body, an axon, and dendrites. Their purpose is to receive, conduct, and transmit impulses in the nervous system.
+material entity;clypeal tubercle;The tubercle located on clypeus.
+material entity;tentorial projection;Any projection of pseudotentorium
+material entity;dorsointernal tubercle;The tubercle located on dorsointernal side of head.
+material entity;multi-tissue structure;Anatomical structure that has as its parts two or more portions of tissue of at least two different types and which through specific morphogenetic processes forms a single distinct structural unit demarcated by bona-fide boundaries from other distinct structural units of different types.
+material entity;neuropil;Multi-cell component structure of the central nervous system consisting largely of neuron projections (tracts and synaptic neuropil domains) and associated glial cells.
+material entity;thickening of the lateral parts of the clypeus;The ridge that is internal to the frontal sclerite.
+material entity;dorsoexternal tubercle;The tubercle located on dorsoexternal side of head.
+material entity;endoplasmic reticulum;The irregular network of unit membranes, visible only by electron microscopy, that occurs in the cytoplasm of many eukaryotic cells. The membranes form a complex meshwork of tubular channels, which are often expanded into slitlike cavities called cisternae. The ER takes two forms, rough (or granular), with ribosomes adhering to the outer surface, and smooth (with no ribosomes attached).
+material entity;anterior pseudotentorium;The anterior connective area of cuticular fulcro-tentorimum.
+material entity;ocular tubercle;The tubercle located on dorsointernal side of ocular area.
+material entity;muscle organ;Organ consisting of a tissue made up of various elongated cells that are specialized to contract and thus to produce movement and mechanical work.
+material entity;medial antecosta-antecostalis abdominal muscle;The abdominal muscle attached to the phragma III, medial to the lateral antecosta-antecostalis abdominal muscle and phragma IV.
+material entity;antennary pseudotentorium;The connective tissue that is anteromedial and continuous with the pseudotentorium.
+material entity;dorsolateral tubercle;The tubercle located on dorsolateral side of head.
+material entity;multicellular organism;Anatomical structure that is an individual member of a species and consists of more than one cell.
+material entity;dorsoventral longitudinal muscle 2;The muscle of the embryo that develops in the lateral pronoto-coxal muscle of the adult.
+material entity;septum;A wall, dividing a cavity or structure into smaller ones.
+material entity;dorsoventral longitudinal muscle 3;The muscle of the embryo that develops in the mesonoto-coxal muscle of the adult.
+material entity;sac;A sac that is an outpouching of a hollow (or a fluid-filled) structure in the body.
+material entity;internalsagital muscle;
+immaterial entity;dorsal vessel;The vessel which runs longitudinally in the dorsal midline of the body and may consist of anterior aorta, heart and posterior aorta.
+immaterial entity;vessel;The anatomical structure which is part of the hemolymph vascular system and consists of a vascular wall and a vascular lumen.
+material entity;dorsolongitudinal muscle 1;The muscle of the embryo that develops in the lateral antecosta-antecostalis muscle of the adult.
+material entity;dorsolongitudinal muscle 2;The muscle of the embryo that develops in the medial antecosta-antecostalis muscle of the adult.
+material entity;valve;A rigid covering that envelops an object.
+material entity;dorsal suspensory muscle;The muscle that is attached to the dorsal side of the head capsule head and the transverse mandibular tendon.
+material entity;subdivision of digestive tract;A proximal-distal subdivision of the digestive tract.
+material entity;dorsal longitudinal muscle;The cephalic muscle that is attache to the dorsal side of head capsule and pseudotentorium.
+material entity;papilla;Surface structure that is a small, fleshy protuberance
+material entity;cardinal flexor muscle of the lacina;The cephalic muscle that is attached to the cardo.
+material entity;nerve;Any one of the fibrous tracts of the peripheral nervous system, whether a single fiber or a group of fibers. a nerve trunk.
+material entity;dorsoventral longitudinal muscle;The muscle of the embryo that develops in the medial profurca-antecostal muscle of the adult.
+material entity;gut section;A subdivision of the gut along its long axis.
+material entity;dorsoventral longitudinal muscle 1;The muscle of the embryo that develops in the medial pronoto-coxal muscle of the adult.
+material entity;periproct;
+immaterial entity;tube;Any hollow cylindrical anatomical structure containing a lumen through which substances are transported.
+immaterial entity;anus;Orifice at the opposite end of an animal's digestive tract from the mouth.
+immaterial entity;nephridium;An exceretory tubule that usually opens to the exterior by a nephridiopore.
+material entity;dorsolongitudinal muscle;The muscle of the embryo that develops in the antecosta-occipital muscle of the adult.
+immaterial entity;proventriculus;A muscular dilatation of the foregut in most mandibulate insects that is armed internally with chitinous teeth or plates for triturating food.
+material entity;endoskeleton;Skeletal subdivision that undergoes indirect development and includes elements that develop as a replacement or substitution of other elements or tissues.
+material entity;subapical antennal organ;The modifed chaeta located in the apical side of antennal segment 4.
+material entity;multicellular structure;An anatomical structure that has more than one cell as a part.
+material entity;trichodea;Any "hair-like" chaeta located on the body.
+material entity;crystalline cone;The cell cluster that is adjacent to the cornea and corneagenous cell, and connected to the photoreceptor.
+material entity;cornea;The transparent anterior portion of the fibrous coat of the eye that serves as the chief refractory structure
+material entity;dioptric apparatus;The anatomical cluster composed by the cornea, crystallie cone, and corneagenous cell.
+material entity;adult;A multicellular organism that existence ends with a post-juvenile adult stage and existence starts with a post-juvenile adult stage.
+material entity;ommochromic pigment;Ommochromes are metabolites of tryptophan, via kynurenine and 3-hydroxykynurenine.
+immaterial entity;orifice;Anatomical conduit that connects two adjacent body spaces (or a body space with the space surrounding the organism)
+material entity;tentoriocardinal muscle;The muscle that connects the basal side of pseudotentorium and cardo.
+material entity;pigment;An endogenous molecular entity that results in a colour of an organism as the consequence of the selective absorption of light.
+material entity;ocellus A;In the first row on external-medial axis, the first ocellus adjacent to ocellus B
+material entity;microfold of filter chamber;The smaller fold that is part of the filter chamber.
+material entity;testis;A gonad of a male animal. A gonad produces and releases sperm.
+material entity;mesonoto-coxal muscle;The thoracic muscle attached to the mesonotum and mesocoxa
+material entity;ocellus B;In the first row on external-medial axis, the first ocellus adjacent to ocellus A
+material entity;macrofold of filter chamber;The larger fold that is part of the filter chamber.
+material entity;ovary;The gonad of a female organism which contains germ cells.
+material entity;posterior mesonoto-profurcalis muscle;The abdominal muscle attached to the profurca, posterior to the anterior mesonoto-profurcalis muscle, and the mesonotum.
+material entity;ocellus C;In the second row on external-medial axis, the second ocellus immediately posterior to ocellus B
+material entity;cuticular clasps;The tubercle located in the basal side of the manubrium.
+material entity;abductor muscle;A muscle that moves a body part away from the sagittal plane/midline of the body.
+material entity;anterior mesonoto-subcoxal muscle;The thoracic muscle attached to the mesonotum and mesosubcoxa
+material entity;ocellus D;In the second row on external-medial axis, the first ocellus immediately posterior to ocellus A
+material entity;basal flap;The carina located in the basal side of the lamella 5 on the capitulum.
+material entity;intestinal epithelium;Epithelial layer that lines the intestine.
+material entity;abdominal muscle;Any skeletal muscle that is part of the abdomen.
+material entity;ocellus E;In the third row on external-medial axis, the first ocellus posterior to or in lateral side of ocellus D
+material entity;labral edge;The ridge located on the anterior margin of the labrum.
+material entity;acellular anatomical structure;Anatomical structure that consists of cell parts and cell substances and together does not constitute a cell or a tissue.
+material entity;ocellus F;In the fourth row on external-medial axis, the first ocellus posterior to ocellus D and ocellus E
+material entity;interconnecting ridge;The apodeme that is elongated and connects the tubercle on the surface of the region of the cuticle.
+material entity;adductor muscle;A muscle capable of adduction. Adduction is a movement which brings a part of the anatomy closer to the middle sagittal plane of the body.
+material entity;ocellus G;In the fourth row on external-medial axis, the second ocellus immediately posterior to ocellus H
+material entity;posterior metanoto-coxal muscle;The thoracic muscle attached to the metanotum and anterior side of mesocoxa.
+material entity;ocellus H;In the third row on external-medial axis, the second ocellus immediately posterior to ocellus C
+material entity;labral ridge;The ridge located on the dorsal side of the labrum.
+immaterial entity;anatomical conduit;Any tube, opening or passage that connects two distinct anatomical spaces.
+material entity;metanoto-subcoxal muscle;The thoracic muscle attached to the mesocoxa, mesonotum, and the mesosubcoxa.
+material entity;pleural fold;The cuticular fold thta encloses the mouthparts during the development of the embryo.
+material entity;tegumentary fold;Any fold that is part of the region of the integument.
+material entity;anterior mesonoto-profurcalis muscle;The abdominal muscle attached to the profurca, anterior to the posterior mesonoto-profurcalis muscle, and the mesonotum.
+material entity;rudimentary second antennae;The antennal rudiment that is part of the embryo.
+material entity;subgenal fold;The fold that is continuous with the postcephalic segments.
+material entity;lateral profurca-antecostalis muscle;The thoracic muscle attached to the profurca, lateral to the medial profurca-antecostalis muscle, and the phragma III.
+material entity;postantennal organ;A oblong or elliptical sensory organ situated just caudal to the base of the antenna.
+material entity;anatomical structure;Material anatomical entity that is a single connected structure with inherent 3D shape generated by coordinated expression of the organism's own genome.
+immaterial entity;anatomical space;Non-material anatomical entity of three dimensions, that is generated by morphogenetic or other physiologic processes. is surrounded by one or more anatomical structures. contains one or more organism substances or anatomical structures.
+material entity;lateral eye;
+material entity;parafurcular lobe;The lobe located in the lateral side of the furcula.
+material entity;chaeta F2;The chaeta posterior to chaeta F1 of row F on fourth abdominal segment chaeta.
+material entity;filament;A long, slender, flexible spicule which gradually tapers to a point or is of equal diameter throughout.
+material entity;profurca-coxal muscle 4;The thoracic muscle attached to the procoxa and the ventral side of profurca and profurca-coxal muscle 3.
+material entity;cornea nipple;Thre cuticular protrusion located on the surface of cornea.
+material entity;maxillary outer lobe;The lobe adjacent to labrum and attached to the stipes.
+material entity;chaeta F1;The chaeta most anterior of row F on fourth abdominal segment chaeta.
+material entity;profurca-coxal muscle 3;The thoracic muscle attached to the procoxa and the ventral side of profurca and profurca-coxal muscle 4.
+material entity;ventral groove;The groove located on medial line between head ventral side to collophore anterior side.
+material entity;procoxal lobe;The lobe located in the procoxa
+material entity;chaeta F4;The chaeta posterior to chaeta F3 of row F on fourth abdominal segment chaeta.
+material entity;scale;A modified seta comprised of a slender basal stalk, pedicel, and an expanded and/or flattened distal part, squame. all scales have longitudinal ridges and arise from alveoli which are usually minute. Two main types of scales are recognized in mosquitoes by cross section of the squame. If the squame is round or elliptical, the scale is pilliform. if it is thin and flat, the scale is lamellar.
+material entity;phragma II;The phragma of the mesonotum that attaches to muscles attached to the mesonotum.
+material entity;pseudocellar medial groove;A invagination of pseudocelli.
+material entity;postantennal organ lobe;
+material entity;chaeta F3;The chaeta posterior to chaeta F2 of row F on fourth abdominal segment chaeta.
+material entity;spine;A very large, sturby, immovable spicule. with a sharp or narrowly rounded tip.
+material entity;phragma I;The phragma of the pronotum that attaches to muscles attached to the pronotum.
+material entity;labial margin;The line that delimits the labial palp and labial triangle.
+material entity;tibiotarsal lobe;The lobe located in the tibiotarsus.
+material entity;chaeta F6;The chaeta most posterior of row F on fourth abdominal segment chaeta.
+material entity;vestiture;The general surface covering of insects comprised of cuticular projections, i.e., setae, scales and spicules.
+material entity;medial antecosta-antecostalis muscle;The thoracic muscle attached to the phragma II, lateral to lateral antecosta-antecostalis muscle the and the phragma III.
+material entity;subcoxal lobe;The lobe located in the subcoxa
+material entity;chaeta F5;The chaeta posterior to chaeta F4 of row F on fourth abdominal segment chaeta.
+material entity;tooth;A very stout heavy spicule with a blunt apex.
+material entity;phragma III;The phragma of the metanotum that attaches to muscles attached to the metanotum.
+material entity;labro-labial cleft;A medial concavity tha is continuous with the labial margin and includes the labrum.
+material entity;intersegmental fold;The fold located between trunk segments.
+material entity;tormogen cell;An epidermal cell that is part of a cell cluster organ of the insect integument (such as a sensillum) and that secretes a cuticular specialization that forms a socket around the base of a cuticular specialization produced by a trichogen cell.
+material entity;profurca-mesofurcalis muscle;The muscle that connects the mesofurca and profurca.
+material entity;labial cleft;A medial concavity tha is continuous with the labial margin.
+material entity;cuticular fold;Any fold that is part of the region of the cuticle.
+material entity;thecogen cell;The support cell that makes the thecogen dendritic cap - a cuticle-like matrix around the tip of the eo-dendrite and which encloses the soma of the eo-neuron.
+material entity;lateral antecosta-antecostalis muscle;The thoracic muscle attached to the phragma II, lateral to medial antecosta-antecostalis muscle the and the phragma III.
+material entity;chaeta em;The chaeta that is external to the chaeta im on the abdominal tergite 2 and abdomina tergite 3.
+material entity;chaeta Ee9;The chaeta most posterior of row Ee on fourth abdominal segment chaeta.
+material entity;lingua;The inner lobes of the hypopharynx.
+material entity;chaeta emp.ab3;The suplementary chaeta anterior to chaeta am6.ab3 that compose the external bothriotrical complex on abdominal segment 3.
+material entity;profurca-coxal muscle 2;The thoracic muscle attached to the procoxa and the ventral side of profurca.
+material entity;intercalary appendage;The lobe located posterior to the antenna of the embryo and anterior to the mandible of embryo during the development of the embryo.
+material entity;chaeta em.ab3;The external suplementary chaeta that compose the external bothriotrical complex on abdominal segment 3.
+material entity;superlingual notch;A medial concavity tha is continuous with the lateral superlingua.
+material entity;sperm;A mature male germ cell that develops from a spermatid.
+material entity;pseudocellus circular suture;The suture that delimits the pseudocelli.
+material entity;trichogen cell;An epidermal cell that is part of a cell cluster organ of the insect integument (such as a sensillum) and that secretes a cuticular specialization, often in the form of a hair, bristle, peg or scale.
+material entity;medial profurca-antecostalis muscle;The thoracic muscle attached to the profurca, medial to the lateral profurca-antecostalis muscle, and the phragma III.
+material entity;gonad;Reproductive organ that produces and releases eggs (ovary) or sperm (testis).
+material entity;epipharyngeal rod;The sclerotized structure that is attached to the pseudotentorium and adjacent to the mandible.
+material entity;subapical tooth;The apical tooth located in the internal margin of the unguis.
+material entity;epithelial vesicle;A closed epithelium with a lumen.
+material entity;posterior metanoto-subcoxal muscle;The thoracic muscle attached to the posterolateral side of metanotum, and the metasuboxa.
+material entity;frontal sclerite;The internal sclerotized plate located behind clypeus.
+material entity;pseudonychial tooth;The lamella located on the lateral side of the unguis.
+material entity;ectoderm-derived structure;An anatomical structure that develops (entirely or partially) from the ectoderm.
+material entity;anterior metanoto-subcoxal muscle;The thoracic muscle attached to the anterolateral side of metanotum, and the metasuboxa.
+material entity;fulcrum;Sclerites located between hypopharynx to medial wall of gnathal pouches.
+material entity;anal tubercle;The tubercle located in the anal region.
+immaterial entity;immaterial anatomical entity;Anatomical entity that has no mass.
+material entity;head capsule spine-like apodeme;The apodeme that connect the mandible with the pseudotentorium.
+material entity;wing tooth;The larger lamella located in the internal margin of the unguis.
+immaterial entity;excretory tube;A tube that is part of a excretory system.
+material entity;anterior metanoto-coxal muscle;The thoracic muscle attached to the metanotum and mesocoxa.
+material entity;hypopharingeal rod;The sclerotized structure, lateral to the epipharyngeal rod that is attached to the pseudotentorium and adjacent to the mandible.
+material entity;material anatomical entity;Anatomical entity that has mass.
+material entity;neural cell;A cell that is part of the nervous system.
+material entity;posterior tentorial apodeme;Is the apophysis of the tentorium that originates from each posterior tetorial pit.
+material entity;antenno-frontal tubercle;The tubercle located on antenno-frontal area of cephalic capsule.
+material entity;instar larval stage;This begins with the newly hatched first-instar larva, through its maturation to the end of the last larval stage.
+material entity;spine-like part of the hypopharynx;The apodeme that is posterior and continuous with the hypopharynx.
+material entity;midgut epithelium;An epithelium that is part of a midgut.
+material entity;epithelium;Portion of tissue, that consists of one or more layers of epithelial cells connected to each other by cell junctions and which is underlain by a basal lamina.
+material entity;unguiculus;The claw in distal side of tibitarsus ventral to unguis
+material entity;apical mandibular tooth;The projection that is located in the distalmost part of mandible
+material entity;metanotum;The notum or sclerite on the dorsal region of the metathorax that is posterior to the mesonotum, connected via the metanoto-metapleural conjuntiva to the dorsal margin of the metapleuron, that is not adjacent to the metacoxa, but attached to it by the metacoxal muscle.
+material entity;arms of folsom;The sclerotized structure that connects the lingua and the antero-lateral portion of pseudotentorium.
+material entity;anteapical mucronal tooth;The protrusion posterior to the apical mucronal tooth.
+material entity;posterior metanoto-mesofurcal muscle;The muscle that connects the meosfurca and metanotum.
+material entity;lateral endosternite 1;The connective tissue that is anterolateral and continuous with the pseudotentorium.
+material entity;manubrial tooth;The tubercle located in the articulation of the manubrium and dens.
+immaterial entity;digestive tube;A tube extending from the mouth to the anus.
+material entity;endosternite;Part of internal apodeme.
+material entity;apical mucronal tooth;The apical tubercle part of the mucro.
+material entity;compound organ;Anatomical structure that has as its parts two or more multi-tissue structures of at least two different types and which through specific morphogenetic processes forms a single distinct structural unit demarcated by bona fide boundaries from other distinct anatomical structures of different types.
+material entity;metanoto-coxal muscle;The thoracic muscle attached to the metanotum and metacoxa
+material entity;pars intercebralis;The cluster of neurons that is part of the protocerebrum
+material entity;mesounguis;The unguis part of medial legs.
+material entity;body region;Named areas of the body.
+material entity;lateral profurca-coxal muscle;The muscle that connects the profurca and mesocoxa.
+material entity;maxillary gland;The organ that is posteroventral to the mandible and dorsoventral to the maxilla.
+material entity;peduncle;Long cylindrical structure result of the secretory activity of the epithelial cells.
+material entity;cephalic region;The anteriormost subdivision of the body that includes the head, jaws, pharyngeal region and the neck (if present).
+material entity;mesofurca-coxal muscle 4;The thoracic muscle attached to the ventrolateral side of mesofurca and the mesocoxa, lateral to mesofurca-coxal muscle 3.
+material entity;pyloric sphincter;Organ at the junction of the midgut and hindgut.
+material entity;postoccipital spur;The spur located on ventral side of neck.
+material entity;digestive system;Anatomical system that has as its parts the organs devoted to the ingestion, digestion, and assimilation of food and the discharge of residual wastes.
+material entity;mesofurca-metafurcalis muscle;The muscle that connects the mesofurca and metafurca.
+material entity;metaunguis;The unguis part of hind legs.
+material entity;circulatory system;The anatomical system that is involved in circulation.
+material entity;medial profurca-coxal muscle;The muscle that connects the mesocoxa and mesofurca.
+material entity;cephalic endoskeleton;The anatomical entities (apodeme, tendon, connective tissue)located internaly in the head.
+material entity;prounguis;The unguis part of prolegs.
+material entity;muscular system;The subdivision of the musculoskeletal system that consists of all the muscles of the body.
+material entity;posterior antecosta-mesofurcal muscle;The thoracic muscle attached to the phragma III, posterior to anterior antecosta-mesofurcal muscle, and the mesofurca.
+material entity;unguis;The claw in distal side of tibitarsus dorsal to unguiculus
+material entity;endocrine system;Anatomical system that consists of the glands and parts of glands that produce endocrine secretions and help to integrate and control bodily metabolic activity.
+material entity;anterior antecosta-mesofurcal muscle;The thoracic muscle attached to the phragma III, anterior to posterior antecosta-mesofurcal muscle, and the mesofurca.
+material entity;reproductive system;Anatomical system that has as its parts the organs concerned with reproduction.
+material entity;cuticular fulcro-tentorium;The connective plate located under the stomodeum
+material entity;nervous system;The nervous system is an organ system containing predominantly neuron and glial cells. In bilaterally symmetrical organism, it is arranged in a network of tree-like structures connected to a central body.
+material entity;anterior metanoto-mesofurcal muscle;The muscle that connects the mesofurca and metanotum.
+material entity;spur;The multicellular evagination of the cuticle that corresponds to an epithelial fold, composed of some sclerite that is encricled by a conjunctiva (moveable).
+material entity;mesofurca-coxal muscle 1;The thoracic muscle attached to the anterior side of mesofurca and the mesocoxa.
+material entity;pseudocellar rib;The ridge located on the pseudocellus.
+material entity;prothoracic ganglion;The cluster of neurons located in the prothorax.
+material entity;acroseme;Conical structure anterior to nucleus in the spermatozoa.
+material entity;region of organ component;Cardinal organ part which is a fiat subdivision of an organ component.
+material entity;mesofurca-coxal muscle 3;The thoracic muscle attached to the anterior side of mesofurca and the mesocoxa, lateral to mesofurca-coxal muscle 3.
+material entity;manubrial hook;A tubercle located in the distal side of manubrium.
+material entity;mesofurca-coxal muscle 2;The thoracic muscle attached to the ventrolateral side of mesofurca and the mesocoxa.
+material entity;respiratory system;Functional system which consists of structures involved in respiration.
+material entity;maxillar lamella 2;The protrusion laterally compressed, adjacent to the maxillar lamella 6 and part of the capitulum.
+material entity;chaeta D1;The chaeta most anterior of row D on fourth abdominal segment chaeta.
+material entity;fiber-bundle neuropil;The bundle of fibers composed by axons and cell body fibers.
+material entity;chaeta cg2;The second chaeta on the cephalic groove on the antero-posterior axis.
+material entity;synapse-rich neuropil;The synapse-rich neuropil composed by neuronal that possess synapses.
+material entity;maxillar lamella 4;The protrusion laterally compressed, adjacent to the maxillar lamella 5 and part of the capitulum.
+material entity;chaeta D2;The chaeta posterior to chaeta D1 of row D on fourth abdominal segment chaeta.
+material entity;craniomandibular muscle 1;The cephalic muscle attached to the frons and the mandible along with the craniomandibular muscle 2 and craniomandibular 3.
+material entity;cerebral ganglion;The cluster of neurons anterior of the brain.
+material entity;maxillar lamella 3;The protrusion laterally compressed, external to the maxillar lamella 2 and part of the capitulum.
+material entity;chaeta d1;The first guard appendage on papilla D of labial palp.
+material entity;frons;The region of cuticle of the head capsule that is located posterior to the clypeus and delimited by the frontal suture.
+material entity;central complex;The synapse-rich neuropil located on th midle line of the protrocerebrum.
+material entity;maxillar lamella 6;The protrusion laterally compressed, internal to the maxillar lamella 2 and part of the capitulum.
+material entity;chaeta D3;The chaeta posterior to chaeta D2 of row D on fourth abdominal segment chaeta.
+material entity;craniomandibular muscle 3;The cephalic muscle attached to the frons and the mandible along with the craniomandibular muscle 1 and craniomandibular 2.
+quality;size;A morphology quality inhering in a bearer by virtue of the bearer's physical magnitude.
+material entity;maxillar lamella 5;The protrusion laterally compressed, internal to the maxillar lamella 6 and part of the capitulum.
+material entity;chaeta d2;The second guard appendage on papilla D of labial palp.
+material entity;craniomandibular muscle 2;The cephalic muscle attached to the frons and the mandible along with the craniomandibular muscle 1 and craniomandibular 3.
+material entity;neurite;Any neural projection.
+material entity;lateral lamella;The paired carina that is external to the internal lamella part of the unguis.
+material entity;chaeta D3p;The chaeta posterior to chaeta D3 of row D on fourth abdominal segment chaeta.
+material entity;craniomandibular muscle 5;The cephalic muscle attached to the frons and the mandible along with the craniomandibular muscle 4.
+quality;microchaeta;The size smaller thant the microchaeta.
+material entity;internal mucronal lamella;The lamella located on the dorsal side of the mucro.
+material entity;chaeta d3;The third guard appendage on papilla D of labial palp.
+material entity;craniomandibular muscle 4;The cephalic muscle attached to the frons and the mandible along with the craniomandibular muscle 5.
+quality;macrochaeta;The size bigger than the mesochaeta.
+material entity;chaeta cg1;The first chaeta on the cephalic groove on the antero-posterior axis.
+material entity;lamella pe;The carina in the external-posterior side of the unguiculus.
+material entity;capitulum;The apical segment connected to the stipes.
+material entity;posterior labral row;The chaetae row most anterior and located on the labrum.
+material entity;lamella pi;The carina in the internal-posterior side of the unguiculus.
+material entity;chaeta d4;The fourth guard appendage on papilla D of labial palp.
+material entity;medial craniostipital muscle;The cephalic muscle attached to the head capsule and the stipe.
+quality;mesochaeta;The size intermediates between the macrochaeta and microchaeta.
+material entity;internal maxillar muscle 1;The muscle that connects the cardo and chitinous expansion.
+material entity;lamella ai;The carina in the internal-anterior side of the unguiculus.
+material entity;lateral craniofurcal muscle;The muscle that connects the gena and chitinous expansion.
+material entity;chaeta c1;The first chaeta of clasping organ on antennal segment 3.
+material entity;aggenital chaeta;The group of chaetae located on ventral side of abdominal segment 5.
+material entity;chaeta C1;The chaeta most anterior of row C on fourth abdominal segment chaeta.
+material entity;adult vestiture;The group of chaetae located on body in the adult stage.
+material entity;dorso-lateral oesophageal dilator muscle;The muscle that connects the oesophagous and frontal sclerite.
+material entity;chaeta C2;The chaeta anterior to chaeta C3 of row C on fourth abdominal segment chaeta.
+material entity;anal lobes chaeta;The chaeta located on the anal lobes.
+material entity;trachea;The branching invagination of elastic cuticle that is cylindrical and contains taenidia.
+material entity;plica oralis;Projections of gena that enclosed the mandible and maxilla.
+material entity;chaeta C1p;The chaeta posterior to chaeta C1 of row C on fourth abdominal segment chaeta.
+material entity;anal chaeta;The group of chaetae located on anal area.
+quality;laterally compressed;A quality inhering in a bearer by virtue of the bearer's being flattened along transverse axis.
+material entity;postocular area;The area posterior to the ocular area.
+material entity;chaeta C3;The chaeta posterior to chaeta C2 of row C on fourth abdominal segment chaeta.
+material entity;anal valve chaeta;The group of chaetae located on anal valve.
+material entity;leg trachea;Any trachea located in the leg.
+material entity;pseudocellus;Circular entity conforms by granules and ribs located on trochanter.
+material entity;chaeta c2;The second chaeta of clasping organ on antennal segment 3.
+material entity;anal horn;
+material entity;cephalic bundle;The tracheal bundle located in the head.
+material entity;apical bulb;The lobe located in the apical region of the antennal segment 4.
+material entity;chaeta C4;The chaeta most posterior of row C on fourth abdominal segment chaeta.
+material entity;antennal chaeta;The group of chaetae located on each segment that composed the antenna.
+material entity;thoracic bundle;The tracheal bundle located in the thorax.
+material entity;sternite;The sclerite of the abdomen that is ventral and medial.
+material entity;prelabrum;The basal area of labrum.
+material entity;chaeta c3;The third chaeta of clasping organ on antennal segment 3.
+material entity;antegenital chaeta;The chaeta located in the abdominal sternite 5.
+material entity;protoracic leg trachea;Any trachea located in the fore leg.
+material entity;adanal chaeta;The group of chaetae located on ventral side of abdominal segment 6.
+material entity;abdominal chaeta;The group of chaetae located on abdominal segments.
+material entity;chaeta c5;The fifth chaeta of clasping organ on antennal segment 3.
+material entity;spiracle;The region of the cuticle that is continuous to the proximal region of the trachea and can be closed by muscles.
+material entity;internal lamella;The paired carina that is internal to the lateral lamella part of the unguis.
+material entity;chaetal alveolus;A cuticular depression that contains the basal ring cell.
+material entity;chaeta c4;The fourth chaeta of clasping organ on antennal segment 3.
+material entity;mesothoracic leg trachea;Any trachea located in the mid leg.
+material entity;distal margin;Anatomical margin that is located on the distal side of the body or body part.
+material entity;maxillar lamella 1;The protrusion laterally compressed, adjacent to the maxillar lamella 2 and part of the capitulum.
+material entity;setose;The anatomical collection that is composed of setae.
+material entity;maxillar lamella;Any maxillar lamella that is part of the capitulum.
+material entity;anatomical collection;A collection of anatomical structures that are alike in terms of their morphology or developmental origin.
+material entity;abdominal sternite 1-abdominal sternite 2 conjunctiva;The conjunctiva of the abdomen that connects the abdominal sternite 1 and the abdominal sternite 2.
+material entity;tracheola;The terminal branches of the trachea.
+material entity;labial papilla E;The papilla adjacent to the labial papilla D.
+material entity;chaeta Ee3;The chaeta posterior to chaeta Ee2 of row Ee on fourth abdominal segment chaeta.
+material entity;antecosta-pseudotentorial muscle;The muscle that connects the phragma I and pseudotentorium.
+material entity;labial papilla D;The papilla adjacent to the labial papilla B and the labial papilla E.
+material entity;chaeta Ee2;The chaeta posterior to chaeta Ee1 of row Ee on fourth abdominal segment chaeta.
+material entity;profurca-pseudotentorial muscle;The muscle that connects the profurca and pseudotentorium.
+material entity;precoxal process;
+material entity;chaeta Ee5;The chaeta posterior to chaeta Ee4 of row Ee on fourth abdominal segment chaeta.
+material entity;cervico-coxal muscle;The muscle that connects the neck membrane and procoxa.
+immaterial entity;cuticular cavity;Any depression located on cuticle.
+material entity;labial papilla H;The papilla adjacent to the labial papilla B.
+material entity;chaeta Ee4;The chaeta posterior to chaeta Ee3 of row Ee on fourth abdominal segment chaeta.
+material entity;profurca-occipital muscle;The muscle that connects the occiput and profurca.
+immaterial entity;epithelial coelomosac;The anatomical space that is part of labial nephridium and composed by podocytes.
+material entity;subanal lobe;The lobe posterior to the abdominal segment 4 of the embryo.
+material entity;chaeta Ee7;The chaeta posterior to chaeta Ee6 of row Ee on fourth abdominal segment chaeta.
+material entity;lateral pronoto-coxal muscle;The thoracic muscle attached to the procoxa and the anterior side of pronotum.
+immaterial entity;filter chamber;Part of digestive system continous to pyloric valves.
+material entity;anal lobe;The lobe located in the anal region.
+material entity;chaeta Ee6;The chaeta posterior to chaeta Ee5 of row Ee on fourth abdominal segment chaeta.
+material entity;neck membrane;The conjuctiva that is continuous with the posterior margin of the head capsule and with the anterior margin of the pronotum, and bears cervical sclerites.
+material entity;gnathal pouch;The invagination of the cuticle that encloses the maxilla and the mandible.
+material entity;basal corpus lobe;The basal region of the corpus.
+material entity;occipito-pseudotentorial muscle;The muscle that connects the fulcrum and occiput.
+immaterial entity;mandibular cavity;A depression located on anterior region of mandible
+material entity;apical corpus lobe;The lobe located in the anteroapical side of the corpus.
+material entity;chaeta Ee8;The chaeta posterior to chaeta Ee7 of row Ee on fourth abdominal segment chaeta.
+material entity;medial pronoto-coxal muscle;The thoracic muscle attached to the procoxa and the anterolateral side of pronotum.
+material entity;chaeta Ee10;The chaeta most anterior of row Ee on fourth abdominal segment chaeta.
+material entity;labial papilla C;The papilla adjacent to the labial papilla A and ventral to the labial papilla D.
+material entity;chaeta Ee12;The chaeta posterior to chaeta Ee11 of row Ee on fourth abdominal segment chaeta.
+material entity;chaeta Ee11;The chaeta posterior to chaeta Ee10 of row Ee on fourth abdominal segment chaeta.
+material entity;profurca-coxal muscle 1;The thoracic muscle attached to the procoxa and the anterior side of profurca.
+immaterial entity;nephridial aperture;The orifice of excretory tube or nephridium.
+material entity;corpus posterior lobe;The lobe located in the posteroapical side of the corpus.
+material entity;occipito-cervical muscle;The thoracic muscle attached to the occiput and neck membrane.
+immaterial entity;labial nephridium;Excretory tubes located in the labium.
+material entity;molar cuspid;The apical protuberance of the mandible.
+material entity;chaeta E1;The chaeta most anterior of row E on fourth abdominal segment chaeta.
+material entity;internal maxillar muscle 2;The muscle that connects the stipe and chitinous expansion.
+material entity;subsegment M2;The subsegment posterior to the subsegment M1 on the antennal segment 4.
+material entity;lamella ae;The carina in the external-anterior side of the unguiculus.
+material entity;chaeta De3;The chaeta posterior to chaeta De1 of row De on fourth abdominal segment chaeta.
+material entity;spermatozoon;A motile male gamete of an animal usually with rounded or elongate head and a long posterior flagellum.
+material entity;antennal apical papilla;
+material entity;chaeta E3;The chaeta posterior to chaeta E2 of row E on fourth abdominal segment chaeta.
+material entity;cranioesophagic muscle;The cephalic muscle that connects the oesophagus and the antenna.
+material entity;chaeta M1;The first chaeta of medial row on medial-external axis of head capsule.
+material entity;anal papilla;
+material entity;chaeta E2;The chaeta posterior to chaeta E1 of row E on fourth abdominal segment chaeta.
+material entity;craniohypopharingeal muscle;The muscle that is attached to the head capsule and hypopharynx.
+quality;annulate;Furnished with or composed of rings
+material entity;genital papilla;The lobe that encircles the genital pore.
+material entity;chaeta E4p;The chaeta posterior to chaeta E4 of row E on fourth abdominal segment chaeta.
+material entity;lateral occipitocranial muscle;The cephalic muscle attached to the occiput, lateral to the medial occipitocranial muscle, and the frons.
+material entity;chaeta M4;The fifth chaeta of medial row on medial-external axis of head capsule.
+material entity;dental papilla;The protuberance located on the dens.
+material entity;chaeta E4;The chaeta posterior to chaeta E3 of row E on fourth abdominal segment chaeta.
+material entity;medial occipitocranial muscle;The cephalic muscle attached to the occiput, medial to the laterla occipitocranial muscle, and the frons.
+material entity;chaeta M3;The third chaeta of medial row on medial-external axis of head capsule.
+material entity;labial papilla;Any papilla that is part of the labial palp.
+material entity;centroposterior chaeta;The group of chaetae located in the centroposterior side of antennal segment 4.
+material entity;thoracic muscle;Any skeletal muscle that is part of the thorax.
+material entity;chaeta E4p2;The chaeta posterior to chaeta E4p of row E on fourth abdominal segment chaeta.
+material entity;cephalic muscle;Any skeletal muscle that is part of the head.
+material entity;tubercle CL;The tubercle located on the clypeus.
+material entity;chaeta De1;The chaeta most anterior of row De on fourth abdominal segment chaeta.
+material entity;chaeta d5;The fifth guard appendage on papilla D of labial palp.
+material entity;labial papilla B;The papilla adjacent to the labial papilla D and the papilla H.
+material entity;phragma;Large, ridge-shaped internal apodeme.
+material entity;labial papilla A;The papilla adjacent to the labial papilla C and ventral to the labial papilla B.
+material entity;medial antecosta-occipital muscle;The thoracic muscle attached to the phragma I, medial to lateral antecosta-occipital muscle, and the occiput.
+material entity;lateral antecosta-occipital muscle;The thoracic muscle attached to the phragma I, laterla to medial antecosta-occipital muscle, and the occiput.
+material entity;chaeta T5;The chaeta posterior to chaeta T4 of row T on the abdominal segment 4.
+material entity;chaeta AIII;The third whorl located on apical side of antennal segment 4.
+material entity;chaeta T7;The chaeta posterior to chaeta T6 of row T on the abdominal segment 4.
+material entity;chaeta T6;The chaeta posterior to chaeta T5 of row T on the abdominal segment 4.
+material entity;chaeta An1;The most anterior chaeta of antennal row on medial-external axis of head capsule.
+material entity;chaeta v1;The external chaeta of the vertical row on the dorsal side of the head capsule.
+material entity;embryonic tissue;A portion of tissue that is part of an embryo.
+material entity;chaeta am6.ab3;The supplementary chaeta thta compose the external bothriotrical complex of abdominal segment 3.
+material entity;chaeta Te3;The chaeta posterior to chaeta T7 on fourth abdominal segment chaeta.
+occurrent;embryo stage;Any development stage during the embryo formation.
+material entity;chaeta An2;The second chaeta posterior to chaeta An1a of antennal row on medial-external axis of head capsule.
+material entity;chatea sb2;The second basal s-chaeta of antennal segment 4.
+material entity;mesoderm;The middle germ layer of the embryo, between the endoderm and ectoderm.
+material entity;chaeta An1a;The second chaeta posterior to chaeta An1 of antennal row on medial-external axis of head capsule.
+material entity;chaeta v2;The internal chaeta of the vertical row on the dorsal side of the head capsule.
+material entity;ectoderm;Primary germ layer that is the outer of the embryo's three germ layers and gives rise to epidermis and neural tissue.
+material entity;chaeta An3;The most posterior chaeta of antennal row on medial-external axis of head capsule.
+material entity;base of tenent hair;The subdivision located on basal region of tenent hair.
+material entity;blastoderm;A layer of cells formed at one pole of macrolecithal eggs such as the yolky egg of birds. The yolk prevents the division from taking place through the egg, resulting in meroblastic cleavage during the many cleavage divisions. At the animal pole (containing less yolk than the vegetal pole), the zygote divides and subdivides, forming the blastoderm, which gradually spreads around the yolk and forms the embryo. The blastoderm is composed of two layers, the epiblast and the hypoblast, which enclose the fluid-filled blastocoel cavity.
+material entity;chaeta An2a;The second chaeta posterior to chaeta An2 of antennal row on medial-external axis of head capsule.
+material entity;tenent hair;The chaeta located in the subdistal area on external side of tibiotarsus.
+material entity;endoderm;Primary germ layer that lies remote from the surface of the embryo and gives rise to internal tissues such as gut.
+material entity;chaeta Ap;The chaeta adjacent to chaeta Ae located on apical side of antennal segment 4.
+material entity;chaeta An3a;The chaeta anterior to chaeta An3 of antennal row on medial-external axis of head capsule.
+material entity;lumen of tenent hair;The lumen of the tenent hair.
+material entity;maxilla of embryo;The region of the embryo that develops in the maxilla of the adult.
+material entity;chaeta Ape;The chaeta adjacent to chaeta Ap located on apical side of antennal segment 4.
+material entity;primary dorsal organ;The region composed by blastoderm cells during the development of egg.
+material entity;mesotibiotarsus;The segment of a leg attached to the distal margin of the femur by the mesofemoro-mesotibiotarsal conjunctiva and to the proximal margin of the mesopretarsus by the mesotibiotarsal-mesopretarsal conjunctiva.
+material entity;tibiotarsus;The segment of a leg attached to the distal margin of the femur by the femoro-tibiotarsal conjunctiva and to the proximal margin of the pretarsus by the tibiotarsal-pretarsal conjunctiva.
+material entity;chaeta sd1;The first chaeta located in the subdorsal area of head capsule.
+material entity;protibiotarsus;The segment of a leg attached to the distal margin of the femur by the profemoro-protibiotarsal conjunctiva and to the proximal margin of the propretarsus by the protibiotarsal-propretarsal conjunctiva.
+material entity;chaeta sb7;The seventh basal s-chaeta of antennal segment 4.
+material entity;metatibiotarsus;The segment of a leg attached to the distal margin of the femur by the metafemoro-metatibiotarsal conjunctiva and to the proximal margin of the metapretarsus by the metatibiotarsal-metapretarsal conjunctiva.
+material entity;chaeta Ae;A chaeta located on preapical side of antennal segment 3.
+material entity;chaeta sd3;The third chaeta located in the subdorsal area of head capsule.
+material entity;retinaculum segment;Each subdivision of retinaculum
+occurrent;stage 2;The embryo stage where the blastoderm is developed.
+material entity;chaeta Aai;The chaeta anterior to the chaeta Ai on the abdominal segment 3.
+material entity;chaeta sd2;The second chaeta located in the subdorsal area of head capsule.
+material entity;medial subsegment;The subsegment located on medial side of antennal segment 4.
+material entity;chaeta Ae2;The second chaeta of row Ae on the abdominal segment 4.
+material entity;chaeta sd5;The fifth chaeta located in the subdorsal area of head capsule.
+material entity;ramus;The distal segment of the retinaculum.
+occurrent;stage 4;The embryo stage where the embryo and serosa is developed.
+material entity;chaeta Ae1;The chaeta most posterior of row Ae on fourth abdominal segment chaeta.
+material entity;chaeta sd4;The fourth chaeta located in the subdorsal area of head capsule.
+material entity;corpus;The proximal segment of the retinaculum
+occurrent;stage 3;The embryo stage where the dorsal organ is developed.
+material entity;chaeta Ae4;The fourth chaeta of row Ae on fourth abdominal segment chaeta.
+material entity;chaeta T2;The chaeta posterior to chaeta T1 of row T on the abdominal segment 4.
+material entity;trunk;The human or animal body apart from the head and appendages.
+occurrent;stage 6;The embryo stage where the thoracic segment and cephalic appendage is developed.
+material entity;chaeta Ae3;The third chaeta of row Ae on fourth abdominal segment chaeta.
+material entity;chaeta T1;The chaeta most anterior of row T on the abdominal segment 4.
+material entity;tenaculum;
+occurrent;stage 5;The embryo stage where the cephalic segment and appendage is developed.
+material entity;chaeta AI;The first whorl located on apical side of antennal segment 4.
+material entity;chaeta T4;The chaeta posterior to chaeta T3 of row T on the abdominal segment 4.
+occurrent;stage 8;The embryo stage where the dorsal closure is completed.
+material entity;chaeta Ae5;The fifth chaeta of row Ae on fourth abdominal segment chaeta.
+material entity;chaeta T3;The chaeta posterior to chaeta T2 of row T on the abdominal segment 4.
+occurrent;stage 7;The embryo stage where the abdominal segment and appendage is developed.
+material entity;chaeta AII;The second whorl located on apical side of antennal segment 4.
+occurrent;stage 10;The embryo stage where the antennal segment 3 and antennal segment 4 are elongated.
+material entity;chaeta Ai;The chaeta located in the internal side of the anteapical region of the antennal segment 3.
+occurrent;stage 9;The embryo stage where the six paired ommatidia and appendage articulation is completed.
+occurrent;stage 11;The embryo stage where the embryo is completed.
+material entity;chaeta B6;The chaeta most posterior row B on fourth abdominal segment chaeta.
+material entity;basal spine;The spine located in the basal side of the apical chaeta.
+material entity;anterior-lateral spine;The spine located in the anterolateral side of the abdominal tergite 6.
+material entity;median area;The median area of the mesothorax.
+material entity;chaeta BA;The apical whorl of medial side of antennal segment 4.
+material entity;dental spine;The group of spine-shaped chaetae located on dorsobasal side of dens.
+material entity;chaeta b7;The seventh chaeta located on clasping organ of males.
+material entity;caudal spine;The spine posterior located on the abdominal tergite 6.
+material entity;abdominal segment of embryo 6;The region of the embryo that develops in the abdominal segment 6 of the adult.
+material entity;molar plate;The internal area located in the anterior region of mandible.
+material entity;chaeta Be1;The chaeta most anterior of row Be on fourth abdominal segment chaeta.
+material entity;opercular spine;The spine that is posterior to the caudal spine.
+immaterial entity;anatomical boundary;A non-material anatomical entity of two dimensions. Anatomical boundaries are contiguous structures.
+material entity;mesonotal disc;The mediodorsal area of mesonotum.
+material entity;chaeta BB;The basal whorl of medial side of antennal segment 4.
+material entity;mucronal spine;The spine adjacent to the basal mucronal tooth.
+material entity;epidermis;The single-layer surface epithelium emerging from the ectoderm.
+material entity;parietal area;The area anterior to occipital area on dorsal side of head.
+material entity;chaeta Be3;The chaeta posterior to chaeta Be2 of row Be on fourth abdominal segment chaeta.
+material entity;spinelete;The spine located in the basal side of mucronal spine.
+immaterial entity;external side;Anatomical surface that is located on the distal side of the body or body part.
+material entity;occipital area;The area located behind the parietal area.
+material entity;chaeta Be2;The chaeta posterior to chaeta Be1 of row Be on fourth abdominal segment chaeta.
+material entity;posterior-lateral spine;The spine located in the posterolateral side of the abdominal tergite 6.
+immaterial entity;anatomical surface;A 2D surface of an anatomical continuant.
+material entity;preanal spine;The spine-like chaetae located in the preanal area.
+material entity;basal plate;The basal area of the collophore.
+material entity;chaeta BM2;The second whorl of medial whorl on medial side of antennal segment 4.
+material entity;cuticular depression;The region of the cuticle that corresponds to a concave surface.
+material entity;plate;A thin relatively flat anatomical part (such as a lamina of bone) of an animal body
+material entity;chaeta BM1;The first whorl of medial whorl on medial side of antennal segment 4.
+material entity;subanal appendage;The spine located in the subanal area.
+material entity;appendage muscle;Any muscle that is internal to the appendages (antenna, collophore, leg, and furcula
+material entity;female genital plate;The plate that contains the female genitalia on ventral side of abdominal segment 5.
+material entity;neural tissue;Portion of tissue in the nervous system which consists of neurons and glial cells, and may also contain parts of the vasculature.
+material entity;genital plate;The area that contains the genital plate in the male or female.
+material entity;chaeta BM3;The third whorl of medial whorl on medial side of antennal segment 4.
+material entity;proximal margin;Anatomical margin that is located on the proximal region of the body or body part.
+material entity;male genital plate;The plate that contains the male genitalia on ventral side of abdominal segment 5.
+material entity;axial chaeta;The group of chaetae located on medial line of frontal side of head capsule.
+material entity;appendicular chaeta;Any chaeta located on the appendages.
+material entity;chaeta as.ab2;A sensillum adjacent to chaeta m3.ab2 on abdominal segment 2.
+material entity;centroapical chaeta;The group of chaetae located in the centroapical side of antennal segment 4.
+material entity;labium of embryo;The region of the embryo that develops in the labium of the adult.
+material entity;chaeta Api;The chaeta adjacent to chaeta Api located on apical side of antennal segment 4.
+material entity;basal process;The process located in the basal side of maxilla outer lobe.
+material entity;chaeta b1;The first chaeta located on clasping organ of males.
+material entity;pseudonychium;A sheet that covers the unguis on external side.
+material entity;tenaculum of embryo;The region of the embryo that develops in the tenaculum of the adult.
+material entity;chaeta B1;The chaeta most anterior of row B on fourth abdominal segment chaeta.
+material entity;dorsolateral process;The process adjacent to basal process of maxilla outer lob.
+material entity;prothoracic leg of embryo;The region of the embryo that develops in the prothoracic leg of the adult.
+material entity;chaeta B3;The chaeta posterior to chaeta B2 of row B on fourth abdominal segment chaeta.
+material entity;unguiculus subapical filament;The filament located on the apical side of the unguiculus.
+material entity;furcula of embryo;The region of the embryo that develops in the furcula of the adult.
+material entity;chaeta B2;The chaeta posterior to chaeta B1 of row B on fourth abdominal segment chaeta.
+material entity;antennotentorial muscle;The skeletal muscle that is attached to the lateral side of antennal segment 1 and pseudotentorium.
+material entity;proctodeum of embryo;The region of the embryo that develops in the protodaeum of the adult.
+material entity;chaeta B4;The chaeta posterior to chaeta B3 of row B on fourth abdominal segment chaeta.
+material entity;anal spine;The spine-like chaetae located abdominal tergite 6.
+material entity;abdominal segment of embryo 2;The region of the embryo that develops in the abdominal segment 2 of the adult.
+material entity;chaeta b3;The third chaeta located on clasping organ of males.
+material entity;ventral process;The projection located in the subapical side of the apical chaeta.
+material entity;abdominal segment of embryo 1;The region of the embryo that develops in the abdominal segment 1 of the adult.
+material entity;chaeta b5;The fifth chaeta located on clasping organ of males.
+material entity;abdominal segment of embryo 4;The region of the embryo that develops in the abdominal segment 4 of the adult.
+material entity;chaeta B5;The chaeta posterior to chaeta B4 of row B on fourth abdominal segment chaeta.
+material entity;abdominal segment of embryo 3;The region of the embryo that develops in the abdominal segment 3 of the adult.
+material entity;abdominal segment of embryo 5;The region of the embryo that develops in the abdominal segment 5 of the adult.
+material entity;nerve y;A nerve that innervates the antennal muscle (mucle Y).
+material entity;chaeta Pp2;The second chaeta on medial-external axis of posterior postoccipital row.
+material entity;antennal segment 1;The proximal-most segment of the antenna.
+material entity;anogenital segment;The segment where the genital plate and anus is located.
+material entity;chaeta Pp4;The fourth chaeta on medial-external axis of posterior postoccipital row.
+material entity;antennal segment 3;The segment of the antenna located apically to the second segment.
+material entity;chaeta Pp3;The third chaeta on medial-external axis of posterior postoccipital row.
+material entity;antennal segment 2;The segment of the antenna located apically to the first segment.
+material entity;chaeta Pp6;The sixth chaeta on medial-external axis of posterior postoccipital row.
+material entity;apical subsegment;The subsegment located on apical side of antennal segment 4.
+material entity;chaeta Pp5;The fifth chaeta on medial-external axis of posterior postoccipital row.
+material entity;antennal segment 4;The segment of the antenna located apically to the third segment.
+material entity;chaeta Ps3;The third chaeta on medial-external axis of postsutural row.
+material entity;abdominal segment 1;The abdominal segment that is located between the metathorax and abdominal segment 2.
+material entity;chaeta Ps2;The second chaeta on medial-external axis of postsutural row.
+material entity;basal subsegment;The subsegment located on basal side of antennal segment 4.
+material entity;chaeta S0;The medial chaeta on medial-external axis of sutural row.
+material entity;chaeta Ps5;The fifth chaeta on medial-external axis of postsutural row.
+material entity;abdominal segment 2;The abdominal segment that is located between the abdominal segment 2 and abdominal segment 3.
+material entity;chaeta S1;The first chaeta on medial-external axis of sutural row.
+material entity;rigth antenna;
+material entity;left antenna;
+material entity;chaeta Pa6;The sixth chaeta on medial-external axis of anterior postoccipital row.
+material entity;cylindrical corpus;The basal segment of the collophore.
+material entity;chaeta Pa5;The fifth chaeta on medial-external axis of anterior postoccipital row.
+material entity;collophore;A cylindrical midventral appendage on the first abdominal segment with paired eversible vesicles.
+material entity;chaeta Pe3;The chaeta posterior to posterior postoccipital row.
+material entity;furcula;A midventral appendage of the fourth abdominal segment.
+material entity;chaeta pe;The external supplementary chaeta that compose the posterior bothriotrical complex of abdominal segment 4.
+material entity;eversible sac;A pair of sacs located in the apical side of collophore.
+material entity;chaeta Pm1;The first chaeta on external-medial axis of medial postoccipital row.
+material entity;mid leg;The leg that is located on the mesothorax.
+material entity;chaeta pi;The internal supplementary chaeta that compose the posterior bothriotrical complex of abdominal segment 4.
+material entity;hind leg;The leg that is located on the metathorax.
+material entity;chaeta pm6.ab3;The supplementary chaeta posterior to chaeta m6.ab3 of abdominal segment 3.
+material entity;nerve z;A nerve that innervates the antennal muscle (mucle z).
+material entity;chaeta Pm3;The third chaeta on external-medial axis of medial postoccipital row.
+material entity;excretory system;The system that maintains fluid balance and contributes to electrolyte balance, acid/base balance, and disposal of nitrogenous waste products.
+material entity;chaeta Pp1;The first chaeta on medial-external axis of posterior postoccipital row.
+material entity;chaeta pp;The chaeta posterior to the posterior row on the abdominal tegite 6.
+material entity;DT3 dental subsegment;The distal subdivision of dens.
+material entity;chaeta sa1;The first sensorial rod of antennal segment 3.
+material entity;mucro;The distal segment of each dens.
+material entity;manubrium;The proximal segment of the furcula, joined by its proximal end to the abdomen and at its distal end to the two dentes.
+material entity;chaeta a6.ab1;The sixth chaeta of anterior row on medial-external axis of abdominal segment 1.
+material entity;chaeta sa3;The third sensorial rod of antennal segment 3.
+material entity;epicoxa;The basal leg segment, forming the articular sclerites.
+material entity;chaeta sa2;The second sensorial rod of antennal segment 3.
+material entity;mucrodens;The subdivision of furcula that contains the mucro and dens.
+material entity;chaeta a6.ab3;The sixth chaeta of anterior row on medial-external axis of abdominal segment 3.
+material entity;chaeta sa5;The fifth sensorial rod of antennal segment 3.
+material entity;subcoxa;The proximal part of coxa.
+material entity;chaeta a6.ab2;The sixth chaeta of anterior row on medial-external axis of abdominal segment 2.
+material entity;chaeta sa4;The fourth sensorial rod of antennal segment 3.
+material entity;chaeta a6.t2;The sixth chaeta of anterior row on medial-external axis of mesothorax.
+material entity;chaeta sb3;The third basal s-chaeta of antennal segment 4.
+material entity;metasubcoxa;The segment of the mid leg that is attached to the latero-ventral region of the metathorax by the basal metasubcoxal conjunctiva and to the metacoxa.
+material entity;chaeta a6.ab5;The sixth chaeta of anterior row on medial-external axis of abdominal segment 5.
+material entity;chaeta sb1;The first basal s-chaeta of antennal segment 4.
+material entity;mesosubcoxa;The segment of the mid leg that is attached to the latero-ventral region of the mesothorax by the basal mesosubcoxal conjunctiva and to the mesocoxa.
+material entity;chaeta a7.ab2;The seventh chaeta of anterior row on medial-external axis of abdominal segment 2.
+material entity;chaeta sb5;The fifth basal s-chaeta of antennal segment 4.
+material entity;chaeta a6.t3;The sixth chaeta of anterior row on medial-external axis of metathorax.
+material entity;chaeta sb4;The fourth basal s-chaeta of antennal segment 4.
+material entity;prosubcoxa;The segment of the mid leg that is attached to the latero-ventral region of the prothorax by the basal prosubcoxal conjunctiva and to the procoxa.
+material entity;chaeta a7.t2;The seventh chaeta of anterior row on medial-external axis of mesothorax.
+material entity;chaeta a7.ab3;The seventh chaeta of anterior row on medial-external axis of abdominal segment 3.
+material entity;chaeta sb6;The sixth basal s-chaeta of antennal segment 4.
+material entity;chaeta a7.t3;The seventh chaeta of anterior row on medial-external axis of metathorax.
+material entity;abdominal segment 4;The abdominal segment that is located between the abdominal segment 3 and abdominal segment 5.
+material entity;abdominal segment 3;The abdominal segment that is located between the abdominal segment 2 and abdominal segment 4.
+material entity;chaeta S2;The second chaeta on medial-external axis of sutural row.
+material entity;abdominal segment 6;The abdominal segment that is located apically to abdominal segment 5.
+material entity;chaeta s1;The first s-chaeta of antennal segment 3.
+material entity;abdominal segment 5;The abdominal segment that is located between the abdominal segment 4 and abdominal segment 6.
+material entity;chaeta S3;The third chaeta on medial-external axis of sutural row.
+material entity;small abdomen;The subdivision of trunk posterior to great abdomen.
+material entity;chaeta s2;The second s-chaeta of antennal segment 3.
+material entity;great abdomen;The subdivision of trunk between neck and small abdomen.
+material entity;chaeta S4;The fourth chaeta on medial-external axis of sutural row.
+material entity;dens;The medial segment of furcula, with two separate parallel pieces which are connected basally with the manubrium and distally with the mucro.
+material entity;chaeta s3;The third s-chaeta of antennal segment 3.
+material entity;furcula segment;The segments or subdivisions that compose the furcula.
+material entity;chaeta S5;The fifth chaeta on medial-external axis of sutural row.
+material entity;DT2 dental subsegment;The medial subdivision of dens.
+material entity;chaeta s4;The fourth s-chaeta of antennal segment 3.
+material entity;DT1 dental subsegment;The proximal subdivision of dens.
+material entity;chaeta S6;The sixth chaeta on medial-external axis of sutural row.
+material entity;chaeta s5;The fifth s-chaeta of antennal segment 3.
+material entity;subcoxal chaetae;The group of chaetae located on external side of subcoxa.
+material entity;row Ga;The longitudinal row of chaetae located on anterior side of tibiotarsus.
+material entity;posterior subcoxal row;The chaetae row in the posterior side of the metasubcoxa.
+material entity;anterior subcoxal row;The chaetae row in the anterior side of the metasubcoxa.
+material entity;row a.t3;The anterior chaetae row of metathorax.
+material entity;row a.mt1;The transversal row of chaetae most anterior located in the trunk.
+material entity;row m.t3;The medial chaetae row on lateromedial axis of metathorax.
+material entity;row m.t2;The medial chaetae row on lateromedial axis of mesothorax.
+material entity;row p.t3;The posterior chaetae row on lateromedial axis of metathorax.
+material entity;row p.t2;The posterior chaetae row on lateromedial axis of mesothorax.
+material entity;posterior frontal row;The chaetae row posterior to the median frontal row.
+material entity;median frontal row;The chaetae row posterior to the anterior frontal row.
+material entity;posterior postoccipital row;The chaetae row posterior to the median postoccipital row on the dorsal side of head capsule.
+material entity;posterior postantennal row;The chaetae row posterior to the anterior postantennal row.
+material entity;sutural row;The chaetae row adjacent to the frontal suture.
+material entity;postsutural row;The chaetae row posterior to the sutural row on the dorsal side of head capsule.
+material entity;interocular row;The chaetae row located on interocular area.
+material entity;frontal chaetae;The group of chaetae located on frons.
+material entity;anterior frontal row;The chaetae row posterior to the posterior postantennal row.
+material entity;median ocellar row;The chaetae row that is posterior to the anterior row.
+material entity;delta row;The chaetae row posterior to the gamma row and located on the posterior part of the abdomen.
+material entity;chaeta p6.ab3;The sixth chaeta of posterior row on medial-external axis of abtominal segment 3.
+material entity;epsilon row;The chaetae row posterior to the delta row and located on the posterior part of the abdomen.
+material entity;dzeta row;The chaetae row posterior to the epsilon row and located on the posterior part of the abdomen.
+material entity;chaeta Pa4;The fourth chaeta on medial-external axis of anterior postoccipital row.
+material entity;chaeta p6.t2;The sixth chaeta of posterior row on medial-external axis of mesothorax.
+material entity;gamma row;The chaetae row posterior to the beta row and located on the posterior part of the abdomen.
+material entity;chaeta p6.ab5;The sixth chaeta of posterior row on medial-external axis of abtominal segment 5.
+material entity;eta row;The chaetae row posterior to the dzeta row and located on the posterior part of the abdomen.
+material entity;chaeta p7.ab2;The seventh chaeta of posterior row on medial-external axis of abdominal segment 2.
+material entity;row p.mt1;The second row of chaetae posterior to row a.mt1 and located in the trunk.
+material entity;chaeta p6.t3;The sixth chaeta of posterior row on medial-external axis of metathorax.
+material entity;row p.mt2;The fourth row of chaetae posterior to row a.mt1 and located on the trunk
+material entity;chaeta p7.t2;The seventh chaeta of posterior row on medial-external axis of mesothorax.
+material entity;second row of papillae;The row of papillae that compose the labial palp.
+material entity;chaeta p7.ab3;The seventh chaeta of posterior row on medial-external axis of abdominal segment 3.
+material entity;papillae row;The papillae row thta is part of the labial palp.
+material entity;chaeta Pa2;The second chaeta on medial-external axis of anterior postoccipital row.
+material entity;chaeta p7.t3;The seventh chaeta of posterior row on medial-external axis of metathorax.
+material entity;anal appendage;The spines located in the anal region.
+material entity;row Ge;The longitudinal row of chaetae located on external side of tibiotarsus.
+material entity;row Gai;The longitudinal row of chaetae located on anterointernal side of tibiotarsus.
+material entity;row Gae;The longitudinal row of chaetae located on anteroexternal side of tibiotarsus.
+material entity;row Gi;The longitudinal row of chaetae located on internal side of tibiotarsus.
+material entity;row Gpi;The longitudinal row of chaetae located on posterointernal side of tibiotarsus.
+material entity;row Gpe;The longitudinal row of chaetae located on posteroexternal side of tibiotarsus.
+material entity;trunk chaetae;The group of chaetae located on trunk.
+material entity;anterior craniomandibular muscle;The skeletal muscle that connects the dorsolateral side of basal ridge of mandible and frons.
+material entity;beta row;The chaetae row posterior to the alfa row and located on the posterior part of the abdomen.
+material entity;alfa row;The chaetae row most anterior and located in the posterior part of the abdomen.
+material entity;external postoccipital row;The chaetae row located in the posterior margin of the head capsule.
+material entity;D dorsal row;The row of chaetae most posterior in the dorsal area of head.
+material entity;median postoccipital row;The chaetae row posterior to the anterior postoccipital row on the dorsal side of head capsule.
+material entity;antennal row;The chaetae row located on anterior margin on dorsal side of cephalic capsule.
+material entity;anterior postoccipital row;The chaetae row that is posterior to the postsutural row on the dorsal side of head capsule.
+material entity;anterior postantennal row;The chaetae row posterior to the posterior clypeal row.
+material entity;B dorsal row;The chaetae row posterior to interantennal area of cephalic capsule.
+material entity;anterior row;The chaetae row that is posterior to the antennal row on the dorsal side of head capsule.
+material entity;C dorsal row;The chaetae row posterior to B dorsal row and A dorsal row of cephalic capsule.
+material entity;beta inter antennal row;The chaetae row located on interantennal area of cephalic capsule and posterior to alfa inter antennal row.
+material entity;sensillum;A sense organ embedded in the integument and consisting of one or a cluster of sensory neurons and associated sensory structures, support cells and glial cells forming a single organized unit with a largely bona fide boundary.
+material entity;sclerite;The region of the insect cuticle that is less flexible than the neighboring conjunctiva(e) (conjunctiva(e) that the sclerite is continuous with.
+material entity;somite;Somites are spheres of epithelial cells that form sequentially along the anterior-posterior axis of the embryo through mesenchymal to epithelial transition of the presomitic mesoderm.
+material entity;occiput;The area that is concave and surrounds the postocciput.
+material entity;palp;The anatomical cluster that is composed of the palpal segments.
+material entity;ocellus;The multi-tissue structure that is located on the top of the head, composed of the corneal lens, pigment cell, rhabdoms and synaptic plexus.
+material entity;prosternum;The sclerite that is connected posteriorly to the propleuron and bears the prodiscrimen and the profurca.
+material entity;procuticle;The cuticle that containes chitin fibrils and is located between the Schmidt's layer and the epicuticle.
+material entity;row;The anatomical cluster that is composed of repeated units of anatomical structures
+material entity;rim;The carina that extends along the margin or edge of a sclerite.
+material entity;muscle;The portion of tissue that is composed of contractile fibers.
+material entity;anal segment;The segment where the genital plate is located.
+material entity;notum;The area that is located dorsally on the thoracic segment and limited laterally by the pleuron.
+material entity;notch;The part of the margin of a sclerite that is concave.
+material entity;sternum;The area that is located on the integument and is ventral of the ventral diaphragm.
+material entity;mesosternum;The eusternum that is located in the mesothorax.
+material entity;metathorax;The thoracic segment that is located between the mesothorax and the first abdominal tergum and is delimited by the metanotum and the metapectus.
+material entity;mesothorax;The thoracic segment that is located between the prothorax and the metathorax and is delimited by the mesopectus and the mesonotum.
+material entity;thoracic segment;The body segment that is located in the thorax.
+material entity;prothorax;The thoracic segment that is located between the head and the mesothorax is composed of the pronotum, the propectus and the fore leg.
+immaterial entity;gonopore;In arthropods, any opening of a meso- or ectodermal gonoduct.
+material entity;cardiac valve;Organ at the junction of the foregut and midgut.
+material entity;ventriculus;A hollow digestive organ, especially the stomach of certain insects or the gizzard of a bird.
+material entity;cuticular projection;Any elongate process jutting from the outer surface of the cuticula. There are two basic types of cuticular projections: 1) setae, which are articulated processes arising from a basal alveolus, and 2) spicules, which are non-articulated, continuous processes of the cuticula.
+material entity;adult rectal valve;Valve at the posterior end of the adult hindgut, anterior to the rectal sac. It corresponds to a slight thickening of the intestine, followed by a constriction where it joins the rectum.
+material entity;dendrite;A neuron projection that has a short, tapering, morphology. Dendrites receive and integrate signals from other neurons or from sensory stimuli, and conduct nerve impulses towards the axon or the cell body. In most neurons, the impulse is conveyed from dendrites to axon via the cell body, but in some types of unipolar neuron, the impulse does not travel via the cell body.
+material entity;epidermal cell;Cell which has as its part a cytoskeleton that allows for tight cell to cell contact and which has apical-basal cell polarity.
+material entity;chaeta;A sensillum with a long, unicellular, setiform outgrowth that is strongly chitinized.
+material entity;spicule;A non-articulated cuticular projection, directly continuous with the cuticula.
+material entity;proctodaeum;Inward fold on the surface of the embryonic ectoderm that develops into an ectodermal terminal part of the digestive tract.
+material entity;pharynx;The anatomical space that is located proximal to the cibarium.
+material entity;tergum;The area that is located on the integument and is dorsal of the ventral diaphragm.
+material entity;tergite;The sclerite that is located on the tergum.
+material entity;sculpture;The area that is located on the sclerite and that is composed of repetitive anatomical structures.
+material entity;trochanter;The leg segment that is located proximal to the femur and distal to the coxa.
+material entity;adult rectum;The terminal portion of the intestinal tube, terminating with the anus.
+material entity;adult midgut;Middle subdivision of a digestive tract.
+material entity;oesophagus;The part of the stomodeum between the mouth and the oesophagus.
+material entity;crop;It is situated between the midgut and the ventral nerve cord.
+material entity;stomodaeum;Section of digestive tract between the mouth opening and the oesophagus.
+material entity;dorsal area;The area posterior to the subdorsal area and lateral to the ocular area.
+material entity;epicranium;The area that is delimited by the intersection of the margin of the compound eyes, the interorbital plane, and the anatomical line that is tangential to the point on the margin of the anterior ocellus which defines the minimum distance between the anterior ocellus and the oral foramen.
+material entity;profurca;The furca of the prothorax that is attached to the procoxa via muscle.
+material entity;frontoclypeal area;The area that contains the clypeus and frons.
+material entity;cuticulin layer;Outermost layer of the cuticle consisting of proteins and waxes which functions as an impermeability barrier. It overlies the epicuticle.
+material entity;furca;The apophysis that is located ventromedially on the thorax and is connected to the coxa via muscles.
+material entity;furcal area;Any area located in the furcula.
+material entity;endocuticle;The procuticle that is not tanned (sclerotised, proteins scarcely crosslinked) and located between the Schmidt's layer and the exocuticle.
+material entity;metafurca;The furca of the metathorax that is attached to the metacoxa via muscle.
+material entity;genal area;The area posterolateral to ocular area in the lateral side of head.
+material entity;epipharynx;The lobe that is located distally on the epipharyngeal wall.
+material entity;mesofurca;The furca of the mesothorax that is attached to the mesocoxa via muscle.
+material entity;epicuticle;The cuticle that does not contain chitin fibrils and is located externally of the exocuticle.
+immaterial entity;adult pore canal;The anatomical space that is contained by the cuticle and connects the inside of the insect with the outside, is tubular, and whose diameter is smaller than 100 nm.
+material entity;lateral craniotentorial muscle;The muscle that connects the oesophagous and frontal sclerite.
+material entity;exocuticle;The procuticle that is tanned (sclerotised, proteins are highly crosslinked) and located between the endocuticle and epicuticle.
+material entity;dorso-lateral mandibular ridge;The apodeme that is elongated and located on the dorsal and lateral side of the mandible.
+material entity;unicellular cuticular evagination;The cuticular evagination that corresponds to the evagination on the membrane of a single cell and not to the evagination of a cell layer.
+material entity;inner thickening of stipes;The apodeme that is elongated and located on the internal side of the stipe.
+material entity;mandibular boss;The protuberance located in anterior side of the mandible.
+material entity;procoxa;The coxa that is located on the fore leg
+material entity;mandibular suspension;The tendon that connects the posterior region of the mandible and the head capsule.
+material entity;socket membrane;The conjunctiva that corresponds to one epithelial cell and surrounds a sclerotized unicellular cuticular evagination.
+material entity;stipital strengthening ridges;The ridge on the internal side of the stipe.
+material entity;cuticle;The acellular anatomical structure that is the external layer of the integument (covers the entire body surface as well as lines ectodermal invaginations such as the stomodeum, proctodeum and tracheae) and produced by the epidermal cells.
+material entity;appendage segment;The ring sclerite that is part of an appendage and is attached to muscle.
+material entity;stipital stud;The articular surface located in the superior margin of the stipe.
+material entity;coxopodite;The region of the embryo that develops in the subcoxa and coxa of the adult.
+material entity;ring sclerite;The sclerite that is cylindrical and encircles and is encircled by conjunctiva.
+material entity;post-clypeus;The area delimited anteriorly with the medial-transversal line of clypeus and posteriorly with the anterior margin of cephalic capsule.
+material entity;carina;The process that is elongate and external.
+material entity;posterior tetorial pit;Posterior tentorial pit (or groove): externally visible invagination of posterior part of head capsule and origin of posterior tentorial arm. adjacent with foramen occipitale or gula.
+material entity;cardo-posterior tentorial membrane;The conjunctiva that connects the cardo and the tentorial apodeme.
+material entity;protuberance;A projection or outgrowth of tissue from a larger body.
+material entity;pit;An roughly circular indentation in a surface.
+material entity;endoskeletal membrane;The conjunctiva that is part of the pseudotentorium.
+material entity;clypeus;The area that corresponds to the site of origin of the clypeo-epipharyngeal muscle.
+material entity;dense connective tissue;Dense connective tissue is mainly composed of collagen type I. Crowded between the collagen fibers are rows of fibroblasts, fiber-forming cells, that manufacture the fibers. Dense connective tissue forms strong, rope-like structures such as tendons and ligaments. Tendons attach skeletal muscles to bones. ligaments connect bones to bones at joints. Ligaments are more stretchy and contain more elastic fibers than tendons. Dense connective tissue also make up the lower layers of the skin (dermis), where it is arranged in sheets
+material entity;mandibular apodeme;The apodeme that is continuous with the mandible.
+material entity;cervix;The area of the pronotum that is delimited posterodorsally by an edge and that accommodates the posterior surface of the head.
+material entity;anterior tentorial pit;Anterior tentorial pit (or groove): externally visible invagination area and origin of anterior tentorial arm. adjacent with dorsolateral clypeal margin.
+material entity;maxillary apodeme;The apodeme that is continuous with the maxilla.
+material entity;coxa;The leg segment that is connected to the body and to the trochanter via conjunctivae and muscles.
+material entity;solid cuticular protrusion;The cuticular protrusion that does not correspond to an evagination.
+material entity;conjunctiva;The area of the cuticle that is weakly sclerotized, with thin exocuticle.
+material entity;tendon;Dense regular connective tissue that connects muscle to bone[VSAO].
+material entity;metacoxa;The coxa that is located on the hind leg.
+material entity;mesocoxa;The coxa that is located on the mid leg
+material entity;clypeal area;The area that contains the clypeus.
+material entity;basolateral area;Any area that is basal and lateral relative to another entity.
+material entity;mandibular pouch;The invagination of the cuticle thta encloses the mandible.
+material entity;basomedian area;Any area that is basal and median relative to another entity.
+immaterial entity;anatomical cavity;Anatomical space which contains portions of one or more body substances and is bounded by the internal surface of one maximally connected anatomical structure. Examples: cranial cavity, pharyngeal recess space, nasal cavity, tooth socket, cavity of serous sac, lumen of stomach, lumen of artery, fornix of vagina.
+material entity;basiantennal area;The located in the basal side of antenna.
+material entity;area;A 2-D extent quality inhering in a bearer by virtue of the bearer's two dimensional extent.
+material entity;fovea;The cuticular depression that is circular.
+material entity;ante-clypeus;The area delimited anteriorly with the labrum and posteriorly with the medial-transversal line of clypeus.
+material entity;appendage;The anatomical structure that is encircled by the evagination of the integument and whose integumental components are attached to the body via muscles.
+material entity;maxillary pouch;The invagination of the cuticle that encloses the maxilla.
+material entity;profemur;The femur that is located on the fore leg
+material entity;metafemur;The femur that is located on the hind leg
+material entity;myofilament;Myofilaments are the two protein filaments of myofibrils in muscle cells.
+material entity;mesonotum;The area that is limited anteriorly by the pronotum, laterally by the basalare, axillary sclerites, subalare and the mesopectus and posterolaterally by the mesopostnotum and the metanotum.
+material entity;pretarsus;The appendage of the leg that is attached to the tarsus by the tarso-pretarsal conjunctiva.
+material entity;tracheal system;The respiratory system composedb by the trachea and tracheola.
+material entity;pronotum;The notum that is located in the prothorax.
+material entity;labium;The area thta contains the labial triangle and labial palp.
+material entity;lobe;The evagination that is mostly membranous.
+material entity;cardiac musculature;Muscle tissue composed of cardiac muscle cells, forming the muscles of the heart.
+material entity;line;The anatomical structure that is linear.
+material entity;muscle tissue;Muscle tissue is a contractile tissue made up of actin and myosin fibers.
+material entity;mesofemur;The femur that is located on the mid leg
+material entity;cellular anatomical entity;A part of a cellular organism that is either an immaterial entity or a material entity with granularity above the level of a protein complex but below that of an anatomical system. Or, a substance produced by a cellular organism with granularity above the level of a protein complex.
+material entity;margin;Fiat anatomical region extending a short distance from the boundary of an object inwards.
+material entity;visceral musculature;Any muscle attached to the internal organs.
+material entity;basolateral labial field;The sclerite located between subgena and basomedian labial field.
+material entity;cell cluster organ;A small cluster of cells of various types which form a discrete structure, largely delimited by a morphological boundary and whose components work together to make the whole structure capable of a specific function.
+material entity;lateral endosternite 4;The The connective tissue that is posterolateral and attached tothe pseudotentorium.
+material entity;basomedian labial field;The sclerite located between basolateral labial field and cephalic groove.
+material entity;brain;The brain is the center of the nervous system in all vertebrate, and most invertebrate,animals. Some primitive animals such as jellyfish and starfish have a decentralized nervous system without a brain, while sponges lack any nervous system at all. In vertebrates, the brain is located in the head, protected by the skull and close to the primary sensory apparatus of vision, hearing, balance, taste, and smell[WP].
+material entity;manubrial rod;The rod that supports the manubrium.
+material entity;suboesophageal ganglion;The cluster of neurons at the junction of the circumoesophageal connectives and the ventral nerve cord.
+material entity;lateral superlingua;The lateral lobes of the hypopharynx.
+material entity;ganglion;A biological tissue mass, most commonly a mass of nerve cell bodies.
+material entity;collagen;Structural protein in the extracellular matrix found in the body's various connective tissues.
+material entity;integument;The anatomical system that forms the covering layer of the animal, ectodermal in origin and composed of epidermal cells producing the cuticle.
+material entity;groove;The line that is located on the sclerite and is impressed.
+material entity;genital area;The area that contains the genital plate.
+material entity;dermastra;The star-shaped elements of the integument.
+material entity;gula;
+material entity;medial craniotentorial muscle;The cephalic muscle attached to medial surface of frons and dorsal surface of pseudotentorial plate.
+material entity;secretory wax rod;Integumentary rod adjacent to some chaetae.
+material entity;postgena;The area that is located on the occiput ventrally of the occipital foramen.
+material entity;tentoriomandibular muscle 1;The cephalic muscle that attached the pseudotentorium and the dorsolateral side of the mandible.
+material entity;inter-antennal area;The area located between the antennal socket.
+material entity;gena;The area that is delimited by the intersection of the interorbital plane, the margin of the eye patch.
+material entity;posterior craniomandibular muscle;The cephalic muscle that attached the mandible on the posterior side and the gena.
+material entity;interocular area;The area located between the ocellus.
+material entity;gland;The anatomical cluster that is composed of epithelial cell(s) that secrete or excrete materials not related to their ordinary metabolic needs.
+material entity;pseudotentorium;The connective tissue located in hte ventral side of stomodeum
+material entity;labial triangle;The sclerite delimits anteriorly with the labial palp and posteriorly with the subgena.
+material entity;subgena;In some insects, the ventral portion of the lateralia below the subgenal suture.
+material entity;aggenital area;The area that is continuous with the genital area.
+material entity;chaeta A3.h;The chaeta posterior to chaeta A1.h of anterior row, located on dorsal side of head
+material entity;abdominal sternite 2;The abdominal sternite that is attached to the posterior margin of the abdominal sternite 1 by the abdominal sternite 1-abdominal sternite 2 conjunctiva and to the anterior margin of the abdominal sternite 3 by the abdominal sternite 2-abdominal sternite 3 conjunctiva.
+material entity;cardiomyocytes;Striated self-beating and cylindrical rod-shaped muscle cells that fundamentally govern the function of myocardium.
+material entity;anal area;Tha area that contains the anus.
+material entity;chaeta a3.ab5;The third chaeta of anterior row on medial-external axis of abdominal segment 5.
+material entity;myocard;The portion of tissue which is part of the heart and built up of cardiomyocytes.
+material entity;antennal base area;The area that is abjacent to the antennal rim.
+material entity;chaeta a3.t3;The third chaeta of anterior row on medial-external axis of metathorax.
+material entity;abdominal sternite 4;The abdominal sternite that is attached to the posterior margin of the abdominal sternite 3 by the abdominal sternite 3-abdominal sternite 4 conjunctiva and to the anterior margin of the abdominal sternite 5 by the abdominal sternite 4-abdominal sternite 5 conjunctiva.
+material entity;cephalic region of embryo;The region that is part of head.
+material entity;antero-dorsal area;Any area located toward the front and dorsal side of an organism relative to another entity.
+material entity;chaeta a3.t2;The third chaeta of anterior row on medial-external axis of mesothorax.
+material entity;abdominal sternite 3;The abdominal sternite that is attached to the posterior margin of the abdominal sternite 2 by the abdominal sternite 2-abdominal sternite 3 conjunctiva and to the anterior margin of the abdominal sternite 4 by the abdominal sternite 3-abdominal sternite 4 conjunctiva.
+material entity;region of embryo;Named areas of the embryo.
+material entity;antero-lateral area;Any area located toward the front and lateral side of an organism relative to another entity.
+material entity;chaeta A4;The chaeta posterior to chaeta A3 of row A on fourth abdominal segment chaeta.
+material entity;abdominal sternite 6;The abdominal sternite that is attached to the posterior margin of the abdominal sternite 5 by the abdominal sternite 5-abdominal sternite 6 conjunctiva.
+material entity;embryonic structure;Anatomical structure that is part of an embryo.
+material entity;area A1;The area external to chaeta m2.ab2 in the abdominal tegite 2.
+material entity;chaeta a4.lb;The fourth chaeta of anterior row (a) of labium.
+material entity;abdominal sternite 5;The abdominal sternite that is attached to the posterior margin of the abdominal sternite 4 by the abdominal sternite 4-abdominal sternite 5 conjunctiva and to the anterior margin of the abdominal sternite 6 by the abdominal sternite 5-abdominal sternite 6 conjunctiva.
+material entity;gnathal region of embryo;The region that is part of mouthparts of the head.
+material entity;area A10;The area posterior to the area A9 and located on the abdominal tergite 4.
+material entity;abdominal sternite 3-abdominal sternite 4 conjunctiva;The conjunctiva of the abdomen that connects the abdominal sternite 3 and the abdominal sternite 4.
+material entity;area A11;The area adjacent to the area A7 and located on the abdominal tergite 4.
+material entity;abdominal sternite 2-abdominal sternite 3 conjunctiva;The conjunctiva of the abdomen that connects the abdominal sternite 2 and the abdominal sternite 3.
+material entity;molar plate of embryo;The region of the embryo that develops in the mola plate, part of the mandible, of the adult.
+material entity;chaeta a3.ab1;The third chaeta of anterior row on medial-external axis of abdominal segment 1.
+material entity;hemolymph vascular system;The anatomical system which is part of the circulatory system and consists of the arterial system and the heart.
+material entity;chaeta A3;The chaeta posterior to chaeta A2 of row A on fourth abdominal segment chaeta.
+material entity;extra-acrosomial material;A structure in the head of a spermatozoon that contains acid hydrolases, and is part of the acrosome.
+material entity;chaeta a3.ab3;The third chaeta of anterior row on medial-external axis of abdominal segment 3.
+material entity;abdominal sternite 1;The abdominal sternite that is attached to the posterior margin of the metasternum by the metasterno-abdominal sternite I conjunctiva and to the anterior margin of the abdominal sternite II by the abdominal sternite I-abdominal sternite II conjunctiva.
+material entity;heart;The pulsatile organ which is part of the dorsal vessel and consists of myocard, epicard and heart lumen.
+material entity;connecting cell;Cell that composed the pyloric region.
+material entity;chaeta a3.ab2;The third chaeta of anterior row on medial-external axis of abdominal segment 2.
+material entity;pulsatile organ;The cavitated compound organ which is surrounded by a wall containing muscular or collageneous elements.
+material entity;abdominal sternite 4-abdominal sternite 5 conjunctiva;The conjunctiva of the abdomen that connects the abdominal sternite 4 and the abdominal sternite 5.
+material entity;postrectal sac;The sacs located in the hindgut on posterior side of rectum.
+material entity;chaeta a2.ab3;The second chaeta of anterior row on medial-external axis of abdominal segment 3.
+material entity;chitin-based cuticle;A cuticular covering that is composed primarily of chitin. The main structural component of arthropod cuticle is a polysaccharide, chitin, composed of N-acetylglucosamine units, together with proteins and lipids[WP].
+material entity;lipoprotein;A clathrate complex consisting of a lipid enwrapped in a protein host without covalent binding in such a way that the complex has a hydrophilic outer surface consisting of all the protein and the polar ends of any phospholipids.
+material entity;alveolus septum;A invagination of alveolus socket belongs to sensilla.
+material entity;chaeta a2.ab1;The second chaeta of anterior row on medial-external axis of abdominal segment 1.
+material entity;arthropodin;Any of a class of proteins found in the cuticles of insects.
+material entity;ventricular septum;A septum that separates internally the ventriculus.
+material entity;chaeta a2.t2;The second chaeta of anterior row on medial-external axis of mesothorax.
+immaterial entity;arthropod foramen;Is the anatomical space encircled a sclerite
+material entity;photoreceptor cell;A specialized cell type in a multicellular organism that is sensitive to light.
+immaterial entity;antennal vessel;The vessel that irrigates the antenna.
+material entity;chaeta A2.h;The chaeta located bewteen the chaeta A0.h and chaeta A1.h of anterior row, located on dorsal side of head
+material entity;region of cuticle;The region of the insect integument that is part of the insect cuticle.
+material entity;accessory cell;Cells that support sensory neurons, similar to glial cells in vertebrates.
+immaterial entity;circumesophageal vessel ring;The vessel located around to oesaphagic ganglion.
+material entity;chaeta A2a.h;The chaeta anterior to chaeta A2.h of anterior row, located on dorsal side of head
+immaterial entity;oral opening;The orifice that connects the mouth to the exterior of the body.
+material entity;basal membrane;A collagen-containing extracellular matrix consisting of a thin layer of dense material found in various animal tissues interposed between the cells and the adjacent connective tissue. It consists of the basal lamina plus an associated layer of reticulin fibers.
+material entity;chaeta a2.t3;The second chaeta of anterior row on medial-external axis of metathorax.
+immaterial entity;antennal foramen;The arthropod foramen of the head capsule that contains the antennifer and surrounds the scapus via the antenniferal-scapal conjunctiva.
+material entity;rhabdom;One of the minute rodlike structures in the retinulae in the compound eyes of arthropods.
+material entity;cuticular evagination;The region of cuticle that corresponds with an evagination of the cuticle and the single layer epidermis (epidermal fold). The cuticular evagination usually corresponds to a cuticular protrusion (convexity on the surface of the cuticle).
+material entity;storage cell;A cell that is specialized to store a particular substance(s), which is(are) later released from the store for a particular purpose.
+material entity;urospherite;The macromolecule compose by carbonate chloride.
+material entity;chaeta a2p.ab2;The second posterior chaeta of anterior row on medial-external axis of abdominal segment 2.
+material entity;multicellular cuticular evagination;The region of cuticle that corresponds to the evagination of the single layer epithelium.
+material entity;fat body;A fat body is an insect gland dorsal to the insect gut, with a function analogous to that of the vertebrate liver. It is a storage organ for fats, glycogen and protein and is a major site of intermediary metabolism.
+material entity;chaeta a1.t2;The first chaeta of anterior row on medial-external axis of mesothorax.
+material entity;chaeta A2;The chaeta posterior to chaeta A1 of row A on fourth abdominal segment chaeta.
+material entity;sclerotin;The crosslinked protein component of the cuticles of insects.
+material entity;rectal sac;The sacs located in the hindgut on rectum.
+material entity;chaeta a1.t3;The first chaeta of anterior row on medial-external axis of metathorax.
+material entity;rough-surfaced cytoplasmic reticulum;The surface of the rough endoplasmic reticulum (often abbreviated RER or rough ER. also called granular endoplasmic reticulum) is studded with protein-manufacturing ribosomes giving it a "rough" appearance (hence its name).
+material entity;abdominal sternite;The sclerite of the insect abdomen that is ventral and medial.
+material entity;cuticular internal depression;The projection of the inner surface of the cuticle.
+material entity;whorl IV;The whorl of chaetae located in the submedial side of tibiotarsus.
+material entity;anapleurite;The pleurite that extends ventrally of the lateral margin of the tergum and dorsally of the coxopleurite.
+material entity;protein;A biological macromolecule minimally consisting of one polypeptide chain synthesized at the ribosome.
+material entity;primordial germ cell;A primordial germ cell is a diploid germ cell precursors that transiently exist in the embryo before they enter into close association with the somatic cells of the gonad and become irreversibly committed as germ cells.
+material entity;head;The tagma that is located anterior to the thorax
+material entity;molecular entity;Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity.
+material entity;labrum of embryo;The region of the embryo that develops in the labrum of the adult.
+material entity;buccal area;The area that contains the mouth.
+material entity;labrum;The sclerite that is situated along the distal margin of the clypeus and is connected along its proximal margin with the distal margin of the epipharyngeal wall
+material entity;actin;Globular multi-functional proteins that form microfilaments in the cytoskeleton, and the thin filaments in muscle fibrils.
+occurrent;processual entity;An occurrent [span:Occurrent] that exists in time by occurring or happening, has temporal parts and always involves and depends on some entity.
+material entity;cardo;The connective tissue that connects the cardo-posterior tentorial membrane and outer thickening of stipes.
+material entity;stipe;Sclerotized rods located on posterior region of maxilla and contains the inner thickening of stipes and outer thickening of stipes.
+material entity;myosin;Motor proteins best known for their roles in muscle contraction and in a wide range of other motility processes in eukaryotes.
+material entity;blastomere;A cell produced during cleavage of a fertilized egg.
+material entity;cervical area;The area posterior to occipital area on dorsal side of head.
+material entity;pleurite;The sclerite that is located on the pleuron.
+material entity;wall of blood vessel;A layer of material that encloses the vessel.
+material entity;circular area;Any area with every part of the surface or the circumference is equidistant from the center.
+material entity;parietal;The area that is lateral on the cranium between the frontal and occipital areas
+material entity;skeletal musculature;Muscle tissue that consists primarily of skeletal muscle fibers.
+occurrent;stage 1;The embryo stage where the yolk and germ cell are developed.
+material entity;ridge;The apodeme that is elongate.
+material entity;antenna;The appendage that is composed of ringlike sclerites and the anatomical structures encircled by these sclerites and that is articulated with the cranium.
+immaterial entity;anatomical conduit space;An anatomical space which is the lumen of some anatomical conduit and connects two or more spaces together[FMA,modified].
+material entity;labial tergum;The region that is part of the labium.
+material entity;area A9;The area most posterior located on medial area of abdominal segment 4.
+material entity;abdominal tergite 3-abdominal tergite 4 conjunctiva;Is the conjunctiva of the abdomen that connects the abdominal tergite 3 and the abdominal tergite 4.
+material entity;paraglossa of embryo;The region of the embryo that develops in the paraglossa, part of the hypoharynx, of the adult.
+material entity;whorl I;The whorl of chaetae located in the distal distal of tibiotarsus.
+material entity;prementum of embryo;The region of the embryo that develops in the prementum (labium) of the adult.
+material entity;whorl II;The whorl of chaetae located in the subdistal distal of tibiotarsus.
+material entity;abdomen;The tagma that is located posterior to the thorax.
+material entity;abdominal tergite 5-abdominal tergite 6 conjunctiva;Is the conjunctiva of the abdomen that connects the abdominal tergite 5 and the abdominal tergite 6.
+material entity;lingua of embryo;The region of the embryo that develops in the lingua, part of the hypopharynx, of the adult.
+material entity;whorl III;The whorl of chaetae located in the medial side of tibiotarsus.
+material entity;abdominal tergite 4-abdominal tergite 5 conjunctiva;Is the conjunctiva of the abdomen that connects the abdominal tergite 4 and the abdominal tergite 5.
+material entity;glossa of embryo;The region of the embryo that develops in the glossa, part of the hypopharynx, of the adult.
+material entity;anatomical fold;Any flat anatomical entity with appareance of membrane, and doubling upon itself
+material entity;area A2;The area internal to chaeta a5.ab2 in the abdominal segment 2.
+material entity;chaeta a5.ab3;The fifth chaeta of anterior row on medial-external axis of abdominal segment 3.
+immaterial entity;superlingual pore;The anatomical space located in the superlingua.
+material entity;abdominal tergite 2;The abdominal tergite of the abdomen that is attached to the posterior margin of the abdominal tergite 1 by the abdominal tergite 1-abdominal tergite 2 conjunctiva and to the anterior margin of the abdominal tergite 3 by the abdominal tergite 2-abdominal tergite 3 conjunctiva.
+material entity;stomodeum of embryo;The region of the embryo that develops in the stomodaeum of the adult.
+material entity;area A3;The area located on medial area of abdominal segment 3.
+material entity;chaeta a5.ab2;The fifth chaeta of anterior row on medial-external axis of abdominal segment 2.
+material entity;corpus cardiacum;One of a pair of neurohemal organs located on the walls of the aorta just behind the brain. The corpora cardiaca release their store of PTTH only after they receive a signal from neurosecretory cells in the brain.
+material entity;abdominal tergite 1;The abdominal tergite of the abdomen that is attached to the posterior margin of the tergum by the metanoto-abdominal tergite 1 conjunctiva and to the anterior margin of the abdominal tergite 2 by the abdominal tergite 1-abdominal tergite 2 conjunctiva.
+material entity;labial subcoxa;The region of the embryo that develops in the postmentum of the adult.
+material entity;area A4;The area external and adjacent to area A2 in the abdominal segment 3.
+material entity;chaeta A5.h;The chaeta lateral to chaeta A3.h of anterior row, located on dorsal side of head
+material entity;antennomere;The anatomical structure that is delimited by the proximal and distal margins of the antennal sclerite.
+material entity;abdominal tergite 4;The abdominal tergite of the abdomen that is attached to the posterior margin of the abdominal tergite 3 by the abdominal tergite 3-abdominal tergite 4 conjunctiva and to the anterior margin of the abdominal tergite 5 by the abdominal tergite 4-abdominal tergite 5 conjunctiva.
+material entity;antenna of embryo;The region of the embryo that develops in the antenna of the adult.
+material entity;area A5;The area located between the chaeta a5.ab3 and chaeta m2.ab3 in the abdominal segment 3.
+material entity;chaeta a5.ab5;The fifth chaeta of anterior row on medial-external axis of abdominal segment 5.
+material entity;segment;An anatomical structure that is metameric and is connected to other metameric subdivisions by muscles and is delimited by its sclerites.
+material entity;abdominal tergite 3;The abdominal tergite of the abdomen that is attached to the posterior margin of the abdominal tergite 2 by the abdominal tergite 2-abdominal tergite 3 conjunctiva and to the anterior margin of the abdominal tergite 4 by the abdominal tergite 3-abdominal tergite 4 conjunctiva.
+material entity;clypeolabrum of embryo;The region of the embryo that develops in the clypeolabrum of the adult.
+material entity;area A6;The area most anterior located on medial area of abdominal segment 4.
+material entity;embryionic mandibular segment;Any mandibular segment that is part of some embryonic head
+material entity;abdominal tergite 6;The abdominal tergite of the abdomen that is attached to the posterior margin of the abdominal tergite 5 by the abdominal tergite 5-abdominal tergite 6 conjunctiva.
+material entity;mouth fold;The edges developed from the terga of intercalary, mandibular, maxillary and labial segments.
+material entity;area A7;The area posterior to area A6 on medial area of abdominal segment 4.
+material entity;chaeta A6;The chaeta most posterior of row A on fourth abdominal segment chaeta.
+material entity;embryonic segment;Any segment that is part of some embryo
+material entity;abdominal tergite 5;The abdominal tergite of the abdomen that is attached to the posterior margin of the abdominal tergite 4 by the abdominal tergite 4-abdominal tergite 5 conjunctiva and to the anterior margin of the abdominal tergite 6 by the abdominal tergite 5-abdominal tergite 6 conjunctiva.
+material entity;head lobe;The region of the embryo that develops in the head of the adult.
+material entity;area A8;The area posterior to area A7 on medial area of abdominal segment 4.
+material entity;embryonic maxillary segment;Any maxillary segment that is part of some embryonic head.
+material entity;abdominal tergite 2-abdominal tergite 3 conjunctiva;Is the conjunctiva of the abdomen that connects the abdominal tergite 2 and the abdominal tergite 3.
+material entity;embryonic antennal segment;Any antennal segment that is part of some embryonic head
+material entity;abdominal tergite 1-abdominal tergite 2 conjunctiva;Is the conjunctiva of the abdomen that connects the abdominal tergite 1 and the abdominal tergite 2.
+material entity;chaeta a4.t2;The fourth chaeta of anterior row on medial-external axis of mesothorax.
+material entity;chaeta A4a;The chaeta anterior to chaeta A4a of row A on fourth abdominal segment chaeta.
+material entity;mandible of embryo;The region of the embryo that develops in the mandible of the adult.
+material entity;area A12;The area lateral to the area A8 and located on the abdominal tergite 4.
+material entity;chaeta a4.t3;The fourth chaeta of anterior row on medial-external axis of metathorax.
+material entity;maxillary subcoxa;The region of the embryo that develops in the mandible (in part) of the adult.
+material entity;area A13;The area lateral to the area A9 and located on the abdominal tergite 4.
+material entity;chaeta a5.ab1;The fifth chaeta of anterior row on medial-external axis of abdominal segment 1.
+material entity;abdominal tergite;The sclerite of the insect abdomen that is dorsal and medial.
+material entity;labial palp of embryo;The region of the embryo that develops in the labial palp of the adult.
+material entity;area A14;The area lateral to the area A9 and A10, located on the abdominal tergite 4.
+material entity;chaeta A5;The chaeta posterior to chaeta A4 of row A on fourth abdominal segment chaeta.
+material entity;abdominal sternite 5-abdominal sternite 6 conjunctiva;The conjunctiva of the abdomen that connects the abdominal sternite 5 and the abdominal sternite 6.
+material entity;maxillary palp of embryo;The region of the embryo that develops in the maxillary palp of the adult.
+material entity;intercalary segment;Most posterior of the procephalic segments. Contains the tritocerebrum.
+material entity;gnathal segment;The head segments that develop posterior to the embryonic/larval mouth.
+material entity;chaeta f.lb;The chaeta most posterior and external to the chaeta G on the labium.
+material entity;chaeta p3.t3;The third chaeta of posterior row on medial-external axis of meetathorax.
+material entity;tergum-rectal muscle;The abdominal muscle attached to the tergum and the adult rectum.
+material entity;chaeta G;The chaeta adjacent to cephalic groove on labium.
+material entity;chaeta p3.t2;The third chaeta of posterior row on medial-external axis of mesothorax.
+material entity;retractor muscle;A muscle that draws a part backward.
+material entity;chaeta e.lb;The chaeta adjacent to chaeta r.lb and chaeta l1 of labium.
+material entity;chaeta p4.ab3;The fourth chaeta of posterior row on medial-external axis of abdominal segment 3.
+material entity;neuron projection;Any projection of neural cell.
+material entity;sphincter muscle;The visceral muscle attached to the pyloric sphincter between the midgut an the rectum.
+material entity;chaeta F.lb;The chaeta anterior to the chaeta f.lb on the labium.
+material entity;chaeta p4;The fourth chaeta of posterior row on medial-external axis of head capsule.
+material entity;glial cell;A supporting cell of the nervous system.
+material entity;superlingual muscle;Any cephalic muscle attached to the lingua.
+material entity;chaeta d.lb;The chaeta internal to the chaeta c.lb on the labium.
+material entity;chaeta p4.t2;The fourth chaeta of posterior row on medial-external axis of mesathorax.
+material entity;antennal lobe;The neuropil located in the anteriormost brain.
+material entity;tentorium-ocular muscle;The cephalic muscle attached to the pseudotentorium and the ocellus.
+material entity;chaeta E.lb;The chaeta anterior to the chaeta G on the labium.
+material entity;chaeta p4.ab5;The fourth chaeta of posterior row on medial-external axis of abdominal segment 5.
+material entity;axon;The long process of a neuron that conducts nerve impulses, usually away from the cell body to the terminals and varicosities, which are sites of storage and release of neurotransmitter.
+material entity;ventral longitudinal muscle;The cephalic muscle attached to the pseudotentorium and the phragma I
+material entity;chaeta c.lb;The chaeta posterior to the chaeta C.lb on the labium.
+material entity;chaeta p5;The fifth chaeta of posterior row on medial-external axis of head capsule.
+material entity;central body;The neuropil that is part of the central complex.
+material entity;ventral suspensory muscle;The muscle that is attached to the ventral side of head capsule and the transverse mandibular tendon.
+material entity;chaeta D.lb;The chaeta posterior to the chaeta x.lb on the labium.
+material entity;chaeta p4.t3;The fourth chaeta of posterior row on medial-external axis of metathorax.
+material entity;antennal glomeruli;Subunit structure of synapse-rich neuropil that composed the antennal lobe.
+material entity;chaeta p3.ab5;The third chaeta of posterior row on medial-external axis of abdominal segment 5.
+material entity;chaeta p3.ab3;The third chaeta of posterior row on medial-external axis of abdominal segment 3.
+material entity;ventralongitudinal muscle;
+material entity;chaeta a5.lb;The fifth chaeta of anterior row (a) of labium.
+material entity;column X;The synapse-rich neuropil external to the column Y and that composes the central body.
+material entity;antennal motor nerve;The nerve that innervates the antennal muscle.
+material entity;chaeta C.lb;The chaeta external to the chaeta x.lb on the labium.
+material entity;column W;The synapse-rich neuropil most external and that composes the central body.
+material entity;antennal nerve;Any nerve that innervates the antenna.
+material entity;corpora cardiacum nerve;The nerve that innervates the corpora cardiacum.
+material entity;column Y;The synapse-rich neuropil external to the column Z and that composes the central body.
+material entity;chaeta m.l.1;The second chaeta of median row on medial-external axis of labrum.
+material entity;chaeta ml.ab3;The lateral suplementary chaeta that compose the internal bothriotrical complex on abdominal segment 3.
+material entity;chaeta a.l.2;The chaeta lateral to chaeta a.l.1 on dorsal side of labrum
+material entity;chaeta p1.ab5;The first chaeta of posterior row on medial-external axis of abdominal segment 5.
+material entity;posterior tergum-antecostal muscle;The abdominal muscle attached to the phragma V, posterior to the anterior tergum-antecostal muscle and the notum.
+material entity;chaeta m.l.0;The first chaeta of median row on medial-external axis of labrum.
+material entity;chaeta p1;The first chaeta of posterior row on medial-external axis of head capsule.
+material entity;anterior tergum-antecostal muscle;The abdominal muscle attached to the phragma V, anterior to the posterior tergum-antecostal muscle and the notum.
+material entity;chaeta r.lb;The spine-like chaeta lateral to the chaeta e.lb on the labium.
+material entity;chaeta p2;The second chaeta of posterior row on medial-external axis of head capsule.
+material entity;posterior tergum-sternal muscle 2;The abdominal muscle attached to the notum, posterior to the anterior tergum-sternal muscle 2, and the sternum.
+material entity;chaeta x.lb;The rod-like chaeta located in the labium.
+material entity;chaeta p1.t3;The first chaeta of posterior row on medial-external axis of metathorax.
+material entity;anterior tergum-sternal muscle 2;The abdominal muscle attached to the notum, anterior to the posterior tergum-sternal muscle 2, and the sternum.
+material entity;chaeta m2.lb;The second medial chaeta of labium.
+material entity;chaeta p2.t3;The second chaeta of posterior row on medial-external axis of metathorax.
+material entity;phragma VIII;The phragma of the abdominal tergite 5 that attaches to muscles attached to the abdominal tergite 5.
+material entity;chaeta m3.lb;The third medial chaeta of labium.
+material entity;chaeta p2.t2;The second chaeta of posterior row on medial-external axis of mesothorax.
+material entity;phragma VII;The phragma of the abdominal tergite 4 that attaches to muscles attached to the abdominal tergite 4.
+material entity;chaeta mi.ab3;The internal suplementary chaeta that compose the internal bothriotrical complex on abdominal segment 3.
+material entity;chaeta l2.lb;The second lateral chaeta adjacent to chaeta l1.lb of labium.
+material entity;medial antecosta-antecostalis abdominal muscle 4;The abdominal muscle attached to the phragma VI, medial to the lateral antecosta-antecostalis abdominal muscle 4 and phragma VII.
+material entity;chaeta m1.lb;The first medial chaeta of labium.
+material entity;chaeta p3;The third chaeta of posterior row on medial-external axis of head capsule.
+material entity;lateral antecosta-antecostalis abdominal muscle 4;The abdominal muscle attached to the phragma VI, lateral to the medial antecosta-antecostalis abdominal muscle 4 and phragma VII.
+material entity;medial antecosta-antecostalis abdominal muscle 5;The abdominal muscle attached to the phragma VII, medial to the lateral antecosta-antecostalis abdominal muscle 5 and phragma VIII.
+material entity;chaeta l1.lb;The first lateral chaeta adjacent to chaeta e.lb of labium.
+material entity;lateral antecosta-antecostalis abdominal muscle 5;The abdominal muscle attached to the phragma VII, lateral to the medial antecosta-antecostalis abdominal muscle 5 and phragma VIII.
+material entity;posterior nerve of ventral lobe;The nerve that innervates cephalic muscles.
+material entity;bothriotrichum C;The bothriotrichum posterior to bothriotrichum B and located on the lateral side of the great abdomen.
+material entity;vesicle;Any small, fluid-filled, spherical organelle enclosed by membrane.
+material entity;integumental system;Connected anatomical system that forms a barrier between an animal and its environment. In vertebrates, the integumental system consists of the epidermis, dermis plus associated glands and adnexa such as hair and scales. In invertebrates, the integumental system may include cuticle.
+material entity;protocerebral descendent nerve;Te nerve connected to the anterior side of the protocerebrum.
+material entity;bothriotrichum B;The bothriotrichum posterior to bothriotrichum A and located on the lateral side of the great abdomen.
+material entity;protocerebral recurrent nerve;The nerve that innervates the integument of ocellar and frontal region.
+material entity;chaeta A0.h;The chaeta most anterior of anterior row, located on dorsal side of head
+material entity;motile cilium;A cilium which may have a variable arrangement of axonemal microtubules and also contains molecular motors. It may beat with a whip-like pattern that promotes cell motility or transport of fluids and other cells across a cell surface, such as on epithelial cells that line the lumenal ducts of various tissues. or they may display a distinct twirling motion that directs fluid flow asymmetrically across the cellular surface to affect asymmetric body plan organization. Motile cilia can be found in single as well as multiple copies per cell.
+material entity;tendril;The hairlike appearance of the nerves.
+material entity;bothriotrichum D;The bothriotrichum posterior to bothriotrichum C and located on the lateral side of the great abdomen.
+material entity;axoneme;The bundle of microtubules and associated proteins that forms the core of cilia (also called flagella) in eukaryotic cells and is responsible for their movements.
+material entity;tentorium-ocular muscle nerve;The nerve that innervates the tentorium-ocular muscle.
+material entity;chaeta a1.ab1;The first chaeta of anterior row on medial-external axis of abdominal segment 1.
+material entity;neurosecretory system;A system of neurosecretory neurons that release hormones to the circulatory system.
+material entity;anterior margin;Anatomical margin that is located on the anterior side of a body or body part.
+material entity;ventral longitudinal muscle nerve;The nerve that innervates the ventral longitudinal muscle.
+material entity;chaeta A1;The chaeta most anterior of row A on the abdominal segment 4.
+material entity;ocular area;The area bearing the eyes.
+material entity;frontal region;The region demarcated behind the antennal rim and the occiput and where the frontal line is located.
+material entity;chaeta A1.h;The chaeta located on dorsal side of head and posterior to chaeta A0.h of anterior row.
+material entity;primary pigment cell;Retinal pigment cell that is part of an ommatidium. Each ommatidium has two primary pigment cells. These cells line the pseudocone and are in contact basally with the cone cells. They contain coarse granules of ommochrome screening pigment. Along with the cone cells, they secrete the lens.
+material entity;mouth region;The subdivision of the head that includes the mouth.
+material entity;chaeta a1.ab5;The first chaeta of anterior row on medial-external axis of abdominal segment 5.
+material entity;foveae;The cuticular depression that is circular.
+material entity;posterior margin;Anatomical margin that is located on the posterior side of the body or body part.
+material entity;bothriotrichum A;The bothriotrichum most anterior and located on the lateral side of the great abdomen.
+material entity;chitinous expansion;An apodeme that is extension of the pseudotentorium.
+material entity;bothriotrichum;The longer and filiform chaeta located in the apical side of the tibiotarsus.
+material entity;posterior region of the midgut;The subdivision of digestive tube from pyloric region to anus.
+material entity;fiat object part;A material entity that is part of an object but is not demarcated by any physical discontinuities.
+material entity;pyloric region;A subdivision that delimits the midgut and proctodeum.
+material entity;peritrophic membrane;A delicate, cylindrical sheath of chitin continuously secreted from the posterior edge of the foregut of insects and millipedes that ingest solid food, which surrounds the food as it passes through the midgut.
+material entity;object aggregate;A material entity that is a mereological sum of separate object entities and possesses non-connected boundaries.
+material entity;chaeta a2.lb;The second chaeta of anterior row (a) of labium.
+material entity;chaeta p5.t2;The fifth chaeta of posterior row on medial-external axis of mesothorax.
+material entity;mushroom body-like structures;The synapse-rich neuropil located in the anterior brain.
+material entity;hypopharyngeal nerve;The nerve that innervates the hypopharinx.
+material entity;chaeta a3.lb;The third chaeta of anterior row (a) of labium.
+material entity;chaeta p5.ab5;The fifth chaeta of posterior row on medial-external axis of abdominal segment 5.
+material entity;column Z;The synapse-rich neuropil most internal and that composes the central body.
+material entity;intercalary nerve;The nerve that innervates "intercalary" segements.
+material entity;chaeta A.lb;The chaeta internal to the chaeta x.lb on the labium.
+material entity;chaeta p5a.ab5;The chaeta anterior to chaeta p5.ab5 of posterior row on medial-external axis of abdominal segment 5.
+material entity;corneagenous cell;Cell that separates the cornea from the underlying rhabdomeres.
+material entity;neuron projection bundle;Any neural projection
+material entity;labial nerve;The nerve that innervates the labium.
+material entity;chaeta a1.lb;The first chaeta of anterior row (a) of labium.
+material entity;chaeta p5.t3;The fifth chaeta of posterior row on medial-external axis of metathorax.
+material entity;golgi complex;A stack of flattened vesicles located between the nucleus and the secretory pole or surface of a cell. Functions in posttranslational processing and sorting of proteins, receiving them from the rough endoplasmic reticulum and directing them to secretory vesicles, lysosomes, or the cell membrane. The movement of proteins takes place by transfer vesicles that bud off from the rough endoplasmic reticulum or golgi apparatus and fuse with the golgi, lysosomes or cell membrane.
+material entity;globuli cell;Cells that composes the neuropil.
+material entity;mandibular nerve;The nerve that innervates the mandible.
+material entity;chaeta s.h;The chaeta most internal and located in the interocullar area.
+material entity;chaeta p6.ab1;The sixth chaeta of posterior row on medial-external axis of abdominal segment 1.
+material entity;glycocalyx;A carbohydrate rich layer at the outermost periphery of a cell.
+material entity;neural peduncle;The synapse-rich neuropil that is continuous with the calyx and lobes.
+material entity;maxillar nerve;The nerve that innervates the maxilla.
+material entity;chaeta t.h;The chaeta posterior to the chaeta s.h. on the interocullar area.
+material entity;chaeta p5p.ab2;The chaeta posterior to chaeta p5.ab2 of posterior row on medial-external axis of abdominal segment 2.
+material entity;external encapsulating structure;A structure that lies outside the plasma membrane and surrounds the entire cell or cells. This does not include the periplasmic space.
+material entity;nerve of hoffmann;A nerve that originates in the suboesphageal ganglion and that innervates the neurohemal organ.
+material entity;chaeta q.h;The chaeta most anterior and located in the interocullar area.
+material entity;neurosecretory cell;A type of neuron, or nerve cell, whose function is to translate neural signals into chemical stimuli.
+material entity;nerve of leydig;A nerve located in the prothoracic ganglion and that innervates connective tissue.
+material entity;chaeta r.h;The chaeta located between the chaeta p.h and the chaeta t.h
+material entity;chaeta p6.ab2;The sixth chaeta of posterior row on medial-external axis of abdominal segment 2.
+material entity;mitochondrion;An organelle semi autonomous with double-membrane-bound found in most eukaryotic organisms.
+material entity;protocerebral bridge;The neuropil located in the posterior region of the central complex.
+material entity;chaeta p5.ab1;The fifth chaeta of posterior row on medial-external axis of abdominal segment 1.
+material entity;chaeta p5.ab3;The fifth chaeta of posterior row on medial-external axis of abdominal segment 3.
+material entity;chaeta p5.ab2;The fifth chaeta of posterior row on medial-external axis of abdominal segment 2.
+material entity;optic nerve;The nerve that innervates the ocellus.
+material entity;ribosome;An intracellular organelle, about 200 A in diameter, consisting of RNA and protein. It is the site of protein biosynthesis resulting from translation of messenger RNA (mRNA). It consists of two subunits, one large and one small, each containing only protein and RNA. Both the ribosome and its subunits are characterized by their sedimentation coefficients, expressed in Svedberg units (symbol: S). Hence, the prokaryotic ribosome (70S) comprises a large (50S) subunit and a small (30S) subunit, while the eukaryotic ribosome (80S) comprises a large (60S) subunit and a small (40S) subunit. Two sites on the ribosomal large subunit are involved in translation, namely the aminoacyl site (A site) and peptidyl site (P site). Ribosomes from prokaryotes, eukaryotes, mitochondria, and chloroplasts have characteristically distinct ribosomal proteins.
+material entity;parallel nerve;The nerve that connects to the brain and the nerve of Hoffmann.
+material entity;chaeta p.h;The chaeta most external and located in the interocullar area.
+material entity;pigment cell;Cell that contains pigments and it is found in or between ommatidia.
+material entity;suboesophageal nerve;The nerve that innervates the corpus allatum.
+material entity;postantennal nerve;The nerve that innervates the postantennal organ.
+material entity;vacuole;A closed structure, found only in eukaryotic cells, that is completely surrounded by unit membrane and contains liquid material. Cells contain one or several vacuoles, that may have different functions from each other.
+material entity;smooth endoplasmic reticulum;The smooth endoplasmic reticulum (smooth ER or SER) has no ribosomes attached to it. The smooth ER is the recipient of the proteins synthesized in the rough ER. Those proteins to be exported are passed to the Golgi complex, the resident proteins are returned to the rough ER and the lysosomal proteins after phosphorylation of their mannose residues are passed to the lysosomes. Glycosylation of the glycoproteins also continues. The smooth ER is the site of synthesis of lipids, including the phospholipids. The membranes of the smooth ER also contain enzymes that catalyze a series of reactions to detoxify both lipid-soluble drugs and harmful products of metabolism. Large quantities of certain compounds such as phenobarbital cause an increase in the amount of the smooth ER.
+material entity;row m.ab2;The medial chaetae row on lateromedial axis of abdominal tergite 2.
+material entity;row m.ab1;The medial chaetae row on lateromedial axis of abdominal tergite 1.
+material entity;chaeta m3.t3;The third chaeta of medial row on medial-external axis of metathorax.
+material entity;row p.ab1;The posterior chaetae row on lateromedial axis of abdominal tergite 1.
+material entity;chaeta m3.t2;The third chaeta of medial row on medial-external axis of mesothorax.
+material entity;row m.ab3;The medial chaetae row on lateromedial axis of abdominal tergite 3.
+material entity;unguicular tubercle;The tubercle located in the basal side of the unguiculus.
+material entity;chaeta m3e.ab2;The chaeta external to chaeta m3.ab2 of medial row on medial-external axis of abdominal segment 2.
+material entity;row p.ab3;The posterior chaetae row on lateromedial axis of abdominal tergite 3.
+material entity;tubercle L;The tubercle located on the dorsolateral side and internal to the tubercle DL.
+material entity;chaeta m3a.ab5;The chaeta anterior to chaeta m3.ab5 of medial row on medial-external axis of abdominal segment 5.
+material entity;row p.ab2;The posterior chaetae row on lateromedial axis of abdominal tergite 2.
+material entity;pseudocellar lid;Granules and rids that compose the pseudocelli.
+material entity;chaeta m4.ab1;The fourth chaeta of medial row on medial-external axis of abdominal segment 1.
+material entity;clypeal chaetae;The group of chaetae located on clypeus.
+material entity;ungulum;The cuticular protrusion part of the capitulum.
+material entity;subsegment M4;The subsegment posterior to the subsegment M3 on the antennal segment 4.
+material entity;row T;The chaetae row located between row D and row E of abdominal tergite 4.
+material entity;clypeolabrum;The area located on frontal side that contains the clypeus and labrum.
+material entity;chaeta m4.t2;The fourth chaeta of medial row on medial-external axis of mesothorax.
+material entity;anterior clypeal row;The chaetae row posterior to the prelabral chaetae row.
+material entity;clypeofrons;The area located on frontal side of head between the labrum and interantennal area.
+material entity;chaeta m4.ab2;The fourth chaeta of medial row on medial-external axis of abdominal segment 2.
+material entity;a clypleal row;The first transversal row of chaetae on anteroposterior axis located on clypeal area.
+material entity;subapical needle;
+material entity;chaeta M4i;The fourth chaeta of medial row on medial-external axis of head capsule.
+material entity;urotergite;One of the subdivisions of the abdomen.
+material entity;chaeta m4.t3;The fourth chaeta of medial row on medial-external axis of metathorax.
+material entity;submedial area;The area adjacent to the median area.
+material entity;subdorsal area;The area located between dorsal area and basiantennal area of dorsal side of head.
+material entity;row Ai;The internal chaetae row lateral to row A of abdominal tergite 4.
+material entity;chaeta m2.ab2;The second chaeta of medial row on medial-external axis of abdominal segment 2.
+material entity;row Be;The external chaetae row lateral to row B of abdominal tergite 4.
+material entity;row B;The chaetae row lateral to row A of abdominal tergite 4.
+material entity;chaeta m2.ab5;The second chaeta of medial row on medial-external axis of abdominal segment 5.
+material entity;row D;The chaetae row lateral to row C of abdominal tergite 4.
+material entity;chaeta m2.ab3;The second chaeta of medial row on medial-external axis of abdominal segment 3.
+material entity;row C;The chaetae row lateral to row B of abdominal tergite 4.
+material entity;chaeta m2.t3;The second chaeta of medial row on medial-external axis of metathorax.
+material entity;row E;The chaetae row located between row T and row F of abdominal tergite 4.
+material entity;chaeta m2.t2;The second chaeta of medial row on medial-external axis of mesothorax.
+material entity;row De;The external chaetae row lateral to row D of abdominal tergite 4.
+material entity;chaeta m3.ab1;The third chaeta of medial row on medial-external axis of abdominal segment 1.
+material entity;row F;The chaetae row located between row E and row Fe of abdominal tergite 4.
+material entity;subsegment M3;The subsegment posterior to the subsegment M2 on the antennal segment 4.
+material entity;row Ee;The external chaetae row lateral to row E of abdominal tergite 4.
+material entity;chaeta m3.ab3;The third chaeta of medial row on medial-external axis of abdominal segment 3.
+material entity;chaeta m3.ab2;The third chaeta of medial row on medial-external axis of abdominal segment 2.
+material entity;row Fe;The chaetae row located on tergal lateral side of abdominal tergite 4.
+material entity;chaeta m3.ab5;The third chaeta of medial row on medial-external axis of abdominal segment 5.
+material entity;chaeta m6.t3;The sixth chaeta of medial row on medial-external axis of metathorax.
+material entity;chaeta m6.ab2;The sixth chaeta of medial row on medial-external axis of abdominal segment 2.
+material entity;dorsal anal valve;
+material entity;chaeta m7.ab2;The seventh chaeta of medial row on medial-external axis of abdominal segment 2.
+material entity;posterior antecosta-endosternal muscle;The abdominal muscle attached to the phragma V, posterior to the anterior antecosta-endosternal muscle, and the endosternite.
+material entity;upper anal valve;The anal valve that is superior to the dorsal anal valve on the abdominal segment 6.
+material entity;chaeta m6e.t2;The chaeta external to chaeta m5.t2 of medial row on medial-external axis of mesothorax.
+material entity;ventral anal valve;The anal valve located in the ventral side of the genial plate on the abdominal segment 6.
+material entity;chaeta m7.t2;The seventh chaeta of medial row on medial-external axis of mesothorax.
+material entity;posterior tergum-endosternal muscle;The abdominal muscle attached to the notum, posterior to the anterior tergum-endosternal muscle, and the endosternite.
+material entity;tube valve;The valve that is basal to the tube vesicles on the collophore.
+material entity;chaeta m7.ab3;The seventh chaeta of medial row on medial-external axis of abdominal segment 3.
+material entity;anterior tergum-endosternal muscle;The abdominal muscle attached to the notum, anterior to the posterior tergum-endosternal muscle, and the endosternite.
+material entity;chaeta a.l.0;The chaeta located on dorsal side of labrum near to external margin
+material entity;chaeta m7e.ab3;The chaeta external to chaeta m7.ab3 of medial row on medial-external axis of abdominal segment 3.
+material entity;anterior tergum-sternal muscle;The abdominal muscle attached to the notum, anterior to the posterior tergum-sternal muscle 2, and the sternum, anterior to the posterior tergum-sternal muscle 2
+material entity;chaeta a.l.1;The chaeta lateral to chaeta a.l.0 on dorsal side of labrum.
+material entity;chaeta m7.t3;The seventh chaeta of medial row on medial-external axis of metathorax.
+material entity;tergum-sternal muscle;The abdominal muscle attached to the notum and the sternum.
+material entity;chaeta p.l.1;The second chaeta of posterior row on medial-external axis of labrum.
+material entity;chaeta mi.ab2;The internal suplementary chaeta that compose the internal bothriotrical complex on abdominal segment 2.
+material entity;endosterno-endosternalis muscle;The abdominal muscle attached to the internal side of the endosternite and to the opposite side of the endosternite.
+material entity;chaeta p.l.2;The third chaeta of posterior row on medial-external axis of labrum.
+material entity;chaeta mi;The chaeta that is internal to the chaeta ml on the abdominal tergite 2 and abdominal tergite 3.
+material entity;posterior tergum-sternal muscle;The abdominal muscle attached to the notum, posterior to the anterior tergum-sternal muscle 2, and the sternum, posterior to the anterior tergum-sternal muscle 2
+material entity;chaeta m.l.2;The third chaeta of median row on medial-external axis of labrum.
+material entity;medial antecosta-antecostalis abdominal muscle 3;The abdominal muscle attached to the phragma V, medial to the lateral antecosta-antecostalis abdominal muscle 3 and phragma VI.
+material entity;chaeta p.l.0;The first chaeta of posterior row on medial-external axis of labrum.
+material entity;phragma VI;The phragma of the abdominal tergite 3 that attaches to muscles attached to the abdominal tergite 3.
+material entity;lateral antecosta-antecostalis abdominal muscle 3;The abdominal muscle attached to the phragma V, lateral to the medial antecosta-antecostalis abdominal muscle 3 and phragma VI.
+material entity;subsegment M5;The subsegment posterior to the subsegment M4 on the antennal segment 4.
+material entity;d clypleal row;The fourth transversal row of chaetae on anteroposterior axis located on clypeal area.
+material entity;c clypleal row;The third transversal row of chaetae on anteroposterior axis located on clypeal area.
+material entity;medial area T1;The area located in the medial area on dorsal side of mesothorax.
+material entity;chaeta m5.ab2;The fifth chaeta of medial row on medial-external axis of abdominal segment 2.
+material entity;f clypleal row;The sixth transversal row of chaetae on anteroposterior axis located on clypeal area.
+material entity;chaeta m5.ab1;The fifth chaeta of medial row on medial-external axis of abdominal segment 1.
+material entity;e clypleal row;The fifth transversal row of chaetae on anteroposterior axis located on clypeal area.
+material entity;whorl Te;The whorl of chaetae located in the external side of tibiotarsus.
+material entity;chaeta m5.ab5;The fifth chaeta of medial row on medial-external axis of abdominal segment 5.
+material entity;posterior clypeal row;The chaetae row posterior to the medial clypeal row.
+material entity;anterior sterno-coxal muscle 3;The abdominal muscle attached to the collophore, posterior to anterior sterno-coxal muscle 2, and metafurca.
+material entity;lateral area T2;The area located in the paramedial area on dorsal side of mesothorax.
+material entity;chaeta m5.ab3;The fifth chaeta of medial row on medial-external axis of abdominal segment 3.
+material entity;medial clypeal row;The chaetae row posterior to the anterior clypeal row.
+material entity;anterior sterno-coxal muscle 2;The abdominal muscle attached to the collophore, anterior to anterior sterno-coxal muscle 3, and metafurca.
+material entity;whorl V;The whorl of chaetae located in the proximal side of tibiotarsus.
+material entity;chaeta m5.t3;The fifth chaeta of medial row on medial-external axis of metathorax.
+material entity;A dorsal row;The chaetae row located on the interocular area.
+material entity;anterior tergum-vesicular muscle;The abdominal muscle attached to the collophore, ventral to the posterior tergum-vesicular muscle, and the endosternite.
+material entity;whorl Ti;The whorl of chaetae located in the internal side of tibiotarsus.
+material entity;chaeta m5.t2;The fifth chaeta of medial row on medial-external axis of mesothorax.
+material entity;dorsal cephalic chaetae;The group of chaetae located on dorsal side of cephalic capsule.
+material entity;sterno-vesicular muscle;The abdominal muscle attached to the anterior side of collophore and the metafurca.
+material entity;b clypleal row;The second transversal row of chaetae on anteroposterior axis located on clypeal area.
+material entity;vertical area;The area located posterior to the dorsal area and anterior to the parietal area.
+material entity;chaeta m5e.ab5;The chaeta external to chaeta m5.ab5 of medial row on medial-external axis of abdominal segment 5.
+material entity;coxal-vesicular muscle;The abdominal muscle attached to the posterior side of collophore and the metafurca.
+material entity;ventral post-labial area;The area located in the ventral side of subgena and posterior to labium.
+material entity;chaeta m5a.ab5;The chaeta anterior to chaeta m5.ab5 of medial row on medial-external axis of abdominal segment 5.
+material entity;alfa inter antennal row;The chaetae row anterior to beta inter antennal row and located on interantennal area.
+material entity;posterior tergum-vesicular muscle;The abdominal muscle attached to the collophore, lateral to the posterior tergum-vesicular muscle, and the endosternite.
+material entity;wall;A layer of material that encloses space or that encloses a structure.
+material entity;medial antecosta-antecostalis abdominal muscle 2;The abdominal muscle attached to the phragma IV, medial to the lateral antecosta-antecostalis abdominal muscle 2 and phragma V.
+material entity;pseudopore;Circular entity conforms by granules and ribs located on trochanter.
+material entity;chaeta m6.ab1;The sixth chaeta of medial row on medial-external axis of abdominal segment 1.
+material entity;lateral antecosta-antecostalis abdominal muscle 2;The abdominal muscle attached to the phragma IV, lateral to the medial antecosta-antecostalis abdominal muscle 2 and phragma V.
+material entity;anterior antecosta-endosternal muscle;The abdominal muscle attached to the phragma V, anterior to the posterior antecosta-endosternal muscle, and the endosternite.
+material entity;anal valve;The area that encircles the genital pore.
+material entity;endosterno-antecostal muscle;The abdominal muscle attached to the endosternite and the phragma V.
+material entity;labial suture;A embryional subdivision that correspond to labium formation.
+material entity;intersegmental membrane;The conjunctiva that connects two segments.
+material entity;genital plate chaeta;The group of chaetae located on genital plate.
+material entity;condyle;The articular surface that is convex and is inserted into the fossa of an adjacent sclerite.
+material entity;furcula chaeta;The group of chaetae located on furcula.
+material entity;leg segment;The segment that is part of a leg.
+material entity;chaeta Fe2;The chaeta posterior to chaeta Fe1 of row Fe on fourth abdominal segment chaeta.
+material entity;labral basal chaeta;The group of chaetae located on basal side of labrum.
+material entity;apodeme;The process that is internal.
+material entity;chaeta Fe1;The chaeta most anterior of row Fe on fourth abdominal segment chaeta.
+material entity;guard chaeta;The group of chaetae that compose, together cup-like chaetae, the Antennal segment 3 sense organ.
+material entity;mandibular condyle;The condyle that is located ventrally (posteriorly) on the proximolateral edge of the mandible and inserts into the pleurostomal fossa.
+material entity;chaeta Fe4;The chaeta posterior to chaeta Fe3 of row Fe on fourth abdominal segment chaeta.
+material entity;lateral tuft;The group of chaetae located on lateral side of abdominal segment 3.
+immaterial entity;occipital foramen;The foramen that is delimited dorsally by the postocciput.
+material entity;chaeta Fe3;The chaeta posterior to chaeta Fe2 of row Fe on fourth abdominal segment chaeta.
+material entity;lateral chaeta;The group of chaetae located on lateral side of collophore.
+material entity;muscle attachment site;The area of muscle attachment.
+material entity;chaeta Fe6;The chaeta posterior to chaeta Fe5 of row Fe on fourth abdominal segment chaeta.
+material entity;medial chaeta;The group of chaetae that compose the medial row on dorsal side of cephalic capsule.
+material entity;portion of tissue;Anatomical structure, that consists of similar cells and intercellular matrix, aggregated according to genetically determined spatial relationships.
+material entity;chaeta Fe5;The chaeta posterior to chaeta Fe4 of row Fe on fourth abdominal segment chaeta.
+material entity;male ventral organ;The group of chaetae located in the sternal region of abdominal segment 2, abdominal segment 3, and collophore.
+immaterial entity;oral foramen;The foramen that is located anteriorly/ventrally on the cranium in which the mouthparts are positioned.
+material entity;chaeta g1;The first chaeta located on lateral side of head.
+material entity;mucronal chaeta;The group of chaetae located on mucro.
+material entity;chaetotaxy;Chaetotaxy is the arrangement of bristles (macrochaetae) on an arthropod or annelid, or taxonomy based on their position and size.
+material entity;median ocellar chaeta;The group of chaetae located on medial side and part of median row of cephalic capsule.
+material entity;chaeta g3;The third chaeta located on lateral side of head.
+material entity;chaeta g2;The second chaeta located on lateral side of head.
+material entity;coronal suture;The longitudinal suture that is on the vertex and is connected to the frontal suture.
+material entity;cup-like organ;Modified chaetae that compose the antennal segment 3 sense organ.
+material entity;epicranial suture;The suture that is T-shaped and located dorsally on the cranium.
+material entity;cuticular invagination;The area where the cuticle is invaginated.
+material entity;dental scale;The group of modified chaetae like scales located on dens.
+material entity;female genitalia;The genitalia that is part of the female organism.
+material entity;dental chaeta;The group of chaetae located on dens.
+material entity;fore leg;The leg that is located on the prothorax.
+material entity;distal proximal chaeta;
+material entity;genitalia;The anatomical system that is involved in copulation, fertilization and/or oviposition.
+material entity;centromedial chaeta;The group of chaetae located in the centromedial side of antennal segment 4.
+material entity;male genitalia;The genitalia that is part of the male organism.
+material entity;eugenital chaeta;The chaeta located on the genital plate.
+material entity;genital segment;The segment where is located the genitalia.
+material entity;dorsal chaeta;The group of chaetae located on dorsal side of antenna.
+material entity;frontal suture;The suture that surrounds the frons and is connected to the coronal suture.
+material entity;facial chaeta;The group of chaetae located on anterior region of head.
+material entity;eye patch;The group of ocelli that compose the eye patch or eye.
+material entity;head capsule;The anatomical cluster that is composed of the cranium and compound eye cuticle.
+material entity;frontoclypeal chaeta;The group of chaetae located on frontoclypeal area.
+material entity;proximal chaeta;The chaeta located posterior to the papilla C and papilla A.
+material entity;pretarsus chaeta;The group of chaetae located on pretarsus.
+material entity;chaeta m;The supplementary chaeta that is part of the anterior bothriotrical complex of the abdominal tergite 4.
+material entity;first row of papillae;The superior papillae row that is part of the labial palp.
+material entity;chaeta lm.ab3;The lateromedial suplementary chaeta that compose the external bothriotrical complex on abdominal segment 3.
+material entity;cephalic groove row;The chaetae row lateral to cephalic groove.
+material entity;row A;The chaetae row located on anteroposterior axis and medial area of abdominal tergite 4.
+material entity;chaeta M0;The chaeta located in median position of median row, located on dorsal side of head
+material entity;prelabral chaetae row;The chaetae row posterior to labral chaetae.
+material entity;chaeta m1.t2;The first chaeta of median row on medial-external axis of mesothorax.
+material entity;row a.ab2;The anterior chaetae row of abdominal segment 2.
+material entity;subsegment M1;The subsegment posterior to the subsegment AIII on the antennal segment 4.
+material entity;row a.ab1;The anterior chaetae row of abdominal segment 1.
+material entity;chaeta m1i.t2;The chaeta internal to chaeta m1.t2 of median row on medial-external axis of mesothorax.
+material entity;row Ae;The external chaetae row lateral to row A of abdominal tergite 4.
+material entity;chaeta m1.t3;The first chaeta of median row on medial-external axis of metathorax.
+material entity;row a.ab3;The anterior chaetae row of abdominal segment 3.
+material entity;chaeta m2.ab1;The second chaeta of medial row on medial-external axis of abdominal segment 1.
+material entity;chaeta M2;The second chaeta of medial row on medial-external axis of head capsule.
+material entity;connective tissue;Tissue with cells that deposit non-polarized extracellular matrix including connective tissue fibers and ground substance.
+material entity;neosminthuroid chaeta;The group of modified chaetae located on abdominal segment 4 or basal side of furcula.
+material entity;suture;The line that marks the fusion of two ancestral sclerites.
+material entity;postfrontal suture;The cephalic suture posterior to the frontal suture.
+material entity;chaeta g4;The fourth chaeta located on lateral side of head.
+material entity;p3 complex;The group of chaetae located on dorsomedial side of mesothorax.
+material entity;salivary gland;An exocrine gland that secretes saliva. Salivary glands are mostly located in and around the oral cavity.
+material entity;ocular chaeta;The group of chaetae located on ocellar area.
+immaterial entity;preoral cavity;The anatomical cluster that includes the labrum, hypopharynx and labium.
+material entity;chaeta im.ab3;The internamedial suplementary chaeta that compose the external bothriotrical complex on abdominal segment 3.
+material entity;postlabial chaeta;The group of chaetae located on postlabial area.
+material entity;neuroendocrine gland;Any of the organized aggregations of cells that function as secretory or excretory organs and that release hormones in response to neural stimuli
+material entity;chaeta g5;The fifth chaeta located on lateral side of head.
+material entity;postantennal chaeta;The group of chaetae located on postantennal area.
+material entity;excretory gland;A gland that discharges its secretion through a duct opening on an internal or external surface of the body, as a lacrimal gland.
+material entity;chaeta li.ab2;The internal suplementary chaeta that compose the external bothriotrical complex on abdominal segment 2.
+material entity;postsutural chaeta;The group of chaetae that compose the postsutural row on dorsal side of cephalic capsule.
+material entity;neurohemal organ;Any of the organized aggregations of cells that function as secretory or excretory organs of substances into the haemolympha.
+material entity;chaeta li;The chaeta that is internal to the chaeta lm on the abdominal tergite 2 and abdominal tergite 3.
+material entity;postoccipital anterior chaetae;The group of chaetae that compose the postoccipital anterior row on dorsal side of cephalic capsule.
+material entity;prothoracic gland;Either of a pair of endocrine glands located in the prothorax of certain insects and regulating molting.
+material entity;chaeta ll;The chaeta that is external to the chaeta lm on the abdominal tergite 2 and abdominal tergite 3.
+material entity;pregenital chaeta;The group of chaetae located on pregenital area.
+material entity;chaeta li.ab3;The internal suplementary chaeta that compose the external bothriotrical complex on abdominal segment 3.
+material entity;prefrontal chaeta;The group of chaetae located on prefrontal area.
+material entity;corpus allatum;One of a pair of separate or fused bodies in many insects that are sometimes closely associated with the corpora cardiaca and that secrete hormones (as juvenile hormone).
+material entity;chaeta lm;The chaeta that is external to the chaeta li on the abdominal tergite 2 and abdominal tergite 3.
+material entity;chaeta ll.ab3;The lateral suplementary chaeta that compose the external bothriotrical complex on abdominal segment 3.
+material entity;prelabral chaeta;The group of chaetae located on prelabral area.
+material entity;chaeta lm.ab2;The lateromedial suplementary chaeta that compose the external bothriotrical complex on abdominal segment 2.

@@ -1,0 +1,118 @@
+class;term;comment
+quality;pathological physical configuration;A configuration which deviates in some way from a canonical configuration for a particular organism.
+material entity;disorder;A material entity which is clinically abnormal and part of an extended organism. Disorders are the physical basis of disease.
+material entity;epigenetic disorder;A disorder whose etiology involves (1) a modification to the patient's genomic DNA which leads to alterations in the normal expression pattern of the genome, but is (2) not a change in the nucleotide sequence.
+material entity;genetic disorder;A disorder whose etiology involves an abnormality in the nucleotide sequence of an organism's genome.
+material entity;acquired genetic disorder;A genetic disorder acquired by a single cell in an organism that leads to a population of cells within the organism bearing the disorder.
+material entity;constitutional genetic disorder;A genetic disorder inherited during conception that is part of all cells in the organism.
+process;clinical history taking;A health care process in which a clinician elicits a description of previous sign and symptoms of disease from a patient or from a third party who is reporting on behalf of the patient.
+process;clinical laboratory test;A measurement assay that has as input a patient-derived specimen and as output a data item that is about a quality of the specimen.
+process;physical examination;A sequence of acts of observing and measuring qualities of a patient performed by a clinician. measurements may occur with and without elicitation.
+process;etiological process;A process in an organism that leads to a subsequent disorder.
+process;bodily process;
+process;pathological bodily process;A bodily process that is clinically abnormal.
+process;disease course;The totality of all processes through which a given disease instance is realized.
+process;chronic disease course;A disease course that (a) does not terminate in a return to normal homeostasis and (b) would, absent intervention, fall within abnormal homeostatic range.
+process;progressive disease course;A disease course that (a) does not terminate in a return to normal homeostasis and (b) would, absent intervention, involve an increasing deviation from homeostasis.
+process;ancillary health care process;A planned process that has the objective to support the objective of a health care process without directly involving the treatment, diagnosis, or prevention of disease or injury of a patient.
+process;health care process assay;A health care process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies.
+process;health care process biomaterial transformation;A health care process which results in physical changes in a specified input material
+process;transient disease course;A disease course that terminates in a return to normal homeostasis.
+entity;undefined primitive term;
+process;inpatient encounter;A health care encounter involving a patient who has been admitted to a health care facility and remains in a hospital facility for at least one night.
+process;emergency department encounter;A health care encounter in which care is provided for undifferentiated and unscheduled patients with illnesses or injuries requiring immediate medical attention.
+entity;clinically abnormal;
+material entity;injury;A disorder that involves some structural damage that is immediately caused by a catastrophic external force.
+process;disease prophylaxis;A planned process whose completion is hypothesized by a health care provider to reduce the risk of developing a disorder or the signs and symptoms of a disorder.
+process;diagnostic process;A health care process that involves the interpretation of a clinical picture from a given patient (input) and the assertion to the effect that the patient has a disease, disorder, or syndrome of a certain type, or none of these (output).
+process;relapse;A disease stage which is preceded by a remission and characterized by the return of a manifestation of a disease.
+process;remission;A disease stage which is characterized by the lack of a manifestation of a disease
+entity;physical basis;
+entity;realization;
+generically dependent continuant;diagnosis;The representation of a conclusion of a diagnostic process.
+generically dependent continuant;normal value;A value for a quality reported in a lab report and asserted by the testing lab or the kit manufacturer to be normal based on a statistical treatment of values from a reference population.
+process;onset;A disease stage that marks the beginning of a disease
+process;acute onset;A disease stage with a rapid unfolding of signs and symptoms
+material entity;pathological formation;TODO: Define, relate to disorder, and place in the OGMS hierarchy.
+process;health care process data transformation;A health care process that produces output from input data
+material entity;pathological anatomical structure;An anatomical structure (FMA) is pathological whenever (1) it has come into being as a result of changes in some pre-existing canonical anatomical structure, (2) through processes other than the expression of the normal complement of genes of an organism of the given type, and (3) is predisposed to have health-related consequences for the organism in question manifested by symptoms and signs.
+process;prophylactic treatment;A treatment whose completion is hypothesized by a health care provider to prevent the signs and symptoms of a disorder or pathological process.
+material entity;portion of pathological body substance;TODO: Define, relate to disorder, and place in the OGMS hierarchy.
+process;therapeutic procedure;A treatment whose completion is hypothesized by a health care provider to eliminate a disorder or to alleviate the signs and symptoms of a disorder or pathological process.
+process;chemotherapy procedure;A therapeutic procedure that uses synthetic or naturally-occurring chemicals
+process;immunotherapy procedure;A therapeutic procedure that uses immune system derived entities.
+process;physical therapy procedure;A therapeutic procedure that uses physical conditioning
+process;radiation therapy procedure;A therapeutic procedure that uses radiation.
+process;asymptomatic;A disease stage characterized by the lack of symptoms associated with a given disease
+process;pathological transformation;A pathological bodily process in which a canonical anatomical structure becomes a pathological anatomical structure.
+process;pathological derivation;A pathological bodily process in which matter is reorganized in such a way as to give rise to new pathological formations which take the place of entities existing earlier.
+process;pathological invasion;TODO: Define.
+generically dependent continuant;physical examination finding;TODO: Define.
+material entity;organism population;An aggregate of organisms of the same type.
+process;pain;A bodily process in an organism S involving two integrated levels: (a) activation of the nociceptive system and associated emotion generating brain components of S, and (b) a simultaneous aversive sensory and emotional experience on the part of S, where (b) is phenomenologically similar to the sort of aversive experience involved in pain with concordant tissue damage.
+quality;syndrome;A pattern of signs and symptoms that typically co-occur.
+material entity;extended organism;An object aggregate consisting of an organism and all material entities located within the organism, overlapping the organism, or occupying sites formed in part by the organism.
+process;complete remission;A remission which is characterized by a prolonged lack of all manifestations of a disease
+material entity;physical sign;An abnormal material entity that is part of a patient and hypothesized to be clinically relevant.
+generically dependent continuant;patient symptom report;A communication from a patient about something they perceive as being abnormal about their body or life.
+process;partial remission;A remission which is characterized by a prolonged lack of some manifestations of a disease
+material entity;congenital disorder;A structurally anomalous part of an organism acquired during fetal development and present at birth (but not necessarily hereditary) which is hypothesized to be harmful for the organism.
+quality;recovered from disease;A quality in which complete clearance of the disorder is attained. however, physiological 'memory' may persist
+generically dependent continuant;clinical data item;A data item that is about a patient and is the specified output of a health care process assay or diagnostic process
+process;routine health care encounter;A health care encounter that is regularly scheduled for the purpose of health monitoring.
+process;follow-up health care encounter;A health care encounter that is scheduled for the purpose of assessing a known set of specific issues
+material entity;congenital infection;A congenital disorder arising as a result of an infectious process
+material entity;drug induced congenital malformation;A congenital disorder arising as a result of a drug exposure causing an anatomical abnormality
+process;congenital process;A pathological bodily process that occurs in the fetus during fetal development
+process;convalescence;A processual entity during which a patient participating in a disease course gradually returns to participating in a canonical life course.
+process;life course;A process which has as parts all the processes in which a given organism is participant.
+generically dependent continuant;prognosis;A hypothesis about some future part of a disease course.
+process;acute disease course;A disease course with an acute onset
+process;inflammatory process;A bodily process caused by some disorder that results in recruitment of leukocytes into a localized tissue site, typically causing localized pain and swelling.
+process;health care process;A planned process with the objective to improve the health status of a patient that directly involves the treatment, diagnosis, or prevention of disease or injury of a patient
+process;health care encounter;A temporally-connected health care process that has as participants an organization or person realizing the health care provider role and a person realizing the patient role. The health care provider role and patient are realized during the health care encounter
+process;allergic disease process;The process in which an allergic disease unfolds.
+process;hospitalization;TODO
+process;cancer process;The process in which cancer unfolds
+process;treatment;A planned process whose completion is hypothesized by a health care provider to eliminate, prevent, or alleviate a disorder, the signs and symptoms of a disorder, or a pathological process
+generically dependent continuant;preclinical finding;A representation of a quality of a patient that is (1) recorded by a clinician because the quality is hypothesized to be of clinical significance and (2) refers to qualities obtaining in the patient prior to their becoming detectable in a clinical history taking or physical examination.
+process;outpatient encounter;TODO
+process;autoimmune disease process;The process in which an autoimmune disease unfolds.
+process;progression stage;
+process;cancer progression stage;
+generically dependent continuant;clinical finding;A representation that is either the output of a clinical history taking or a physical examination or an image finding, or some combination thereof.
+process;cancer progression stage 0;A cancer progression stage characterized by abnormal cellular growth contained within normal tissue boundaries (e.g. carcinoma in situ).
+generically dependent continuant;clinical history;A series of statements representing health-relevant qualities of a patient and of a patient's family.
+process;cancer progression stage I;A cancer progression stage characterized by abnormal cellular growth that extends through normal local tissue boundaries as a contiguous mass.
+generically dependent continuant;clinical picture;A representation of clinically significant bodily components, dispositions, and/or bodily processes of a human being that is inferred from relevant clinical findings.
+process;cancer progression stage II;A cancer progression stage characterized by abnormal cellular growth that extends well beyond normal local tissue boundaries as a contiguous mass.
+generically dependent continuant;image finding;A representation of an image that supports an inference to an assertion about some quality of a patient.
+process;cancer progression stage III;A cancer progression stage characterized by abnormal cellular growth that extends through normal local tissue boundaries as a contiguous mass and includes metastasis to one or more regional draining lymph nodes.
+generically dependent continuant;laboratory finding;A representation of a quality of a specimen that is the output of a laboratory test and that can support an inference to an assertion about some quality of the patient.
+process;cancer progression stage IV;A cancer progression stage characterized by abnormal cellular growth that extends through normal local tissue boundaries as a contiguous mass and includes metastasis to other distant tissues besides lymph nodes.
+process;infectious disease process;The process in which an infectious disease unfolds
+process;symptom;A process experienced by the patient, which can only be experienced by the patient, that is hypothesized to be clinically relevant.
+process;processual sign;An abnormal processual entity occuring in a patient that is hypothesized to be clinically relevant.
+quality;qualitative sign;An abnormal observable quality of a part of a patient that is hypothesized to be clinically relevant.
+quality;manifestation of a disease;A quality of a patient that is (a) a deviation from clinical normality that exists in virtue of the realization of a disease and (b) is observable.
+process;transplantation;A therapeutic procedure in which a body part is transferred into a organism
+quality;phenotype;A (combination of) quality(ies) of an organism determined by the interaction of its genetic make-up and environment that differentiates specific instances of a species from other instances of the same species.
+process;solid organ transplant;A transplantation in which the body part is a non-fluid tissue
+process;transfusion;A transplantation in which the body part is a bodily fluid
+quality;clinical manifestation of a disease;A manifestation of a disease that is detectable in a clinical history taking or physical examination.
+material entity;tissue disorder;A disorder of some macroscopic part of a tissue
+quality;preclinical manifestation of a disease;A manifestation of a disease that exists prior to the time at which it would be detected in a clinical history taking or physical examination, if the patient were to present to a clinician. A realization of a disease that exists prior to its becoming detectable in a clinical history taking or physical examination.
+material entity;neoplasm;A tissue disorder that has resulted from a dysregulation of cell proliferation leading to a net increase in mass
+quality;clinical phenotype;A clinically abnormal phenotype.
+role;medication role;A role borne by some material entity which can be delivered/administrated into some organism and the role is realized during a clinical treatment process aiming to treat symptoms, signs or diagnosed disease.
+quality;disease phenotype;A clinically abnormal phenotype that is characteristic of a single disease.
+material entity;vital sign;A physical sign in which a non-zero value is standardly considered to be an indication that the organism is alive.
+disposition;predisposition to disease of type X;A disposition in an organism that constitutes an increased risk of the organism's subsequently developing the disease X.
+disposition;disease;A disposition (i) to undergo pathological processes that (ii) exists in an organism because of one or more disorders in that organism.
+disposition;homeostasis;
+disposition;genetic predisposition to disease of type X;A predisposition to disease of type X whose physical basis is a constitutional abnormality in an organism's genome. This abnormality is the physical basis for the increased risk of acquiring the disease X.
+disposition;acquired genetic disease;A disease whose physical basis is an acquired genetic disorder.
+disposition;constitutional genetic disease;A disease whose physical basis is a constitutional genetic disorder.
+disposition;abnormal homeostasis;Homeostasis that is clinically abnormal for an organism of a given type and age in a given environment.
+disposition;normal homeostasis;Homeostasis of a type that is not clinically abnormal.
+quality;configuration;A quality which is an spatial arrangement or distribution of a(n) independent continuant(s) across a Three Dimensional Region.

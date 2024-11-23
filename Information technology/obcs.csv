@@ -1,0 +1,371 @@
+class;term;comment
+process;least square regression;A regression analysis method that the overall solution minimizes the sum of the squares of the residuals made in the results of every single equation.
+generically dependent continuant;highest uncertainty degree;
+process;data collection from literature;A data collection process that results in a collection of data from the literature.
+disposition;uncertainty;A disposition that inheres in some objects, which prevents accurate prediction or determination of the quality of a material entity. It is realized in objective process or subjective process.
+generically dependent continuant;very high uncertainty level;
+generically dependent continuant;intermediate certainty level;
+generically dependent continuant;outlier;A data item that is numerically distant from the rest of the data. often indicative either measurement error or that the population has a high kurtosis.
+generically dependent continuant;dependent variable;A statistical variable that represents the output or effect, or is tested to see if it is the effect in an experiment or a modeling.
+object;subjective object;An object with subjective cognition.
+process;uncertainty quantification;Representation of model output uncertainty using probability distributions.
+generically dependent continuant;test statistic;A statistic measure that is a function of the samples and considered as a numberical summary of a data-set that reduces the data to one value that can be used to perform a hypothesis test. It can be used to test a finding for statistical signifiance
+generically dependent continuant;continuous random variable;A random variable which can take an infinite number of possible values.
+process;objective process;A process in which tangible substances or objects undergo movement or change in a way that can be observed and measured independently, regardless of subjective interpretations or perceptions. It is a concept often used in scientific and objective contexts to describe the physical changes and movements of matter in the external world.
+generically dependent continuant;probability distribution;An information content entity that refers to a distribution of a random variable that can be described using a mathematical formula.
+generically dependent continuant;independent variable;A statistical variable that is manipulated or controlled in a scientific study to test its effect on a dependent variable(s).
+disposition;objective uncertainty;An uncertainty that inheres in an objective continuant.
+generically dependent continuant;low uncertainty level;
+generically dependent continuant;measurement scale;An information content entity that represents a type of scale on which a variable is measured, including nominal, ordinal, interval, ratio.
+process;data collection by sampling;A data collection process that results in a collection of data from a sampling process.
+disposition;subjective uncertainty;An uncertainty that inheres in an organism (in especial human) and results from subjective cognition.
+generically dependent continuant;very low uncertainty level;
+generically dependent continuant;mode;A data item that is the value that appears most frequent in a set of data. In a normal distribution the numerical value of the mode is the same as that of the mean and median.
+generically dependent continuant;data collection design;A plan specification that provides a detailed outline of how data is collected.
+process;uncertainty analysis;
+generically dependent continuant;cohen's kappa measurement;A statistical measure of agreement for categorical data. a measure of inter-rater agreement or inter-annotator agreement.
+generically dependent continuant;diagnostic validity;A validity that refers to the validity of a diagnosis, and associated diagnostic tests or screening tests in a clinical field such as medicine.
+process;sensitivity analysis;Study of how the uncertainty in the output of a mathematical model or system (numerical or otherwise) can be divided and allocated to different sources of uncertainty in its inputs.Conducted to understand the factors and processes that most (or least) control a model’s outputs 
+generically dependent continuant;weighted data;A derived data from inferential statistical analysis that is obtained by applying a weighting process to adjust the impact of cases for representing the population from which the data sample is drawn.
+generically dependent continuant;discrete random variable;A random variable which may take on only a countable number of distinct values such as 0, 1, 2, 3, 4, ...
+process;subjective process;A process refers to the mental processes involved in gaining knowledge and comprehension. Some of the many different cognitive processes include thinking, knowing, remembering, judging, and problem-solving.
+generically dependent continuant;central tendency;A data item that represents a typical value of a set of values. This term relates to the way in which quantitative data tend to cluster around some value.
+generically dependent continuant;numerical data item;A data item which consists of digits as opposed to letters of the alphabet of special characters
+process;decision making;
+generically dependent continuant;causal model;A statistical model that an abstract, quantitative model of the causal dependencies and other interrelationships among observed or hypothetical models. an ordered triple , where U is a set of exogenous variables whose values are determined by factors outside the model. V is a set of endogenous variables whose values are determined by factors within the model. and E is a set of structural equations that express the value of each endogenous variable as a function of the values of the other variables in U and V.
+process;data collection by censoring;A data collection by sampling process that results in a collection of data generated from an censoring.
+process;correlation statistical analysis;A measure of the linear association between two variables that are measured on ordinal, interval or ratio scales
+disposition;proprietary uncertainty;Proprietary uncertainty occurs due to the fact that information and knowledge about an issue are not uniformly shared among all those who could potentially use it. That is, some people or groups have information that others don't and may assert ownership or control over it. "Proprietary uncertainty becomes most salient when it is necessary to reconcile the general needs for safety, health, and environment protection with more sectorial needs pertaining, for instance, to industrial production and process, or to licensing and control procedures" (De Marchi, 1994). De Marchi notes that 'whistle blowing' is another source of proprietary uncertainty in that there is a need for protection of those who act in sharing information for the public good. Proprietary uncertainty would typically be high when knowledge plays a key role in assessment, but is not widely shared among participants. An example of such would be the case of external safety of military nuclear production facilities.
+process;intent-to-treat analysis;An inferential statistical data analysis that includes all randomized patients in the groups to which they were randomly assigned. The intent-to-treat analysis is based on the initial treatment assignment and not on the treatment eventually received. ITT analysis includes every subject who is randomized according to randomized treatment assignment. It ignores noncompliance, protocol deviations, withdrawal, and anything that happens after randomization.
+disposition;situational uncertainty;Situational uncertainty relates to "the predicament of the person responsible for a crisis, either in the phase of preparation and planning, or of actual emergency. It refers to individual behaviours or personal interventions in crisis situations" (De Marchi, 1994) and as such represents a form of integration over the other six types of uncertainty. That is, it tends to combine the uncertainties one has to face in a given situation or on a particular issue. High situational uncertainty would be characterized by situations where individual decisions play a substantial role and there is uncertainty about the nature of those decisions.
+process;statistical data analysis;A data transformation that has input of mulitple data and report overall trend of the data.
+generically dependent continuant;transformed data matrix;A data item that consists of two or more data sets that are produced as the output of a data transformation.
+process;log-rank test;A non-parametric test that compares the survival distributions of two samples, and iis appropriate to use when the data are right skewed and censored (technically, the censoring must be non-informative). It is widely used in clinical trials to establish the efficacy of a new treatment in comparison with a control treatment when the measurement is the time to event (such as the time from initial treatment to a heart attack).
+disposition;uncertainty about gender role;
+process;data collection;A planned process that gathers and measures information on variables of interest, in an established systematic fashion that enables one to answer stated research questions, test hypotheses, and evaluate outcomes. Data collection results in a collection of data.
+generically dependent continuant;transformed data set;A data set that is produced as the output of a data transformation.
+process;Pearson's chi-square test;A chi square test that is applied to sets of categorical data to evaluate how likely it is that any observed difference between the sets arose by chance. It is suitable for unpaired data from large samples. It is also the most widely used of many chi-squared tests.
+disposition;uncertainty about long-term goal;
+generically dependent continuant;data matrix;A data item that is more specifically a rectangular array of numbers, symbols, or expressions, arranged in rows and columns.
+process;Kolmogorov–Smirnov test;A non-parametric test of the equality of continuous, one-dimensional probability distributions that can be used to compare a sample with a reference probability distribution (one-sample K–S test), or to compare two samples (two-sample K–S test). The distributions considered under the null hypothesis are continuous distributions but are otherwise unrestricted.
+disposition;psychological uncertainty;A belief is psychologically certain when the subject who has it is supremely convinced of its truth. Certainty in this sense is similar to incorrigibility, which is the property a belief has of being such that the subject is incapable of giving it up. But psychological certainty is not the same thing as incorrigibility. A belief can be certain in this sense without being incorrigible. this may happen, for example, when the subject receives a very compelling bit of counterevidence to the (previously) certain belief and gives it up for that reason. Moreover, a belief can be incorrigible without being psychologically certain. For example, a mother may be incapable of giving up the belief that her son did not commit a gruesome murder, and yet, compatible with that inextinguishable belief, she may be tortured by doubt.
+process;inferential statistical data analysis;A statistical data analysis that uses patterns in the sample data to draw inferences about the population represented, accounting for randomness.
+process;Kolmogorov-Smirnov one sample test;A Kolmogorov-Smirnov test that compares a sample with a reference probability distribution.
+disposition;identity uncertainty;
+generically dependent continuant;normal distribution;A continuous probability distribution that has a symmetrical curve, whose position and shape is determined by its location and scale parameters, the mean and standard deviation respectively.
+generically dependent continuant;random variable;A statistical variable whose value is subject to variations due to chance (i.e. randomness, in a mathematical sense).
+process;McNemar's test;A chi square test that is used on paired nominal data. It is applied to 2 × 2 contingency tables with a dichotomous trait, with matched pairs of subjects, to determine whether the row and column marginal frequencies are equal (that is, whether there is "marginal homogeneity"). It is named after Quinn McNemar, who introduced it in 1947.
+generically dependent continuant;definitive certainty level;
+generically dependent continuant;Student's t distribution;A continuous probability distribution that is is used to estimate population parameters when the sample size is small and/or when the population variance is unknown.
+generically dependent continuant;data collection objective;An objective specification where the aim is to collect data.
+process;Receiver operating characteristic curve analysis;A data transformation that is used to calculate a ROC curve.
+generically dependent continuant;high certainty level;
+generically dependent continuant;F distribution;A continuous probability distribution that is associated with the f statistic.
+generically dependent continuant;inferential statistical data analysis objective;A statistical data analysis objective where the aim is to make inference using population sample data.
+process;Yates' chi-squared test;A chi square test that is used in certain situations when testing for independence in a contingency table. In some cases, Yates' correction may adjust too far, and so its current use is limited.
+disposition;uncertainty about value system;
+generically dependent continuant;gamma distribution;A continuous probability distribution that is a two-parameter family of continuous probability distributions.
+generically dependent continuant;exponential distribution;A continuous probability distribution that describes the time between events in a Poisson process, i.e. a process in which events occur continuously and independently at a constant average rate.
+process;Cochran–Mantel–Haenszel test;A chi square test that is used in the analysis of stratified or matched categorical data. It allows an investigator to test the association between a binary predictor or treatment and a binary outcome such as case or control status while taking into account the stratification. Unlike the McNemar test which can only handle pairs, the CMH test handles arbitrary strata size. It is named after William G. Cochran, Nathan Mantel and William Haenszel.
+generically dependent continuant;uncertainty degree level;
+process;point biserial correlation;A special case of the Pearson product-moment correlation. calculated when either the independent variable or dependent variable is dichotomous while the other variable is non-dichotomous
+generically dependent continuant;bivariate normal distribution;A continuous probability distribution of two variables that has the traditional bell shape and the distribution of one variable is normal to each and every value of the other variable.
+process;data collection from experiment;A data collection process that results in a collection of data generated from an experiment(s).
+process;independent component analysis;An inferential statistical data analysis which is used to find the independent components (also called factors, latent variables or sources) by maximizing the statistical independence of the estimated components.
+generically dependent continuant;log-normal distribution;A continuous probability that is the distribution of a random variable X if ln(X) is normally distributed
+process;data collection from survey;A data collection by sampling process that results in a collection of data generated from an survey(s).
+process;goodness of fit;An inferential statistical data analysis used to analyze how well a statistical model fits a set of observations. measures of goodness of fit typically summarize the discrepancy between observed values and the values expected under the model in question.
+generically dependent continuant;statistical conclusion validity;An experimental validity that refers to the degree to which conclusions about the relationship among variables based on the data are correct or ‘reasonable’.
+process;uncertainty arise condition;
+process;Kolmogorov-Smirnov two sample test;A Kolmogorov-Smirnov test that compares two samples.
+generically dependent continuant;internal validity;An experimental validity that refers to the degree to which conclusions about causal relationships can be made (e.g. cause and effect), based on the measures used, the research setting, and the whole research design.
+process;uncertainty response activity;
+process;critical review of assumptions in model;A method that enables to systematically identify and prioritize critical assumptions in (chains of linked) models and provides a framework for the critical appraisal of model assumptions.This method aims to systematically identify, prioritise and analyse importance and strength of assumptions in models.
+generically dependent continuant;standardized mortality ratio;A data item which is the ratio of observed deaths in the study group to expected deaths in the general population.
+process;uncertainty elimination;
+process;mcnemar's test;A normal approximation used on nominal data. applied to 2x2 contingency tables to determine whether the row and column marginal frequencies are equal ("marginal homogeneity").
+generically dependent continuant;construct validity;A test validity that refers to the extent to which operationalizations of a construct (i.e., practical tests developed from a theory) do actually measure what the theory says they do. For example, to what extent is a questionnaire actually measuring "intelligence"?
+process;individual difference;
+generically dependent continuant;statistical model;A directive information entity that represents a mathematical relationship which relates changes in a given response to changes in one or more factors. A statistical model is a formalization of relationships between variables in the form of mathematical equations.
+generically dependent continuant;convergent validity;A construct validity that refers to the degree to which a measure is correlated with other measures that it is theoretically predicted to correlate with.
+process;material difficult to obtain;
+process;levene's test;A data transformation that is specifically an inferential statistic to assess the equality of variances in different sample. tests the null hypothesis that the population variances are equal (called homogeneity of variance or homoscedasticity).
+generically dependent continuant;external validity;An experimental validity that refers to the extent to which the (internally valid) results of a study can be held to be true for other cases, for example to different people, places or times. In other words, it is about whether findings can be validly generalized. If the same research study was conducted in those other cases, would it get the same results?
+process;rarity of event;Rare or extreme events are events that occur with low frequency, and often refers to infrequent events that have a widespread effect and which might destabilize systems
+process;loglinear analysis;A data transformation used for both hypothesis testing and model building to examine the relationship between more than two categorical variables. uses a likelihood ratio statistic that has an approximate chi-square distribution when the sample size is large.
+generically dependent continuant;ecological validity;An external validity that refers to the extent to which research results can be applied to real life situations outside of research settings.
+process;multiple effects from single cause;
+generically dependent continuant;statistical variable;A directive information entity that specifies a data item that can be measured or counted and is used in a statistical analysis.
+generically dependent continuant;criterion validity;A test validity that refers to the correlation between the test and a criterion variable (or variables) taken as representative of the construct. In other words, it compares the test with other measures or outcomes (the criteria) already held to be valid. For example, employee selection tests are often validated against measures of job performance (the criterion), and IQ tests are often validated against measures of academic performance (the criterion).
+generically dependent continuant;confounding variable specification;A variable specification that specifies a variable that may have a causal impact on both the independent variable and dependent variable. ignoring a confounding variable may bias empirical estimates of the causal effect of the independent variable.
+process;partitioning of variance components;Partitioning of the overall variation into assignable components
+generically dependent continuant;discriminant validity;A construct validity that tests whether concepts or measurements that are supposed to be unrelated are, in fact, unrelated.
+process;instability of event (episodic, self-reversing, spreading);
+generically dependent continuant;statistical effect;A directive information entity that shows how changing the settings of a factor changes the response. The effect of a single factor is also called a main effect.
+generically dependent continuant;content validity;A test validity that determine whether it covers a representative sample of the behavior domain to be measured through systematic examination of the test content. For example, does an IQ questionnaire have items covering all areas of intelligence discussed in the scientific literature?
+process;partially available data;
+process;robust multi-array average normalization;A normalization data transformation that used to create normalized gene expression level from microarray raw data. The raw intensity values are background corrected, log2 transformed and then quantile normalized in the RMA normalization process.
+process;global sensitivity analysis;Model evaluation performed by varying uncertain factors throughout their entire feasible value space.
+generically dependent continuant;hierarchical linear model;
+process;significance analysis of microarrays;An inferential statistical data analysis that is established in 2001 by Virginia Tusher, Robert Tibshirani and Gilbert Chu, for determining whether changes in gene expression are statistically significant.
+process;screening sensitivity analysis;
+process;local sensitivity analysis;Model evaluation performed by varying uncertain factors around specific reference values.
+process;multivariate analysis;An inferential statistical data analysis that is used to analyze data that arises from more than one variable
+generically dependent continuant;R squared value;A quantitative confidence value that indicates how well data points fit a statistical model - sometimes simply a line or curve. It is a statistic used in the context of statistical models whose main purpose is either the prediction of future outcomes or the testing of hypotheses, on the basis of other related information. It provides a measure of how well observed outcomes are replicated by the model, as the proportion of total variation of outcomes explained by the model.
+process;expert elicitation;A structured process to elicit subjective judgements from experts. Expert elicitation in the context of uncertainty quantification aims at a credible and traceable account of specifying probabilistic information regarding uncertainty, in a structured and documented way.
+process;power calculation;A data transformation that is used to calculate the power of a statistical analysis.
+generically dependent continuant;contingency table;A data item with a specific table layout that allows visualization of the performance of an algorithm. Each column of the matrix represents the instances in a predicted class, while each row represents the instances in an actual class.
+process;Numeral Unit Spread Assessment Pedigree;The NUSAP (Numeral Unit Spread Assessment, Pedigree) method aims to provide an analysis and diagnosis of uncertainty. It captures both quantitative dimensions and qualitative dimensions of uncertainty (Funtowicz and Ravetz 1990).
+process;Mendelian randomization;An inferential statistical data analysis that uses measured variation in genes of known function to examine the causal effect of a modifiable exposure on disease in non-experimental studies.
+process;signal-2-noise statistical analysis;A univariate analysis that calculates the level of a desired signal to the level of background noise to identify which detected signal is more signal than noise. It can be used to identify differentially expressed genes.
+process;error propagation equation;Equations aimed to assess how the quantified uncertainties in model inputs propagate in model calculations to produce and uncertainty range in a given model outcome of interest.In statistics, propagation of uncertainty (or propagation of error) is the effect of variables' uncertainties (or errors, more specifically random errors) on the uncertainty of a function based on them. When the variables are the values of experimental measurements they have uncertainties due to measurement limitations (e.g., instrument precision) which propagate due to the combination of variables in the function.
+generically dependent continuant;multilevel model;A statistical model of parameters that vary at more than one level. a type of regression model that explicitly takes into account structured/nested data
+generically dependent continuant;experimental validity;A validity that refers to whether an experiment (or a study) is able to scientifically answer the questions it is intended to answer.
+process;Monte Carlo analysis;A broad class of computational algorithms that rely on repeated random sampling to obtain numerical results.The goal of Monte Carlo analysis is to trace out the structure of the distributions of model output that results from specified uncertainty distributions of model inputs and model parameters.
+process;cochran-armitage test;A data transformation used in categorical data analysis when the aim is to assess for the presence of an association between a variable with two categories and a variable with k categories.
+process;Wilcoxon signed-rank test;An inferential statistical data analysis used when comparing two related samples, matched samples, or repeated measurements on a single sample to assess whether their population mean ranks differ (i.e. it is a paired difference test). It can be used as an alternative to the paired Student's t-test, t-test for matched pairs, or the t-test for dependent samples when the population cannot be assumed to be normally distributed.
+process;Checklist for Model Quality Assistance;An instrument for internal use to assist modellers and users of models in the process of quality control.
+process;data collapsing;A data transformation that combines categories or ranges of values to produce a smaller number of categories
+process;data collection from observation;A data collection process that results in a collection of data generated from observation(s).
+process;univariate analysis;An inferential statistical data analysis that has only one independent variable
+generically dependent continuant;2x2 contingency table;A contingency table with two rows and two columns that reports the number of false positives, false negatives, true positives, and true negatives. This allows more detailed analysis than mere proportion of correct guesses (accuracy).
+process;scenario analysis;A method that tries to describe logical and internally consistent sequences of events to explore how the future might, could or should evolve from the past and present.
+process;statistical association;An inferential statistical data analysis that analyze the relationship between two measured quantities that renders them statistically dependent
+process;Gene Set Enrichment Analysis;An inferential statistical data analysis that determines whether an a priori defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).
+process;Pluralistic fRamework of Integrated uncertainty Management and risk Analysis;A meta approach (organising framework) to structure the process of uncertainty management
+process;covariation;A measure of the extent to which two variables are associated. the extent to which two random variables vary together
+generically dependent continuant;histogram distribution;A probability distribution that represents the probability distribution corresponding to a histogram of data values.
+disposition;technical uncertainty;Technical uncertainty developed as a result of inadequate tools or ambiguous information about techniques. Technical uncertainty arose from difficulties with subjects, equipment, and procedures, including the lack of standard measurement techniques.
+generically dependent continuant;Box-Cox distribution;A normal distribution that is the distribution of a random variable X for which the Box–Cox transformation on X follows a truncated normal distribution.
+disposition;prognosis uncertainty;
+disposition;organizational uncertainty;Organizational uncertainty arose when information was lost or trapped owing to the local division of labor or the circumstances of alliances and collaborations.
+disposition;sensitivity disposition;A disposition that inheres in a population of continuant and is realized in a test process (e.g., disease diagnosis).
+disposition;moderate degree of certainty;
+generically dependent continuant;bipartite graph;A mathematic graph that contains a set of objects (vertices or nodes) decomposed into two disjoint sets such that no two objects within the same set are adjacent.
+disposition;detrimental uncertainty;
+generically dependent continuant;directed graph;A mathematic graph that a set of objects (vertices or nodes) that are connected together, where all the edges are directed from one object to another. A directed graph is sometimes called a digraph or a directed network.
+disposition;positive or neutral certainty;
+generically dependent continuant;relational graph;A mathematic graph that a set of objects (vertices or nodes) that are connected via numerous semantic relations.
+disposition;detrimental certainty;
+generically dependent continuant;derived data from statistical analysis;A data item that is derived from a statistical data analysis.
+disposition;statistical uncertainty;Statistical uncertainty is any uncertainty that can be described adequately in statistical terms. Statistical uncertainty can apply to any location in the model, even to model structure uncertainties, as long as the deviation from the true value can be characterised statistically.Statistical uncertainty is what is usually referred to as‘‘uncertainty’’in the natural sciences.
+generically dependent continuant;derived data from descriptive statistical analysis;A data item that is derived from a descriptive statistical data analysis.
+generically dependent continuant;mathematic graph;An information content entity that represents a set of objects (vertices or nodes) where some pairs of objects are connected by links.
+disposition;positive uncertainty;
+generically dependent continuant;hierarchical tree;A mathematic graph that a set of objects (vertices or nodes) that are connected in a hierarchical from.
+disposition;determinism;Determinism is the ideal situation in which we know everything precisely. It is not attainable, but acts as a limiting characteristic at one end of the spectrum.
+generically dependent continuant;multiple response variable;A discrete variable which can assume more than one value. A typical example is a survey questionnaire about the use of computers in research. The respondents were asked to indicate the purpose(s) for which they use computers in their research work. The respondents could score more than one category.
+process;behavioural variability;‘non-rational’behaviour, discrepancies between what people say and what they actually do (cognitive dissonance), or deviations of ‘standard’ behavioural patterns (micro-level behaviour).
+generically dependent continuant;continuous variable;A continuous variable over a particular range of the real numbers is one whose value in that range must be such that, if the variable can take values a and b in that range, then it can also take any value between a and b.
+process;societal variability;the chaotic and unpredictable nature of societal processes (macro-level behaviour). The need to consider societal and institutional processes as a major contributor to uncertainty due to variability can be inferred from various papers of Funtowicz, Ravetz, and de Marchi.
+generically dependent continuant;continuous ordinal variable;A continuous variable that occur when the measurement is continuous
+disposition;probability;
+generically dependent continuant;ratio-scale variable;A continuous variable that is a continuous positive measurement on a nonlinear scale
+disposition;complexity-induced uncertainty;
+generically dependent continuant;discrete variable;A statistical variable over a particular range of real values is one for which, for any value in the range that the variable is permitted to take on, there is a positive minimum distance to the nearest other permissible value.
+process;technological surprise;New developments or breakthroughs in technology or unexpected consequences (‘side-effects’) of technologies.
+generically dependent continuant;interval-scale variable;A continuous variable that has order and equal intervals.
+process;sampling error in the measurement;Sampling error is the error associated with the degree to which the sample is representative.
+generically dependent continuant;dummy variable;A quantitative variable can be transformed into a categorical variable, called a dummy variable by recoding the values
+disposition;taxonomic uncertainty;Taxonomic uncertainty arose as they tried to develop classification systems (for example, what kind of thing was epilepsy?).
+generically dependent continuant;preference variable;A preference variable is a specific discrete variable, whose value is either in a decreasing or increasing order.
+disposition;diagnostic uncertainty;Diagnostic uncertainty arose when investigators attempted to fit a particular case into their taxonomies.
+generically dependent continuant;nominal variable;A discrete variable that allows for only qualitative classification
+disposition;vagueness;vagueness is associated with the lack of precise or sharp distinctions or boundaries
+generically dependent continuant;discrete ordinal variable;A nominal variable, but its different states are ordered in a meaningful sequence
+disposition;ambiguity;Ambiguity, on the other hand, is associated with one-to-many relations, that is, situations in which several alternatives are left unspecified or a desired categorization of an element is left undecided due to ignorance.
+process;inherent randomness of nature;the chaotic and unpredictable nature of natural processes
+disposition;input uncertainty;
+generically dependent continuant;mediating variable;A statistical variable that specifies a variable describing how, rather than when, effects will occur by accounting for the relationship between the independent and dependent variables. A mediating relationship is one in which the path relating A to C is mediated by a third variable (B).
+specifically dependent continuant;hospital unit shift rate;A rate of unit shif in a hospital.
+disposition;parameters uncertainty;
+generically dependent continuant;moderator variable;A statistical variable that specifies a variable affecting the direction and/or strength of the relation between dependent and independent variables. occurs when the relationship between two variables depends on a third variable
+generically dependent continuant;transformed data item;A data item that is produced as the output of a data transformation.
+disposition;model outcome uncertainty;This is the accumulated uncertainty caused by the uncertainties in all of the above locations (context, model, inputs, and parameters) that are propagated through the model and are reflected in the resulting estimates of the outcomes of interest.
+process;data collection from eMedical record;A data collection process that results in a collection of data generated from eMedical record(s).
+disposition;external driving forces uncertainty;Uncertainty about the external driving forces that produce changes within the system (the relevant scenario variables and policy variables) and the magnitude of the forces (the values of the scenario and policy variables).
+generically dependent continuant;bartlett's test;A test statistic of whether k samples are from populations with equal variances.
+specifically dependent continuant;mortality rate;A rate of deaths (in general, or due to a specific cause) that in a particular population, scaled to the size of that population, per unit of time.
+disposition;system data uncertainty;Uncertainty about the systemdata that ‘drive’ themodel and typically quantify relevant features of the reference system and its behaviour (e.g. land-use maps, data on infrastructure (roads, houses)). Uncertainty about system data is generated by a lack of knowledge of the properties (including both the deterministic and the stochastic properties) of the underlying system and deficiencies in the description of the variability that can be an inherent feature of some of the phenomena under observation.
+generically dependent continuant;mixed model;A statistical model containing both fixed effects and random effects, that is mixed effects.
+process;non-parametric test;A statistical hypothesis test that is not based on any parameterized family of probability distributions.
+disposition;moral uncertainty;Moral uncertainty stems from the underlying moral issues related to action and inaction in any given case. De Marchi notes that, though similar to legal responsibility, moral guilt may occur absent legal responsibility when negative consequences might have been limited by the dissemination of prior information or more effective management for example. "Moral uncertainty is linked to the ethical tradition of a given country be it or not enacted in legislation (juridical and societal norms, shared moral values, mores), as well as the psychological characteristics of persons in charge, their social status and professional roles" (De Marchi, 1994). Moral uncertainty would typically be high when moral and ethical dimensions of an issue are central and participants have a range of understandings of the moral imperatives at stake.
+process;probability density function;A data transformation that represents a mathematical function describing the relative likelihood of a continuous random variable to take on a value.
+disposition;societal uncertainty;Communities from one region to another may differ in the set of norms, values, and manner of relating characteristic of their societies. This in turn can result in differences in approach to decision making and assessment. Some salient characteristics of these differences will be different views about the role of consensus versus conflict, on locating responsibility between individuals and larger groups, on views about the legitimacy and role of social and private institutions, and on attitudes to authority and expertise. From De Marchi (1994). Societal uncertainty would typically be high when decisions involve substantial collaboration among groups characterized by divergent decision making styles.
+generically dependent continuant;weighted kappa;A weighted data that measures the agreement for categorical data. a generalization of the Kappa statistics to situations in which the categories are not equal in some respect so weighted by an objective or subjective function
+process;eMedical record data transformation;A data transformation in statistics that processes the data matrix collected from eMedical records to a form that is ready for further data analysis.
+disposition;scientific uncertainty;Scientific uncertainty refers to uncertainty which emanates from the scientific and technical dimensions of a problem as opposed to the legal, moral, societal, institutional, proprietary, and situational dimensions outlined by De Marchi et al. Scientific uncertainty is intrinsic to the processes of risk assessment and forecasting.
+generically dependent continuant;median;A center value that separates the higher half from the lower half of the data sample, population, or probability distribution
+disposition;medical test sensitivity disposition;A sensitivity disposition that is related to a medical test and inheres in a population of organism.
+disposition;legal uncertainty;Legal uncertainty is relevant "wherever agents must consider future contingencies of personal liability for their actions (or inactions)". High legal uncertainty can result in defensive responses in regard to both decision making and release of information. Legal uncertainty may also play a role where actions are conditioned on the clarity or otherwise of a legal framework in allowing one to predict the consequences of particular actions.
+generically dependent continuant;chi-square distribution;A probability distribution that with k degrees of freedom is the distribution of a sum of the squares of k independent standard normal random variables.
+generically dependent continuant;rank order;A data item that represents an arrangement according to a rank, i.e., the position of a particular case relative to other cases on a defined scale.
+process;Durbin test;A non-parametric test that was proposed by James Durbin and is used for for balanced incomplete designs.
+disposition;institutional uncertainty;Institutional uncertainty is in some sense a subset of societal uncertainty, and refers more specifically to the role and actions of institutions and their members. Institutional uncertainty stems from the "diverse cultures and traditions, divergent missions and values, different structures, and work styles among personnel of different agencies" (De Marchi, 1994). High institutional uncertainty can hinder collaboration or understanding among agencies, and can make the actions of institutions difficult to predict.
+generically dependent continuant;likelihood ratio;A quantitative confidence value that expresses how many times more likely the data are under one model than the other.
+process;Friedman test;A special case of the Durbin test that was proposed by Milton Frieman and is applicable to complete block designs. Friedman test detects the differences in treatments across multiple test attempts. The procedure involves ranking each row (or block) together, then considering the values of ranks by columns.
+generically dependent continuant;type I error;A statistical error that the null hypothesis is true but has been rejected. a test result that indicates a given condition has been fulfilled, when it actually has not been fulfilled
+disposition;recognized ignorance;Recognised ignorance is fundamental uncertainty about the mechanisms and functional relationships being studied. We know neither the functional relationships nor the statistical properties and the scientific basis for developing scenarios is weak.
+generically dependent continuant;type II error;A statistical error that the null hypothesis is false but has been accepted. a test result indicates that a condition failed, while it actually was successful.
+process;normal distribution transformation;A data transformation process that transforms a data set to a normal distribution.
+disposition;reducible ignorance;Reducible ignorance may be resolved by conducting further research, which implies that it might be possible to somehow achieve a better understanding.
+disposition;measurement uncertainty;Measurement uncertainty stems from the fact that measurements can practically never precisely represent the ‘‘true’’ value of that which is being measured.
+generically dependent continuant;derived data from inferential statistical analysis;A data item that is derived from an inferential statistical data analysis.
+disposition;scenario uncertainty;Scenario uncertainty can manifest itself in various ways – for example, (a) as a range in the outcomes of an analysis due to different underlying assumptions, (b) as uncertainty about which changes and developments (e.g., in driving forces or in system characteristics) are relevant for the outcomes of interest, or (c) as uncertainty about the levels of these relevant changes.
+generically dependent continuant;balanced design;An experimental design where all cells (i.e. treatment combinations) have the same number of observation
+generically dependent continuant;data set following normal distribution;A data set that follows a normal distribution
+disposition;context uncertainty;Context uncertainty includes uncertainty about the external economic, environmental, political, social, and technological situation that forms the context for the problem being examined. The context could fall within the past, the present, or the future.
+generically dependent continuant;case-control study design;A study design that starts with the outcome of interest and works backward to the exposure. For instance, patients with a disease are identified and compared with controls for exposure to a risk factor.
+generically dependent continuant;numerical data set;A data set that is an aggregate of numerical data item.
+disposition;model uncertainty;Model uncertainty is associated with both the conceptual model (i.e., the variables and their relationships that are chosen to describe the system located within the boundaries and thus constituting the model complex) and the computer model.
+process;F test;A statistical hypothesis test in which the test statistic has an F-distribution under the null hypothesis
+disposition;irreducible ignorance;Irreducible ignorance applies when neither research nor development can provide sufficient knowledge about the essential relationships.
+process;mann-whitney U test;A non-parametric test of the null hypothesis that two populations are the same against an alternative hypothesis
+generically dependent continuant;data set following probability distribution;A data set that follows a probability distribution
+disposition;total ignorance;Total ignorance is the other extreme from determinism on the scale of uncertainty, which implies a deep level of uncertainty, to the extent that we do not even know that we do not know.
+generically dependent continuant;complex sample design;A data sampling design that is designed to generate complex samples where sample members do not have equal probability of being selected.
+process;data collection from document;A data collection process that results in a collection of data generated from document(s).
+generically dependent continuant;kappa statistic;A statistic test for several similar measures of agreement used with categorical data. typically used in assessing the degree to which two or more raters, examining the same data, agree on assigning data to categories
+generically dependent continuant;cohort study design;A study design that starts with an exposure and moves forward to the outcome of interest, even if the data are collected retrospectively. As an example, a group of patients who have variable exposure to a risk factor of interest can be followed over time for an outcome.
+disposition;model structure uncertainty;uncertainty about the form of the model itself. Model structure uncertainty arises from a lack of sufficient understanding of the system (past, present, or future) that is the subject of the policy analysis, including the behaviour of the system and the interrelationships among its elements.
+generically dependent continuant;randomized controlled trial design;A study design in which patients are randomly assigned to two or more interventions.
+disposition;model technical uncertainty;uncertainty arising from the computer implementation of the model.Model technical uncertainty is the uncertainty generated by software or hardware errors, i.e. hidden flaws in the technical equipment. Software errors arise from bugs in software, design errors in algorithms and typing errors in model source code. Hardware errors arise from bugs, such as the bug in the early version of the Pentium processor, which gave rise to numerical error in a broad range of floating-point calculations performed on the processor.
+generically dependent continuant;fixed effect;A statistical effect that is associated with an input variable that has a limited number of levels or in which only a limited number of levels are of interest to the experimenter.
+generically dependent continuant;interaction effect;A statistical effect that represents the role of a variable in an estimated model (most often a regression model) and its effect on the dependent variable. A variable that has an interaction effect will have a different effect on the dependent variable, depending on the level of some third variable.
+generically dependent continuant;disease test sensitivity;A sensitivity that refers to the number of patients with a positive test who have a disease divided by all patients who have the disease. A test with high sensitivity will not miss many patients who have the disease (i.e., few false negative results).
+generically dependent continuant;disease test specificity;A specificity that refers to the number of patients who have a negative test and do not have the disease divided by the number of patients who do not have the disease. A test with high specificity will infrequently identify patients as having a disease when they do not (i.e., few false positive results).
+generically dependent continuant;random effect;A statistical effect that is associated with input variables chosen at random from a population having a large or infinite number of possible values.
+generically dependent continuant;lack of fit error;A statistical error that occurs when the analysis omits one or more important terms or factors from the model.
+generically dependent continuant;ordinal scale;A measurement scale that rankings on which data can be sorted however the size or magnitude of differences between any data points in a class is unknown, just that one ranking is greater than the other
+generically dependent continuant;ratio scale;A measurement scale that is similar to an interval scale, i.e. a magnitude of a continuous quantity and a unit magnitude of the same kind. the distinguishing feature of a ratio scale is a meaningful zero value that means the absence of whatever is measured.
+generically dependent continuant;interval scale;A measurement scale consisting of equal-sized units. the distance between any two positions is of known size.
+generically dependent continuant;nominal scale;A measurement scale that placing of data into categories, without any order or structure (see related OBI term of categorical measurement datum).
+generically dependent continuant;standardized coefficient;A quantitative confidence value that has been standardized so that they have variances of 1.0. produces standardized regression coefficients (betas)
+process;logit regression;A type of regression analysis used for predicting the outcome of a categorical dependent variable
+generically dependent continuant;expected value;A quantitative confidence value that represents theoretical average value of a statistic over an infinite number of samples from the same population. the weights correspond to the probabilities in the case of a discrete random variable or densities in the case of a continuous random variable.
+generically dependent continuant;intraclass correlation coefficient;A quantitative confidence value that is a descriptive statistic and can be used to describe how strongly units in the same group resemble each other. unlike other correlation measures it operates on data structured as groups, rather than data structured as paired observations.
+generically dependent continuant;randomization sampling design;A data sampling design that uses randomization for sample selection
+process;nonlinear regression;A form of regression analysis in which observational data are modeled by a function which is a nonlinear combination of the model parameters and depends on one or more independent variables
+generically dependent continuant;non-randomization sampling design;A data sampling design that does not use randomization for sample selection
+generically dependent continuant;coefficient of variation;A quantitative confidence value that is the standard deviation of a data set divided by the mean of the same data set. a normalized measure of dispersion of a probability distribution
+generically dependent continuant;statistical error;A quantitative confidence value that represents unexplained variation in a collection of observations. comopnents of error include random error and lack of fit error
+generically dependent continuant;bias;A quantitative confidence value that is a general statistical term meaning a systematic (not random) deviation from the true value
+process;standardization of techniques and material;
+process;substitution of theoretical validity for technical consistency;
+process;measurement error;
+process;standardization of observational technique (form) and protocol;
+process;observations down-focused to smaller area;
+process;imperfect model;
+process;subjective judgement;
+process;incomplete knowledge;
+process;limited understanding;
+process;observations limited to available material;
+process;utilitarian emphasis on practical result;
+process;substitution of taxonomy for diagnosis;
+process;division of labor;
+process;find exemplars-filter for clear-cut case;
+process;segmentation of uncertainty;
+process;division of data along political line for clarity;
+process;division of labor along technical/substantive line;
+process;search for pathognomonic sign;
+process;shotgun treatment;
+generically dependent continuant;Incidence rate;A data item that refers to the number of new events that have occurred in a specific time interval divided by the population at risk at the beginning of the time interval. The result gives the likelihood of developing an event in that time interval.
+process;data collection by web crawling;An online data collection process that extracts data from online using a web crawler. A Web crawler is an Internet bot which systematically browses the World Wide Web and gets data from WWW.
+process;reacting subject;
+generically dependent continuant;test validity;A validity that refers to the degree to which evidence and theory support the interpretations of test scores (as entailed by proposed uses of tests).
+process;collection of incommensurate data;A data collection process that deals with incommensurate fields in the data.
+process;operative complication (experimental);
+generically dependent continuant;censored data;A data item collected from censoring that the value of a measurement or observation is only partially known.
+process;data collection from online resource;A data collection process that is conducted through an online process.
+process;lack of institutional security;
+process;normal distribution probability density function;A probability density function that is for normal distribution probability
+process;data collection from online database;An online data collection process that extracts data from an online database
+process;delay and lack of communication between investigators;
+generically dependent continuant;relative risk;A data item that equals the incidence in exposed individuals divided by the incidence in unexposed individuals. The relative risk can be calculated from studies in which the proportion of patients exposed and unexposed to a risk is known, such as a cohort study.
+process;generation of missing data;A planned process that generates possible values of missing data
+process;order data sequentially or by spatial location;
+generically dependent continuant;reliability;A data item that refers to the extent to which repeated measurements of a relatively stable phenomenon fall closely to each other.
+process;processing incompatible data;A data transformation process that transforms incompatible data to compatible data.
+process;standardize;
+generically dependent continuant;odds ratio;A data item that refers to the odds that an individual with a specific condition has been exposed to a risk factor divided by the odds that a control has been exposed. The odds ratio is used in case-control studies. The odds ratio provides a reasonable estimate of the relative risk for uncommon conditions.
+generically dependent continuant;web crawling software;A software that is used to browses the World Wide Web in a methodical, automated manner.
+process;uncontrollable procedure;
+generically dependent continuant;prevalence rate;A data item that refers to the number of individuals with a given disease at a given point in time divided by the population at risk at a specified point in time or over a specified period of time.
+process;permutation;A data transformation process that re-arrange the order of all or part of a set of data items.
+process;observational difficulty;
+generically dependent continuant;sensitivity;A data item that measures the proportion of actual positives which are correctly identified as such (e.g. the percentage of sick people who are correctly identified as having the condition).
+process;random permutation;A permutation process that randomly orders a set of data items.
+generically dependent continuant;specificity;A data item that refers to the proportion of negatives in a binary classification test which are correctly identified
+process;lack of funding;
+generically dependent continuant;sum value;A data item that is produced as the output of a summing data transformation and represents the total value of the input data.
+process;sporadic funding;
+generically dependent continuant;dichotomous variable specification;A variable that has only two categories.
+generically dependent continuant;representation validity;A content validity that refers to the extent to which an abstract theoretical construct can be turned into a specific practical test.
+process;uncontrollable experimental condition;
+generically dependent continuant;dummy variable;A statistical variable with only two categories that reflect only part of the information available in a more comprehensive variable
+generically dependent continuant;face validity;A content validity that estimates whether a test appears to measure a certain criterion. It is not guaranteed that the test actually measures phenomena in that domain. When the test does not appear to be measuring what it is, it has low face validity.
+process;lack of information for comparison;
+generically dependent continuant;concurrent validity;A criterion validity that refers to the degree to which the operationalization correlates with other measures of the same construct that are measured at the same time. When the measure is compared to another measure of the same type, they will be related (or correlated). In the selection test example, this would mean that the tests are administered to current employees and then correlated with their scores on performance reviews.
+process;unclear boundaries of causal phenomena;
+generically dependent continuant;covariate specification;A variable specification that specifies a variable used in statistical analysis to correct, adjust, or modify the values of a dependent variable. an independent variable not manipulated by the investigator
+generically dependent continuant;predictive validity;A criterion validity that refers to the degree to which the operationalization can predict (or correlate with) other measures of the same construct that are measured at some time in the future. With the selection test example, this would mean that the tests are administered to applicants, all applicants are hired, their performance is reviewed at a later time, and then their scores on the two measures are correlated.
+process;lack of causal model;
+generically dependent continuant;Poisson distribution;A discrete probability distribution that expresses the probability of a given number of events occurring in a fixed interval of time and/or space if these events occur with a known average rate and independently of the time since the last event. The Poisson distribution can also be used for the number of events in other specified intervals such as distance, area or volume.
+generically dependent continuant;GLobal Identifier of Target Regions software;A software that is used to identify transcription factor binding sites in a genome that have been enriched with aligned reads generated from ChIP-Seq technology.
+process;specialist/nonspecialist handling of the same case;
+generically dependent continuant;negative likelihood ratio;A likelihood ratio that is calculated by dividing 1 minus sensitivity by specificity ((1-sensitivity)/specificity).
+process;peak calling;An inferential statistical data analysis to identify protein-binding regions in a genome sequence from the data generated from a ChIP-sequencing or ChIP-chip experiment. When the protein is a transcription factor, the region is a transcription factor binding site (TFBS).
+process;unequal status between investigators;
+generically dependent continuant;intervening variable specification;A variable postulated to be a predictor of one or more dependent variables, and simultaneously predicted by one or more independent variables
+generically dependent continuant;Extraction of Differential Gene Expression software;A software that is used for the differential gene expression significance analysis of DNA microarray experiments for both standard and time course experiments. The outputs consist of bothe p-values and q-values.
+process;labile and spreading symptom and side effect;
+generically dependent continuant;binomial distribution;A discrete probability distribution that has the number of successes in a sequence of n independent yes/no experiments, each of which yields success with probability p. Such a success/failure experiment is also called a Bernoulli experiment or Bernoulli trial.
+generically dependent continuant;Patterns from Gene Expression software;A software that can be used to produce lists of differentially expressed genes with confidence measures attached. These lists are generated via a False Discovery Rate (FDR) method of controlling the false positives. Patterns from Gene Expression (PaGE) is more than a differential expression analysis tool. PaGE is a tool to attach descriptive, dependable, and easily interpretable expression patterns to genes across multiple conditions, each represented by a set of replicated array experiments.
+process;delayed information;
+generically dependent continuant;accuracy;A data item that refers to the number of true positives and true negatives divided by the total number of observations.
+generically dependent continuant;positive likelihood ratio;A likelihood ratio that is calculated by dividing sensitivity by 1 minus specificity (sensitivity/(1-specificity)).
+process;differential expression analysis using LIMMA linear models for microarry data;A differential expression analysis using LIMMA linear model to identify differential expression for microarray data.
+process;poor management-staff relation;
+generically dependent continuant;absolute risk;A data item of an observed or calculated probability of occurrence of an event, X, in a population related to exposure to a specific hazard, infection, trauma. the number of persons suffering from a disease when the exposed population is known with certainty.
+process;summing data values;A data transformation that add two or more numbers, magnitudes, quantities, or particulars as determined by or as if by the mathematical process of addition.
+process;diverse populations for study;
+generically dependent continuant;power;A quantitative confidence value that refers to the ability of a study to detect a true difference. Negative findings may reflect that the study was underpowered to detect a difference.
+generically dependent continuant;discrete data value;A data value that is discrete, ie, counted.
+generically dependent continuant;random error;A component of experimental error that occurs due to natural variation in the process.
+generically dependent continuant;ordinal data value;A data value that is an ordinal number, ie., a number that tells the position of something in a list.
+generically dependent continuant;interquartile range;A quantitative confidence value that refers to the upper and lower values defining the central 50 percent of observations. The boundaries are equal to the 25th and 75th percentiles. The interquartile range can be depicted in a box and whiskers plot.
+generically dependent continuant;numerical data value;An information content entity that refers to a number value of a data item.
+generically dependent continuant;percentile;A quantitative confidence value that equals the percentage of a distribution that is below a specific value. As an example, a child is in 90th percentile for weight if only 10 percent of children the same age weigh more than she does.
+generically dependent continuant;continuous data value;A data value that is continuous from an interval of possible outcomes.
+generically dependent continuant;type 1 error rate;A quantitative confidence value that refers to the probability of incorrectly concluding that there is a statistically significant difference in a dataset. Alpha is the number after a p-value. Thus, a statistically significant difference reported as p<0.05 means that there is less than a 5 percent chance that the difference could have occurred by chance.
+generically dependent continuant;nominal data value;A data value that is a nominal number, ie., a number used only as a name, or to identify something (not as an actual value or position).
+generically dependent continuant;type 2 error rate;A quantitative confidence value that refers to the probability of incorrectly concluding that there was no statistically significant difference in a dataset. This error often reflects insufficient power of the study.
+generically dependent continuant;range;A quantitative confidence value that equals the difference between the largest and smallest observation.
+generically dependent continuant;cardinal data value;A data value that is a cardinal number, i.e., a number that says how many of something there are, such as one, two, three, four, five.
+generically dependent continuant;standard deviation;A quantitative confidence value that measures the variability of data around the mean.
+generically dependent continuant;undirected graph;A mathematic graph that a set of objects (vertices or nodes) that are connected together, where all the edges between two objects are bidirectional.
+generically dependent continuant;confidence interval;A quantitative confidence value that refers to an interval give values within which there is a high probability (95 percent by convention) that the true population value can be found. The calculation of a confidence interval considers the standard deviation of the data and the number of observations. Thus, a confidence interval narrows as the number of observations increases, or its variance (dispersion) decreases.
+process;Anscombe transformation;A variance-stabilizing transformation that transforms a random variable with a Poisson distribution into one with an approximately standard Gaussian distribution.
+generically dependent continuant;credible interval;A quantitative confidence value that is used in Bayesian analysis to describe the range in which a posterior probability estimate is likely to reside.
+process;rank-order transformation;A data transformation that lists data items in a sequential arrangement
+process;square root transformation;A data transformation that performs an operation of square root.
+process;random selection;A data collection by sampling process that uses some form of random selection, that is, one that will ensure that all units in the population have an equal probability or chance of being selected.
+process;knuth shuffle;A random permutation process that generates a permutation of n items uniformly at random without retries. Specifically, it is to start with any permutation (for example, the identity permutation), and then go through the positions 1 through n − 1, and for each position i swap the element currently there with a randomly chosen element from positions i through n, inclusive.
+generically dependent continuant;period prevalence rate;A prevalence rate that occurs at a specific period of time.
+process;sorting;A data transformation process that puts the data items in a set in a certain order.
+process;polynomial regression;A special case of multiple linear regression in which the relationship between the independent variable x and the dependent variable y is modeled as an nth order polynomial
+process;Kriging;A regression method of interpolation for which the interpolated values are modeled by a Gaussian process governed by prior covariances, as opposed to a piecewise-polynomial spline chosen to optimize smoothness of the fitted values.
+generically dependent continuant;data sampling design;A plan specification that provides a detailed outline of which measurements will be taken at what times, on which material, in what manner, and by whom. Sampling plans should be designed in such a way that the resulting data will contain a representative sample of the parameters of interest and allow for all questions, as stated in the goals, to be answered.
+process;Bayesian analysis;An inferential statistical data analysis that estimates parameters of an underlying distribution based on the observed distribution
+generically dependent continuant;discrete probability distribution;A probability distribution that is associated with discrete variables and is characterized by a probability mass function.
+process;data transformation in statistics;A data processing that applies a deterministic mathematical function to each point in a data set. that is, each data point zi is replaced with the transformed value yi = f(zi), where f is a function.
+generically dependent continuant;frequency distribution;A tabular summary of a set of data showing the number of items in each of several non-overlapping classes or groupings
+process;log2 transformation;A logarithmic transformation that uses the base-2 logarithm.
+generically dependent continuant;point prevalence rate;A prevalence rate that occurs at a specific point of time.
+process;sorting based on numerical order;A sorting process that sorts a set of data items based on the numberical order.
+generically dependent continuant;continuous probability distribution;A probability distribution that is associated with continuous variables and has a probability density function.
+process;sorting based on lexicorgraphic order;A sorting process that sorts a set of data items based on a lexicorgraphic order
+generically dependent continuant;cohen's kappa coefficient;A statistical measure of inter-rater agreement or inter-annotator agreement for qualitative (categorical) items.
+process;factor analysis;A multivariate analysis that uncovers the latent structure (dimensions) of a set of variables. It reduces attribute space from a larger number of variables to a smaller number of factors.
+generically dependent continuant;validity;A data item that refers to the extent to which a concept conclusion or measurement is well-founded and corresponds accurately to the real world.
+process;MANOVA;A multivariate analysis that compares multivariate sample means. As a multivariate procedure, it is used when there are two or more dependent variables.

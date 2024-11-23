@@ -1,0 +1,200 @@
+class;term;comment
+independent continuant;posterior epipharyngeal sclerite;The epipharyngeal sclerite on the posterior region of the epipharynx.
+independent continuant;anterior epipharyngeal sclerite;The epipharyngeal sclerite on the anterior region of the epipharynx.
+independent continuant;epipharyngeal sclerite;The sclerite of the epipharynx.
+independent continuant;posterior tormal process;The region of the cuticle on the postero-lateral region of the torma.
+independent continuant;medial tormal process;The region of the cuticle of the torma that is elongated and parallel to the left-right axis.
+independent continuant;cardo process;The apodeme that is adjacent to the proximo-dorsal region of the cuticle of the cardo.
+independent continuant;mandibular adductor apodeme;The apodeme adjacent to the proximo-medial region of the cuticle of the insect mandible.
+independent continuant;mandibular abductor apodeme;The apodeme adjacent to the proximo-lateral region of the cuticle of the insect mandible.
+independent continuant;mandibular ventrolateral condyle;The insect articulation on the ventro-lateral region of the cuticle of the insect mandible.
+independent continuant;mandibular dorsolateral socket;The insect articulation on the dorso-lateral region of the cuticle of the insect mandible.
+independent continuant;epipharyngeal process;The setose cuticle of the epipharynx that is posterior to the anterior epipharyngeal sclerite.
+independent continuant;lacinial seta;The cuticular seta on the dorsal region of the cuticle of the lacinia.
+independent continuant;galeal seta;The cuticular seta on the dorsal region of the cuticle of the galea.
+independent continuant;lateral cardo process;The cardo process of the lateral region.
+independent continuant;mesal cardo process;The cardo process of the medial region.
+independent continuant;anteromedial hypopharyngeal sclerite;The hypopharyngeal sclerite on the antero-medial region of the hypopharynx.
+independent continuant;anterolateral hypopharyngeal sclerite;Each of the bilaterally paired hypopharyngeal sclerites on the antero-lateral region of the hypopharynx.
+independent continuant;struts of hypopharyngeal suspensorium;The bilaterally paired sclerites composing the ventral region of the hypopharyngeal suspensorium.
+independent continuant;hypopharyngeal brush;The setose cuticle on the medial region of the hypopharynx.
+independent continuant;pronotal sulcus;The bilaterally paired cuticular sulcus on the posterior region of the pronotum.
+independent continuant;paraglossal seta;The cuticular seta on the ventral region of the cuticle of the paraglossa.
+independent continuant;lacinial digitus;The sclerite on the lateral margin the cuticle of the lacinia.
+independent continuant;spiculum;The apodeme on the anterior margin of abdominal sternite VIII.
+independent continuant;uncus;The spine on the distal margin of the tibia.
+independent continuant;tibial spur;The spur on the distal margin of the tibia.
+independent continuant;scrobe;The subantennal groove on the rostrum that is posterior to the antennal foramen.
+independent continuant;rostrum;The region of cuticle of the insect head that is proximal to the mouthparts and composed of frons and clypeus.
+independent continuant;lateral pronotal margin;The lateral margin of the pronotum
+independent continuant;subantennal groove;The concave region of the cuticle on the lateral or ventral region of the head capsule that is adjacent to the antennal foramen.
+independent continuant;genal seta;The cuticular seta on the external side of the cuticle of the gena that is posterior or ventral to the compound eye.
+independent continuant;frontal carina;The carina on the frons that is dorsal to the antennal foramen.
+function;costate elytral interstria;The elytral stria with elevated surface.
+independent continuant;baculum;The sclerite of the paraproct that is elongated.
+independent continuant;manubrium;The apodeme on the anterior margin of the tegmen.
+independent continuant;tegmen;The phallobase that is fused to the parameres.
+independent continuant;flagellum;The endophallite that is elongated.
+independent continuant;ventral cranio-mandibular articulation;The cranio-mandibular articulation of the head capsule at the anterior region of the postgena
+independent continuant;clypealia;The region of the cuticle corresponding to the postero-lateral region of the postclypeus
+independent continuant;dorsal cranio-mandibular articulation;The cranio-mandibular articulation of the head capsule on the ventral region of the clypealia
+independent continuant;genoclypeal sulcus;The cuticular sulcus that is the lateral region of the frontoclypeal sulcus.
+independent continuant;ventral lobe of eye;The ventral region of the eye cuticle.
+independent continuant;dorsal lobe of eye;The dorsal region of the eye cuticle.
+independent continuant;labral seta;The cuticular seta on the dorsal region of the cuticle of the labrum.
+independent continuant;submental sulcus;The cuticular sulcus between the submentum and the postgena
+independent continuant;posterior cranial transverse groove;The cuticular groove of the head capsule that runs parallel to the left-right axis, adjacent to the vertex and the occiput
+independent continuant;supraorbital crest;The cuticular carina that is parallel to the medial margin of the eye
+independent continuant;cranio-maxillar articulation;The insect articulation of the head capsule at the postero-medial region of the postgena
+independent continuant;ventro-lateral metendosternal process;The cuticular protrusion on the ventro-lateral region of the metendosternite that is distal to the metendosternal lamina and proximal to the metendosternal arm.
+independent continuant;distigalea;The distal region of the cuticle of the galea that is adjacent to the distal margin of the basigalea.
+independent continuant;basigalea;The proximal region of the cuticle of the galea that is adjacent to the distal margin of the mediostipes.
+independent continuant;arms of hypopharyngeal suspensorium;The bilaterally paired sclerites on the antero-dorsal region of the hypopharyngeal suspensorium.
+independent continuant;gulamentum;The insect sclerite that includes the gula and the submentum.
+independent continuant;mala;The cuticle of the mouthpart composed at least by the cuticle of the galea.
+independent continuant;cupule;The antennomere that is cup-shaped.
+function;periarticular groove;The cuticular groove on the distal side of the cuticle of an antennomere that bears cuticular sensillae.
+independent continuant;postcoxal process of hypomeron;Each of the bilaterally paired regions of cuticle on the postero-medial region of the hypomeron.
+independent continuant;notosternal ridge;The cuticular ridge on the cuticle of the prothorax that coincides with the notosternal sulcus.
+independent continuant;frontoclypeus;The region of cuticle that is part of the head capsule, posterior to the labrum and composed of clypeus and frons.
+independent continuant;medial hypopharyngeal sclerite;Each of the bilaterally paired hypopharyngeal sclerites on the medial region of the hypopharynx.
+independent continuant;propleurotrochantin;The protrochantin that is fused with the propleuron.
+independent continuant;median gular endocarina;The cuticular internal depression that is medial to the gular sulci.
+independent continuant;postcoxal projections of propleuron;The region of cuticle on the postero-lateral region of the propleuron.
+independent continuant;anterior transverse flange of the metendosternite;The cuticular carina on the anterior region of the metendosternite (metafurca) that is parallel to the left-right axis.
+independent continuant;anterior longitudinal flange of the metendosternite;The cuticular carina on the anterior region of the metendosternite (metafurca) that is parallel to the anterior-posterior axis.
+independent continuant;metendosternal lamina;The bilaterally paired region of cuticle on the dorso-lateral region of the metendosternite that is proximal to the metendosternal arm.
+independent continuant;metendosternal arm;The bilaterally paired dorso-lateral apodeme of the metendosternite that is distal to the metendosternal lamina.
+independent continuant;metendosternal stalk;The region of cuticle that constitutes the ventro-medial region of the metendosternite.
+independent continuant;mesendosternal arm;The apodeme of the mesendosternite.
+independent continuant;mesokatepisternal sulcus;The sulcus of the mesoventrite that is transverse (parallel to the left-right axis).
+independent continuant;elytral window puncture;The elytral puncture that is relatively large, square, and transparent.
+independent continuant;elytral stria 8;The elytral stria that is lateral to the elytral interstria 8.
+independent continuant;elytral interstria 8;The elytral interstria that is lateral to the elytral stria 7.
+independent continuant;elytral stria 7;The elytral stria that is lateral to the elytral interstria 7.
+independent continuant;elytral interstria 7;The elytral interstria that is lateral to the elytral stria 6.
+independent continuant;elytral stria 6;The elytral stria that is lateral to the elytral interstria 6.
+independent continuant;elytral interstria 6;The elytral interstria that is lateral to the elytral stria 5.
+independent continuant;elytral stria 5;The elytral stria that is lateral to the elytral interstria 5.
+independent continuant;elytral interstria 10;The elytral interstria that is lateral to the elytral stria 9.
+independent continuant;elytral stria 9;The elytral stria that is lateral to the elytral interstria 9.
+independent continuant;elytral interstria 9;The elytral interstria that is lateral to the elytral stria 8.
+independent continuant;triangular folding area of the beetle wing;The insect wing fold that is proximal to the radial cross-vein r4 and anterior to the oblongum cell of the beetle wing.
+independent continuant;medial bar of the beetle wing;The medial vein that is posterior to the radial posterior (RP) vein of the beetle wing.
+independent continuant;elytron with 9 striae;The elytron that has parts elytral striae 1-9.
+independent continuant;radial bar of the beetle wing;The insect wing vein composed of the radial anterior branch 1+2 (RA1+2) of the beetle wing and the subcosta posterior (ScP) of the beetle wing.
+independent continuant;posterolateral pronotal angle;The anatomical margin that is formed by the posterior region of the posterolateral pronotal margin and by the lateral region of the posterior pronotal margin.
+independent continuant;central field of the beetle wing;The region of the beetle wing that is distal to the radial field of the insect wing, anterior to the medial field of the insect wing, and proximal to the apical field of the beetle wing.
+independent continuant;anterolateral pronotal angle;The anatomical margin that is formed by the anterior region of the anterolateral pronotal margin and by the lateral region of the anterior pronotal margin.
+independent continuant;radial cell of the beetle wing;The insect wing vein that is anterior to the central field of the beetle wing, distal to the radial bar of the beetle wing, and proximal to the apical field of the beetle wing.
+independent continuant;elytral interstria 12;The elytral interstria that is lateral to the elytral stria 11.
+independent continuant;apical field of the beetle wing;The region of the beetle wing that is distal to the central region of the beetle wing.
+independent continuant;elytral stria 11;The elytral stria that is lateral to the elytral interstria 11.
+material entity;anterior tendon of the metendosternite;The cuticular tendon on the antero-dorsal regionof the metendosternal lamina.
+independent continuant;elytral interstria 11;The elytral interstria that is lateral to the elytral stria 10.
+independent continuant;elytral stria 10;The elytral stria that is lateral to the elytral interstria 10.
+independent continuant;subcosta posterior (ScP) of the beetle wing;The posterior region of the subcostal vein of the insect wing.
+independent continuant;subcosta anterior (ScA) of the beetle wing;The anterior region of the subcostal vein of the insect wing.
+independent continuant;humeral field of the beetle wing;The region of the beetle wing that is distal to the axillary region of the insect wing and proximal to the costal vein of the insect wing.
+independent continuant;elytral interstria 3;The elytral interstria that is lateral to the elytral stria 2.
+independent continuant;elytral stria 2;The elytral stria that is lateral to the elytral interstria 2.
+independent continuant;elytral interstria 2;The elytral interstria that is lateral to the elytral stria 1.
+independent continuant;elytral stria 1;The elytral stria that is lateral to the elytral interstria 1.
+independent continuant;elytral interstria 1;The elytral interstria that is lateral to the sutural margin.
+independent continuant;anterolateral pronotal apodeme;The apodeme that is bilaterally paired and adjacent to the internal side of the anterior region of the pronotum and adjacent to the internal side of the antero-lateral region of the pronotum.
+independent continuant;elytral interstria 5;The elytral interstria that is lateral to the elytral stria 4.
+independent continuant;elytral stria 4;The elytral stria that is lateral to the elytral interstria 4.
+independent continuant;elytral interstria 4;The elytral interstria that is lateral to the elytral stria 3.
+independent continuant;elytral stria 3;The elytral stria that is lateral to the elytral interstria 3.
+independent continuant;elytral interstria;The region of the cuticle of the elytral disc that is adjacent to an elytral stria.
+independent continuant;anal posterior branch 4 (AP4) of the beetle wing;The posterior branch of the anal wing vein that is posterior to the anal posterior branch 3 (AP3) of the beetle wing.
+independent continuant;elytral stria;The groove on an elytron that is longitidinal (parallel to the anterior-posterior axis).
+independent continuant;anal posterior branch 3 (AP3) of the beetle wing;The posterior branch of the anal wing vein that is posterior to the anal anterior branch 3+4 (AA3+4) of the beetle wing.
+independent continuant;elytral puncture;A puncture on an elytron.
+independent continuant;anal posterior branch 1+2 (AP1+2) of the beetle wing;The posterior branch of the anal vein that is composed of the first and second anal posterior branches of the beetle wing.
+independent continuant;elytral humerus;The region of cuticle on the antero-lateral region of the elytron.
+independent continuant;oblongum cell of the beetle wing;The insect wing vein composed of the medial bar, the radial posterior branch 3+4, and the radial-medial cross vein.
+independent continuant;elytral epipleuron;The region of cuticle on the lateral region of the elytron.
+independent continuant;radial-medial cross vein;The cross-vein of the beetle wing that is adjacent to the radial posterior vein and to the medial spur of the beetle wing.
+independent continuant;elytral disc;The region of the cuticle on the dorsal region of an elytron.
+independent continuant;anal anterior branch 3+4 (AA3+4) of the beetle wing;The anterior branch of the cubital vein that is composed of the third and fourth anal anterior branches of the beetle wing.
+independent continuant;elytral sutural margin;The medial margin of the elytron.
+independent continuant;anal anterior branch 4 (AA4) of the beetle wing;The anterior branch of the anal wing vein that is posterior to the anal anterior branch 3 (AA3) of the beetle wing.
+independent continuant;scutellar shield;The region of the cuticle on the posterior region of the mesoscutellum.
+independent continuant;anal anterior branch 3 (AA3) of the beetle wing;The anterior branch of the anal wing vein that is posterior to the anal anterior branch 1+2 and cubital anterior branch 3+4 (AA1+2+CuA3+4) of the beetle wing.
+independent continuant;mesoventrite;The sclerite on the ventral region of the mesothorax, limited by the pleurosternal sulci and medial to the mesanepisternum and mesepimeron.
+independent continuant;mesanepisternum;The anepisternum on the anterior region of the mesopleuron and lateral to the mesoventrite.
+independent continuant;abdominal ventrite;The sclerite that is part of the insect abdomen, part of the medial region and the ventral region and is exposed.
+independent continuant;longitudinal pronotal groove;The cuticular groove that is located in the medial region of pronotum and is parallel to the antero-posterior body axis.
+independent continuant;metaventrite;The sclerite on the ventral region of the metathorax, limited by the pleurosternal sulci and medial to the metanepisternum and metepimeron.
+independent continuant;post-radial sclerite of the beetle wing;The insect sclerite on the apical field of the beetle wing that is distal to the radial cell.
+independent continuant;anal posterior branch 3+4 (AP3+4) of the beetle wing;The posterior branch of the anal wing vein that is composed of the anal posterior branch 3 (AP3) and the anal posterior branch 4 (AP4) of the beetle wing.
+independent continuant;metaventral process;The antero-medial region of the metaventrite in contact with the mesoventral process.
+independent continuant;mesoventral process;The postero-medial region of the mesoventrite in contact with the metaventral process.
+independent continuant;pregomphus;The bilaterally paired cuticular protrusion that is anterior to the urogomphus.
+independent continuant;mesocoxal cavity;The concave part of the ventral region of the pterothorax that receives the mesocoxa.
+independent continuant;urogomphus;The bilaterally paired cuticular protrusion of the abdominal tergite IX.
+independent continuant;metathoracic discrimen;The discrimen of the metaventrite.
+independent continuant;lateral abdominal tergal process;The cuticular protrusion that is lateral to an abdominal tergite.
+independent continuant;mesothoracic discrimen;The discrimen of the mesoventrite.
+independent continuant;ventral epicranial ridge;The cuticular ridge on the ventral region of the head capsule that is lateral to the cranio-mandibular articulation.
+independent continuant;antennal club;The distal region of the antenna that is composed by flagellomeres with increased size.
+independent continuant;metepimeron;The epimeron on the posterior region of the metapleuron and lateral to the metaventrite.
+independent continuant;maxillolabial sulcus;The cuticular sulcus on the cuticle of the maxillolabial complex.
+independent continuant;mesepimeron;The epimeron on the posterior region of the mesopleuron.
+independent continuant;maxillolabial complex;The cuticle of the mouthpart that is composed of the maxilla and the labium.
+independent continuant;metanepisternum;The anepisternum on the anterior region of the metapleuron and lateral to the metaventrite.
+material entity;antennal sensorium;The cuticular sensilla that is adjacent to the cuticle of an antennomere.
+independent continuant;canthus;The region of cuticle that is anterior to the compound eye
+independent continuant;spiracular scar;The insect sclerite that is part of the insect spiracle.
+independent continuant;metakatepisternal sulcus;The sulcus of the metaventrite that is transverse (parallel to the left-right axis).
+independent continuant;sieve plate of the cribriform spiracle;The perforated region of the cuticle that is part of the cribriform spiracle.
+independent continuant;metacoxal cavity;The concave region of abdominal sternites II and III that receive the metacoxa.
+material entity;cribriform spiracle;The insect spiracle composed of a sieve plate of the cribriform spiracle and a spiracular scar.
+independent continuant;ventrally-hinged operculum;The insect sclerite that is distal to the abdominal sternite IX.
+independent continuant;radial posterior branch 1 (RP1) of the beetle wing;The posterior branch of the beetle wing vein that is part of the radial posterior (RP) vein of the beetle wing.
+independent continuant;accessory endophallite;The endophallite that is located in the distal region of the endophallus.
+independent continuant;radial anterior branch 3+4 (RA3+4) of the beetle wing;The posterior branch of the beetle wing vein that is part of the radial anterior (RA) vein of the beetle wing.
+independent continuant;posterior branch of the beetle wing vein;The insect wing vein thet is posterior to the anterior branch of the beetle wing vein.
+independent continuant;anterior branch of the beetle wing vein;The insect wing vein thet is anterior to the posterior branch of the beetle wing vein.
+independent continuant;precostal vein of the beetle wing;The insect wing vein of the costal field that is anterior to the costal vein of the insect wing.
+independent continuant;radial anterior branch 1+2 (RA1+2) of the beetle wing;The anterior branch of the beetle wing vein that is part of the radial anterior (RA) vein of the beetle wing.
+independent continuant;radial posterior (RP) vein of the beetle wing;The posterior region of the radial vein of the insect wing.
+independent continuant;radial anterior (RA) vein of the beetle wing;The anterior region of the radial vein of the insect wing.
+independent continuant;radial posterior branch 3+4 (RP3+4) of the beetle wing;The posterior branch of the beetle wing vein that is part of the radial posterior (RP) vein of the beetle wing and posterior to radial posterior branch 2 (RP2) of the beetle wing.
+independent continuant;radial posterior branch 2 (RP2) of the beetle wing;The posterior branch of the beetle wing vein that is part of the radial posterior (RP) vein of the beetle wing and posterior to the radial posterior branch 1 (RP1) of the beetle wing.
+independent continuant;lamella copulatrix;The endophallite that is located in the medial region of the endophallus.
+independent continuant;cross-vein of the beetle wing;The insect wing vein that is adjacent to another insect wing vein.
+independent continuant;subaxial endophallite;The accessory endophallite that is elongated and lateral to the axial and frontolateral peripheral endophallites.
+independent continuant;axial endophallite;The accessory endophallite that is elongated and lateral to the subaxial and frontolateral peripheral endophallites.
+independent continuant;notosternal sulcus;The sulcus separating the lateral region of the notum and the lateral region of the sternum.
+independent continuant;cubital anterior branch 1+2 (CuA1+2) of the beetle wing;The anterior branch of the cubital vein that is composed of the first and second cubital anterior branches of the beetle wing.
+independent continuant;basolateral lobe of paramere;The cuticular lobe that is part of the proximolateral region of the cuticle of the paramere.
+independent continuant;pleurosternal sulcus;The sulcus that separates the ventral region of the pleuron from the lateral region of the sternum.
+independent continuant;cubital anterior branch 2 (CuA2) of the beetle wing;The second anterior branch of the cubital vein that is posterior to the first cubital anterior branch of the beetle wing (CuA1).
+independent continuant;mesometaventral sulcus;The cuticular sulcus at the posterior margin of the mesoventrite and the anterior margin of the metaventrite.
+independent continuant;notopleural sulcus;The sulcus that separates the dorsal region of the pleuron from the lateral region of the notum.
+independent continuant;cubital anterior branch 1 (CuA1) of the beetle wing;The first anterior branch of the cubital vein, which is posterior to the medial posterior branch 3+4 (MP3+4) of the beetle wing.
+independent continuant;raspula;The thickened region of the cuticle of the endophallus that has cuticular spines.
+quality;deflexed;
+independent continuant;medial corss-vein;The cross-vein thet is adjacent to the medial bar and to the medial posterior branch 3+4 of the beetle wing.
+independent continuant;posterior longitudinal hypomeral carina;The cuticular carina that is located on the posterior region of the hypomeron and is parallel to the lateral pronotal carina.
+independent continuant;hypomeron;The lateral region of the pronotum that is deflexed and laterally limited by the lateral pronotal carina.
+independent continuant;medial spur of the beetle wing;The medial vein that is distal to the medial bar of the beetle wing.
+independent continuant;pronotal disc;The medial region of the pronotum.
+independent continuant;medial posterior branch 3+4 (MP3+4) of the beetle wing;The posterior branch of the beetle wing vein that is posterior to the medial bar of the beetle wing.
+independent continuant;lateral pronotal carina;The carina of the pronotum that separates the pronotal disc from the hypomeron.
+independent continuant;radial cross-vein r4;The cross-vein of the beetle wing that is adjacent to the postero-medial region of the radial cell of the beetle wing.
+independent continuant;frontolateral peripheral endophallite;The accessory endophallite that is elongated and lateral to the axial and subaxial endophallites.
+independent continuant;elytron;The sclerotized fore wing of beetles.
+independent continuant;radial cross-vein r3;The cross-vein of the beetle wing that is proximal to the radial cell of the beetle wing.
+independent continuant;superior right peripheral endophallite;The accessory endophallite that is distal to the axial, subaxial, and frontolateral peripheral endophallites.
+independent continuant;procoxal cavity;The concave part of the prosternum that receives the procoxa.
+independent continuant;prosternal process;The part of the prosternum that is medial to the procoxae.
+independent continuant;cubital anterior branch 3+4 (CuA3+4) of the beetle wing;The anterior branch of the cubital vein that is posterior to the cubital anterior branch 1+2 (CuA1+2) of the beetle wing.
+independent continuant;mesoscutellum;The scutellum of the mesothorax.
+independent continuant;anal anterior branch 1+2 and cubital anterior branch 3+4 (AA1+2+CuA3+4) of the beetle wing;The anterior branch of the anal vein that is composed of the anal anterior branch 1+2 and the cubital anterior branch 3+4 of the beetle wing.
+independent continuant;fused axial and subaxial endophallites;The accessory endophallite formed by the fusion of ancestral axial and subaxial endophallites.
+independent continuant;anal anterior branch 1+2 (AA1+2) of the beetle wing;The anterior branch of the anal vein that is composed of the first and second anal anterior branches of the beetle wing.
+independent continuant;anterior hypomeral depression;The cuticular depression in the anterior region of the hypomeron that is anterior to the anterior hypomeral carina.
+independent continuant;anterior hypomeral carina;The cuticular carina that is located in the hypomeron and that is anteriorly connected to the anterior margin of pronotum and posteriorly connected to the lateral margin of procoxal cavity.

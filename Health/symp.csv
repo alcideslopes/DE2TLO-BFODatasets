@@ -1,0 +1,895 @@
+class;term;comment
+process;allodynia;A pain that is characterized by a painful sensation with a normal, non-painful stimulation.
+process;hyperalgesia;A sensation perception that is characterized by an increased response to a painful stimulus.
+process;chronic pain;A pain that is characterized by ranging from mild to severe and which continues beyond the expected healing phase.
+process;hypoesthesia;A sensation perception that is characterized by a reduced sense of touch or sensation, or a partial loss of sensitivity to sensory stimuli.
+process;hypoalgesia;A sensation perception that is characterized by a diminished sensitivity to painful stimulation.
+process;neuropathic pain;A pain that is characterized by being experienced by cancer patients and which is caused by radiotherapy or chemotherapy damage to nerves, when cancer invades or compresses nerves, or when, during cancer treatment. This type of pain is typically described as burning, electrical, or strange feeling.
+process;visceral pain;A pain that is characterized by originating from organ tissues of the thorax, abdomen, or pelvis. It characterizes as deep, vague, and difficult to locate pain, that radiates away from the affected organ.
+process;phantom pain;A pain that is characterized by a painful sensation that is perceived to originate in the amputated portion of the extremety. Patients may have localized pain that originates in the stump.
+process;nociceptive pain;A pain that is characterized by originating from other than the peripheral and central nervous systems, and which is caused by activation of nociceptive fibers.
+process;breakthrough pain;A pain that is characterized by occurring with movement and is not controlled by a scheduled pain medication regimen, such that the pain breaks through the current regimen. This is usually referred to in the context of a short and long acting opioid, the short acting opioid being used to treat the breakthrough pain.
+process;acute pain;A pain that is characterized by being severe but lasting a relatively short time.
+process;congested sclera;Congested sclera is a hyperemia characterized as the congestion of the vessels of the outer layer of the eye containing collagen and elastic fibers.
+process;gross hematuria;A hematuria that is characterized by the production of a visible redness in the urine.
+process;coma;An alteration of consciousness that is characterized by a deep state of prolonged unconsciousness in which a person cannot be awakened, fails to respond normally to painful stimuli, light, or sound, lacks a normal wake-sleep cycle and does not initiate voluntary actions.
+process;spastic paralysis;A paralysis that is characterized by a tonic spasm of the affected muscles and with increased tendon reflexes.
+process;nocturnal enuresis;A urinary incontinence that is characterized by involuntary urination at night in children five years of age or older.
+process;motor paralysis;A paralysis that is characterized by a complete or partial loss of function the voluntary muscles.
+process;tachypnea;A respiratory abnormality that is characterized by an increased rate of respiration and shallow breathing.
+process;hyperemia of the neck;Hyperemia of the neck is a neck symptom consisting of an excess of blood in the tissues of the neck as from an increased flow of blood due to vasodilation.
+process;wheezing;An abnormal chest sound that is characterized by breathing with difficulty usually with a whistling sound.
+process;chest hyperemia;Hyperemia of the chest is a cardiovascular system symptom consisting of an excess of blood in the tissues of the chest as from an increased flow of blood due to vasodilation.
+process;hyperventilation;A respiratory abnormality that is characterized by excessive ventilation characterized by excessive rate and depth of respiration leading to abnormal loss of carbon dioxide from the blood.
+process;functional hyperemia;Functional hyperemia is a hyperemia occurring due to an increase in blood flow to a tissue due to the presence of metabolites and a change in general conditions.
+process;orthopnea;A respiratory abnormality that is characterized by a difficulty in breathing that occurs when lying down and is relieved upon changing to an upright position (as in congestive heart failure).
+process;face hyperemia;Hyperemia of the face is a head symptom consisting of an excess of blood in the tissues of the face as from an increased flow of blood due to vasodilation.
+process;reactive hyperemia;Reactive hyperemia is a hyperemia occurring due to the dilation of arteriolar smooth muscle to increase blood flow in response to a profound increase in blood flow to an organ after being occluded. There will be a shortage of oxygen and a build-up of metabolic waste.
+process;apnea;A respiratory abnormality that is characterized by transient cessation of respiration whether normal (as in hibernating animals) or abnormal (as that caused by certain drugs).
+process;active hyperemia;Active hyperemia is a hyperemia occurring due to the dilation of arteriolar smooth muscle to increase blood flow in response to an increase in metabolism.
+process;generalized hyperhidrosis;A neurological and physiological symptom that is characterized by excessive sweating, i.e. the production of more sweat than is required to regulate body temperature. Generalized hyperhidrosis is caused by non-thermoregulatory stimuli and affects the entire body.
+process;hallucination;Hallucination is a general symptom where there is a perception of something (as a visual image or a sound) with no external cause usually arising from a disorder of the nervous system (as in delirium tremens or in functional psychosis without known neurological disease) or in response to drugs (as LSD).
+process;stillbirth;A reproductive system symptom that is characterized by the birth of a dead fetus. in which a fetus that has died in the uterus, or during labor, or delivery, exits a woman's body.
+process;syncope and collapse;An alteration of consciousness that is characterized by a loss of consciousness resulting from insufficient blood flow to the brain and limb weakness progressing to collapse.
+process;freezing hypokinesia;Freezing hypokinesia is a hypkinesia where a person can not move their muscles how they want them to.
+process;left lower quadrant abdominal pain;An abdominal pain that is characterized by occurring in the left lower quadrant of the abdomen that is often related to the digestive tract, but can also be related to conditions of the body wall, skin, blood vessels, urinary tract, or reproductive organs.
+process;referred pain;A pain that is characterized by pain which is subjectively localized in one region although it is due to irritation in another region.
+process;postural instability hypokinesia;Postural instability hypokinesia is a hypokinesia described as a loss of ability to maintain an upright posture.
+process;loss of height;
+process;hypokinesia;Hypokinesia is a musculoskeletal system symptom characterized by the slow or diminished movement of body musculature. It may be associated with basal ganglia diseases. mental disorders. prolonged inactivity due to illness. experimental protocols used to evaluate the physiologic effects of immobility. and other conditions.
+process;torticollis;
+process;rigidity hypokinesia;Rigidity hypokinesia a type of hypokinesia described as the increase in muscle tension when moved by an outside force.
+process;cough;A respiratory system and chest symptom that is characterized by an explosive expulsion of air from the lungs acting as a protective mechanism to clear the air passages or as a symptom of pulmonary disturbance.
+process;subjective vertigo;A vertigo that is characterized by a sensation that one's body is revolving in space.
+process;objective vertigo;A vertigo that is characterized by a sensation that the external world is revolving.
+process;periumbilic abdominal rigidity;
+process;hypermenorrhea;A menorrhagia that is characterized by an abnormally profuse or prolonged menstrual flow.
+process;fever;A neurological and physiological symptom that is characterized by a rise of body temperature above the normal, whether as a natural response (as to infection) or artificially induced for therapeutic reasons.
+process;metrorrhagia;A menorrhagia that is characterized by an irregular uterine bleeding, especially between menstrual periods.
+process;dizziness;A balance symptom that is characterized by a sensation of unsteadiness accompanied by a feeling of movement within the head.
+process;anuria;A urinary system symptom that is characterized by the absence of, or by defective, urine excretion.
+process;periumbilic abdominal pain;
+process;stress incontinence;A urinary incontinence that is characterized by an involuntary leakage of urine from the bladder accompanying physical activity (as in laughing, coughing, sneezing, or physical exercise) which places increased pressure on the abdomen.
+process;abnormal posture;
+process;tetany;
+process;frontal headache;
+process;icteric skin;A skin and integumentary tissue symptom that is characterized by yellowed skin due to bile or bilirubin accumulation.
+process;hemolytic anemia;
+process;otitis;Otitis is a ear symptom characterized as a general term for inflammation or infection of the ear, in both humans and other animals.
+process;icteric eyes;Icteric eyes is a eye symptom characterized by yellowed eyes due to bile or bilirubin accumulation.
+process;icteric mucous membrane;A skin and integumentary tissue symptom that is characterized by yellowed mucous membranes due to bile or bilirubin accumulation.
+process;disturbed vision;
+process;nasal congestion;A congestion that is characterized by a blockage of the nasal passages, usually due to the membranes lining the nose becoming swollen from inflamed blood vessels.
+process;vision distortion;
+process;conscious disturbance;An alteration of consciousness that is characterized by a disturbance in sentience (the ability to experience feelings and sensations) or awareness of one's internal and external existence, i.e. inhibited or absent self-awareness.
+process;gastrointestinal bleeding;A digestive system symptom characterized by bleeding from one or more of the areas of the digestive or gastrointestinal (GI) tract that includes the espophagus, stomach, small intestine, large intestine or colon, rectum and anus.
+process;breathing problems;A respiratory abnormality that is characterized by a shortness of breath, a hard or uncomfortable intake of air, or the feeling that you're not getting enough air.
+process;acute renal failure;A renal failure that is characterized by a severe and sudden onset of renal failure.
+process;lesions in mouth;
+process;cervical edema;Cervical edema is a neck symptom characterized by an abnormal excess accumulation of serous fluid in the soft tissue of the cervical area.
+process;alexia;An aphasia that is characterized by a loss of ability to read.
+process;facial tremor;Facial tremor is a head symptom characterized by a trembling or shaking of the muscles of the face usually from physical weakness, emotional stress, or disease, may be emphasized by the firm closure of the eyes, elevation of the eyebrows, or drawing down and outward of the corners of the mouth.
+process;acute mesenteric lymphadenitis;
+process;lesions in oropharynx;
+process;exanthema;A rash characterized by a widespread skin eruption usually occurring in children that is a symptom of a more general disease.
+process;renal involvement;
+process;very high fever;A high fever that is characterized by extremely high temperatures.
+process;weak cry;
+process;mild fever;A fever that is characterized by being mild in form.
+process;ankle rash;A rash characterized by an inflammatory reaction of the skin on the ankles.
+process;high fever;A fever that is characterized by an elevated temperature.
+process;weight symptom;
+process;prolonged fever;A fever that is characterized by as persisting over a prolonged period of time.
+process;abnormal weight loss;A weight loss that is characterized as deviating from what is normal or usual, typically in a way that is undesirable or worrying.
+process;blurred vision with haloes;
+process;bloody diarrhea;
+process;papular rash;A rash characterized by papule(s), which are a raised area of the skin.
+process;acquired color vision deficiency;
+process;rectorrhagia;
+process;agitation;A neurological and physiological symptom that is characterized by a feeling of irritability or severe restlessness.
+process;maculopapular rash;A rash characterized by papule(s), which are a raised area of the skin and macule(s), which are a flat red area of the skin.
+process;transient fever;A fever that is characterized by a rise of body temperature above the normal that is sustained for only a short period of time.
+process;acholic stool;
+process;opisthotonus;
+process;low-grade fever;A mild fever that is characterized by a fever that does not exceed 38.5 degrees Celsius (101.3 degrees Fahrenheit).
+process;ageusia;A disturbances of sensation of smell and taste that is characterized by a complete loss of taste function of the tongue.
+process;leukocytosis;
+process;pericardial effusion;Pericardial effusion is a cardiovascular system symptom where there is an abnormal accumulation of fluid in the pericardial cavity.
+process;blind spot;
+process;low backache;
+process;decreased tongue tone;
+process;hip pain;A joint pain that is characterized by a pain situated, or occurring, in or around the hip.
+process;hematoma;A skin and integumentary tissue symptom that is characterized by a mass of usually clotted blood that forms in a tissue, organ, or body space as a result of a broken blood vessel generally the result of hemorrhage, or more specifically, internal bleeding.
+process;anterior scleral inflammation;
+process;inflammatory low back pain;
+process;lameness;Lameness is a musculoskeletal system symptom where a person is physically disabled as the result of having a body part and especially a limb so disabled as to impair freedom of movement.
+process;barking croup cough;A cough that is characterized by a tight, low-pitched, and barky (like a barking seal) cough.
+process;neurological and physiological symptom;
+process;wound discharge;
+process;cold clammy skin;A skin and integumentary tissue symptom that is characterized by cold, moist and sticky skin.
+process;infant symptom;
+process;yellow dropping;
+process;anaphylactic shock;An acute allergic reaction to an antigen to which the body has become hypersensitive.
+process;thick white exudate on tongue;
+process;sensation perception;A nervous system symptom that is characterized by interpretation of the information perceived by sensory receptors.
+process;discharge;
+process;hypotensive;A low blood pressure characterized by or due to abnormally low blood pressure, especially in the arteries of the systemic circulation.
+process;relapsing fever;A fever that is characterized by body temperature periodically rising and falling.
+process;apthous ulcer;A skin ulcer that is characterized by a small recurrent, painful, round or ovoid ulcers with well-defined erythematous margins, like a halo, and a central yellow or gray floor found in the soft tissue of the oral cavity.
+process;musculoskeletal system symptom;
+process;anal abscess;
+process;airway stenosis;A respiratory system and chest symptom that is characterized by a narrowing in the airway that obstructs the passage of air into the lungs. Examples include tracheal and laryngotracheal stenosis.
+process;syncope;An alteration of consciousness that is characterized by a loss of consciousness resulting from insufficient blood flow to the brain.
+process;terminal ileitis;
+process;cataplexy;Cataplexy is a muscle symptom characterized by a sudden loss of muscle control with retention of clear consciousness that follows a strong emotional stimulus (as elation, surprise, or anger) and is a characteristic symptom of narcolepsy.
+process;vaginismus;A reproductive system symptom that is characterized by a painful spasmodic contraction of the vagina.
+process;tache noire;A skin ulcer that is characterized by a a small dark-centered ulcer that appears at the site of a tick bite and is the primary lesion of boutonneuse fever.
+process;remittent fever;A fever that is characterized by a fever where the temperature remains above normal throughout the day and fluctuates more than 1 degree Celsius in 24 hours.
+process;bruise;A skin and integumentary tissue symptom that is characterized by an injury transmitted through unbroken skin to underlying tissue causing rupture of small blood vessels and escape of blood into the tissue with resulting discoloration.
+process;tenesmus;
+process;weight gain;A weight symptom that is characterized by an increase in body weight. This can involve an increase in muscle mass, fat deposits, excess fluids such as water or other factors.
+process;Pel-Epstein fever;A fever that is characterized by association with Hodgkin's lymphoma, where the fever alternates weekly from high to low.
+process;dyspareunia;
+process;synovitis;Synovitis is a joint inflammation characterized by an inflammation of a synovial membrane usually with pain and swelling of the joint.
+process;continuous fever;A fever that is characterized by a temperature remaining above normal throughout the day and which does not fluctuate more than 1 degree Celsius in 24 hours.
+process;wobble;
+process;respiratory failure;A respiratory system and chest symptom that is characterized by a difficulty to breathe on one's own and develops when the lungs cannot get enough oxygen into the blood.
+process;cachexia;A nutrition, metabolism, and development symptom that is characterized by a general physical wasting and malnutrition usually associated with chronic disease.
+process;ruffled feather;
+process;hyperpyrexia;A fever that is characterized by an extreme elevation of body temperature greater than, or equal to, 41.5 degrees Celsius (106.7 degrees Fahrenheit).
+process;hyperthermia;A high fever that is characterized by an exceptionally high fever especially when induced artificially for therapeutic purposes.
+process;hematochezia;hematochezia is a feces and droppings symptom characterized by the passage of fresh blood per anus, usually in or with stools.
+process;uncoordinated gait;
+process;patches of hair loss with a black dot pattern;A hair symptom that is characterized by patchy hair loss and the presence of comedo-like cadaver hairs, which appear as black dots.
+process;dyspepsia;Dyspepsia is a digestive system symptom referred to as indigestion resulting from an impairment to digestion caused by ulcer, gall bladder disease or inflamed colon. Related symptoms include weakness, loss of appetite, and depression.
+process;yellow exudate from nose;
+process;chest discomfort;A respiratory system and chest symptom that is characterized by pain, pressure, tightness, or other discomfort originating in or radiating to the chest, which constitutes an important indicator of potentially serious cardiac or cardiovascular disorders.
+process;recumbency;
+process;bloating;Bloating is a digestive system symptom involving the accumulation of gas in the digestive tract and resulting in abdominal distension.
+process;shakes;Shakes is a general symptom characterized by a condition of trembling.
+process;conjunctiva symptom;
+process;purpuric rash;A rash characterized by a red or purple hued small spots of blood appear on the skin caused by conditions that result in blood leaking into the skin and other body surfaces that does not fade when pressed upon.
+process;conjunctival congestion;An eye symptom that is characterized by (need def conjunctival congestion - placeholder for xref).
+process;chest tightness;A chest discomfort that is characterized by any type of pain or discomfort between your upper belly and lower neck.
+process;paroxysmal cough;A cough that is characterized by a persistent cough with sudden onset due to difficulty expelling thick mucus from the tracheobronchial tree. This type of cough is associated with diseases such as Pertussis (Whooping Cough).
+process;contracted pupil;
+process;wet cough;A cough that is characterized by a production and expectoration (bringing up) of mucus (phlegm) or sputum.
+process;miosis;
+process;poor wound healing;
+process;amaurosis;
+process;extraocular muscles paralysis;
+process;caseation;A respiratory system and chest symptom that is characterized by necrosis of tissue with conversion of damaged tissue into a soft cheesy substance.
+process;pupil symptom;
+process;pareses;A paralysis that is charachterized by a slight or partial paralysis.
+process;chronic inflammation;
+process;dysarthria;A neurological and physiological symptom that is characterized by a difficulty in articulating words due to disease of the central nervous system.
+process;pale mucous membrane;
+process;cardiac fibrillation;An arrhythmia characterized by rapid, irregular, and unsynchronized contraction of muscle fibers within the heart.
+process;amaurosis fugax;
+process;ischemic necrosis of jejunum;
+process;ventricular fibrillation;A cardiac fibrillation associated with quivering of the lower chambers of the heart, preventing blood from being pumped and causing cardiac arrest.
+process;anxiety;A neurological and physiological symptom that is characterized by a painful or apprehensive uneasiness of mind usually over an impending or anticipated ill.
+process;irritability;A behavioral symptom that is characterized by a quick excitability to annoyance, impatience, or anger.
+process;exophthalmos;An abnormal protrusion or displacement of an eye or other body part.
+process;concentration difficulty;An alteration of consciousness that is characterized by a decreased ability to focus one's thoughts on something. Concentration difficulties can be related to difficulty staying awake, impulsiveness, intrusive thoughts or concerns, overactivity, or inattention. They can be caused by medical, cognitive or psychological problems, or, may be related to sleep disorders, medications, alcohol, or drugs.
+process;catatonia;A neurological and physiological symptom that is characterized by a marked psychomotor disturbance that may involve stupor or mutism, negativism, rigidity, purposeless excitement, echolalia, echopraxia, and inappropriate or bizarre posturing and is associated with various medical conditions (as schizophrenia and mood disorders).
+process;mouth bleeding;
+process;ventricular bradycardia;A bradycardia associated with the generation of impules in the ventricles when impules from the atria fail to reach them, characterized by an electrocardiogram showing a heart rate below 50 BPM and a broad QRS complex.
+process;itching;A skin and integumentary tissue symptom that is characterized by an uneasy irritating sensation in the upper surface of the skin usually held to result from mild stimulation of pain receptors.
+process;acute cranial nerve dysfunction;
+process;anasarca;Anasarca is a edema characterized as generalized edema with accumulation of serum in the connective tissue.
+process;acute diarrhea;Acute diarrhea is a diarrhea with either or both a rapid onset or a short course.
+process;abnormal scar formation;
+process;pleuritic chest pain;A chest pain that is characterized by an inflammation of the pleural cavity with a sharp pain resulting from the exansion of the lungs as the inflammed pleural layers rub against each other.
+process;abscess;
+process;sputum;A respiratory system and chest symptom that is characterized by matter discharged from the air passages in diseases of the lungs, bronchi, or upper respiratory tract that contains mucus and often pus, blood, fibrin, or bacterial products.
+process;bradykinesia;Bradykinesia is a hypokinesia characterized by an extreme slowness in the execution of movements and reflexes.
+process;abnormal hemiwalking;
+process;bone pain;
+process;sudden onset of fever;
+process;bronchospasm;A respiratory system and chest symptom that is characterized by constriction of the air passages of the lung (as in asthma) by spasmodic contraction of the bronchial muscles.
+process;abnormal wound healing;
+process;bone conduction hyperacusis;An ear symptom - need proper definition - placeholder for xref.
+process;bradypnea;A respiratory abnormality that is characterized by abnormally slow breathing.
+process;acute weight gain;A weight gain that is characterized by a severe and sudden onset.
+process;chronic weight gain;A weight gain that is characterized by conditions that last 1 year or more and require ongoing medical attention, or limit activities of daily living, or both.
+process;abnormal hemistanding;
+process;chronic weight loss;A weight loss that is characterized by conditions that last 1 year or more and require ongoing medical attention, or limit activities of daily living, or both.
+process;hypoventilation;A respiratory abnormality that is characterized by a deficient ventilation of the lungs that results in reduction in the oxygen content or increase in the carbon dioxide content of the blood or both.
+process;reticulocytosis;
+process;macrocytosis;
+process;pyrosis;From synonym: Heartburn is a pain characterized by a painful burning feeling in your chest or throat that happens when stomach acid backs up into your esophagus.
+process;yellow exudate from eyes;
+process;overweight;A weight symptom that is characterized by being too heavy for one’s height. Excess body weight can come from fat, muscle, bone, and/or water retention. Being overweight does not always mean being obese.
+process;claudication;A pain that is characterized by a leg pain in the calf, or thigh, which is caused by inadequate blood flow to the leg muscles and is brought on by leg exercise such as walking.
+process;abnormal behavior;A behavioral symptom that is characterized by behavior that is atypical or statistically uncommon within a particular culture, or that is maladaptive, or detrimental to an individual, or those around that individual.
+process;postnasal drainage;A nose symptom that is characterized by an an excessive secretion of mucous down the back of the throat.
+process;acute meningoencephalitis;A meningoencephalitis that is characterized by a severe and sudden onset.
+process;shoulder pain;A joint pain that is characterized by a pain situated, or occurring, in or around the shoulder.
+process;brain cyst;
+process;hand weakness;A muscle weakness that is characterized by a reduction in muscle strength, which may be the result of a variety of conditions, such as carpal tunnel syndrome, arthritis, peripheral neuropathy, tendon damage, and ganglion cysts.
+process;acute painful vision loss;
+process;nail discoloration;
+process;chronic cough;A cough that is characterized by an explosive expulsion of air from the lungs acting as a protective mechanism to clear the air passages or as a symptom of pulmonary disturbance marked by long duration, by frequent recurrence over a long time, and often by slowly progressing seriousness.
+process;mammary gland inflammation;A skin and integumentary tissue symptom that is characterized by an inflammation of the mammary gland or udder and usually caused by infection.
+process;elbow pain;A joint pain that is characterized by a pain situated, or occurring, in or around the elbow.
+process;decreased tearing;An eye symptom that is characterized by a reduction in the saline fluid secreted by the lacrimal gland.
+process;acute arthritis;
+process;knee pain;A joint pain that is characterized by a pain situated, or occurring, in or around the knee.
+process;bifrontal headache;
+process;decreased metabolism;A nutrition, metabolism, and development symptom that is characterized by a reduction in the chemical reactions catalyzed by enzymes, which keep us alive. Metabolism allows organisms to grow, reproduce, maintain their structures, and respond to their environments and can be divided into catabolism (breaking down of organic matter) and anabolism (building of molecules).
+process;aggressive behavior;A behavioral symptom that is characterized by behavior aimed at harming a person, or animal, or damaging physical property.
+process;cerebrovascular accident;A nervous system symptom that is characterized by a loss of blood flow to part of the brain, which damages brain tissue. Cerebrovascular accidents are caused by blood clots and broken blood vessels in the brain.
+process;hair loss;A hair symptom that is characterized by the stopping of hair growth (regeneration), which may be a result of hereditary hair loss, immune system overreacts, drugs and treatments, harsh hair-care products, and other factors.
+process;altered mental status;A nervous system symptom that is characterized by a host of presentations that include changes in cognition, mood, behavior, and/or level of arousal.
+process;bronchiole inflammation;A respiratory system and chest symptom that is characterized by acute inflammation of the bronchi, accompanied by inflamed patches in the nearby lobules of the lungs.
+process;severe mammary gland inflammation;A mammary gland inflammation that is characterized by an increased intensity or severity of the condition.
+process;acute weight loss;A weight loss that is characterized by a severe and sudden onset.
+process;pharynx inflammation;
+process;delayed psychomotor development;A nutrition, metabolism, and development symptom that is characterized by the delay in development child's cognitive, emotional, motor, and social capacities from the beginning of life throughout fetal and neonatal periods, infancy, childhood, and adolescence.
+process;toothache;A pain that is characterized by a pain in, or about, a tooth or teeth.
+process;descending muscle paralysis;A paralysis that is characterized by a loss of motor function in one or more muscles, which can also be accompanied by a loss of feeling (sensory loss). Descending paralysis contrasts with ascending paralysis in that descending paralysis presents in the upper limbs before the lower limbs. Descending paralysis occurs in conditions such as botulism.
+process;skin peeling;
+process;abnormal vaginal bleeding;A reproductive system symptom that is characterized by bleeding from the uterus that is longer than usual or that occurs at an irregular time. Bleeding may be heavier or lighter than usual and occur often or randomly.
+process;acute mental dysfunction;A nervous system symptom that is characterized by a severe and sudden onset of disturbance in the normal operation of one's cognition, emotional regulation, or behaviour.
+process;earache;
+process;acute dyspnea;A dyspnea that is characterized by a severe and sudden onset.
+process;urticaria;A skin and integumentary tissue symptom that is characterized by raised red skin wheals (welts) commonly caused by an allergic reaction with wheals that may vary in size from about 5 mm (0.2 inches) in diameter to the size of a dinner plate that are described as severely itchy a stingnig or burning sensation, and having a pale border.
+process;acute enteritis;Acute enteritis is a enteritis with either or both a rapid onset and a short course which is usually due to bacteria or virus.
+process;paresthesia;A skin and integumentary tissue symptom that is characterized by a sensation of pricking, tingling, or creeping on the skin having no objective cause and usually associated with injury or irritation of a sensory nerve or nerve root.
+process;acute gastroenteritis;
+process;eye strain;
+process;abdominal rigidity;
+process;decreased motor response;
+process;corkscrew hair;A hair symptom that is characterized by coiled “corkscrew” hairs on the surface of the arms, legs and chest, which can occur as a result low level of ascorbic acid (vitamin C).
+process;agraphia;An aphasia that is characterized by a pathological loss of the ability to write.
+process;abnormal weight gain;A weight gain that is characterized as deviating from what is normal or usual, typically in a way that is undesirable or worrying.
+process;decreased pharyngeal tone;
+process;corneal scarring;A cornea symptom that is characterized by scarring (an opacity or irregularity in the cornea) of the cornea, from trauma. abrasion. bacterial, fungal, viral, or parasitic infection. or disease, and can result in impaired vision, or even blindness.
+process;photophobia;
+process;abnormal sputum;
+process;decreased jaw tone;
+process;asthenopia;
+process;right upper quadrant abdominal rigidity;
+process;decreased milk production;A nutrition, metabolism, and development symptom that is characterized by a decrease in the production of milk in breastfeeding mothers.
+process;hair symptom;
+process;shock;A cardiovascular system symptom that is characterized as a state of profound depression of the vital processes of the body that is characterized by pallor, rapid but weak pulse, rapid and shallow respiration, reduced total blood volume, and low blood pressure and that is caused usually by severe especially crushing injuries, hemorrhage, burns, or major surgery.
+process;low blood pressure;
+process;balance symptom;A neurological and physiological symptom that is characterized by any of the following: dizziness or vertigo (a spinning sensation). falling or feeling as if you are going to fall. staggering when walking. lightheadedness, faintness, or a floating sensation. and confusion or disorientation.
+process;septic shock;
+process;decreased facial sensation;
+process;feeding problem;A feeding difficulties and mismanagement that is characterized by delays and/or disorders in the development of eating and drinking skills including disordered placement of food in the mouth, difficulty in appropriately manipulating food when it is in the mouth, difficulty chewing, and/or difficulty swallowing.
+process;cranial nerve palsies;
+process;dark urine;A urinary system symptom that is characterized by an elevation in the concentration of the the pigments from foods, dyes, and medications in urine. The dilution of these pigment is dependent on the amount of water intake and severe dehydration can lead to a dark color.
+process;cytopenia;
+process;hair shedding;A hair symptom that is characterized by significant falling out of hair, which may be a result of stress, high fever, and other factors.
+process;ischemia;
+process;conjunctival swelling;
+process;contracture;A musculoskeletal system symptom that is characterized by a permanent tightening of the muscles, tendons, skin, and nearby tissues that causes the joints to shorten and become very stiff.
+process;afebrile;A fever that is characterized by the state of being free from fever.
+process;cardiogenic shock;
+process;conjunctival degeneration;
+process;anemia;
+process;conjunctival suffusion;An eye symptom that is characterized by (need def conjunctival suffusion - placeholder for xref).
+process;salivary gland symptom;
+process;bloody sputum;A sputum that is characterized by blood or bloody mucus discharged from the air passages caused by common forms of infection in the lungs and airways, such as acute bronchitis or pneumonia. Bloody sputum can also come from cancer of the lung.
+process;cramp;
+process;acute suppurative parotiditis;
+process;epistaxis;A nose symptom that involves a is loss of blood from the tissue lining the nose.
+process;bloodshot eye;
+process;circling movement;An abnormal involuntary movement that is characterized by an inability to walk in a straight line.
+process;arm weakness;
+process;failure to thrive;A lack of expected normal physiological development in childhood that is characterized by a decelerated or arrested physical growth (height and weight measurements fall below the third or fifth percentile, or a downward change in growth across two major growth percentiles) and is associated with abnormal growth and development.
+process;leg weakness;
+process;delayed milestones;A lack of expected normal physiological development in childhood that is characterized by a failure for a child to reach a significant stage at the predicted age and may include walking or talking.
+process;absence of knee jerk reflex;
+process;lack of normal physiological development;
+process;limb weakness;
+process;lack of expected normal physiological development in childhood;
+process;abdominal symptom;
+process;areflexia;
+process;symptom;A symptom is a perceived change in function, sensation, loss, disturbance or appearance reported by a patient indicative of a disease.
+process;hepatomegaly;
+process;poor enunciation;An aphasia that is characterized by a loss of ability to properly enunciate words.
+process;receptive aphasia;An inability to comprehend speech that is characterized by an inability to understand spoken, written, or tactile speech symbols that results from damage (as by a brain lesion) to an area of the brain (as Wernicke's area) concerned with language.
+process;inability to speak;An aphasia that is characterized by a loss of ability to speak.
+process;nausea;Nausea is a digestive system symptom characterized by an uneasy or unsettled feeling in the stomach together with an urge to vomit.
+process;inability to form words;An aphasia that is characterized by a loss of ability to form words.
+process;digestive system symptom;
+process;anomia;An aphasia that is characterized by a severe problem with recalling words or names.
+process;left upper quadrant abdominal pain;An abdominal pain that is characterized by occurring in the left upper quadrant abdominal pain of the abdomen that can be caused by a stomach ulcer, acute gastritis, a viral infection, or indigestion, or may be an issue with one's lungs.
+process;decreased sucking;A feeding difficulties and mismanagement that is characterized by a decrease in muscle coordination to form a suck response so that the child can ingest milk.
+process;inability to comprehend speech;An aphasia that is characterized by a loss of ability to comprehend speech.
+process;abdominal pain;A pain that is characterized by occurring in the abdomen, i.e. between the chest and groin.
+process;deltoid muscle weakness;
+process;low white blood cell count;
+process;cloudy cornea;
+process;blood pressure;
+process;colic;A pain that is characterized by the condition marked by recurrent episodes of prolonged and uncontrollable crying and irritability in an otherwise healthy infant that is of unknown cause and usually subsides after three to four months of age.
+process;epigastric abdominal swelling;
+process;high blood pressure;
+process;bronchiolitis;A respiratory system and chest symptom that is characterized by an inflammation of the bronchioles.
+process;outlet dysfunction constipation;A constipation that is characterized by difficulty passing bowel movements after they reach the rectum. One experiences difficulty evacuating the stool and often has to strain or press the fingers into the vagina or in front of or into the rectum to help remove the stool. Outlet dysfunction can be caused by inappropriate or abnormal muscle contraction of the pelvic floor (called pelvic floor dyssynergia or dyssynergic defecation) which can respond to biofeedback. It may also be due to a rectocele or other structural changes in the pelvic floor that will require medical or at times, surgical treatment.
+process;inability to think clearly;
+process;underweight;A weight symptom that is characterized by weighing less than the normal amount for one's age, height, and build.
+process;soft tissue necrosis;A musculoskeletal system symptom that is characterized by necrosis (i.e. tissue death) of soft tissue, including muscle, fat, blood vessels, nerves, tendons, and tissues that surround the bones and joints.
+process;body ache;
+process;early satiety;A nutrition, metabolism, and development symptom that is characterized by a feeling of being full after a few bites of food, or before you finish a normal-sized meal.
+process;bradycardia;Bradycardia is a cardiovascular system symptom consisting of a relatively slow heart action whether physiological or pathological.
+process;nutrition, metabolism, and development symptom;
+process;left upper quadrant abdominal rigidity;
+process;multiple sites abdominal rigidity;
+process;bloody stool;
+process;severe bronchiole inflammation;
+process;suppurative bronchiole inflammation;
+process;blood vessel infection;
+process;epigastric abdominal rigidity;
+process;hemorrhagic diarrhea;
+process;asthenia;
+process;right lower quadrant abdominal rigidity;
+process;atrial fibrillation;A cardiac fibrillation consisting of a very rapid uncoordinated contractions of the atria of the heart resulting in a lack of synchronism between heartbeat and pulse beat.
+process;generalized abdominal rigidity;
+process;nervous system symptom;
+process;decreased appetite;An alteration of appetite that is characterized by a reduced desire to eat.
+process;rash;A skin and integumentary tissue symptom that is characterized by an eruption on the body typically with little or no elevation above the surface.
+process;increased appetite;An alteration of appetite that is characterized by an desire to eat, an excess desire for food.
+process;skin and integumentary tissue symptom;A skin and integumentary tissue symptom that is characterized by the outer layer of the skin starting to replace itself. Often, this happens when skin is damaged, either by disease or injury.
+process;abdominal cramp;
+process;cyclic fever;A fever that is characterized by occurring during periodic episodes.
+process;dysuria;A urinary system symptom that is characterized by the difficult, or painful, discharge of urine.
+process;abdominal distention;
+process;alteration of appetite;
+process;urinary system symptom;
+process;corneal ulcers;
+process;left lower quadrant abdominal tenderness;
+process;cellulitis;Cellulitis is a musculoskeletal system symptom characterized as a diffuse and especially subcutaneous inflammation of connective tissue.
+process;cough with bloody sputum;A cough that is characterized by production and expectoration (bringing up) of sputum that is bright red or pink and frothy.
+process;abdominal tenderness;
+process;persistent vegetative state;An alteration of consciousness that is characterized by an individual with severe brain damage being in a state of partial arousal rather than true awareness. After four weeks in a vegetative state, the patient is classified as being in a persistent vegetative state. After three months in the US and six months in the UK, the diagnosis is classified as a permanent vegetative state after a non-traumatic brain injury, or, one year after a traumatic injury.
+process;corneal opacity;
+process;alteration of consciousness;A neurological and physiological symptom that is characterized by any condition which is significantly different from a normal waking state.
+process;continuous profuse salivation;
+process;cornea symptom;
+process;colicky pain;A pain that is characterized by an attack of acute abdominal pain localized in a hollow organ or part (as the small intestine, ureter, or bile duct) and often caused by spasm, obstruction, or twisting.
+process;abdominal swelling;
+process;congestion;A respiratory system and chest symptom that is characterized by an excessive accumulation especially of blood or mucus.
+process;abnormality of gait;Abnormality of gait is a nervous system and musculoskeletal system symptom characterized by a difficulty in the manner of walking or moving on foot.
+process;multiple sites abdominal tenderness;
+process;continuous leakage of urine;
+process;diminished gag reflex;
+process;generalized abdominal tenderness;
+process;giddiness;
+process;absent gag reflex;
+process;right upper quadrant abdominal tenderness;
+process;blurred vision;A vision symptom that is characterized by a decreased clarity or sharpness in vision, which can be caused by eye conditions myopia or hyperopia.
+process;dilated pupil;
+process;epigastric abdominal tenderness;
+process;diminished gastro-intestinal motility;
+process;periumbilic abdominal tenderness;
+process;diffuse rash;A rash characterized by large patches of red skin, without overlying changes in the epidermis.
+process;renal colic;A colic that is characterized by a severe pain produced by the passage of a calculus from the kidney through the ureter.
+process;anisocoria;
+process;urethral discharge;A urinary system symptom that is characterized by abnormal purulent or mucoid secretions from the penis or, rarely, the female urethra.
+process;decreased flexor withdrawal reflex;
+process;urinary incontinence;A urinary system symptom that is characterized by the an inability of the body to control the evacuative functions.
+process;dermal abscess;A skin and integumentary tissue symptom that is characterized by a pus-filled pocket in the skin, similar to a pimple, but larger and deeper. The pocket is filled with bacteria, white blood cells, and dead skin and typcally result from the bacteria Staphylococcus aureus prentrating the skin through a cut or hair follicle.
+process;dysphagia;
+process;blister;A skin and integumentary tissue symptom that is characterized by a fluid-filled elevation of the epidermis.
+process;bleeding;A general symptom that is characterized as an act, instance, or result of being bled or the process by which something is bled: as a the escape of blood from vessels.
+process;reflex symptom;
+process;blindness;
+process;ataxia;A neurological and physiological symptom that is characterized by an inability to coordinate voluntary muscular movements that is symptomatic of some nervous disorders.
+process;proprioception symptom;A neurological and physiological symptom that is characterized by one's body’s ability to sense movement, action, and location and results from sensory receptors in one's nervous system and body (muscles, joints, and tendons).
+process;abnormal bowel sound;
+process;backache;A pain that is characterized by occurring in the lower back.
+process;decreased conscious proprioception;A proprioception symptom that is characterized by a decreased ability of an organism to consciously process the reception of stimuli produced within the organism.
+process;dry mouth;
+process;dry cough;A cough that is characterized by a lack of accompanied phlegm production.
+process;generalized seizure;
+process;tonic-clonic seizure;
+process;disorientation;A confusion that is characterized by an usually transient state of confusion especially as to time, place, or identity. often as a result of disease or drugs.
+process;drowsiness;A neurological and physiological symptom that is characterized by a feeling of being more sleepy than normal during the day. People who are drowsy may fall asleep in when they do not want to or at times which can lead to safety concerns.
+process;focal seizure;
+process;delirium;A neurological and physiological symptom that is characterized by a mental disturbance characterized by confusion, disordered speech, and hallucinations.
+process;epididymitis;A reproductive system symptom that is characterized by an inflammation of the epididymis.
+process;depression;A neurological and physiological symptom that is characterized by a chronic feeling of emptiness, sadness, or inability to feel pleasure that may appear to happen for no clear reason. Additionally one may experience feelings of hopelessness, pessimism, irritability, frustration, or restlessness, guilt, worthlessness and thoughts of death or suicide.
+process;epididymorchitis;A reproductive system symptom that is characterized by inflammation of the epididymis and/or testicle (testis).
+process;dry mucous membrane;
+process;dehydration;A nutrition, metabolism, and development symptom that is characterized by an abnormal depletion of body fluids.
+process;endocarditis;
+process;darkening of skin;
+process;deafness;
+process;confusion;A balance symptom that is characterized by a disturbance of consciousness characterized by inability to engage in orderly thought or by lack of power to distinguish, choose, or act decisively.
+process;double vision;
+process;crinkle;
+process;dry hacking cough;A dry cough that is characterized by a rough and loud sound.
+process;simple partial seizure;
+process;complex partial seizure;
+process;hemorrhagic gastroenteritis;
+process;extensive ulcer;
+process;extreme exhaustion;An exhaustion that is characterized by exceeding the ordinary, usual, or expected.
+process;excess salivation;
+process;flaccidity;
+process;tonic seizure;
+process;flat keratotic capsule;
+process;atonic seizure;
+process;paralysis;A nervous system symptom that is characterized by a complete or partial loss of function especially when involving the power of motion or of sensation in any part of the body.
+process;myoclonic seizure;
+process;clonic seizure;
+process;epileptic seizure;
+process;tracheobronchitis;
+process;incoordination;A coordination symptom that is characterized by a loss of complicated body movements, which may be caused by disease, injury, or toxins.
+process;tremor;Tremor is a generial symptom characterized by a trembling or shaking usually from physical weakness, emotional stress, or disease.
+process;weakness;
+process;weight loss;A weight symptom that is characterized by a reduction of the total body mass, by a mean loss of fluid, body fat (adipose tissue), or lean mass (namely bone mineral deposits, muscle, tendon, and other connective tissue). Weight loss can either occur unintentionally because of malnourishment or an underlying disease.
+process;wasting;A nutrition, metabolism, and development symptom that is characterized by the unintended loss of weight and lean body tissue characteristic of many diseases (as cancer, tuberculosis, and AIDS).
+process;bubo;
+process;muscle symptom;
+process;liver symptom;
+process;abdominal discomfort;
+process;postural reaction;
+process;exhaustion;A fatigue that is characterized by a feeling of weariness (bodily or mental) or feeling of weakness. Exhaustion is a shorter-lived form of fatigue that can be experienced emotionally, mentally, and physically.
+process;tiredness;A fatigue that is characterized by a feeling of a lessened capacity for work and reduced efficiency of accomplishment, usually accompanied by a sense of weariness and fatigue.
+process;change in skin color;
+process;weariness;A fatigue that is characterized by a feeling of exhaustion in strength, endurance, and vigor.
+process;hopping;
+process;conscious proprioception;
+process;wheelbarrowing;
+process;spontaneous abortion;An abortion that is characterized by the natural occurring expulsion of a nonviable fetus.
+process;abortion;A reproductive system symptom that is characterized by the expulsion of a fetus at any time before completion of pregnancy and is often due to infection.
+process;miscarriage;A reproductive system symptom that is characterized by the spontaneous expulsion of a human fetus before it is viable and especially between the 12th and 28th weeks of gestation.
+process;abnormal hemiwalking hemistanding;
+process;reproductive system symptom;
+process;multiple sites abdominal mass;
+process;generalized abdominal mass;
+process;left lower quadrant abdominal mass;
+process;epigastric abdominal mass;
+process;left upper quadrant abdominal mass;
+process;periumbilic abdominal lump;
+process;right upper quadrant abdominal mass;
+process;multiple sites abdominal lump;
+process;periumbilic abdominal mass;
+process;right lower quadrant abdominal mass;
+process;generalized abdominal lump;
+process;left lower quadrant abdominal lump;
+process;right lower quadrant abdominal lump;
+process;right upper quadrant abdominal lump;
+process;epigastric abdominal lump;
+process;left upper quadrant abdominal lump;
+process;localized superficial mass;
+process;localized superficial swelling;
+process;dysfunctions associated with arousal from sleep;
+process;inability to concentrate;
+process;paroxysmal tachycardia;Paroxysmal tachycardia is a tachycardia that begins and ends abruptly and that is initiated by a premature supraventricular beat originating in the atrium or in the atrioventricular node or bundle of His or by a premature ventricular beat.
+process;sinus tachycardia;Sinus tachycardia is a tachychardia characterized by an abnormally rapid sinus rhythm specifically a sinus rhythm at a rate greater than 100 beats per minute.
+process;sinus bradycardia;Sinus bradycardia is a bradycardia where the sinus rhythm is abnormally slow bradycardia consisting of a sinus rhythm at a rate lower than 60 beats per minute.
+process;junctional tachycardia;Junctional tachycardia is a tachycardia associated with the generation of impulses in a locus in the region of the atrioventricular node.
+process;swelling in chest;
+process;chronic enteritis;Chronic enteritis is a enteritis with slow progress, long duration, or frequent recurrence which can be due to Crohn's disease, giardiasis, tuberculosis, coeliac disease, or rarely due to Whipple's disease.
+process;mass in chest;
+process;neck pain;A pain that is characterized by an unpleasant sensation localized in the neck that usually indicates the body is threatened or damaged. The sensation may be sharp or dull, short-lived or chronic, intermittent or continual.
+process;ventricular tachycardia;A tachycardia that is associated with the generation of improper electrical impulses within the ventricles, characterized by an electrocardiogram showing a rate of greater than 120 BPM and three or more wide QRS complexes in a row.
+process;sore eyes;Sore eyes is a eye symptom characterized by an inflammation of the thin covering of the eyeball and the inner eyelid brought about by a viral infection which may be highly contagious.
+process;skin desquamation;A skin and integumentary tissue symptom that is characterized by the peeling off of skin in the form of scales.
+process;swelling symptom;
+process;inability to lie flat;
+process;intraretinal hemorrhage;
+process;hind limb paralysis;
+process;infertility;A reproductive system symptom that is characterized the biological inability of a man or a woman to contribute to conception. or, the state of a woman who is unable to carry a pregnancy to full term.
+process;head pressing;
+process;memory impairment;A neurological and physiological symptom that is characterized by a diminished or reduced ability to remember things such as dates and names, and increased forgetfulness.
+process;leg swelling;
+process;loss of consciousness;A neurological and physiological symptom that is characterized by a state in which an individual lacks normal awareness of self and the surrounding environment and one's ability to remain awake, aware, and oriented is impaired.
+process;rapid respiration;A respiratory abnormality that is characterized by an increased breathing rate, with more than 20 breaths per minute in an adult, while in children, the number of breaths per minute can be a higher resting rate than seen in adults.
+process;painful reginal lymphadenopathy;
+process;palate weakness;
+process;multiple organ failure;
+process;necrosis of jejunum;
+process;moderate conjuctival injection;
+process;multiple abscesses;
+process;microangiopathic hemolytic anemia;
+process;moderate anemia;
+process;partial hind limb paralysis;
+process;pulmonary consolidation;A respiratory system and chest symptom that is characterized by a region of normally compressible lung tissue that has filled with liquid instead of air.
+process;genitourinary hemorrhage;
+process;nasal bleeding;
+process;respiratory tract mucosa ulcer;A respiratory system and chest symptom that is characterized by an ulceration (dying and sloughing) of the bronchial or bronchiolar epithelium, exposing the underlying basement membrane.
+process;yellowish green diarrhea;
+process;lymph gland swelling;
+process;sternocleidomastoid weakness;
+process;renal failure;A urinary system symptom that is characterized by a loss of excretory function in one or both kidneys, leading to retention of nitrogenous waste products from the blood.
+process;sudden ataxis;
+process;bronchopulmonary bleeding;A respiratory system and chest symptom that is characterized by bleeding (hemorrhage) in either or both the bronchi and the lungs.
+process;hemorrhage into skin;
+process;pallor;A skin and integumentary tissue symptom that is characterized by a deficiency of color especially of the face.
+process;herpetic lesion on upper lip;
+process;hemorrhage into mucous membrane;
+process;hemorrhage from throat;
+process;facial edema;An adema that is characterized by an abnormal excess accumulation of serous fluid in connective tissue of the face.
+process;head swelling;
+process;hemodynamic instability;
+process;headache;A pain that is characterized by a pain in the head.
+process;enanthem;A skin and integumentary tissue symptom that is characterized by an eruption on a mucous surface.
+process;throat pain;A pain that is characterized by a painful throat due to inflammation of the fauces and pharynx.
+process;extreme prostration;
+process;mixed incontinence (female) (male);A urinary incontinence that is characterized by urine leakage when you sneeze, cough, laugh, do jarring exercise, or lift something heavy. It is typically a combination of stress and urge incontinence.
+process;cervical lymphadenopathy;
+process;adult failure to thrive;A nutrition, metabolism, and development symptom that is characterized by a physical decline in health seen in older adults – typically those with multiple chronic medical conditions – resulting in decreased appetite and poor nutrition, weight loss, inactivity, often accompanied by dehydration, depression, decreasing functional ability, and impaired immune function.
+process;change in body sensation;
+process;right lower quadrant abdominal tenderness;
+process;gum bleeding;Gum bleeding is a mouth symptom characterized by a copious discharge of blood from the blood vessels of the mucosal tissue that lies over the alveolar bone.
+process;left lower quadrant abdominal swelling;
+process;blotchy red rash;
+process;aphasia;A nervous system symptom that is characterized by a loss or impairment of the power to use or comprehend words usually resulting from brain damage.
+process;flatulence;
+process;visible peristalsis;
+process;excess lymphocytes in cerebrospinal fluid;
+process;enlargement of lymph nodes;
+process;renal alteration;
+process;petechiae;A skin and integumentary tissue symptom that is characterized by a minute reddish or purplish spot containing blood that appears in skin or mucous membrane as a result of localized hemorrhage.
+process;extracellular fluid alteration;
+process;hemoptysis;A respiratory system and chest symptom that is characterized by an expectoration of blood from some part of the respiratory tract.
+process;parotid pain;A pain that is characterized by a pain situated, or occurring, in the parotid gland, which is a salivary gland located in front of the ears. (Additional salivary glands include the submandibular and sublingual glands.) Pain is attributed to swelling of the gland.
+process;septicemia;
+process;generalized abdominal pain;An abdominal pain that is characterized by being diffuse or widespread and affecting or involving all of the abdomen.
+process;toxemia;
+process;hiccough;A respiratory system and chest symptom that is characterized by a spasmodic inhalation with closure of the glottis accompanied by a peculiar sound.
+process;mild conjunctivitis;
+process;lump in chest;
+process;neurological alteration;
+process;stridor;An abnormal chest sound that is characterized by a harsh vibrating sound heard during respiration in cases of obstruction of the air passages.
+process;intense toxemia;
+process;respiratory system and chest symptom;
+process;menorrhagia;A reproductive system symptom that is characterized an abnormally profuse menstrual flow.
+process;flushing;A skin and integumentary tissue symptom that is characterized by a markedly red flush in a persons face and often other areas of the skin, from various physiological conditions. Flushing is generally distinguished, despite a close physiological relation between them, from blushing, which is milder, generally restricted to the face or cheeks, and generally assumed to reflect embarrassment. Flushing is also a cardinal symptom of carcinoid syndrome the syndrome that results from hormones (often serotonin or histamine) being secreted into systemic circulation.
+process;intense anxiety;
+process;male stress incontinence;A stress incontinence that is characterized by a compromised external urinary sphincter muscle resulting from surgical or radiotherapeutic manipulation.
+process;severe chest pain;
+process;hematopoietic system symptom;
+process;lymphatic system symptom;
+process;lymphadenopathy;
+process;coagulopathy;
+process;microangiopathy;
+process;vomiting;Vomiting is a digestive system symptom characterized by throwing up the stomach contents.
+process;abnormal feces;
+process;hyponatremia;
+process;hematemesis;A vomiting where there is vomiting of blood.
+process;splenomegaly;
+process;pelvic lump;
+process;urge incontinence;A urinary incontinence that is characterized by an involuntary leakage of urine from the bladder when a sudden strong need to urinate is felt, even when the bladder isn't full.
+process;generalized pelvic lump;
+process;pelvic swelling;
+process;palpitation;Palpitation is a cardiovascykar system symptom characterized by an abnormal awareness of the beating of the heart,whether it is too slow, too fast, irregular, or at its normal frequency when excited by violent exertion, strong emotion, or disease.
+process;pelvic mass;
+process;pelvic symptom;
+process;cardiovascular system symptom;
+process;tachycardia;Tachycardia is a cardiovascular system symptom consisting of a relatively rapid heart action whether physiological (as after exercise) or pathological.
+process;immune system symptom;
+process;ascites;An abdominal symptom consisting of an abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen.
+process;testicular pain;A pain that is characterized by a pain in, or about, a testis (testicle) or testes. Testicular pain can be caused by nerve damage, sexually transmitted infections, gangrene, swelling, hernia, kidney stones, inflammation, enlarged veins, fluid in the testicle, or a severe condition known as testicular torsion.
+process;hemic system symptom;
+process;undiagnosed cardiac murmur;
+process;vascular alteration;
+process;polyphagia;A nutrition, metabolism, and development symptom that is characterized by an excessive appetite or eating.
+process;slow pulse;
+process;transient alteration of awareness;An alteration of consciousness that is characterized by a brief (transient) episode of losing normal awareness or behavior.
+process;subconjunctival bleeding;
+process;feeding difficulties and mismanagement;
+process;retrobulbar pain;A pain that is characterized by a pain situated, or occurring, behind the eyeball.
+process;anorexia;A nutrition, metabolism, and development symptom that is characterized by a loss of appetite especially when prolonged.
+process;sensory disturbance;
+process;boil;A skin and integumentary tissue symptom that is characterized by a localized swelling and inflammation of the skin resulting from usually bacterial infection of a hair follicle and adjacent tissue, having a hard central core, and forming pus.
+process;muscle pain;A pain that is characterized by a pain in one or more muscles.
+process;hyperesthesia;A sensation perception that is characterized by an increased sensitivity to stimulation.
+process;epigastric abdominal pain;An abdominal pain that is characterized by occurring in the epigastrium, i.e. the upper part of the abdomen below the rib cage.
+process;epigastric pelvic mass;
+process;hypopyon;
+process;memory loss;A neurological and physiological symptom that is characterized by an unusual forgetfulness. One may not be able to remember new events, recall one or more memories of the past, or both. Memory loss may be for a short time and then resolve (transient), or it may not go away and get worse over time.
+process;left upper quadrant pelvic mass;
+process;painful respiration;A respiratory system and chest symptom that is characterized by a feeling of discomfort when breathing in or out. The pain may be the result of infection, musculoskeletal injury, and heart problems.
+process;right upper quadrant pelvic mass;
+process;periumbilic abdominal swelling;
+process;left lower quadrant pelvic mass;
+process;multiple sites pelvic lump;
+process;periumbilic pelvic lump;
+process;jaundice;A skin and integumentary tissue symptom that is characterized by a yellowish pigmentation of the skin, tissues, and certain body fluids is caused by the deposition of bile pigments that follows interference with normal production and discharge of bile (as in certain liver diseases) or excessive breakdown of red blood cells (as after internal hemorrhage or in various hemolytic states).
+process;cyanosis;A skin and integumentary tissue symptom that is characterized by a bluish or purplish discoloration (as of skin) due to deficient oxygenation of the blood.
+process;right upper quadrant pelvic lump;
+process;edema;A skin and integumentary tissue symptom that is characterized by an abnormal excess accumulation of serous fluid in connective tissue or in a serous cavity.
+process;change in skin texture;
+process;left lower quadrant pelvic lump;
+process;disturbance of skin sensation;
+process;left upper quadrant pelvic lump;
+process;post-void dribbling;A urinary incontinence that is characterized by urine remaining in the urethra after voiding the bladder that slowly leaks out after urination.
+process;right lower quadrant pelvic lump;
+process;spontaneous ecchymoses;A skin and integumentary tissue symptom that is characterized by the spontaneous escape of blood into the tissues from ruptured blood vessels marked by a livid black-and-blue or purple spot or area.
+process;epigastric pelvic lump;
+process;muscle tightness;
+process;eye symptom;
+process;excessive tearing;
+process;light sensitivity;
+process;pustule;A skin and integumentary tissue symptom that is characterized by a small circumscribed elevation of the skin containing pus and having an inflamed base.
+process;arthritis;Arthritis is a musculoskeletal system symptom characterized as an inflammation of joints due to infectious, metabolic, or constitutional causes.
+process;intestinal hypermotility;
+process;neurologic neglect syndrome;
+process;periumbilic pelvic swelling;
+process;joint symptom;
+process;left lower quadrant abdominal rigidity;
+process;right lower quadrant pelvic swelling;
+process;disturbances of sensation of smell and taste;
+process;left lower quadrant pelvic swelling;
+process;inflamed eyes;
+process;meningismus;A nervous system symptom that is characterized by a state of meningeal irritation with symptoms suggesting meningitis that often occurs at the onset of acute febrile diseases especially in children.
+process;left upper quadrant pelvic swelling;
+process;generalized pelvic swelling;
+process;clubbing of fingers;
+process;epigastric pelvic swelling;
+process;multiple sites pelvic swelling;
+process;inability to swallow;
+process;gastroenteritis;
+process;loss of appetite;An alteration of appetite that is characterized by a loss of desire to eat, i.e. no desire to eat.
+process;inability to feed;A feeding difficulties and mismanagement that is characterized by a lack of feeding capacity.
+process;right lower quadrant abdominal swelling;
+process;inibility to stand;
+process;generalized abdominal swelling;
+process;impaired coordination;A coordination symptom that is characterized by weakened or imperfect body complicated movement, which may be caused by disease, injury, or toxins.
+process;right lower quadrant abdominal pain;
+process;multiple sites pelvic mass;
+process;impaired gag reflex;
+process;right upper quadrant abdominal pain;
+process;right lower quadrant pelvic mass;
+process;hypothermia;A neurological and physiological symptom that is characterized by a subnormal temperature of the body, as defined by a temperature under 36.6 degrees Celcius (97.8 degrees Fahrenheit).
+process;transient paralysis of limb;A paralysis that is characterized by a loss of some, or all, muscle control in a limb, and which lasts for only a short time (i.e. is temporary).
+process;generalized pelvic mass;
+process;hypoxemia;
+process;multiple sites abdominal swelling;
+process;periumbilic pelvic mass;
+process;pulmonary edema;A respiratory system and chest symptom that is characterized by an abnormal accumulation of fluid in the lungs.
+process;diaphoresis;A sweat that is characterized by excessive sweating commonly associated with shock and other medical emergency conditions.
+process;dyspnea;A respiratory abnormality that is characterized by difficult or labored respiration.
+process;hemorrhagic mediastinitis;A respiratory abnormality that is characterized by inflammation of the mediastinum (the chest cavity, which contains the heart, the thymus gland, some lymph nodes, and parts of the esophagus, aorta, thyroid, and parathyroid glands) as the result of bleeding.
+process;lymphadenitis;
+process;hematogenous;
+process;eschar;A skin and integumentary tissue symptom that is characterized by a scab formed especially after a burn.
+process;constipation;Constipation is a feces and droppings symptom involving the abnormally delayed or infrequent passage of dry hardened feces. Constipation may be categorized into three subtypes: normal-transit, slow-transit, and pelvic floor dysfunction.
+process;hoarseness;
+process;behavioral symptom;A nervous system symptom that is characterized by an involvement, or relation to, or emphasizes behavior.
+process;hyperactivity;A behavioral symptom that is characterized by an increase in movement, impulsive actions, a shorter attention span, and being easily distracted.
+process;low birth weight;A weight symptom that is characterized by an infant weighing 5.5 pounds (2500 grams) or less at birth. Low birth weight may occur with premature birth, or due to smoking cigarettes, secondhand tobacco smoke exposure, drinking alcohol, and taking certain drugs during pregnancy.
+process;nocturia;A urinary system symptom that is characterized by urination at night especially when excessive.
+process;melena;A feces and droppings symptom that is characterized by the passage of dark tarry stools containing decomposing blood that is usually an indication of bleeding in the upper part of the alimentary canal and especially the esophagus, stomach, and duodenum.
+process;polyuria;A urinary system symptom that is characterized by the excessive secretion of urine.
+process;vision symptom;
+process;right upper quadrant abdominal swelling;
+process;loss of vision;
+process;urinary frequency;A urinary system symptom that is characterized by the need to urinate many times during the day, at night, or both but in normal or less-than-normal volumes. Frequency may be accompanied by a sensation of an urgent need to void (urgency of urination).
+process;polydipsia;A nutrition, metabolism, and development symptom that is characterized by an excessive or abnormal thirst.
+process;multiple sites abdominal pain;
+process;loss of tendon reflex;
+process;voice disturbance;
+process;loss of balance;A balance symptom that is characterized by an inability to stay upright and move confidently. Loss of balance may be due to problems in the inner ear, the brain, or the heart. Aging, infections, head injury, certain medicines, and problems with blood circulation may also cause balance problems.
+process;lateroventral deviation of the head;
+process;urinary retention;A urinary system symptom that is characterized by an inability to empty the bladder completely during the process of voiding (urination).
+process;abdominal lump;
+process;leg cramp;
+process;incomplete bladder emptying;A urinary system symptom that is characterized by a bladder that is not empty.
+process;joint inflammation;
+process;left upper quadrant abdominal swelling;
+process;right upper quadrant pelvic swelling;
+process;keratitis;
+process;localized superficial lump;
+process;abdominal mass;
+process;limited attention;A behavioral symptom that is characterized by a restricted rate of information processing by the brain.
+process;communication difficulty;A behavioral symptom that is characterized by speech, language and communication needs or communication disabilities.
+process;obsessive interests;A behavioral symptom that is characterized by obsessive and highly-focused interests.
+process;repetitive behavior;A behavioral symptom that is characterized by an unusual repetitive motor movements or manipulation of objects.
+process;intracranial hemorrhage;A hemorrhage that is characterized by any bleeding occurring within the skull.
+process;intracerebral hemorrhage;A hemorrhage that is characterized by bleeding within the brain tissue itself.
+process;spondylitis;A nervous system symptom that is characterized by an inflammation of the vertebrae.
+process;ocular lesion;
+process;muscle tenderness;
+process;precordial pain;
+process;muscle necrosis;
+process;chest pain;
+process;muscle ache;A pain that is characterized by a continuous or prolonged dull pain.
+process;urinary stream symptom;
+process;muscle soreness;
+process;aphonia;
+process;insomnia;Insomnia is a sleep disturbance characterized by prolonged and usually abnormal inability to obtain adequate sleep.
+process;mouth sore;
+process;splitting of urinary stream;A urinary stream symptom that is characterized by a split in the urine flow resulting in it streaming in two directions.
+process;diarrhea;Diarrhea is a feces and droppng symptom involving the abnormally frequent intestinal evacuations with more or less fluid stools.
+process;mild tetanic convulsion;A tetanic convulsion that is not intense (not severe).
+process;motor weakness;
+process;mild hypotension;
+process;short stature;A lack of expected normal physiological development in childhood that is characterized by an individual's height being in the 3rd percentile for the mean height of a given age, sex, and population group.
+process;tetanic convulsion;A convulsion that is characterized by a tonic spasm (prolonged contraction of the muscles), without loss of consciousness and often associated with hypocalcemia.
+process;oliguria;A urinary system symptom that is characterized by the reduced excretion of urine.
+process;bronchitis;A respiratory system and chest symptom that is characterized by an acute or chronic inflammation of the bronchial tubes.
+process;sleep disturbance;
+process;mild bronchitis;
+process;general symptom;
+process;meningitis;A nervous system symptom that is characterized by an inflammation of the meninges and especially of the pia mater and the arachnoid.
+process;chills;
+process;sweaty;A skin and integumentary tissue symptom that is characterized by the excretion of moisture in visible quantities through the opening of the sweat glands.
+process;malaise;A neurological and physiological symptom that is characterized by an indefinite feeling of debility or lack of health, often indicative of or accompanying the onset of an illness.
+process;fatigue;A neurological and physiological symptom that is characterized by a weariness or exhaustion from labor, exertion, or stress.
+process;necrotic lesion;A skin and integumentary tissue symptom that is characterized by regions of cell death to living tissue in an organ, which has suffered damage through injury or disease, such as a wound, ulcer, abscess, or tumor.
+process;lightheadedness;A balance symptom that is characterized by a condition of being dizzy or on the verge of fainting, particularly when one arises to a standing position. Lightheadedness is a predictable consequence of any medication tending to lower blood pressure.
+process;peritonitis;A skin and integumentary tissue symptom that is characterized by an inflammation of the peritoneum.
+process;palpebral edema;An adema that is characterized by an abnormal excess accumulation of serous fluid in connective tissue of the eyelids.
+process;overflow incontinence;A urinary incontinence that is characterized by a bladder that does not empty completely, resulting in a bladder that is too full, which leads to overflow and unexpected leaking.
+process;panting respiration;A respiratory abnormality that is characterized by short, shallow, and rapid breathing.
+process;abnormal chest sound;A respiratory system and chest symptom that is characterized by a sound of breathing that is not similar to that of the sound of moving air and may include: rhonchi (a low-pitched breath sound), crackles (a high-pitched breath sound), wheezing (a high-pitched whistling sound caused by narrowing of the bronchial tubes), and stridor (a harsh, vibratory sound caused by narrowing of the upper airway).
+process;lesions in pancreas;
+process;slurred speech;
+process;disruptions of 24-hour sleep-wake cycle;
+process;painful lymph glands;A pain that is characterized by a pain situated, or occurring, in the lymph gland (lymph node). Pain is often associated with swelling of the gland, which is a sign that one's body is fighting an infection.
+process;sleep related movement disorder;
+process;limb edema;An adema that is characterized by an abnormal excess accumulation of serous fluid in connective tissue of the limbs.
+process;hypersomnia;Hypersomnia is a sleep disturbance characterized by sleeping for excessive periods at intervals with intervening periods of normal duration of sleeping and waking.
+process;hypersomnia with sleep apnea;
+process;dysfunctions associated with sleep stages;
+process;sleep apnea;An apnea that is characterized by brief periods of recurrent cessation of breathing during sleep that is caused especially by obstruction of the airway or a disturbance in the brain's respiratory center and is associated especially with excessive daytime sleepiness.
+process;occasional diplopia;
+process;night sweats;
+process;insomnia with sleep apnea;
+process;nystagmus;
+process;neck weakness;
+process;fussy infant;
+process;neurological dysfunction;
+process;incontinence without sensory awareness;
+process;urinary urgency;A urinary system symptom that is characterized by a strong and immediate need to urinate due to an increase in pressure in the bladder, resulting in difficulty to hold in the urine. This can occur regardless of whether the bladder is full.
+process;subdural hemorrhage;A hemorrhage that is characterized by bleeding that occurs within the skull of head but outside the actual brain tissue.
+process;poor feeding;A feeding difficulties and mismanagement that is characterized by an infant with little interest in feeding and it can also refer to an infant who is not feeding enough to receive the necessary nutrition required for adequate growth.
+process;head and neck symptom;
+process;thrombocytopenia;
+process;phlebitis;
+process;respiratory abnormality;A respiratory system and chest symptom that is characterized by a respiration that is not normal and may include, but is not limited to: apnea, eupnea, orthopnea, dyspnea hyperpnea, hyperventilation, hypoventilation, tachypnea, Kussmaul respiration, Cheyne-Stokes respiration, sighing respiration, Biot respiration, apneustic breathing, central neurogenic hyperventilation, and central neurogenic hypoventilation.
+process;phlegm;A respiratory system and chest symptom that is characterized by a viscid mucus secreted in abnormal quantity in the respiratory passages.
+process;febrile convulsion;A convulsion that is characterized by occurring in young children between six months and five years of age and which is triggered by fever.
+process;tracheitis;
+process;pneumonitis;A respiratory system and chest symptom that is characterized by an inflammation of lung tissue. Pneumonia is one type of pneumonitis caused by an infection. Many other factors can cause pneumonitis, including breathing in animal dander, inhaling small food particles 'down the wrong pipe' and receiving radiation therapy to your chest.
+process;convulsion;A nervous system symptom that is characterized by an abnormal violent and involuntary contraction or series of contractions of the muscles.
+process;gangrene;
+process;peripheral muscle weakness;
+process;abnormal involuntary movement;A nervous system symptom that is characterized by an inability to control bodily movement and may be a symptom of cerebrovascular diseases, dyskinesia, tremor, chorea, dystonia and myoclonus.
+process;left upper quadrant abdominal tenderness;
+process;parotid abscess;
+process;excessive crying of infant;
+process;mouth papules;
+process;plasmacytosis;
+process;throat muscle paralysis;
+process;pleural effusion;A skin and integumentary tissue symptom that is characterized by an exudation of fluid from the blood or lymph into a pleural cavity.
+process;paraplegia;A paralysis that is characterized by a complete, or partial, loss of function of the lower half of the body with involvement of both legs that is usually due to injury or disease of the spinal cord in the thoracic or lumbar region.
+process;papule;A skin and integumentary tissue symptom that is characterized by a small solid usually conical elevation of the skin caused by inflammation, accumulated secretion, or hypertrophy of tissue elements.
+process;extravasation of urine;A urinary system symptom that is characterized by an injury of the urethra in its bulbous or membranous portion, which leads to a collection of urine in other cavities, such as the perineal space, the scrotum, the penis and the connective tissue of the anterior abdominal wall.
+process;lip paralysis;
+process;slowing of urinary stream;A urinary stream symptom that is characterized by a slow or weak stream of urine.
+process;seizure;
+process;prostatic infection;A prostate symptom that is characterized by inflammation of the prostate and surrounding area.
+process;liver inflammation;
+process;proteinuria;A urinary system symptom characterized by the presence of excess protein in the urine.
+process;prostate symptom;
+process;prostatic abscess;A prostate symptom that is characterized by a localized collection of purulent fluid within the prostate, often forming as a complication of acute bacterial prostatitis.
+process;progressive prostration;
+process;progressive weakness;
+process;emaciation;A wasting that is characterized by the state of being extremely thin as a result of an absence of body fat and very week as a result of muscle wasting. usually because of illness or extreme hunger.
+process;progressive emaciation;An emaciation that is characterized by an increase in scope or severity with time.
+process;profound weakness;
+process;rales;An abnormal chest sound that is characterized by the clicking, rattling, or crackling noises heard on auscultation of (listening to) the lung with a stethoscope during inhalation. The sounds are caused by the 'popping open' of small airways and alveoli collapsed by fluid, exudate, or lack of aeration during expiration. The word 'rales' derives from the French word rale meaning 'rattle'. Rales can be heard in patients with pneumonia, atelectasis, pulmonary fibrosis, acute bronchitis, or bronchiectasis. Pulmonary edema secondary to left-sided congestive heart failure can also cause rales.
+process;postphlebitic ulcer;
+process;cheyne-stokes respiration;A respiratory abnormality that is characterized by a specific form of periodic breathing (waxing and waning amplitude of flow or tidal volume) characterized by a crescendo-decrescendo pattern of respiration between central apneas or central hypopneas.
+process;prostration;Prostration is a general symptom characterized by complete physical or mental exhaustion.
+process;premature labor;A reproductive system symptom that is characterized by labor occurring before 37 full weeks of pregnancy.
+process;renal abscess;A urinary system symptom that is characterized by a pocket (a walled-off cavity) of pus that develops in the kidney tissue. It results from the migration of bacteria from another infection site on the body to the kidneys.
+process;skin ulcer;A skin lesion that is characterized by a break in skin with loss of surface tissue, disintegration and necrosis of epithelial tissue, and often pus.
+process;severe necrosis;
+process;severe abdominal cramp;
+process;sinusitis;
+process;severe diarrhea;
+process;severe joint pain;A joint pain that is characterized by a pain situated, or occurring, in or around a joint that is intense (severe).
+process;salivation;
+process;necrosis;Necrosis is a general symptom where death of a portion of tissue differentially affected by local injury (as loss of blood supply, corrosion, burning, or the local lesion of a disease).
+process;scrotal abscess;A reproductive system symptom that is characterized by an abscess that is either superficial or intrascrotal. Superficial scrotal abscess may occur from an infected hair follicle, infection of a scrotal laceration, or minor scrotal surgery. Intrascrotal abscess most commonly arises from bacterial epididymitis, but may also be related to tuberculous infection of the epididymis, a testicular abscess that ruptures through the tunica albuginea, or drainage of appendicitis into scrotum through a patent processus vaginalis or as a result of extravasation of infected urine from the urethra in patients with a urethral stricture and neurogenic bladder using an external collection device.
+process;respiratory paralysis;A paralysis that is characterized by a complete or severe weakness of the muscles of respiration.
+process;severe headache;
+process;rhinorrhea;A nose symptom that is characterized by an excessive secretion of mucous through the nose.
+process;conjunctivitis;
+process;severe conjunctivitis;
+process;proximal paralysis of arm and leg;
+process;severe backache;
+process;ptosis;Ptosis is a general symptom characterized by a sagging or prolapse of an organ or part.
+process;spleen abscess;
+process;feces and droppings symptom;
+process;nose symptom;
+process;steatorrhea;
+process;stupor;An alteration of consciousness that is characterized by a lack of critical mental function and a level of consciousness, in which an affected person is almost entirely unresponsive and responds only to intense stimuli such as pain.
+process;mouth symptom;
+process;head symptom;
+process;neck symptom;
+process;throat symptom;
+process;staggering gait;
+process;spasticity;A nervous system symptom that is characterized by an abnormal increase in muscle tone or stiffness of muscle, which might interfere with movement, speech, or be associated with discomfort or pain.
+process;stiff neck;
+process;sneezing;A respiratory system and chest symptom that is characterized by a sudden violent spasmodic audible expiration of breath through the nose and mouth especially as a reflex act following irritation of the nasal mucous membrane.
+process;severe myalgia;A muscle pain that is characterized by being severe in nature. Myalgia may be acute in nature, stemming from overuse of a muscle group or viral infection. It may also be chronic and caused by metabolic myopathy, some nutritional deficiencies, and chronic fatigue syndrome.
+process;thyroid abscesses;
+process;ear symptom;
+process;thyroid symptom;
+process;thymus symptom;
+process;vertigo;A dizziness that is characterized by a specific type of dizziness, a major symptom of a balance disorder. It is the sensation of spinning or swaying while the body is stationary with respect to the surroundings.
+process;spleen symptom;
+process;unreactive mydriasis;
+process;thirst;Thirst is a general symptom characterized by a sensation of dryness in the mouth and throat associated with a desire for liquids.
+process;vaginal discharge;A reproductive system symptom that is characterized by fluid made by glands inside the vagina and cervix carrying away dead cells and bacteria. While it is normal for odor and color to vary, vaginal itching or burning may be indicative of an infection.
+process;vasculitis;
+process;facial muscle twitching;
+process;mydriasis;
+process;tinnitus;
+process;muscle twitching;
+process;eye discharge;
+process;hematuria;A urinary system symptom that is characterized by the presence of blood or blood cells in the urine.
+process;fixed dilated pupils;
+process;extreme fatigue;A fatigue that is characterized by exceeding the ordinary, usual, or expected.
+process;hepatosplenomegaly;
+process;eczema;A skin and integumentary tissue symptom that is characterized by an inflammatory condition of the skin with redness, itching, and oozing vesicular lesions, which become scaly, crusted, or hardened.
+process;hepatic necrosis;
+process;arrhythmia;Arrhythmia is a cardiovascular system symptom consisting of an alteration in rhythm of the heartbeat either in time or force.
+process;hepatitis;
+process;flaccid paralysis;A paralysis that is charicterized by a lack of muscle tone in the affected muscles and in which tendon reflexes are decreased or absent.
+process;hemorrhage;A cardiovascular system symptom that is characterized by an acute loss of blood from a damaged blood vessel.
+process;facial paralysis;
+process;fixed pupil;
+process;dyspneic enteritis;A respiratory system and chest symptom that is characterized by being short or breath or out of air (dyspnea), with inflammation of the small intestine (enteritis).
+process;enteritis;Enteritis is a digestive system symptom involving the inflammation of the small intestines and especially of the human ileum.
+process;heart failure;
+process;hydrocephalus;
+process;hemiparesis;A paralysis that is characterized by a weakness or the inability to move on one side of the body.
+process;belching;Belching is a digestive system symptom involving the sudden expulsion of gas from the stomach through the mouth.
+process;gas pain;
+process;hyperreflexia;
+process;hypotension;
+process;hyperpigmentation;A skin and integumentary tissue symptom that is characterized by an excess pigmentation in a bodily part or tissue, as the skin.
+process;hoarse voice;
+process;hyperemia;Hyperemia is a hemic system symptom consisting of an excess of blood in a body part as from an increased flow of blood due to vasodilation.
+process;hypergammaglobulinemia;
+process;hepatic dysfunction;
+process;hilar lymphadenitis;
+process;hemolysis;
+process;hepatic abscess;hepatic abscess is a liver symptom characterized by a pus-filled mass in the liver that can develop from injury to the liver or an intraabdominal infection disseminated from the portal circulation.
+process;inflammation;Inflammation is a general symptom where there is a local response to cellular injury that is marked by capillary dilatation, leukocytic infiltration, redness, heat, pain, swelling, and often loss of function and that serves as a mechanism initiating the elimination of noxious agents and of damaged tissue.
+process;laryngotracheitis;
+process;laryngitis;
+process;keratotic nodules of the skin;
+process;intestinal hemorrhage;
+process;joint pain;A pain that is characterized by a pain situated, or occurring, in or around a joint.
+process;lesions in myocardium;
+process;coordination symptom;A nervous system symptom that is characterized by the harmonious functioning of interrelated organs and body parts. in particular the working together of muscle groups in the execution of complicated movements.
+process;listlessness;
+process;lethargy;A fatigue that is characterized by abnormal drowsiness.
+process;lymphangitis;
+process;lymphoblastoma;
+process;lesions in lung;
+process;meningoencephalitis;A nervous system symptom that is characterized by an inflammation of the brain and meninges.
+process;massive hepatic necrosis;
+process;lymphopenia;
+process;muscle weakness;
+process;myocarditis;
+process;skin lesion;A skin and integumentary tissue symptom that is characterized by an abnormal change in structure of the skin that is especially circumscribed and well defined due to injury or disease.
+process;muscle cramp;
+process;encephalitis;A nervous system symptom that is characterized by inflammation of the brain tissue, which is typically caused by a viral infection, but it may also be caused by bacterial or parasitic infections, cancer, or certain drugs or toxins.
+process;mild encephalitis;An encephalitis that is not intense (not severe).
+process;nephritis;A urinary system symptom that is characterized by the acute or chronic inflammation of the kidney affecting the structure (as of the glomerulus or parenchyma) and caused by infection, a degenerative process, or vascular disease.
+process;pain;A sensation perception that is characterized by an unpleasant sensation that usually indicates the body is threatened or damaged. The sensation may be sharp or dull, short-lived or chronic, intermittent or continual, confined to one area or spread over the entire body.
+process;hemic and immune system symptom;
+process;allergic reaction;An immune system symptom that is characterized by sensitivities to substances called allergens.
+process;dysphonia;
+process;expressive aphasia;An aphasia that is characterized by damage to, or a developmental issues in, the anterior regions of the brain, including (but not limited to) the left inferior frontal region known as Broca's area. Sufferers of this form of aphasia exhibit the common problem of agrammatism. For them, speech is difficult to initiate, non-fluent, labored, and halting.
+process;distended loops of intestines on rectal;
+process;droopy ears;
+process;diminished spontaneous movement;
+process;nasal discharge;
+process;granulomatous inflammation;
+process;facial weakness;
+process;flaccid muscle tone;

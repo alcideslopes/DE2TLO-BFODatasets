@@ -1,0 +1,106 @@
+class;term;comment
+process;International travel surveillance;A travel-associated surveillance strategy in which population units are selected if they have a travel history outside of the reporting country in a specified number of days before onset of symptoms.
+process;Intra-state/ intra-provincial travel surveillance;A domestic travel-associated surveillance strategy in which population units are selected if they have a travel history in a state or province within a specified number of days before onset of symptoms.
+process;Surveillance of international border crossing by air travel;An international travel-associated surveillance strategy in which population units are selected if they have a travel history of crossing an international border via air travel.
+process;Surveillance of international border crossing by air travel or ground transport;An international travel-associated surveillance strategy in which population units are selected if they have a travel history of crossing an international border via air travel or ground transport.
+generically dependent continuant;swab specimen;
+generically dependent continuant;outbreak investigation;A surveillance context in which activities are specifically triggered by the detection of an outbreak
+material entity;specimen by origin;s specimen categorization which described the type of entity from which the specimen was collected
+process;FBO investigation;a surveillance activity with the specific surveillance context of investigating a foodborne outbreak
+generically dependent continuant;food-borne outbreak investigation;a type of outbreak investigation that focus specifically on foodborne agents/vehicles
+material entity;food specimen;
+material entity;animal specimen;
+process;Cluster/Outbreak investigation;A sampling strategy in which population units are chosen for investigation into a disease cluster or outbreak.
+process;Cluster/Outbreak investigation;a specific type of surveillance activity which has as surveillance context an outbreak investigation
+role;livestock farming system;a role given to a specific herd of domesticated animals, specifying that they are raised in an agricultural setting with a specific purpose.
+generically dependent continuant;surveillance protocol;A collection of all directive information associated with a surveillance activity, such as the surveillance objectives, the action specifications and legislative specification. Everything about a surveillance activity that is related to its planning and methodology.
+process;Surveillance of international border crossing by ground transport;An international travel-associated surveillance strategy in which population units are selected if they have a travel history of crossing an international border via ground transport.
+material entity;environmental specimen;
+role;egg production;
+generically dependent continuant;outbreak investigation datum;A directive information that described specific detailsgathered during an outbreak investigation.
+process;Multi-jurisdictional outbreak investigation;An outbreak investigation sampling strategy in which population units are chosen for investigation into a disease outbreak that has connections to two or more jurisdictions.
+role;product oriented farming type;Classification of livstock farming systems based on the type of commodity produced. Sub-classes are not mutually exclusive.
+process;Surveillance from international worker testing;A travel-associated surveillance strategy in which population units are selected if they have a travel history outside of the reporting country in a specified number of days before onset of symptoms.
+role;milk production;
+role;meat production;
+process;Intra-jurisdictional outbreak investigation;An outbreak investigation sampling strategy in which population units are chosen for investigation into a disease outbreak that only has connections within a single jurisdiction.
+role;reproducer;
+generically dependent continuant;Food vehicle of outbreak;
+generically dependent continuant;legislative specification;A directive information that details the legislative body that supports a specific surveillance activity, or the specific obligations prescried in these legislation.
+generically dependent continuant;Outbreak contributory factors;
+generically dependent continuant;Nature of evidence in an outbreak;
+generically dependent continuant;Extent of outbreak;
+generically dependent continuant;surveillance purpose;A directive information that describes why surveillance is necessary and what it will accomplish.
+generically dependent continuant;notifiable upon diagnosis;A directive information used to identify diseases which, by law, must be reported to public health authorities upon diagnosis.
+generically dependent continuant;surveillance objective;A directive information that described those goal(s) that when met will result in the collection and analysis of data in order to achieve the purpose of the system
+generically dependent continuant;reporting obligations;A directive information that described the manadatory actions that follow on specific agents upon suspicion or confirmation of specific hazards under surveillance.
+quality;status of hazard presence in a geographical region;a quality that specifies the known status of a hazard occurrence in a given geograhial region.
+generically dependent continuant;notifiable upon suspicion;A directive information used to identify diseases which, by law, must be reported to public health authorities upon suspicion
+generically dependent continuant;demonstration of disease freedom;A surveillance objective to gather evidence that can demonstrate, with a given confidence level, that a specific hazard is not present in a given population.
+generically dependent continuant;case detection;A surveillance objective to search for any animals affected, clinically or not, by the hazard under surveillance.
+quality;historically absent;
+generically dependent continuant;surveillance context;A directive information that describes the context for data collection in support to a specificsurveillance objective.
+generically dependent continuant;sampling strategy;A directive information that describes how population units will be chosen for sample/data collection in a surveillance activity.
+generically dependent continuant;surveillance executor type;A directive information used to describe the type of agent who carries out the data collection in a surveillance activity
+generically dependent continuant;sampling unit;A sampling unit is one of the units into which an aggregate is divided for the purpose of sampling, each unit being regarded as individual and indivisible when the selection is made.
+process;Surveillance Activity;a planned process which systematically, continuously or repeatedly measures, collected, collates, analyses, interprets and disseminates health and welfare related data from defined populations.
+generically dependent continuant;specimen from organism type;A specimen datum used, in conjunction with information about the target sampled anatomical location, in order to specify how the anatomical entity was sampled
+generically dependent continuant;fluid specimen;
+process;Re-infection surveillance;A priority surveillance strategy in which a population that previously tested positive for a disease of interest, and since confirmed to have recovered via a negative test, are monitored for positive test indication of re-infection with the disease of interest within a defined period of time.
+generically dependent continuant;whole organism specimen;
+process;Longitudinal surveillance;A priority surveillance strategy in which subsets of a defined population can be identified who are, have been, or in the future may be exposed or not exposed - or exposed in different degrees - to a disease of interest and are selected to under go repeat sampling over a defined period of time.
+generically dependent continuant;excreta specimen;
+process;Travel-associated surveillance;A priority surveillance strategy in which population units are selected if they have a travel history outside of the reporting region within a specified number of days before onset of symptoms.
+generically dependent continuant;organ/tissue specimen;
+process;Vaccine escape surveillance;A priority surveillance strategy in which population units are monitored for investigation into vaccine escape, i.e., identifying variants that contain mutations that counteracted the immunity provided by vaccine(s) of interest.
+process;Interstate/ interprovincial travel surveillance;A domestic travel-associated surveillance strategy in which population units are selected if they have a travel history between states or provinces within a specified number of days before onset of symptoms.
+process;Domestic travel surveillance;A travel-associated surveillance strategy in which population units are selected if they have an intranational travel history within a specified number of days before onset of symptoms.
+generically dependent continuant;Continuous data collection;A surveillance context in which sampling in done continuously, triggered by the existing of cases of interest, for instance reporting of confirmed cases or collection of samples from every slaughter batch.
+generically dependent continuant;Participatory surveillance;A surveillance context which explores traditional information networks by using participatory rural appraisal methods.
+generically dependent continuant;Sentinel surveillance;A surveillance context in which data are repeated collected from the same selected sites or groups of animals to identify changes in the health status of a specified population over time.
+generically dependent continuant;Syndromic surveillance;A surveillance context in which health-related information (clinical signs or other data) that might precede or substitute for formal diagnosis are used as indicators of spatio-temporal trends in hazard occurrence.
+generically dependent continuant;Indicator−based surveillance;A surveillance context in which data are generated through the identification of cases based on agreed-upon definitions.
+site;NUTS region;
+site;supra-national geopolitical entity;
+quality;language;
+material entity;whole organism;
+generically dependent continuant;matrix type;A directive information that qualifies/classifies specimens.
+material entity;fluid specimen;
+material entity;matrix from organism;a specimen collected from an organism.
+material entity;swab specimen;
+material entity;organ/tissue specimen;
+material entity;excreta specimen;
+generically dependent continuant;early detection;A surveillance objective to detect any hazard cases as soon as possible.
+quality;sporadic travel-related cases;Single cases without a specific temporal pattern, but also without geographical pattern or other associations and where import to location is related to travel.
+quality;absent (eradicated);
+generically dependent continuant;verify health intervention success purpose;
+quality;unknown status;
+generically dependent continuant;prevalence estimation;A surveillance objective focusedon gathering data to estimate the true or apparent prevalence of a hazard in a given population.
+quality;endemic;The state of a disease, infection or other condition being maintained in a population without the need of external outputs. The population involved and their geographical location should be specified when defining an endemic state. Present in a community or common among a group of people. said of a disease prevailing continually in a region
+generically dependent continuant;detect hazard introduction purpose;
+generically dependent continuant;stratified random sampling;
+generically dependent continuant;maintaining hazard freedom purpose;
+generically dependent continuant;informing health intervention purpose;
+process;Baseline surveillance;A surveillance sampling strategy in which baseline is established at the beginning of a study or project by the selection of sample units via random sampling.
+generically dependent continuant;outbreak control purpose;
+generically dependent continuant;targeted sampling;A surveillance sampling strategy in which an aspired outcome is explicity stated.
+generically dependent continuant;hazard control purpose;
+process;Screening for Variants of Concern (VoC);A targeted surveillance strategy in which the aim is early detection of variants of concern (VoC) in individuals.
+generically dependent continuant;detect changes in hazard occurrence purpose;
+process;Targeted surveillance;A surveillance sampling strategy in which an aspired outcome is explicity stated.
+generically dependent continuant;hazard erradication purpose;
+generically dependent continuant;convenience sampling;
+generically dependent continuant;census sampling;
+generically dependent continuant;systematic random sampling;
+generically dependent continuant;simple random sampling;A sampling strategy in which population units are selected such that each possible unit has a fixed and known or equal probability of selection.
+generically dependent continuant;purposeful sampling;
+generically dependent continuant;risk-based sampling;
+generically dependent continuant;reporting protocol;A reporting protocol, generally used within a surveillance activity, detailing what are the reporting obligations associated with a specific surveillance target in a specific area, the reporting chain (who is obliged to report and how is the information flow from reporting), and any eventual incentives for reporting.
+generically dependent continuant;sampling design protocol;A sampling scheme design to meet a specific surveillance objective and/or purpose of a surveillance activity.
+generically dependent continuant;diagnostic protocol;A protocol that describes which diagnostic test or tests will be used to identify animals (or another epidemiological unit) infected with a specific pathogen, possibly in more than one round of screening.
+generically dependent continuant;diagnostic protocol;A protocol to be used within a surveillance activity to classify epidemiological units according to a specific outcome.
+generically dependent continuant;specimen collection protocol;A protocol detailing how specimens will be collected as part of the data gathering phase of a surveillance activity.
+generically dependent continuant;surveillance methods specification;An action specification for specific actions to be taken as part of a health surveillance activity.
+generically dependent continuant;objective sampling;
+generically dependent continuant;assay datum;Information about an assay which can be used to find of qualify/classify assays.
+generically dependent continuant;diagnostic test type;A test category used to group diagnostic tests based on generla characteristics, such as the target for detection (antigen or antibody).

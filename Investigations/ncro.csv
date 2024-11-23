@@ -1,0 +1,25 @@
+class;term;comment
+material entity;synthesized non-coding RNA;
+material entity;genetic non-coding RNA;A genetic non-coding RNA is a non-coding RNA that is created by transcription in a cell
+process;miRNA expression;
+material entity;mature miRNA;A short (20-24 nt) miRNA gene product that is derived from pre-miRNA that is exported from the nucleus and is capable of being involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs after being incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA.
+material entity;non-coding RNA;A non-coding RNA (ncRNA) is an RNA molecule that is not translated into a protein.
+generically dependent continuant;miRNA target gene primary transcript;
+material entity;primary miRNA;A miRNA gene product which is capped, inside the nucleus, with a specially modified nucleotide at the 5’ end, polyadenylated with multiple adenosines (a poly(A) tail),[49][53] and spliced, forming an RNA stem-loop that in turn is part of this miRNA precursor
+disposition;miRNA target disposition;
+function;miRNA and target gene binding;
+process;transcription of miRNA;
+material entity;miRNA target gene;
+material entity;small interfering RNA;small interfering RNA (siRNA) is a class of double-stranded RNA molecules, 20-25 base pairs in length. siRNA plays many roles, but it is most notable in the RNA interference (RNAi) pathway, where it interferes with thes expression of specific genes with complementary nucleotide sequences.
+generically dependent continuant;miRNA target gene mRNA;
+material entity;long non-coding RNA;Long non-coding RNAs (long ncRNAs, lncRNA) are non-protein coding transcripts longer than 200 nucleotides.
+material entity;c elegans miRNA;
+material entity;fly miRNA;
+material entity;virus miRNA;
+material entity;human miRNA;
+material entity;bacterial miRNA;
+material entity;miRNA gene product;A non-coding RNA product initially transcribed from a DNA gene, or derived from such RNA by post-transcriptional processing to become capable of forming part of a RNA silencing complex and participating in gene silencing.
+material entity;mammalian miRNA;
+material entity;non mammalian miRNA;
+material entity;miRNA precursor;An miRNA gene product from which a mature miRNA is capable of being derived.
+material entity;pre-miRNA;A miRNA gene product cleaved from a pri-miRNA by Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor to mature miRNA, which is cleaved from the pre-miRNA by cytoplasmic Dicer ribonuclease .

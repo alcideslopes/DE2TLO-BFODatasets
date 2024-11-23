@@ -1,0 +1,728 @@
+class;term;comment
+generically dependent continuant;non-performance of an assay;An information content entity that is about the status of an assay and indicates that the assay has not been started or completed.
+generically dependent continuant;indeterminate serological assay result;A data item that indicates the amount of a serum analyte is approximately at a threshold considered to be present and therefore can not be confidently scored as positive or negative.
+generically dependent continuant;negative serological assay result;A data item that indicates the amount of a serum analyte is at a level below a threshold considered to be present.
+generically dependent continuant;positive serological assay result;A data item that indicates the amount of a serum analyte is at a level above a threshold considered to be present.
+process boundary;cessation of cardiac activity death;A life-death temporal boundary marked by the natural cessation of cardiac activity.
+process boundary;cessation of brain activity death;A life-death temporal boundary marked by the irreversible end of all brain activity (including involuntary activity necessary to sustain life).
+generically dependent continuant;time donor body refrigerated measurement;A time measurement datum that states the duration during which the specimen donor's body was refrigerated.
+generically dependent continuant;specimen donor body refrigerated indicator;A data item indicating whether the body of the specimen donor was refrigerated after death but prior to specimen collection.
+generically dependent continuant;comment on resolved specimen collection issue;A comment from tissue procurement made in regards to the resolution of an issue with the tissue.
+generically dependent continuant;reason for not collecting frozen specimens;A comment from tissue procurement that is an explanation as to why frozen specimens were not collected.
+generically dependent continuant;date of form data verification;A data item that reports the calendar date when the data collected on a form was verified.
+generically dependent continuant;blood was hemolyzed or not useable;A reason for not banking pre-operative blood specimen which is the blood was hemolyzed or not useable.
+generically dependent continuant;first tissue removed date;A date of specimen collection for the first collection of a tissue from a donor.
+generically dependent continuant;minimum number of aliquots not banked;A reason for not banking pre-operative blood specimen which is a minimum number of aliquots was not banked.
+generically dependent continuant;first blood draw date;A date of specimen collection for the first collection of blood from a donor.
+generically dependent continuant;minimum amount of required pre-op blood not drawn;A reason for not banking pre-operative blood specimen which is a minimum amount of required pre-op blood was not drawn.
+generically dependent continuant;SOP adjustment;A protocol that provides deviations or changes to part of an existing standard operating procedure.
+generically dependent continuant;blood not received in biobank;A reason for not banking pre-operative blood specimen which is the blood specimen was not received in the biobank.
+generically dependent continuant;SOP memorandum;A textual entity that is a short communication to provide advisory or informative matter about a standard operating procedure.
+generically dependent continuant;reason for not banking pre-operative blood specimen;A comment from tissue procurement providing a reason that the pre-operative/pre-anesthesia blood samples were not received in a biobank as per SOP.
+generically dependent continuant;case report form completion SOP;A standard operating procedure for properly and completely filling out a case report form.
+generically dependent continuant;indicator of collected and banked pre-operative blood specimens;An information content entity that is an indicator of whether pre-operative/pre-anesthesia blood samples were collected from the participant and were successfully banked in a biobank.
+generically dependent continuant;tissue procurement SOP;A standard operating procedure for collecting specimens from organism.
+process;wedge resection of right lung;A surgical procedure to remove a triangle-shaped slice of tissue from the right lung. It may be used to remove a tumor or some other type of tissue that requires removal and typically includes a small amount of normal tissue around it.
+generically dependent continuant;specimen transport SOP;A standard operating procedure for the transportation of specimens.
+process;wedge resection of left lung;A surgical procedure to remove a triangle-shaped slice of tissue from the left lung. It may be used to remove a tumor or some other type of tissue that requires removal and typically includes a small amount of normal tissue around it.
+generically dependent continuant;standard operating procedure;A protocol that is a set of step-by-step instructions compiled by an organization for carrying out routine operations.
+process;right pneumonectomy;A surgical procedure performed to remove an entire right lung
+process;left pneumonectomy;A surgical procedure performed to remove an entire left lung
+role;prosector role;A role which inheres in a person and is realized in the dissection of a body for anatomical instruction or pathological examination.
+generically dependent continuant;collection packet identifier;An identifier that refers to a collection packet used in a specimen collection process.
+process;right lung mass excision;A surgical procedure to remove a mass (growth or tumor) in the right lung.
+generically dependent continuant;resolved specimen collection issue;A data item that is an indicator of whether a specimen collection issue is resolved.
+process;surgical cancer treatment;A cancer therapeutic procedure that involves a surgical procedure as a main part.
+generically dependent continuant;followup required for specimen collection issue;A data item that is an indicator of whether further followup on a specimen collection issue is required.
+generically dependent continuant;specimen gross appearance of metastatic tumor;A specimen gross appearance of a tumor that has spread from its original site by discontinuous (not direct) spread, e.g. by blood or lymphatics.
+generically dependent continuant;autolysis value specification;A categorical value specification that is used to record the destruction of an organism cells or tissues by the organisms' own enzymes or processes with nominal categories ranging from none to severe.
+generically dependent continuant;specimen gross appearance of tumor center;A specimen gross appearance of the most internal topographic location of the tumor.
+material entity;specimen collected with specific collection packet;A specimen from organism that is collected with a collection packet that is designed to collect specimens of a particular type for a particular purpose.
+generically dependent continuant;specimen gross appearance of tumor edge;A specimen gross appearance of the border of the tumor with non-tumorous tissue.
+material entity;organization conducting specimen collection from organism;An organization at which the process of collecting a specimen from an organism occurred.
+generically dependent continuant;research authorization for post mortem specimen donation for a specific tissue or fluid;A research authorization documentation for postmortem specimen donation in which the authorization is for a specified tissue or biological fluid.
+process;surgical ligature process;A planned process to stop blood flow for an organ during a surgical procedure using a clamp or ligature.
+process;form data verification process;A planned process to assess the correctness of data entered on a form.
+generically dependent continuant;time of surgical ligature for specimen collection;A data item that reports the time of day when a clamp or ligature was applied to an organ for specimen collection.
+generically dependent continuant;first tissue removed time;A time of surgical removal of specimen for the first removal of tissue from a donor.
+generically dependent continuant;first blood draw time;A blood draw time for the first collection of a blood specimen from a donor.
+generically dependent continuant;tissue specimen suitability for molecular analysis;A conclusion textual entity that signifies whether a specimen is acceptable for molecular analysis based on the assessment by a pathologist of a tissue specimen based on qualities such as purity and size.
+generically dependent continuant;blood draw time;A data item that reports the time of day when a blood specimen was collected.
+material entity;tobacco;A Eukaryota that is within the genus Nicotiana of the Solanaceae (nightshade) family.
+process;left radical nephrectomy;A surgical procedure to remove the entire left kidney.
+generically dependent continuant;adherence of stage and replicate numbers to FFPE tissue processing SOP;An information content entity that indicates whether the number of stages and replicates followed that prescribed in the FFPE tissue processing SOP.
+material entity;pipe tobacco;A processed material which is made from tobacco for smoking tobacco using a pipe.
+process;left partial nephrectomy;A surgical procedure to remove part of the left kidney.
+generically dependent continuant;FFPE dehydration process temperature;A scalar measurement datum that is the output of a temperature measurement assay performed on a specimen in alcohol during the dehydration process in a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;smoking end date;A time measurement datum which is the end date of a smoking behavior.
+process;left kidney mass excision;A surgical procedure to remove a mass (growth or tumor) in the left kidney.
+generically dependent continuant;adherence of dehydration process temperature to FFPE tissue processing SOP;An information content entity that indicates whether temperature of the dehydration process followed that prescribed in the FFPE tissue processing SOP.
+generically dependent continuant;duration time of smoking;A time measurement datum about how long a person has been smoking.
+process;right kidney biopsy;A biopsy of the right kidney.
+generically dependent continuant;FFPE dehydration process duration;A time measurement datum that is the result of measuring the duration of the dehydration process in the formalin-fixed paraffin-embedded (FFPE) process.
+process;pipe smoking behavior;A smoking behavior that uses a smoking pipe to inhale or taste tobacco material.
+process;left kidney biopsy;A biopsy of the left kidney.
+generically dependent continuant;adherence of dehydration process duration to FFPE tissue processing SOP;An information content entity that indicates whether duration of the dehydration process followed that prescribed in the FFPE tissue processing SOP.
+generically dependent continuant;smoking start date;A time measurement datum which is the start date of a smoking behavior.
+generically dependent continuant;indicator of pelvic washings collected during ovarian surgery;An information content entity that is an indication of whether pelvic washings were collected during ovarian surgery.
+generically dependent continuant;FFPE alcohol stage duration;A time measurement datum that is the result of measuring the duration of the alcohol stage in a formalin-fixed paraffin-embedded (FFPE) process.
+material entity;nicotine e-cigarette;A processed material that vaporizes a liquid solution containing nicotine and simulates tobacco smoking by producing an aerosol that resembles smoke.
+generically dependent continuant;robotic surgical method;A surgical method using very small tools attached to a robotic arm. The surgeon controls the robotic arm with a computer.
+generically dependent continuant;adherence of alcohol stage duration to FFPE tissue processing SOP;An information content entity that indicates whether duration of the alcohol stage followed that prescribed in the FFPE tissue processing SOP.
+process;supracervical hysterectomy;A surgical procedure in which the body of the uterus is removed but the cervix is kept intact, as compared to the more common total hysterectomy, in which the uterus, cervix and fundus (the part of the uterus above the fallopian tube openings) are removed.
+role;FFPE clearing agent role;A role borne by a chemical that is realized in the formalin-fixed paraffin-embedded (FFPE) processes to remove alcohol used for specimen dehydration, remove stains, and prepare a specimen for infiltration medium.
+generically dependent continuant;comment on maintenance discrepancy from manufacturer recommendations;A textual entity that states information about maintenance discrepancies from manufacturer recommendations.
+material entity;smoking pipe;A device made to allow the user to inhale or taste smoke or vapor derived from the burning or vaporization of some substance.
+quality;specimen position;A position inhering in a specimen.
+material entity;nicotine material;A processed material that contains nicotine.
+generically dependent continuant;laparoscopically assisted vaginal surgical method;A surgical method in which operations are performed through the vagina aided by laparoscopic tools and techniques.
+quality;specimen integrity;A wholeness that inheres in a specimen.
+material entity;chewing tobacco;A processed material which is a kind of smokeless tobacco product consumed by placing a portion of the tobacco between the cheek and gum or upper lip teeth and chewing.
+generically dependent continuant;laparoscopic surgical method;A surgical method in which operations are performed far from their location through small incisions (usually 0.5���1.5��cm) elsewhere in the body.
+generically dependent continuant;equipment maintained as per manufacturer recommendations;An information content entity that indicates whether equipment was maintained following the manufacturers recommendations.
+generically dependent continuant;specimen weight;A mass measurement datum that is the result of an assay to measure the weight of a specimen.
+material entity;cigar;A processed material which is a tightly-rolled bundle of dried and fermented tobacco that is ignited so that its smoke may be drawn into the mouth.
+generically dependent continuant;vaginal surgical method;A surgical method in which operations are performed through the vagina.
+generically dependent continuant;FFPE tissue processing SOP;A standard operating procedure for fixation of a tissue to the state where it is completely infiltrated with a suitable histological wax and can be embedded ready for section cutting on the microtome for a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;specimen slide ID;An identifier that specifically identifies a particular specimen slide.
+process;anesthesia probe temperature measurement assay;An internal body temperature measurement assay where the temperature probe interfaces with the anesthesia vent monitor. Typically the thermometer is a rectal probe with a wire and connector that hooks up to the ekg/pulse ox/co2 monitor.
+process;left lung mass excision;A surgical procedure to remove a mass (growth or tumor) in the left lung.
+process;organ temperature measurement assay;An internal body temperature measurement assay where the thermometer is placed in an organ.
+process;right lung lobectomy;A surgical procedure to remove one of the lobes of the right lung.
+process;rectal temperature measurement assay;An internal body temperature measurement assay where the thermometer is placed in the rectum.
+process;left lung lobectomy;A surgical procedure to remove one of the lobes of the left lung.
+process;right lung biopsy;A biopsy of the right lung.
+process;internal body temperature measurement assay;A temperature measurement assay to obtain the body temperature of an organism through placement of a thermometer in an internal cavity or organ.
+process;left lung biopsy;A biopsy of the left lung.
+process;collecting specimen from organism during organ donation;A collecting specimen from organism that occurs during the process of organ donation.
+generically dependent continuant;open surgical method;A surgical method in which an incision is made using a scalpel. Open surgery is the traditional type of surgery.
+process;postmortem collecting specimen from organism;A collection from organism that occurs after the organism is dead.
+process;right nephroureterectomy;A surgical procedure that is minimally invasive to remove a patient's right renal pelvis, kidney, ureter, and bladder cuff.
+generically dependent continuant;time in fixative measurement;A time measurement datum that states the duration during which a specimen was submerged in fixative.
+process;right radical nephrectomy;A surgical procedure to remove the entire right kidney.
+process;right partial nephrectomy;A surgical procedure to remove part of the right kidney.
+immaterial entity;Location adjacent to tissue fixation;An anatomical location that is adjacent to the site where tissue was collected and subjected to fixation.
+immaterial entity;Location below resection;An anatomical location that is just below (1 cm) the site of surgery.
+process;right kidney mass excision;A surgical procedure to remove a mass (growth or tumor) in the right kidney.
+material entity;tobacco material;A processed material that is made from tobacco. Typically, tobacco material is meant to be used as a source of nicotine as tobacco contains a higher concentration of nicotine than most other plants.
+process;left nephroureterectomy;A surgical procedure that is minimally invasive to remove a patient's left renal pelvis, kidney, ureter, and bladder cuff.
+generically dependent continuant;number of FFPE stages/replicates;A data item that indicates the number of stages and replicates in a FFPE process.
+process;adding specimen into a container;An adding a material entity into a target process where a collected specimen is added to a specimen container. (note, not used for other specimen process that produce new specimens)
+process;hysterectomy with left salpingo-oophorectomy;A surgical procedure with the removal of the uterus, cervix, left fallopian tube, and left ovary.
+generically dependent continuant;date of receiving specimen transport;A data item indicating the calendar date when a specimen was received after transport from another institution.
+generically dependent continuant;percentage of viable tumor slide specimen by surface area;A data item that is the result of determining the percentage of a tumor slide specimen that is viable based on surface area not including stroma.
+process;specimen receiving;A planned process for receiving specimens such as into a laboratory.
+process;hysterectomy with bilateral salpingo-oophorectomy;A surgical procedure with the removal of the uterus, cervix, fallopian tubes, and ovaries. This is the most common surgery done for endometrial cancer.
+generically dependent continuant;name of IATA-trained person verifying specimen transport;A personal name that designates the person who verified the specimen transport was according to best practice, international standards, and industry regulations as trained by the IATA.
+generically dependent continuant;histologic profile quantitative assessment of tumor slide specimen surface area;A data item that is made up of percentages of different histology-based assessments of a tumor slide specimen that in aggregate describe the total tumor surface area (i.e. add up to 100%).
+material entity;vacutainer;A test tube which is either a sterile glass or plastic tube with a closure that is evacuated to create a vacuum inside the tube facilitating the draw of a predetermined volume of liquid. Most commonly used to draw a blood sample directly from the vein, these also are used to collect urine samples. Vacutainer tube may contain additives designed to stabilize and preserve the specimen prior to analytical testing.
+generically dependent continuant;time specimen left operating room;A data item indicating the time at which the surgical specimen left the operating for delivery to the pathology gross room.
+generically dependent continuant;name of person responsible for specimen transport;A personal name that designates the person who is responsible for the transport of a specimen to another organization.
+generically dependent continuant;percentage of cross-sectional surface area of entire slide composed of necrotic tissue;A data item that is the result of determining the percentage of cross-sectional surface area of an entire specimen slide that is composed of necrotic tissue.
+material entity;cryovial;A test tube that designed to store materials at very low temperatures.
+generically dependent continuant;comment on notable events during donor surgery;A comment from tissue procurement of notable events that occurred during surgery.
+role;specimen receiving organization;A role borne by an organization that is the recipient of a specimen that is transported from another organization.
+generically dependent continuant;percentage of tumor cellularity by cell count of the entire slide.;A data item that is the result of determining the percentage of tumor nuclei by cell count of the entire specimen slide (number of tumor epithelial cell nuclei as compared to all cell nuclei).
+material entity;blood spot card;A device that is designed to collect, ship and store blood specimens in an easy and inexpensive way.
+generically dependent continuant;comment on donor pre-operative bowel preparation prior to surgery;A comment from tissue procurement of the pre-operative bowel preparation performed prior to surgery.
+role;specimen transporting organization;A role borne by an organization that is the provider of a specimen that is transported to another organization.
+generically dependent continuant;percentage of cross-sectional surface area of entire slide composed of tumor focus;A data item that is the result of determining the percentage of cross-sectional surface area of an entire specimen slide composed of tumor focus including necrotic tumor.
+generically dependent continuant;Duration of fasting by specimen donor prior to surgery;A time measurement datum of the duration of fasting by the specimen donor prior to surgery.
+generically dependent continuant;time of specimen transport;A data item indicating the time when a specimen was transported to another institution.
+generically dependent continuant;greatest tumor dimension on slide;A length measurement datum that is the result of measuring the maximum length of a tumor specimen as presented on a slide.
+generically dependent continuant;date of specimen transport;A data item indicating the calendar date when a specimen was transported to another institution.
+generically dependent continuant;pathologist submitted specimen procurement feedback;A comment from tissue procurement that was submitted as feedback by a pathologist
+generically dependent continuant;date of review of pathology case summary report;A data item that reports the calendar date when a pathology case summary report was reviewed.
+material entity;medication material;A material entity that is bearer of a medication role.
+material entity;collection packet;A material entity used for specimen collection. It can contain a container to hold a specimen and material (e.g. paper) carrying information about the specimen and the specimen source (e.g. patient).
+generically dependent continuant;ascites fluid from specimen donor during surgery volume measurement datum;A measurement datum of the volume of ascites fluid collected from the specimen donor during surgery.
+generically dependent continuant;filled data confirm questionnaire;A data confirm questionnaire which has been filled out by a human subject recruiter.
+generically dependent continuant;indicator of ascites fluid collection during surgery;An information content entity that is an indication of whether ascites fluid was collected from the specimen donor during organ excision.
+generically dependent continuant;date of specimen freezing at -70 to -80 degrees C;A data item indicating the calendar date when a specimen was stored at -75 � 5 C.
+generically dependent continuant;specimen donor intraoperative urine excreted at end of surgery volume measurement datum;A specimen donor intraoperative urine excreted volume measurement datum obtained at the end of surgery.
+generically dependent continuant;time of specimen placement on dry ice for transport;A data item indicating the time when a specimen was placed on dry ice for transport.
+generically dependent continuant;name of reviewer of pathology case summary report.;A personal name that designates the person who served as the reviewer for quality assurance purposes of a pathology case summary report.
+material entity;collection packet with empty container;A collection packet which contains an empty container that will be used for holding a specimen.
+generically dependent continuant;specimen donor intraoperative urine excreted prior to organ excision volume measurement datum;A specimen donor intraoperative urine excreted volume measurement datum obtained during prior to organ excision.
+generically dependent continuant;date of specimen placement on dry ice for transport;A data item indicating the calendar date when a specimen was placed on dry ice for transport.
+generically dependent continuant;date of submission of pathology case summary report;A data item that reports the calendar date when a pathology case summary report was submitted.
+material entity;collection packet with specimen;A collection packet which contains a container with a specimen.
+generically dependent continuant;specimen donor intraoperative urine excreted volume measurement datum;A measurement datum of the volume of intraoperative urine excreted obtained from the specimen donor during surgery.
+generically dependent continuant;name of person processing blood cell pellet specimen;A personal name that designates the person who performed processing of the blood cell pellet specimen.
+generically dependent continuant;name of submitter of pathology case summary report.;A personal name that designates the person who was the submitter of a pathology case summary report.
+material entity;nicotine gum or lozenge;A processed material contains nicotine in a form of a chewing gum or a candy-like tablet. It delivers nicotine to the body via absorption by the tissues of the mouth. It is commonly used as an aid in nicotine replacement therapy (NRT), a process for smoking cessation.
+generically dependent continuant;abdominal surgical method;A surgical method in which operations are performed through the abdomen.
+generically dependent continuant;name of team leader for filling out tissue recovery form;A personal name that designates the person who is the leader of the team responsible for entering the tissue recovery form data.
+material entity;cigarette;A processed material which is a small cylinder of finely cut tobacco leaves rolled in thin paper for smoking.
+generically dependent continuant;surgical method;A protocol providing the action or system by which the surgical procedure is to be performed.
+generically dependent continuant;name of data entry person for tissue recovery form;A personal name that designates the person who performed the data entry process for filling in a tissue recovery case report form.
+material entity;nicotine patch;A processed material that contains nicotine in the form of a transdermal patch which releases nicotine into the body through the skin. It is commonly used as an aid in nicotine replacement therapy (NRT), a process for smoking cessation.
+process;right salpingo-oophorectomy;A surgical procedure to remove the right ovary and right fallopian tube.
+generically dependent continuant;name of quality control inspector of specimen;A personal name that designates the person who performed a quality control inspection of the specimen that is to be transported to another organization.
+generically dependent continuant;average daily use of cigarette datum;An average value of use of cigarettes per day.
+process;left salpingo-oophorectomy;A surgical procedure to remove the left ovary and left fallopian tube.
+generically dependent continuant;time of receipt for pathologist processing;A data item indicating the time when a specimen arrives in the gross pathology room for processing and review.
+generically dependent continuant;duration time of smoking regularly;A duration time of smoking about how long a person has been smoking regularly. (better to have criteria of regularly mean, such as smoke everyday)
+process;bilateral salpingo-oophorectomy;A surgical procedure to remove both ovaries and both fallopian tubes.
+generically dependent continuant;date of specimen receipt for pathologist processing;A data item indicating the calendar date when a specimen arrives in the gross pathology room for processing and review.
+material entity;collection packet with empty container and unfilled information material;A collection packet which contains a container without a specimen and an unfilled form that will be used to fill in information about specimen to be collected.
+process;pelvic mass excision;A surgical procedure to remove a mass (growth or tumor) on the ovary or in the pelvis.
+generically dependent continuant;comment on specimen integrity after transport;A textual entity that states information about the physical integrity or wholeness of the specimen that is deemed relevant for the specimen transport process.
+process;pelvic exenteration;A surgical procedure that removes all organs from a person's pelvic cavity including the urinary bladder, urethra, rectum, and anus.
+generically dependent continuant;specimen shipment received in poor condition;An information content entity indicating that the physical condition of a specimen upon receipt after transport was poor.
+generically dependent continuant;specimen shipment received in good condition;An information content entity indicating that the physical condition of a specimen upon receipt after transport was good.
+material entity;blood specimen on blood spot card;A blood specimen that is located on a blood spot card.
+process;right oophorectomy;A surgical procedure with the removal of the right ovary.
+process;left oophorectomy;A surgical procedure with the removal of the left ovary.
+generically dependent continuant;name of person receiving specimen shipment;A personal name that designates the person who received the specimen that was transported from another organization.
+material entity;buffy coat specimen;A processed specimen which is the output of a density gradient centrifugation of an anticoagulated blood specimen that contains most of the white blood cells and platelets.
+process;bilateral oophorectomy;A surgical procedure with the removal of both ovaries.
+generically dependent continuant;temperature of specimen collection packet at time of receipt;A scalar measurement datum that is the output of a temperature measurement assay performed on a collection packet when it is received with a specimen.
+generically dependent continuant;percentage of tumor slide specimen stroma by surface area;A data item that is the result of determining the percentage of a tumor slide specimen that is stroma based on surface area.
+process;blood spotting;An adding specimen into a container process that spots the blood from an organism on the blood spot card.
+process;hysterectomy with right salpingo-oophorectomy;A surgical procedure with the removal of the uterus, cervix, right fallopian tube, and right ovary.
+generically dependent continuant;time of receiving specimen transport;A data item indicating the time when a specimen was received after transport from another institution.
+generically dependent continuant;percentage of necrotic tumor slide specimen by surface area;A data item that is the result of determining the percentage of a tumor slide specimen that is necrotic based on surface area.
+role;human subject recuiter role;A worker role of recruiting human subjects to partcipate in a clinical investigation in which data about human subject is collected.
+generically dependent continuant;vital sign blood pressure variance late in organ excision;A data item on the duration of blood pressure variances of greater than 20 mmHg from a patient's pre-operative baseline from 15 minutes post anesthesia induction to the organ excision.
+generically dependent continuant;time of blood plasma specimen placement on dry ice;A data item indicating the time when a blood plasma specimen was placed on dry ice.
+generically dependent continuant;date and time FFPE tissue cassette was frozen;A data item indicating the date and time when a tissue cassette was frozen as part of a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;presence of a tumor larger than a specified size exclusion criterion;An exclusion criterion that defines whether a tumor is larger than a specified size, which if met, makes an individual unsuitable for a given task or participation in a given process.
+process;discarding;A planned process that gets rid of a material that is no longer useful or desirable.
+generically dependent continuant;vital sign blood pressure variance early in organ excision;A data item on the duration of blood pressure variances of greater than 20 mmHg from a patient's pre-operative baseline from the time of anesthesia induction to 15 minutes post.
+generically dependent continuant;blood plasma specimen volume;A scalar measurement datum that is the output of a volume measurement assay that has a blood plasma specimen as evaluant.
+generically dependent continuant;measurement of time between FFPE tissue processor cycle completion and embedding;A time measurement datum that is the result of measuring the time between FFPE tissue processor cycle completion and embedding in a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;presence of metastatic tumor exclusion criterion;An exclusion criterion that defines whether a metastatic tumor is present, which if met, makes an individual unsuitable for a given task or participation in a given process.
+material entity;freezer shelf;A device that is part of a freezer and consists of a solid horizontal surface to keep material in the freezer on a flat surface.
+generically dependent continuant;in vivo intraoperative ischemic period;A time measurement datum of the period between organ resection and the time of first clamping perfomed in vivo.
+generically dependent continuant;blood plasma specimen barcode;A specimen barcode that is associated with a blood plasma specimen.
+generically dependent continuant;date and time FFPE tissue embedding started;A data item indicating the date and time when a tissue embedding started as part of a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;limitations on research authorization for use of donated specimens;An authorization documentation for postmortem specimen donation in which authorization includes specific limitations or additional information related to the use of tissue for research.
+generically dependent continuant;time of second clamp for specimen removal;A data item that reports the time of day when the second clamp was applied to the vasculature of an organ for specimen collection.
+generically dependent continuant;blood specimen volume in conical centrifuge tube;A blood specimen volume of blood contained in a conical centrifuge tube.
+generically dependent continuant;date and time FFPE tissue cassette removed from processor;A data item indicating the date and time when a tissue cassette was removed from a tissue processor as part of a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;authorization not obtained for whole brain donation;An authorization documentation for post mortem specimen donation in which authorization is not obtained for whole brain donation.
+generically dependent continuant;conical centrifuge tube identifier;An identifier that specifically identifies a particular conical centrifuge tube.
+generically dependent continuant;time in FFPE fixative measurement;A time in fixative measurement that states the duration during which a specimen was submerged in fixative as part of a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;authorization for postmortem specimen donation for transplantation and research;An authorization documentation for postmortem specimen donation for a specified purpose which is for transplantation, research, education and the advancement of science.
+generically dependent continuant;date and time FFPE tissue processor cycle ended;A data item indicating the date and time when a tissue processor cycle ended as part of a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;authorization for postmortem specimen donation for transplantation purposes only;An authorization documentation for postmortem specimen donation for a specified purpose which is solely for the purpose of transplantation to another person or persons.
+generically dependent continuant;authorization documentation for postmortem specimen donation for a specified purpose;An authorization documentation for postmortem specimen donation in which specimens are to be used for a specified purpose (e.g., transplantation, research, education).
+generically dependent continuant;time of first clamp for specimen removal;A data item that reports the time of day when the first clamp was applied to the vasculature of an organ for specimen collection.
+process;rectosigmoidectomy;A colectomy that is the surgical removal of the rectum and sigmoid colon.
+generically dependent continuant;time of blood processing;A data item indicating the time when a blood specimen was processed.
+process;proctocolectomy;A colectomy that is the surgical removal of the rectum and all or part of the colon.[
+generically dependent continuant;comment from blood specimen storage;A textual entity that states additional information about the blood specimen or donor that is deemed relevant for the specimen storage process.
+generically dependent continuant;date and time FFPE tissue cassette placed in processor;A data item indicating the date and time when a tissue cassette was placed in a tissue processor as part of a formalin-fixed paraffin-embedded (FFPE) process.
+process;proctectomy;A surgical procedure to remove all or part of the rectum. It is often needed to treat rectal cancer.
+generically dependent continuant;specimen was collected and stored in accordance with the specified SOP;An information content entity indicating whether the specimen was collected and stored in accordance with the specified SOP.
+generically dependent continuant;placement of tissue cassette in FFPE fixative delay duration;A time measurement datum that is the result of measuring the duration of the the planned delay of placing the tissue cassette in fixative in the formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;agreement to a specified research addendum;An authorization documentation in which a legally authorized individual agrees to a specific research addendum for the person they represent.
+process;low anterior resection;A surgical procedure that is done to treat cancer of the rectum in which the part of the rectum containing the cancer is removed. The remaining part of the rectum is reconnected to the colon.
+generically dependent continuant;name of person storing specimen;A personal name that designates the person who stored a specimen.
+generically dependent continuant;date and time FFPE tissue cassette placed in fixative;A data item indicating the date and time when a tissue cassette was placed in fixative as part of a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;willingness to be contacted for a research study;An information content entity that signifies the willingness of an individual to be contacted for a research study.
+process;transverse colectomy;A colectomy that is resection of the transverse colon along with the middle colic vessels and its mesentery.
+generically dependent continuant;time of specimen freezing at -70 to -80 degrees C;A time of specimen freezing which occurred at -75� �� 5� C.
+generically dependent continuant;data and time FFPE tissue cassette ID was recorded;A data item indicating the date and time at which the FFPE tissue cassette ID was recorded.
+generically dependent continuant;comments related to research authorization process;A textual entity that provides additional information that may be relevant to the research authorization verification process.
+process;total colectomy;A colectomy that is resection of part of the colon or a resection of all of the colon without complete resection of the colon
+generically dependent continuant;time of specimen freezing at approximately -20 degrees C;A time of specimen freezing which occurred at approximately -20� C.
+generically dependent continuant;FFPE tissue cassette ID;A specimen ID that specifically identifies a particular tissue cassete used in a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;indicator of whether specimen donor has reached the age of majority;An Information content entity that indicates whether the specimen donor has reached the age of majority as defined by the appropriate regulation.
+role;lab technician role;A worker role that performs the practical hands-on work in laboratories and is realized during study design execution.
+generically dependent continuant;specimen donor intraoperative blood loss at end of surgery volume measurement datum;A specimen donor intraoperative blood loss volume measurement datum obtained at the end of surgery.
+generically dependent continuant;time of blood cell pellet transfer to storage;A data item indicating the time when the blood cell pellet specimen was transferred to storage.
+generically dependent continuant;comment on FFPE slide image;A textual entity that states information relevant to an image from a formalin-fixed paraffin-embedded (FFPE) slide.
+role;blood additive role;A material to be added role that is born by a chemical entity which is added into a blood collection containter to optimize specific blood component(s) preservation and/or separation.
+generically dependent continuant;specimen donor intraoperative blood loss prior to organ excision volume measurement datum;A specimen donor intraoperative blood loss volume measurement datum obtained prior to organ excision.
+generically dependent continuant;time of completion of blood cell pellet processing;A data item indicating the time when processing of a blood cell pellet specimen was completed.
+generically dependent continuant;specimen image ID;An identifier that specifically identifies a particular specimen image.
+material entity;collection packet with specimen and information material;A collection packet which contains a container with a specimen and a form filled with information about the collected specimen and specimen source.
+generically dependent continuant;specimen donor intraoperative blood loss volume measurement datum;A measurement datum of the volume of intraoperative blood loss from the specimen donor.
+generically dependent continuant;cell pellet specimen barcode;A specimen barcode that is associated with a cell pellet specimen.
+generically dependent continuant;comment on procurement site restriction;A comment from tissue procurement made in regards to all non-consent issues related to or creating a limitation on tissues that can be procured including tissue type and reason for restriction.
+generically dependent continuant;patient questionnaire;A questionnaire that comprises a set of demographic and medical questions about a patient which will be filled by the patient or their legally authorized representative.
+generically dependent continuant;amount of fresh frozen plasma administered intraoperatively;A count of the number of units of fresh frozen plasma administered during surgery.
+generically dependent continuant;cell pellet volume;A scalar measurement datum that is the output of a volume measurement assay that has a cell pellet as evaluant.
+generically dependent continuant;specimen was processed in accordance with the FFPE SOP including <1 hour delay to fixation and 23 hour time in fixative;A specimen was processed in accordance with the specified SOP where the specified SOP is for a formalin-fixed paraffin-embedded (FFPE) process and includes less than 1 hour delay in fixation and 23 hour time in fixative.
+generically dependent continuant;platelet volume administered intraoperatively;A measurement datum of the volume of platelets administered during surgery measured.
+generically dependent continuant;presence of gross hemolysis of plasma observed;An information content entity indicating whether the presence of gross hemolysis of plasma was observed.
+generically dependent continuant;date and time FFPE tissue was preserved;A data item indicating the date and time when a specimen tissue was fixed or frozen as part of a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;comment from blood specimen processing;A textual entity that states additional information about the blood specimen or donor that is deemed relevant for specimen processing.
+generically dependent continuant;specimen was processed in accordance with the FFPE SOP;A specimen was processed in accordance with the specified SOP where the specified SOP is for a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;name of dissector of normal adjacent tissue to tumor for FFPE;A personal name that designates the person who performed the dissection of a normal tissue adjacent to a tumor for a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;filled patient questionnaire;A patient questionnaire which has been filled out by a patient.
+process;form filling;A document editing process in which one or more fields in a form are filled with related information, such as when answering a questionnare.
+generically dependent continuant;amount of packed red blood cells administered intraoperatively;A count of the number of units of packed red blood cells administered during surgery.
+generically dependent continuant;data confirm questionnaire;A questionnaire that comprises a set of questions about patient, such as height, weight, race, biological sex, clinical history, etc., which will be filled by a recruiter based on an Electronic Medical Record (EMR).
+generically dependent continuant;albumin volume administered intraoperatively;A measurement datum of the volume of albumin administered during surgery.
+generically dependent continuant;specimen was processed in accordance with the specified SOP;An information content entity indicating whether the specimen was processed in accordance with the specified SOP.
+material entity;blood spot card box;A device that is designed to contain blood spot cards.
+generically dependent continuant;carbon dioxide level of specimen donor recorded at time closest to organ excision;A measurement datum of the level of carbon dioxide gas at time closest to organ exiscion from the specimen donor.
+generically dependent continuant;name of person transferring blood plasma specimens to freezer;A personal name that designates the person who transferred blood plasma specimens to freezer.
+generically dependent continuant;date and time FFPE tissue cassette transferred to storage;A data item indicating the date and time when a tissue cassette was transferred to storage after a formalin-fixed paraffin-embedded (FFPE) process.
+material entity;freezer rack;A device that is part of a freezer for keeping material in the freezer in a defined position and prevents movement.
+generically dependent continuant;oxygen desaturation epochs prior to organ excision description;A comment from tissue procurement of the epochs of oxygen desaturation of less than 92% for more than 5 minutes prior to organ excision.
+generically dependent continuant;name of person processing blood plasma specimen aliquots;A personal name that designates the person who processed a blood specimen to generate aliquots of blood plasma specimens.
+generically dependent continuant;FFPE freezing by LN2 vapor phase protocol;A FFPE freezing protocol that involves the use of liquid nitrogen vapor phase.
+generically dependent continuant;time since radiation therapy was received prior to surgery;A time measurement datum that is the result of measuring the time elapsed since radiation therapy prior to surgery.
+material entity;trash container;A container that is used for discarded material.
+generically dependent continuant;second temperature recorded in operating room of specimen donor;A time stamped measurement datum that is the second temperature recorded in the operating room of the specimen donor.
+generically dependent continuant;time of blood plasma specimen transfer to freezer;A data item indicating the time when a blood plasma specimen was transferred to a freezer.
+generically dependent continuant;FFPE freezing by dry ice protocol;A FFPE freezing protocol that involves the use of dry ice.
+generically dependent continuant;tissue collection timing and placed in fixative inclusion criterion;An inclusion criterion that is defined by whether it is likely that tissue collection can be started AND the first tissue can be placed in fixative within a specified period of time from cardiac cessation or recorded time of death (observed or presumed) for a specimen donor, which if met, makes a specimen donor suitable for a given task or participation in a given process.
+material entity;cryovial box;A device that is intended to hold cryovials.
+generically dependent continuant;first temperature recorded in operating room of specimen donor;A time stamped measurement datum that is the first temperature recorded in the operating room of the specimen donor.
+generically dependent continuant;cryovial specimen barcode;A specimen barcode that is associated with a cryovial.
+generically dependent continuant;FFPE freezing protocol;A protocol for the freezing step of a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;authorization to collect of minimum number of organ/tissue types for a specific study inclusion criterion;An inclusion criterion that defines whether the specimen donor has provided authorization to allow for the minimum number of organs/tissue types for a specific study to be collected, which when met, makes a specimen donor suitable for a given task or participation in a given process.
+process;administration of inhalation anaesthetic;A planned process to administer anaesthetic in the form of a gas aerosol or fine powder via the respiratory tract usually by oral or nasal inhalation for local or systemic effect.
+generically dependent continuant;name of person performing blood draw;A personal name that designates the person who performed the collection of a blood specimen.
+generically dependent continuant;data and time parent specimen ID was recorded;A data item indicating the date and time at which the parent specimen ID was recorded.
+generically dependent continuant;identification number of a protocol at a particular site;An centrally registered identifier symbol assigned by an Institutional Review Board (IRB) that identifies a particular protocol at a given site.
+generically dependent continuant;clinical history of sarcoidosis;A clinical history in which there is a history of sarcoidosis.
+process;intravenous administration of muscle relaxant;A planned process to administer muscle relaxant intravenously in order to relax skeletal muscles and reduce muscle contraction.
+process;blood specimen collection;A collecting specimen from organism that results in a blood specimen.
+generically dependent continuant;serology alert associated with specimen donor;A textual entity that is a notification within a clinical data repository that specimen donor serology results include positive infectious disease data.
+generically dependent continuant;date of research protocol expiration as determined by an institutional review board;A data item that indicates the calendar date on which a research protocol expires and becomes inactive as determined by an Institutional Review Board.
+generically dependent continuant;clinical history of lupus;A clinical history in which there is a history of systemic lupus
+process;pre-operative blood specimen collection;A blood specimen collection that occurs pre-operatively or pre-anesthesia relative to surgery.
+generically dependent continuant;transplant alert associated with specimen donor;A textual entity that is a notification within a clinical data repository that a specimen donor was a transplant recipient.
+generically dependent continuant;date of research protocol approval as determined by an institutional review board;A data item that indicates the calendar date on which a research protocol was approved by an Institutional Review Board related to where the research will take place.
+generically dependent continuant;clinical history of Human Immunodeficiency Virus;A clinical history in which there is a history of Human Immunodeficiency Virus (HIV).
+role;manager of human research protocol requirements role;A role borne by personnel responsible for managing human research protocol requirements including but not limited to screening, obtaining authorization, consenting and/or enrollment activities.
+generically dependent continuant;research authorization for post mortem specimen donation not obtained because legally authorized representative did not show up to the appointment as scheduled;A research authorization documentation for post mortem specimen donation in which authorization was not obtained because the the legally authorized representative did not show up to the appointment as scheduled.
+generically dependent continuant;clinical history of Hepatitis C;A clinical history in which there is a history of Hepatitis C infection.
+generically dependent continuant;research authorization for post mortem specimen donation not obtained because legally authorized representative did not agree with the activity of biobanking;A research authorization documentation for post mortem specimen donation in which authorization was not obtained because the the legally authorized representative did not agree with the activity of biobanking.
+generically dependent continuant;clinical history of Hepatitis B;A clinical history in which there is a history of Hepatitis B infection.
+generically dependent continuant;clinical history of syphilis;A clinical history in which there is a history of active syphilis infection or treatment for syphilis in the recent past.
+process;intravenous administration of opioid analgesic;A planned process to administer opioid analgesics intravenously in order to induce total or partial loss of sensation especially tactile sensation and pain.
+process;administration of intravenous anaesthetic;A planned process to administer anaesthetic within or into a vein or veins in order to produce a loss of feeling.
+generically dependent continuant;date and time of blood collection;A data item indicating the date and time when a blood specimen was collected.
+process;administration of regional anaesthetic;A planned process to administer anaesthetic to a restricted area or part of the body in order to produce a loss of feeling.
+role;operating room technician;A health care provider role borne by a person whose duties are to prepare operating rooms, set up equipment and surgical tools, and assist doctors and nurses during surgeries as instructed.
+generically dependent continuant;specimen randomization key ID;A specimen barcode associated with the specific chart (key) used to randomly assign specimens to one of several distinct experimental protocols.
+process;administration of local anaesthetic;A planned process to administer anaesthetic to a restricted or localized area in order to produce a loss of feeling.
+role;nurse anesthetist role;A nurse role borne by a nurse who specializes in the administration of anesthesia.
+generically dependent continuant;comment on deviations from H&E equipment maintenance SOP;A textual entity that states information about deviations from a hemtoxylin and eosin (H&E) equipment maintenance standard operating procedure.
+generically dependent continuant;research authorization for post mortem specimen donation not obtained because legally authorized representative was afraid the decision might affect the surgery plans of donor;A research authorization documentation for post mortem specimen donation in which authorization was not obtained because the the legally authorized representative was afraid the decision might affect the surgery plans for the donor.
+process;preoperative intravenous administration of medication;A planned process to administer medication intravenously prior to surgery.
+role;anesthesiologist role;A health care provider role borne by a medical practitioner trained in anesthesia and perioperative medicine.
+generically dependent continuant;H&E staining equipment maintenance performed and recorded frequency value specification;A categorical value specification that is used to record the frequency with which hematoxylin and eosin (H&E) staining equipment maintenance is performed and recorded. Categories include daily, weekly, bi-monthly, and per SOP.
+generically dependent continuant;research authorization for post mortem specimen donation not obtained because legally authorized representative was uncomfortable with the risks;A research authorization documentation for post mortem specimen donation in which authorization was not obtained because the the legally authorized representative was uncomfortable with the risks of the request.
+generically dependent continuant;clinical history of gonorrhea;A clinical history in which there is a history of active gonorrhea infection or treatment for gonorrhea in the recent past.
+process;preoperative intravenous administration of antacid;A planned process to administer antacid intravenously prior to surgery in order to relieve and reduce the symptoms of ulcers in the stomach and upper small intestine.
+role;phlebotomist role;A health care provider role borne by a person trained to draw blood from a patient for clinical or medical testing, transfusions, donations, or research. Phlebotomists collect blood primarily by performing venipunctures.
+generically dependent continuant;H&E staining equipment maintenance performed and recorded frequency;A data item that indicates the frequency with which hematoxylin and eosin (H&E) staining equipment maintenance is performed and recorded.
+generically dependent continuant;research authorization for post mortem specimen donation not obtained because legally authorized representative needed more time to make a decision;A research authorization documentation for post mortem specimen donation in which authorization was not obtained because the the legally authorized representative needed more time to make a decision.
+generically dependent continuant;clinical history of West Nile Virus exposure;A clinical history in which there is a history of contact with a human or animal who has West Nile Virus (WNV).
+process;preoperative intravenous administration of antiemetic;A planned process to administer antiemetic agents intravenously prior to surgery to prevent nausea or vomiting.
+generically dependent continuant;approval to proceed with collection;An information content entity indicating whether approval was received to proceed with collection.
+generically dependent continuant;comment on preparation of FFPE H&E stained slide;A textual entity that states information relevant to the preparation of a formalin-fixed paraffin-embedded (FFPE) hematoxylin and eosin (H&E) stained slide.
+generically dependent continuant;research authorization for post mortem specimen donation not obtained because legally authorized representative felt too distraught;A research authorization documentation for post mortem specimen donation in which authorization was not obtained because the the legally authorized representative felt too distraught.
+generically dependent continuant;clinical history of West Nile Virus;A clinical history in which there is a history of West Nile Virus (WNV) infection.
+process;preoperative intravenous administration of opioid analgesic;A planned process to administer opioid analgesics intravenously prior to surgery in order to induce total or partial loss of sensation especially tactile sensation and pain.
+generically dependent continuant;minimum required pre-operative blood tubes collected;An information content entity indicating whether the minimum requirement according to a standard operating procedure was met for pre-operative blood collection.
+process;manual FFPE tissue section H&E cover slipping;A planned process involving the manual performance of the FFPE tissue section H&E cover slip protocol.
+generically dependent continuant;research authorization for post mortem specimen donation not obtained because legally authorized representative felt pressured;A research authorization documentation for post mortem specimen donation because the legally authorized representative felt pressured into making a decision.
+generically dependent continuant;clinical history of exposure to Severe Acute Respiratory Syndrome;A clinical history in which there is a history of recent contact with someone who has Severe Acute Respiratory Syndrome (SARS).
+process;preoperative intravenous administration of sedative;A planned process to administer sedation drugs intravenously prior to surgery in order to induce total or partial loss of sensation especially tactile sensation and pain.
+generically dependent continuant;blood specimen collection and processing SOP;A standard operating procedure for collection and processing of blood specimens.
+process;manual FFPE tissue section H&E clearing;A planned process involving the manual performance of the FFPE tissue section H&E clearing protocol.
+generically dependent continuant;research authorization for post mortem specimen donation not obtained due to surgeon's recommendation;A research authorization documentation for post mortem specimen donation in which authorization was not obtained because the donors surgeon did not recommend it.
+generically dependent continuant;clinical history of Severe Acute Respiratory Syndrome;A clinical history in which there is a history of a Severe Acute Respiratory Syndrome (SARS) diagnosis.
+generically dependent continuant;sample collection identifier;A proper name that refers to a sample collection.
+process;subtotal colectomy;A colectomy that is complete resection of the colon
+generically dependent continuant;vacutainer specimen barcode;A specimen barcode that is associated with a vacutainer.
+generically dependent continuant;FFPE fixation delay protocol;A FFPE fixation protocol that specifies the planned delay to fixation time.
+generically dependent continuant;age of specimen donor at time that authorization from legally authorized representative was obtained;An age measurement datum that indicates the age of the specimen donor at the time that authorization from their legally authorized representative was obtained.
+generically dependent continuant;biobank description in english;A textual entity providing information about a biobank and that is written in English.
+process;right hemicolectomy;A colectomy that involves removing the cecum, the ascending colon, the hepatic flexure (where the ascending colon joins the transverse colon), the first one-third of the transverse colon, and part of the terminal ileum, along with fat and lymph nodes.
+generically dependent continuant;humidity in lab when blood specimen was received;A measurement datum that is the output of an assay of humidity occurring in a laboratory and performed when a blood specimen is received.
+generically dependent continuant;FFPE fixation protocol;A protocol for the fixation step of a formalin-fixed paraffin-embedded (FFPE) process.
+role;post mortem donor role;A role borne by a person who has died from whom specimens are collected.
+process;sigmoid colectomy;A colectomy that is the surgical removal of the sigmoid colon.
+generically dependent continuant;temperature in lab when blood specimen was received;A scalar measurement datum that is the output of a temperature measurement assay occurring in a laboratory and performed when a blood specimen is received.
+generically dependent continuant;weight of frozen tissue specimen;A mass measurement datum that is the result of measuring the weight of a frozen tissue specimen.
+quality;donor's biological sex;Biological sex of the person who bears the role of donor.
+generically dependent continuant;name of person receiving blood specimen in laboratory;A personal name that designates the person who received a blood specimen in the laboratory.
+generically dependent continuant;data and time specimen was frozen in liquid nitrogen;A data item indicating the date and time at which a specimen was frozen by placement in liguid nitrogen.
+generically dependent continuant;specimen donor's date of birth;A date of birth that signifies the calendar date on which a particular donor of a specimen was born.
+generically dependent continuant;collection packet component ID;An identifier that specifically identifies a particular component of a collection packet.
+specifically dependent continuant;relationship between person signing research authorization and specimen donor;A relationship that may be biological or legal, between the specimen donor and the legally authorized representative who signed the research authorization.
+generically dependent continuant;identifier for legally authorized representative;An identifier that uniquely identifies a particular legally authorized representative in a research study.
+process;left hemicolectomy;A colectomy that is the surgical removal of the left side of the large intestine.
+process;abdominoperineal resection;A surgical procedure in which the anus, rectum, and sigmoid colon are removed.
+generically dependent continuant;data and time of laboratory receipt of specimen;A data item indicating the date and time at which the specimen was received in the laboratory for processing.
+generically dependent continuant;time of first surgical incision;A data item that reports the time of day at which the first incision is made during surgery.
+generically dependent continuant;comment from blood specimen collection;A textual entity that states additional information about the blood specimen or donor that is deemed relevant for the specimen collection process.
+generically dependent continuant;time specimen place in stabilizer;A data item indicating the time when a specimen was placed in a container with stabilizing reagent.
+process;administration of medication during surgery;A planned process to administer medication(s) during a surgical procedure.
+process;fresh venous needle blood specimen collection;A blood specimen collection that is performed with a fresh needle inserted into a vein.
+material entity;pathology research center;A laboratory that performs a rigorous review of images of tissue specimens by a group of senior pathologists not involved in the specimen collection typically to evaluate and characterize the tissue (e.g., % necrosis).
+generically dependent continuant;date on which research authorization was obtained from legally authorized representative;A data item that indicates the calendar date on which a research authorization was obtained from a specimen donor's legally authorized representative.
+process;administration of antimicrobial agent during surgery;A planned process to administer antimicrobial agent(s) during a surgical procedure.
+generically dependent continuant;blood specimen volume;A scalar measurement datum that is the output of a volume measurement assay that has a blood specimen as evaluant.
+material entity;laboratory, data analysis, and coordinating center for human specimens;A laboratory that specializes in acquiring human tissues and analyzing components such as DNA and RNA from them.
+generically dependent continuant;name of person obtaining authorization from legally authorized representative for post-mortem specimen donation;A personal name of an individual with research obtainer role who approaches a person's legal representative and informs them of key facts about potential risks and benefits, and asks them for authorization for post-mortem specimen donation for research for the person they legally represent.
+generically dependent continuant;clinical history of idiopathic heart disease;A clinical history in which there is a history of idiopathic heart disease.
+process;administration of steroid during surgery;A planned process to administer steroid during a surgical procedure.
+material entity;PAXgene RNA vacutainer;A specimen container developed by PreAnalytiX that contains a proprietary reagent for stabilization of intracellular RNA immediately upon collection.
+object aggregate;central biobank;A biobank which receives its specimens primarily/exclusively from tissue source sites.� Activities include receipt, some processing, production of slides/images of the tissue, storage, and retrieval/shipping of materials on-demand.
+generically dependent continuant;name of person screening specimen donors;A personal name that designates who performed the screening of a potential specimen donor for a research study.
+generically dependent continuant;clinical history of rheumatoid arthritis;A clinical history in which there is a history of rheumatoid arthritis.
+process;administration of insulin during surgery;A planned process to administer insulin during a surgical procedure.
+material entity;PAXgene DNA vacutainer;A specimen container developed by PreAnalytiX that is intended to collect, anticoagulate, stabilize, transport, and store a venous whole blood sample for preparation of high quality DNA for use with molecular diagnostic test methods that require DNA.
+object aggregate;human brain biobank;A biobank that focuses on the special requirements of the human brain with regards to preservation, handling, and analysis.
+generically dependent continuant;date of research authorization verification;A data item that indicates the calendar date on which the receipt of the research authorization was verified by study personnel.
+generically dependent continuant;clinical history of Reye's Syndrome;A clinical history in which there is a history of Reye's Syndrome.
+process;administration of anaesthetic;A planned process to administer anaesthetic in order to produce a loss of feeling.
+material entity;blood specimen container with EDTA;A specimen container for collecting blood and has ethylenediaminetetraacetic acid (EDTA) as an anticoagulant.
+generically dependent continuant;comment on tissue specimen processing;A textual entity that states additional information deemed relevant for tissue specimen processing.
+generically dependent continuant;date that research authorization for post mortem specimen donation was witnessed;A data item that indicates the calendar date on which the signing of the research authorization for post mortem specimen donation by the legally authorized individual was witnessed.
+generically dependent continuant;clinical history of scleroderma;A clinical history in which there is a history of scleroderma.
+generically dependent continuant;daily water bath maintenance;A water bath maintenance frequency that indicates that microtome maintenance is performed and recorded daily.
+generically dependent continuant;activity related to a particular specimen donor was stopped because not enough blood collected;An activity related to a particular specimen donor was stopped that is because there was not enough blood collected.
+generically dependent continuant;clinical history of clotting disorders;A clinical history in which there is a history of clotting disorders, such as hemophilia, requiring treatment with human-derived clotting factors.
+generically dependent continuant;cross sectional study design;A study design in which all participants or a representative subset of participants are examined at only a single time for characteristics of a interest (e.g. a specific disease).
+generically dependent continuant;water bath maintenance frequency;An information content entity that indicates the frequency with which water bath maintenance is performed and recorded.
+generically dependent continuant;activity related to a particular specimen donor was stopped.;An information content entity that is an indicator of whether activity related to a particular specimen donor was stopped.
+generically dependent continuant;an indication of illegal injectable drug use;An information content entity that indicates whether an individual recently used injectable drugs for non-medical purposes in the recent past.
+generically dependent continuant;case control study design;A study design that compares two groups of subjects. those with the disease or condtion under study and a similar group of subjects who do not have the condition.
+generically dependent continuant;all requirements for an investigation are met enabling release of specimen for shipment.;An information content entity that is an indicator of whether all requirements for an investigation were met such that a specimen from a particular donor is released for shipment.
+generically dependent continuant;indication of male homosexual sexual activity;An information content entity in that indicates whether a man has ever had sex with another man.
+generically dependent continuant;number of total human study participant objective;An objective specification that specifies the total number of individuals who are planned to participate in study.
+generically dependent continuant;Indication of recent cocaine use;An information content entity that indicates whether an individual recently used cocaine.
+generically dependent continuant;number of sampled human study participants objective;An objective specification that specifies the number of individuals to participate in a study and provide biological specimens to the study.
+process;omics experiment on specimen;An objective specification that aims at the collective characterization and quantification of pools of biological molecules that translate into the structure, function, and dynamics of an organism or organisms.
+generically dependent continuant;specimen gross appearance of tumor;A specimen gross appearance of a tumor manifestation.
+generically dependent continuant;specimen gross appearance;A data item on manifestations of disease produced from macroscopic analysis of a specimen.
+generically dependent continuant;comment on deviations from microtome daily maintenance SOP;A textual entity that states information about deviations from a microtome daily maintenance standard operating procedure.
+generically dependent continuant;ending time of parent specimen dissection.;A data item indicating the time that the dissection of a specimen for specimen family creation ended.
+generically dependent continuant;daily microtome maintenance;A microtome maintenance frequency that indicates that microtome maintenance is performed and recorded daily.
+generically dependent continuant;tumor specimen satisfied criteria of necrosis percentage and tumor content;An information content entity that is an indicator of whether the tumor specimen obtained satisfied criteria of necrosis percentage and tumor content of tumor cells by surface area.
+generically dependent continuant;beginning time of parent specimen dissection.;A data item indicating the time that the dissection of a specimen for specimen family creation began.
+generically dependent continuant;microtome maintenance frequency;An information content entity that indicates the frequency with which microtome maintenance is performed and recorded.
+generically dependent continuant;specimen donor clinical data entry was completed;An information content entity that is an indicator of whether clinical data entry was completed for a specimen donor.
+generically dependent continuant;indication of heroin use;An information content entity that indicates whether an individual ever used heroin in any manner.
+generically dependent continuant;name of dissector of parent specimen;A personal name that designates the person who performed the dissection of a surgical specimen to create a specimen family.
+generically dependent continuant;FFPE water bath temperature;A scalar measurement datum that is the output of a temperature measurement assay performed on a water bath used in a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;local pathology review was consistent with site of tissue procurement diagnostic pathology report;An information content entity that is an indicator of whether the local pathology review was consistent with the findings of the diagnostic pathology report from the site of specimen collection from a donor.
+generically dependent continuant;clinical history of exposure to rabies;A clinical history in which there is a history of an animal bite in recent past, from an animal suspected to have rabies.
+generically dependent continuant;storage temperature setting;A setting datum that specifies the temperature inside a container participating in a storage process.
+generically dependent continuant;parent specimen ID;A specimen ID denoting a specimen that is used to create a specimen family.
+generically dependent continuant;uncharged glass slide indicator;An information content entity that indicates that a glass slide has not been positively charged.
+generically dependent continuant;local pathology review of QC FFPE tumor tissue H&E slide was completed;An information content entity that is an indicator of whether the local pathology review of a hematoxylin (H&E) slide derived from a quality control (QC) formalin-fixed paraffin-embedded (FFPE) tumor tissue was completed.
+generically dependent continuant;clinical history of exposure to toxins;A clinical history in which there is a history of exposure to toxic substances that may have led to chronic conditions.
+generically dependent continuant;physiological measurement data;A measurement datum that contains the assessment information about the functioning of a major organ system, the extent of disease or disability,as well as the provision and/or response to therapeutic interventions.
+generically dependent continuant;comment from specimen receipt;A textual entity that states a comment or issue regarding specimen receipt or deviations from a standard operating procedure for specimen receipt.
+generically dependent continuant;charged glass slide indicator;An information content entity that indicates that a glass slide has been positively charged.
+generically dependent continuant;additional tumor specimen was obtained and processed with a particular FFPE fixation delay protocol;An information content entity that is an indicator of whether a tumor specimen was obtained and processed with a particular FFPE fixation delay protocol other than meeting the top priority for tissue procurement.
+generically dependent continuant;clinical history of unexplained weakness and fatigue;A clinical history in which there is a history of unexplained weakness and fatigue described as flu-like symptoms.
+generically dependent continuant;count of current total human study participant;A count that is about the aggregate of individuals who have been recruited to participate in a study.
+generically dependent continuant;name of biobank person receiving specimen;A personal name that designates the person who received a specimen in the biobank.
+generically dependent continuant;description of glass slide charge;A textual entity that describes the carge on a glass slide.
+generically dependent continuant;top priority tumor specimen was obtained and processed with a particular FFPE fixation delay protocol;An information content entity that is an indicator of whether a tumor specimen was obtained and processed with a particular FFPE fixation delay protocol to meet the top priority for tissue procurement.
+generically dependent continuant;clinical history of unexplained seizures;A clinical history in which there is a history of unexplained seizures.
+generically dependent continuant;count of current sampled human study participant;A count that is about the aggregate of individuals who have contributed biological specimens in a study.
+generically dependent continuant;data and time of biobank receipt of specimen;A data item indicating the date and time at which the specimen was received in the biobank.
+generically dependent continuant;preparation of FFPE block face for sectioning protocol;A protocol describing the preparation on the faced block prior to sectioning of a formalin-fixed paraffin-embedded (FFPE) tissue.
+generically dependent continuant;desired plasma and serum aliquots were obtained;An information content entity that is an indicator of whether the desired plasma and serum aliquots were obtained from a specimen donor.
+generically dependent continuant;clinical history of osteomyelitis;A clinical history in which there is a history of osteomyelitis.
+generically dependent continuant;primary diagnosis;A diagnosis that is the main reason for the inducement of medical care.
+generically dependent continuant;receipt and dissection of surgical specimen SOP;A standard operating procedure for the receipt and dissection of surgical tissue in a biobank.
+quality;fresh microtome blade;A microtome blade age that indicates that the microtome blade is as new as possible.
+generically dependent continuant;minimum required pre-operative RNA and DNA PAXgene tubes were collected;An information content entity that is an indicator of whether the minimum required pre-operative RNA and DNA PAXgene tubes were collected from a donor.
+generically dependent continuant;clinical history of long term steroid use;A clinical history in which there is a history of long term steroid use.
+generically dependent continuant;comorbidity;A diagnosis that is the outcome of a diagnostic process targeting a second or additional health problem.
+generically dependent continuant;date of surgical removal of specimen;A date of specimen collection on which the surgery was performed during which the specimen was collected.
+quality;fresh buffered formalin condition;A buffered formalin condition by virtue of being newly prepared with formalin that has not been previously used.
+process;manual FFPE tissue section H&E staining;A planned process involving the manual performance of the FFPE tissue section H&E staining protocol.
+generically dependent continuant;research authorization for post mortem specimen donation not obtained due to religious reasons;A research authorization documentation for post mortem specimen donation in which the reason authorization was not obtained was due to due to religious reasons.
+generically dependent continuant;clinical history of drug abuse;A clinical history in which there is a history of drug abuse.
+quality;buffered formalin condition;A quality that inheres in buffered formalin by virtue of its usage and processing.
+process;manual FFPE tissue section H&E deparaffinization;A planned process involving the manual performance of the FFPE tissue section H&E deparaffinization protocol.
+generically dependent continuant;research authorization documentation for post mortem specimen donation that is negative;A research authorization documentation for post mortem specimen donation establishing the lack of agreement for post-mortem donation and use in general research.
+generically dependent continuant;clinical history of sexually transmitted disease;A clinical history in which there is a history of sexually transmitted diseases
+generically dependent continuant;FFPE tissue section H&E cover slip protocol;A protocol describing the method for applying a cover slip used during the hematoxylin and eosin (H&E) stained slide preparation of a formalin-fixed paraffin-embedded (FFPE) tissue section.
+generically dependent continuant;research authorization documentation for post mortem specimen donation that is affirmative;A research authorization documentation for post mortem specimen donation establishing agreement for post-mortem donation and use in general research.
+generically dependent continuant;clinical history of opportunistic infections;A clinical history in which there is a history of opportunistic infections.
+generically dependent continuant;research authorization for post mortem specimen donation was obtained;An information content entity that indicates whether research authorization for post mortem specimen donation was obtained.
+generically dependent continuant;clinical history of an unexplained cough or shortness of breath;A clinical history in which there is are active signs of unexplained persistent cough and/or shortness of breath.
+generically dependent continuant;clinical history of a prolonged fever;A clinical history in which there is a history of fever of at least 38.6 Celsius for a specified duration.
+quality;recycled buffered formalin condition;A buffered formalin condition by virtue of the formalin having undergone a recycling process such as fractional distillation by temperature.
+material entity;in-house manufacturer;A manufacturer that produces materials internally for the internal needs of the organization.
+generically dependent continuant;FFPE tissue section H&E clearing protocol;A protocol describing the clearing method used during the hematoxylin and eosin (H&E) stained slide preparation of a formalin-fixed paraffin-embedded (FFPE) tissue section.
+material entity;commercial manufacturer;A manufacturer that produces materials to be sold for profit.
+generically dependent continuant;FFPE tissue section H&E staining protocol;A protocol describing the staining method used during the hematoxylin and eosin (H&E) stained slide preparation of a formalin-fixed paraffin-embedded (FFPE) tissue section.
+generically dependent continuant;research authorization documentation for post mortem specimen donation;An authorization documentation that is the output of a research authorization for post mortem specimen donation.
+material entity;fixative product manufacturer;A manufacturer that produces fixatives used in specimen collection.
+generically dependent continuant;FFPE tissue section H&E deparaffinization protocol;A protocol describing the deparaffinization method used during the hematoxylin and eosin (H&E) stained slide preparation of a formalin-fixed paraffin-embedded (FFPE) tissue section.
+role;research authorization obtainer role for post mortem donation of specimens from a legally authorized representative;A role borne by a person who approaches a person's legal representative and informs them of key facts about potential risks and benefits, and asks them for authorization for post-mortem specimen donation for general research for the person they legally represent.
+generically dependent continuant;clinical history of unexplained lymphadenopathy;A clinical history in which there is a history of unexplained lymphadenopathy of a specific duration.
+generically dependent continuant;medical product expiration date;A data item that indicates the the date determined by appropriate stability testing of the medical product, lot, batch or item after which the product may not meet the appropriate regulatory agencies requirements.
+generically dependent continuant;oven temperature during FFPE tissue section H&E staining;A scalar measurement datum that is the output of a temperature measurement assay performed on a oven during a formalin-fixed paraffin-embedded (FFPE) tissue section hematoxylin and eosin (H&E) staining.
+process;research authorization for post mortem specimen donation;An authorization in which a legally authorized individual is asked to give permission for general research for post mortem specimen donation from a person they represent.
+generically dependent continuant;clinical history of blue or purple spots on skin or mucous membranes;A clinical history in which there is a of blue or purple spots on the skin or mucus membranes (typical of Kaposi's sarcoma).
+generically dependent continuant;quality control study design;A study design where some aspect of the experiment is quality controlled for the purposes of quality assurance.
+generically dependent continuant;buffer formula for specimen fixative;A protocol specifying the buffer formula of the fixative in which tissue specimens are processed.
+generically dependent continuant;FFPE tissue section H&E staining in oven duration;A time measurement datum that is the result of measuring the duration in an oven for the hematoxylin and eosin staining of a formalin-fixed paraffin-embedded (FFPE) tissue section.
+generically dependent continuant;activity related to a particular specimen donor was stopped because tissue was not released to a biobank;An activity related to a particular specimen donor was stopped that is because the tissue was not released to a biobank.
+generically dependent continuant;clinical history of night sweats;A clinical history in which there is a history of night sweats.
+generically dependent continuant;population based study design;A study design that is multidisciplinary done at the population level or among the population groups, generally to find the cause, incidence or spread of the disease or to see the response to the treatment, nutrition or environment.
+material entity;neutral buffered formalin;A processed material that is a mixture of formalin (formaldehyde), phosphates, and water used as a standard fixative for diagnostic preparations.
+generically dependent continuant;FFPE tissue section H&E staining and mounting SOP;A standard operating procedure for the hematoxylin and eosin (H&E) staining and slide mounting of a formalin-fixed paraffin-embedded (FFPE) tissue section.
+generically dependent continuant;activity related to a particular specimen donor was stopped because tissue was benign;An activity related to a particular specimen donor was stopped that is because the tissue was benign.
+generically dependent continuant;clinical history of unexplained weight loss;A clinical history in which there is a history of unexplained weight loss.
+generically dependent continuant;panel study design;A longitudinal study that samples a cross-section and studies it at regular intervals.
+material entity;PAXgene fixation reagent;A processed material that is a non-carcinogenic, non-cross-linking mixture of different alcohols, acid and a soluble organic compound that rapidly preserves morphology and all bio-molecules.
+generically dependent continuant;comment on preparation of FFPE tissue section;A textual entity that states information relevant to preparation of a formalin-fixed paraffin-embedded (FFPE) tissue section.
+generically dependent continuant;activity related to a particular specimen donor was stopped because tissue was too necrotic;An activity related to a particular specimen donor was stopped that is because the tissue was too necrotic.
+generically dependent continuant;clinical history of inability to have Human Immunodeficiency Virus testing due to hemodilution;A clinical history in which there is a history of the donor not being able to be tested for Human Immunodeficiency Virus (HIV) because of hemodilution.
+generically dependent continuant;cohort study design;A longitudinal study that aims to study a case-defined population who presently have a certain condition or recepient of a particular treatment that are followed over time and are compared with a similar group who do not have condition.
+generically dependent continuant;comment on deviations from water bath daily maintenance SOP;A textual entity that states information about deviations from a water bath daily maintenance standard operating procedure.
+generically dependent continuant;activity related to a particular specimen donor was stopped because not enough tissue;An activity related to a particular specimen donor was stopped that is because there was not enough tissue.
+generically dependent continuant;clinical history of growth hormone use;A clinical history in which there is a history of growth hormone use.
+generically dependent continuant;longitudinal study design;A study design that involves repeated observations of the same entity over time. In the biobank context, longitudinal studies sample a group of people in a given time period, and study them at intervals by the acquisition and analyses of data and/or samples over time.
+generically dependent continuant;percentage of gross area of necrosis of a specimen sent to biobank;A data item that is the result of determining the percentage of gross area of necrosis of a specimen sent to a biobank.
+generically dependent continuant;clinical history of cellulitis;A clinical history in which there is a history of cellulitis.
+generically dependent continuant;specimen disease state datum;A data item that indicates the pathological assessment of a specimen.
+generically dependent continuant;clinical history of ascites;A clinical history in which there is a history of the presence of ascites fluid.
+material entity;sample collection or study contact person;A human being acting as bearing the contact role for a sample collection or a study.
+role;sample collection or study contact role;A contact role borne by a member of a sample collection or study organization and realized by serving as the contact for the collection or the study.
+generically dependent continuant;FFPE tissue paraffin embedding SOP;A standard operating procedure for the paraffin embedding of a formalin-fixed paraffin-embedded (FFPE) tissue.
+generically dependent continuant;comment on FFPE tissue processing;A textual entity that states information relevant to tissue processing in a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;explanation of why tumor tissue specimen was not released to a biobank;A textual entity that describes the reason why a tumor tissue specimen was not released to a biobank.
+generically dependent continuant;FFPE paraffin temperature;A scalar measurement datum that is the output of a temperature measurement assay performed on paraffin in a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;tumor tissue was released to the biobank;An information content entity that is an indicator of whether a tumor tissue specimen was released to a biobank.
+generically dependent continuant;clinical history of fungal infections;A clinical history in which there is a history of fungal infections.
+generically dependent continuant;adherence of paraffin temperature to FFPE tissue processing SOP;An information content entity that indicates whether the paraffin temperature followed that prescribed in the FFPE tissue processing SOP.
+material entity;ink used for marking surgical margin;A processed material that is used to mark the margin of a surgical excision of a resected tissue. It is used to evaluate whether the margin is free of tumor tissue.
+generically dependent continuant;clinical history of abnormal white blood cell levels;A clinical history in which there is a history of abnormal white blood cell levels.
+role;biobank contact role;A contact role borne by a member of a biobank organization and realized by serving as the contact for one of its biobanks.
+generically dependent continuant;FFPE paraffin impregnation method;A protocol for the paraffin impregnation step of a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;pathology ink used on resected tissue specimen;An information content entity that is an indicator of whether pathology ink was used to mark the resected tissue specimen.
+generically dependent continuant;clinical history of positive blood cultures;A clinical history in which there is a history of positive blood cultures.
+process;sampling specimens for biobank;The process of collecting or selecting an aggregate of specimens into a biobank.
+generically dependent continuant;adherence to paraffin impregnation method in FFPE tissue processing SOP;An information content entity that indicates whether the paraffin impregnation method followed that prescribed in the FFPE tissue processing SOP.
+generically dependent continuant;reason for not taking a photograph of resected tissue in pathology gross room;A textual entity that describes the reason no photographs were taken of a resected tissue specimen in the pathology gross room.
+generically dependent continuant;clinical history of high unexplained fever;A clinical history in which there is a history of a high unexplained fever .
+generically dependent continuant;survey data;A data item that contains the outcome of a survey.
+generically dependent continuant;FFPE clearing agent temperature;A scalar measurement datum that is the output of a temperature measurement assay performed on a specimen in clearing agent in a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;photograph of tissue was taken in pathology gross room;An information content entity that is an indicator of whether a photograph was taken in the pathology gross room of a resected tissue specimen.
+generically dependent continuant;clinical history of open wounds;A clinical history in which there is a history of open wounds.
+material entity;microdissected specimen;A specimen that has been procured from a histology slide under direct microscopic visualization.
+generically dependent continuant;adherence of temperature of clearing agent to FFPE tissue processing SOP;An information content entity that indicates whether the temperature of clearing agent followed that prescribed in the FFPE tissue processing SOP.
+generically dependent continuant;gross diagnosis of resected tissue;A diagnosis that is based on the gross evaluation of a resected tissue specimen.
+generically dependent continuant;clinical history of pneumonia;A clinical history in which there is a history of pneumonia.
+material entity;frozen tissue slide specimen;A frozen specimen that has been sliced from a tissue block into thin layers that are placed on a glass to be examined under a microscope.
+generically dependent continuant;FFPE clearing agent duration;A time measurement datum that is the result of measuring the duration in clearing agent in the formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;comment on gross evaluation of resected tissue specimen;A textual entity that states information relevant to gross evaluation of a resected tissue specimen.
+generically dependent continuant;clinical history of sepsis;A clinical history in which there is a history of sepsis.
+material entity;frozen tissue block specimen;A frozen specimen is a tissue sample preserved in a block.
+generically dependent continuant;adherence of duration in clearing agent to FFPE tissue processing SOP;An information content entity that indicates whether the duration in clearing agent followed that prescribed in the FFPE tissue processing SOP.
+generically dependent continuant;gross appearance of disease in resected tissue;An information content entity that is an indicator of whether gross appearance of disease was observed in a resected tissue specimen.
+process;testosterone hormone replacement therapy;A hormone replacement therapy where the hormone is testosterone.
+material entity;fresh tissue specimen;A fresh specimen that is in a tissue form.
+generically dependent continuant;resected tissue specimen mass measurement datum;A mass measurement datum that is the output of an assay to measure the weight of a resected tissue specimen.
+process;progestin alone hormone replacement therapy;A hormone replacement therapy where the hormone is progestin.
+material entity;flash frozen specimen;A frozen specimen that has been instantly/quickly frozen by subjecting the specimen to cryogenic temperatures, or in direct contact with liquid nitrogen at -320.8F 0r -196C.
+quality;microtome blade age;An age that inheres in a microtome blade.
+generically dependent continuant;specimen collection quality review comment;A textual entity that states information relevant to a review to determine if requirements were met for a specimen collection from a donor.
+generically dependent continuant;clinical history of encephalitis;A clinical history in which there was active encephalitis at death.
+generically dependent continuant;start date of sampling for biobank;A data item that indicates the time when the sampling of specimens for a biobank started.
+generically dependent continuant;participant signed and dated informed consent form;An information content entity that is an indicator of whether the participant signed and dated a specified informed consent form.
+generically dependent continuant;clinical history of meningitis at death;A clinical history in which there was active meningitis at death.
+generically dependent continuant;end date of sampling for biobank;A data item that indicates the time when the sampling of specimens for a biobank ended.
+generically dependent continuant;clinical history of tuberculosis;A clinical history in which there is a history of tuberculosis .
+generically dependent continuant;date of data update;A data item that indicates the time when data about the sample collection was last updated in a database.
+generically dependent continuant;date of data entry;A data item that indicates the time when data about the sample collection was reported into a database.
+generically dependent continuant;FFPE tissue section preparation SOP;A standard operating procedure for the preparation of a formalin-fixed paraffin-embedded (FFPE) tissue section.
+generically dependent continuant;name of specimen slide preparation technician;A personal name that designates the person who performed a specimen slide preparation.
+generically dependent continuant;follow-up on donor outcome comment from tissue procurement;A comment from tissue procurement that was submitted as part of a follow-up documenting donor outcome after initial specimen collection.
+generically dependent continuant;comment on paraffin embedding of FFPE tissue;A textual entity that states information relevant to paraffin embedding of a formalin-fixed paraffin-embedded (FFPE) tissue.
+generically dependent continuant;no recurrence of tumor;An information content entity that is about the status of a tumor and indicates that there has not been a recurrence.
+generically dependent continuant;clinical history of cancer within a time period before death;A clinical history in which there is a history of cancer diagnosis within a specified time frame.
+generically dependent continuant;comment on FFPE tissue block storage;A textual entity that states information relevant to storage of a formalin-fixed paraffin-embedded (FFPE) tissue block.
+generically dependent continuant;clinical history of cancer at death;A clinical history in which there is a current diagnosis of cancer at death.
+generically dependent continuant;patient registry data;A data set of collected secondary data related to patients with a specific diagnosis, condition, or procedure and plays an important role in post marketing surveillance of pharmaceuticals.
+generically dependent continuant;adherence to FFPE tissue block storage SOP;An information content entity that indicates whether the FFPE tissue block storage SOP was followed.
+generically dependent continuant;time of specimen transfer from pathology gross room to a biobank;A data item indicating the time when a specimen was transferred from a pathology gross room to a biobank.
+generically dependent continuant;clinical history of dialysis;A clinical history in which there is a history of significant regular dialysis treatment.
+generically dependent continuant;average age;An average value of age for a certain group of individuals.
+generically dependent continuant;FFPE tissue block handling, tracking, and storage SOP;A standard operating procedure for the handling, tracking, and storing of a formalin-fixed paraffin-embedded (FFPE) tissue block.
+generically dependent continuant;normal adjacent tissue released to the biobank in addition to tumor tissue;An information content entity that is an indicator of whether normal adjacent tissue was released to the biobank in addition to the tumor tissue.
+generically dependent continuant;a clinical history of contact with someone with smallpox;A clinical history in which there is a history of contact with someone who recently had smallpox.
+generically dependent continuant;age interval information;An information content entity that is about a data set that has age information and specifies the range of age information in that data set.
+generically dependent continuant;total time FFPE freshly poured blocks were cooled;A time measurement datum that is the result of measuring the total time that freshly poured blocks were cooled in the formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;comment on deviations in specimen dimensions from a tissue procurement SOP;A textual entity that states information relevant to deviations from a tissue procurement SOP with regards to specimen dimensions.
+generically dependent continuant;clinical history of smallpox vaccination;A clinic history in which there is a history of a recent of smallpox vaccination.
+process;fixation;A material processing that uses chemical process by which biological tissues are preserved from decay. Fixation terminates any ongoing biochemical reactions and may increase stability of the treated tissues.
+generically dependent continuant;age of paraffin;A scalar measurement datum that is the output of an age measurement assay performed on paraffin.
+generically dependent continuant;dimensions of each specimen meet the criteria specified within the relevant tissue procurement SOP;An information content entity that is an indicator of whether the dimensions of each specimen meet the criteria specified within the relevant tissue procurement standard operating procedure (SOP).
+generically dependent continuant;clinical history of animal tissue xenotransplant;A clinical history in which there is a history of receiving an animal tissue or organ xenotransplant.
+generically dependent continuant;normal state specimen datum;A specimen disease state datum that specifies that the specimenin questions consists of normal tissue.
+material entity;fresh paraffin;A paraffin that has not been previously used or recycled.
+generically dependent continuant;second piece of tumor tissue was collected;An information content entity that is an indicator of whether a second piece of tumor was collected and released to a biobank.
+generically dependent continuant;clinical history of human tissue transplant;A clinical history in which there is a history of receiving a human tissue or organ transplant .
+generically dependent continuant;mixed state specimen datum;A specimen disease state datum that specifies that the specimen in question consists of partially normal tissue and a disorder.
+generically dependent continuant;FFPE paraffin processing for embedding temperature;A scalar measurement datum that is the output of a temperature measurement assay performed during the paraffin processing for embedding in a formalin-fixed paraffin-embedded (FFPE) process.
+generically dependent continuant;percentage of tumor content of specimen sent to biobank;A data item that is the result of determining the percentage of tumor content of a specimen sent to a biobank.
+generically dependent continuant;clinical history of blood transfusion in foreign country;A clinical history in which there is a history of receiving a blood transfusion while in another country.
+generically dependent continuant;diseased state specimen datum;A specimen disease state datum item that specifies that the specimen in question consists of a disorder.
+generically dependent continuant;name of sample collection responsible or principal investigator;A personal name that designates the human being responsible for a sample collection or the human being being the principal investigator in a study.
+generically dependent continuant;date of FFPE slide review by the pathologist;A data item that reports the calendar date when a formalin-fixed paraffin-embedded (FFPE) slide was reviewed by a pathologist.
+generically dependent continuant;name of reviewing pathologist at organization conducting specimen collection;A personal name that designates the person who served as the pathologist reviewing a specimen slide at an organization conducting specimen collection from organisms.
+generically dependent continuant;duration of hormone replacement therapy prior to enrollment;A time measurement datum that is the result of measuring the duration of hormone replacement therapy prior to enrollment in a study.
+generically dependent continuant;FFPE slide inconsistencies with findings of diagnostic pathology report;A textual entity that describes inconsistencies with findings of diagnostic pathology report upon review of a formalin-fixed paraffin-embedded (FFPE) slide.
+generically dependent continuant;comment on the use of hormonally based birth control;A textual entity that states additional information relevant to the use of hormonally based birth control.
+generically dependent continuant;study proper name;A proper name that designates a study.
+generically dependent continuant;FFPE slide consistent with findings of diagnostic pathology report;An information content entity that is an indicator of whether a formalin-fixed paraffin-embedded (FFPE) slide was consistent with findings of diagnostic pathology report.
+generically dependent continuant;time since last usage of hormonal birth control;A time measurement datum that is the result of measuring the time elapsed since the participant last used hormonally based birth control.
+generically dependent continuant;sample collection or study aim description;A textual entity describing a study aim or a sample collection.
+generically dependent continuant;comment from pathology review of FFPE slide;A textual entity that states information relevant to a review by a pathologist of a formalin-fixed paraffin-embedded (FFPE) slide.
+generically dependent continuant;duration of hormonal birth control use prior to enrollment;A time measurement datum that is the result of measuring the duration of use of hormonally based birth control prior to enrollment in a study.
+generically dependent continuant;email address of sample collection or study contact;An email address for the purpose of contacting a sample collection or study contact person.
+generically dependent continuant;FFPE slide findings that do not meet microscopic analysis criteria;A textual entity that describes findings upon review of a formalin-fixed paraffin-embedded (FFPE) slide that do not meet microscopic analysis criteria.
+generically dependent continuant;vaginal ring-based hormonal birth control method;A birth control method that involves the administration of hormones through a vaginal ring.
+generically dependent continuant;name of hosted study collection;The proper name that designates a hosted study collection.
+generically dependent continuant;FFPE slide meets necrosis percentage and tumor content criteria;An information content entity that is an indicator of whether a formalin-fixed paraffin-embedded (FFPE) slide meets the microscopic analysis criteria with respect to necrosis percentage and tumor content.
+generically dependent continuant;patch-based hormonal birth control method;A birth control method that involves the administration of hormones through a transdermal patch delivery system.
+object aggregate;hosted study collection;A object aggregate that consists of specimens, participates in a study and is part of a biobank.
+generically dependent continuant;confirmation of histologic type of FFPE H&E tumor slide;An information content entity that is an indicator of whether the local pathology review of a formalin-fixed paraffin-embedded (FFPE) hematoxylin and eosin (H&E)-stained tumor tissue slide confirmed the histological type.
+generically dependent continuant;intrauterine device-based hormonal birth control method;A birth control method that involves the use of an intrauterine device (IUD) to deliver hormones.
+generically dependent continuant;intra-settlement specification part of address of biobank contact;An intra-settlement specification part of address that is part of a biobank contact's postal address.
+generically dependent continuant;non-cellular component of tumor slide specimen description;A textual entity that describes the non-cellular component of a tumor slide specimen.
+generically dependent continuant;injection-based hormonal birth control method;A birth control method that involves the injection of hormones.
+generically dependent continuant;intra-settlement specification part of address;A textual entity that is part of a postal address and specifies the location inside the settlement (which is specified by another part of the address). This can be a street name and a house number, or just a number or a post-office box number.
+generically dependent continuant;percentage of non-cellular component of tumor slide specimen by surface area;A data item that is the result of determining the percentage of a tumor slide specimen that is non-cellular based on surface area.
+generically dependent continuant;pill-based hormonal birth control method;A birth control method that involves the use of an oral hormone-based contraceptive typically taken as a pill.
+generically dependent continuant;settlement part of address biobank contact;The part of a biobank contact's adress denoting a settlement.
+generically dependent continuant;comment from clinical data entry form;A textual entity that states additional information relevant to the filling out of a clinical data entry form.
+generically dependent continuant;settlement part of address;A textual entity that is part of a postal address and denotes a human settlement for the purpose of delivering mail.
+generically dependent continuant;ISO 3166-1 alpha-2 code for biobank contact person;The ISO 3166-1 alpha-2 code that is part of the biobank contact person's postal address.
+process;estrogen with progestin hormone replacement therapy;A hormone replacement therapy where the hormones are estrogen and progestin.
+material entity;fixed tissue slide specimen;A fixed tissue specimen that is placed in a slide.
+material entity;fixed tissue block specimen;A fixed tissue specimen that is in block form.
+generically dependent continuant;name of performer of gross evaluation of resected tissue specimen;A personal name that designates the person who performed the gross evaluation of a resected tissue specimen.
+generically dependent continuant;humidity in gross room when specimen arrived from OR;A measurement datum that is the output of an assay of humidity occurring in a pathology gross room and performed when a specimen arrived from the operating room (OR).
+process;estrogen alone hormone replacement therapy;A hormone replacement therapy where the hormone is estrogen.
+generically dependent continuant;temperature in gross room when specimen arrived from OR;A scalar measurement datum that is the output of a temperature measurement assay occurring in a pathology gross room and performed when a specimen arrived from the operating room (OR).
+disposition;familial adenomatous polyposis colorectal cancer risk factor;A colorectal cancer risk factor that is having familial adenomatous polyposis or having a family member with familial adenomatous polyposis.
+material entity;fixed tissue specimen;A processed specimen that is the output of a fixation process.
+generically dependent continuant;specimen transport from OR to gross room issues or deviations from SOP;A textual entity that describes issues with the transport of tissue from the operating room (OR) to the pathology gross room or deviations from the relevant standard operating procedure (SOP).
+disposition;previous colorectal polyps colorectal cancer risk factor;A colorectal cancer risk factor that is having had colorectal polyps.
+generically dependent continuant;biobank identifier with ISO 3166-1 alpha-2 code and CTEP organization identifier;A biobank identifier that has both an ISO 3166-1 alpha-2 code and a CTEP organization code.
+generically dependent continuant;specimen transport from OR to gross room was performed as per SOP;An information content entity that is an indicator of whether transport of tissue from the operating room (OR) to the pathology gross room was performed in accordance with the relevant standard operating procedure (SOP).
+disposition;Type II diabetes colorectal cancer risk factor;A colorectal cancer risk factor that is having Type II diabetes mellitus.
+generically dependent continuant;CTEP organization identifier;An identifier for an organization that is assigned to that organization by the Cancer Therapy Evaluation Program.
+generically dependent continuant;specimen transport from OR to gross room SOP;A specimen transport SOP governing the transport of tissue from the operating room (OR) to the pathology gross room.
+disposition;obesity colorectal cancer risk factor;A colorectal cancer risk factor that is having been obese.
+generically dependent continuant;biobank location ISO 3166-1 alpha-2 code;An ISO 3166-1 alpha-2 code that designates the country a biobank is located in.
+generically dependent continuant;name of person in gross room receiving OR specimen;A personal name that designates the person who received a specimen in a pathology gross room from an associated operating room (OR).
+disposition;high meat diet colorectal cancer risk factor;A colorectal cancer risk factor that is having a diet that is high in red meats and processed meats.
+generically dependent continuant;postal code for sample collection or study contact;Postal code that is part of the address of a human being serving as sample collection or study contact.
+generically dependent continuant;sarcomatoid features observed on FFPE slide;A textual entity that describes sarcomatoid features observed on a formalin-fixed paraffin-embedded (FFPE) slide.
+disposition;colorectal cancer risk factor;A risk factor that is associated with increased likelihood of colorectal cancer.
+generically dependent continuant;intra-settlement specification part of address of sample collection or study contact;An intra-settlement specification part of address that is part of a sample collection or study contact's postal address.
+generically dependent continuant;presence of sarcomatoid features on specimen slide;An information content entity that is an indicator of whether examination of a tissue specimen slide revealed the presence of sarcomatoid features.
+generically dependent continuant;comment on exposure to environmental and workplace carcinogens;A textual entity that states additional information relevant to the history of exposure to environmental and workplace carcinogens.
+material entity;street;A street is a thoroughfare in a built environment.
+generically dependent continuant;name of data entry person for local pathology review form;A personal name that designates the person who performed the data entry process for filling in a local pathology review form.
+generically dependent continuant;comment on the use of hormone replacement therapy;A textual entity that states additional information relevant to the use of hormone replacement therapy.
+material entity;department of sample collection or study contact;A department that has a contact person for a sample collection or a study as an organizational member.
+generically dependent continuant;time since last usage of hormone replacement therapy;A time measurement datum that is the result of measuring the time elapsed since the participant last used hormonally replacement therapy.
+generically dependent continuant;name of sample collection or study contact person;A personal name that designates the person acting as contact for a sample collection or a study.
+generically dependent continuant;moderate alcohol consumption history;An Alcohol Use History in which alcohol consumption was equal to or less than 2 drinks per day for men and 1 drink or less per day for women.
+generically dependent continuant;current non-drinker of alcohol;An Alcohol Use History in which there was alcohol consumption in the past but is currently a non-drinker of alcohol.
+generically dependent continuant;postal address of biobank contact person;Postal address used as a directive for deliveries to the biobank contact person.
+generically dependent continuant;lifelong non-drinker of alcohol;An Alcohol Use History in which there is no alcohol consumption.
+generically dependent continuant;email address of biobank contact person;An email address for the purpose of contacting a biobank contact person.
+generically dependent continuant;date of hormonal therapy prior to surgery;A data item that reports the calendar date when hormonal therapy was received prior to surgery.
+generically dependent continuant;name of biobank contact person;A personal name that designates the person acting as contact for a biobank.
+generically dependent continuant;date of immunotherapy prior to surgery;A data item that reports the calendar date when immunotherapy was received prior to surgery.
+material entity;biobank contact person;A human being that is member of a biobank organization and bears the organization contact role.
+generically dependent continuant;date of chemotherapy prior to surgery;A data item that reports the calendar date when chemotherapy was received prior to surgery.
+role;contact role;A role borne by a human being that is part of an group of individuals and acts as contact person for the group. This role gets realized by the bearer being a participant in a contacting process.
+generically dependent continuant;date of radiation therapy prior to surgery;A data item that reports the calendar date when radiation therapy was received prior to surgery.
+process;contacting;A planned process that involves a human being and is intended to initiate a communication with another human being.
+generically dependent continuant;time since hormonal therapy was received prior to surgery;A time measurement datum that is the result of measuring the time elapsed since hormonal therapy prior to surgery.
+material entity;biobank organization;An organization bearing legal personality that owns or adminstrates a biobank.
+generically dependent continuant;time since immunotherapy was received prior to surgery;A time measurement datum that is the result of measuring the time elapsed since immunotherapy prior to surgery.
+generically dependent continuant;ISO 3166-1 alpha-2 code for sample collection or study contact;The ISO 3166-1 alpha-2 code that is part of the sample collection or study contact's postal address.
+generically dependent continuant;time since chemotherapy was received prior to surgery;A time measurement datum that is the result of measuring the time elapsed since chemotherapy prior to surgery.
+generically dependent continuant;biobank idenfier with ISO 3166-1 alpha-2 code;A biobank identifier that has an ISO 3166-1 alpha-2 code as a part.
+generically dependent continuant;ISO 3166-1 alpha-2 code;An identifier that consists of two letters, is part of the ISO 3166-1, and designates countries, dependent territories, and special areas of geographical interest.
+one-dimensional temporal region;post adjuvant performance status score;A timing of scoring performance status that occurs after adjuvant therapy to treat cancer.
+one-dimensional temporal region;pre-adjuvant performance status score;A timing of scoring performance status that occurs prior to adjuvant therapy to treat cancer.
+generically dependent continuant;postal code of biobank contact;The postal code that is part of the postal address of the biobank contact person.
+one-dimensional temporal region;preoperative performance status score;A timing of scoring performance status that occurs prior to an operation to treat cancer.
+generically dependent continuant;telephone number of sample collection or study contact;A telephone number that is contact information about a sample collection or study contact person.
+one-dimensional temporal region;timing of scoring performance status;A one-dimensional temporal region during which a cancer patient's performance status (general well-being and activities of daily life) was assessed.
+material entity;post-office box;A post-office box is material entity that is a box on the premises of a post office station and is uniquely addressable.
+generically dependent continuant;current reformed smoker for less than 15 years history;A Smoking History in which there is no current smoking and has not been smoking for less than 15 years.
+generically dependent continuant;post-office box number;An identifier denoting a post-office box.
+generically dependent continuant;current reformed smoker for more than 15 years history;A Smoking History in which there is no current smoking and has not been smoking for more than 15 years.
+generically dependent continuant;telephone number of biobank contact;A telephone number that is contact information about a biobank contact person.
+generically dependent continuant;current smoker history;A Smoking History in which there is current smoking either on a daily or non-daily basis.
+generically dependent continuant;telephone number;A telephone number is a textual entity consisting of a sequence of digits used to call from one telephone line to another in a public switched telephone network.
+generically dependent continuant;lifelong non-smoker history;A Smoking History in which there was no or an insignificant level of smoking.
+generically dependent continuant;biobank's unique resource locator;A unique resource locator referring to the homepage of a biobank.
+generically dependent continuant;duration of greater than moderate alcohol consumption prior to enrollment;A time measurement datum that is the result of measuring the duration of greater than moderate alcohol consumption (more than 2 drinks per day for a man or more than 1 drink per day for a woman) prior to study enrollment.
+generically dependent continuant;unique resource locator;A CRID that constitutes a reference to an Internet resource.
+generically dependent continuant;greater than moderate alcohol consumption history;An Alcohol Use History in which alcohol consumption was more than 2 drinks per day for men and more than 1 drink per day for women.
+material entity;department of biobank contact;A department that has a contact person for a biobank as an organizational member.
+material entity;department;An organization with a specific responsibility that is a part of a larger organization with a specific responsibility.
+generically dependent continuant;indication of illegal prescription drug use;An information content entity in which there is an indication of whether an individual has used prescription pills that were not prescribed to them.
+generically dependent continuant;indication of a tattoo from unregulated tattoo parlor;An information content entity in which there is an indication of whether an individual had a tattoo done in a state that does not regulate tattoo parlors, in the recent past.
+process;sample handling;A planned process of preparing and submitting specimens to storage.
+generically dependent continuant;indication of time in jail;An information content entity in which there is an indication of whether an individual spent more than 72 hours in a correction/detention center in the recent past.
+material entity;specimen donor;A Homo sapiens who contributes specimen.
+generically dependent continuant;indication of performing sexual acts in exchange for money or drugs;An information content entity in which there is an indication of whether an individual ever performed sexual acts in exchange for money or drugs.
+object aggregate;hosting biobank;A biobank that collects and stores specimen during specimen collection primarily for the purposes of some study.
+generically dependent continuant;indication of having resided in Europe during a specific time frame;An information content entity in which there is an indication of whether an individual resided in Europe during a specific time frame
+material entity;normal specimen;A specimen that is normal.
+generically dependent continuant;indication of having resided in a Northern European military base;An information content entity in which there is an indication of whether an individual resided on a Northern European military base for a specified duration during a specific time frame.
+generically dependent continuant;time of surgical removal of specimen;A data item that reports the time when a specimen was collected by a surgical procedure.
+generically dependent continuant;clinical history of Amyotrophic Lateral Sclerosis;A clinical history in which there is a history of Amyotrophic Lateral Sclerosis (ALS)
+generically dependent continuant;time of specimen freezing;A data item that reports the time when a specimen was frozen.
+generically dependent continuant;clinical history of Multiple Sclerosis;A clinical history in which there is a history of Multiple Sclerosis (MS).
+generically dependent continuant;specimen measurement specification;An directive information entity that states the technical standard measurement set and values that determines if a specimen qualifies for procurement or not.
+generically dependent continuant;clinical history of dementia of unknown cause;A clinical history in which there is a history of dementia with unknown cause that is not caused by a previous Cerebrovascular Accident (CVA) infection, head trauma or brain tumor).
+generically dependent continuant;case ID;An identifier that refers to a specimen donor who is participating in specimen collection process for tissue procurement purposes and is usually assigned at the time of donor procurement.
+generically dependent continuant;clinical history of Alzheimer's disease;A clinical history in which there is a history of Alzheimer's Disease.
+generically dependent continuant;specimen ID;A proper name that identifies a specimen and is usually in form of a label included in the specimen cassette.
+process;specimen freezing;A freezing storage for the specimen.
+generically dependent continuant;biobank proper name;An identifier in natural language referring to a biobank.
+generically dependent continuant;settlement part of address of sample collection or study contact;The part of a sample collection or study contact's adress denoting a settlement.
+object aggregate;human biobank;A human biobank is a collections of samples of human body substances (e.g. Tissue, blood, DNA) which are linked to personal data and socio deographic information about the donors of the material. They have a dual nature as collections of samples and data."
+object aggregate;biobank;A biobank is a collections of samples of biological substances (e.g. tissue, blood, DNA) which are linked to data about the samples and their donors. They have a dual nature as collections of samples and data.
+generically dependent continuant;indication of having resided in Europe during specific time frame;An information content entity in which there is an indication of whether an individual lived in Europe for at least 5 years during a specific time.
+generically dependent continuant;indication of residence in state-run group home at time of death;An information content entity in which there is an indication of whether an individual was a resident of a state-run group home at time of death.
+generically dependent continuant;indication of tattoo from non-professional;An information content entity in which there is an indication of whether an individual has signs of non-professional tattoos.
+generically dependent continuant;indication of body piercing from non-professional;An information content entity in which there is an indication of whether an individual has signs of non-professional body piercing.
+generically dependent continuant;indication of having lived in the United Kingdom during specific time frame;An information content entity in which there is an indication of whether an individual spent a total of three or more months in the United Kingdom, in a specified time frame.
+generically dependent continuant;indication of intravenous drug use;An information content entity in which there is an indication of whether an individual has used illegal intravenous drugs in a specified time frame.
+process boundary;end of sampling specimens for biobank;The process boundary marking the end of a sampling of specimens into a biobank.
+process boundary;start of sampling specimens for biobank;The process boundary marking the beginning of a sampling of specimens into a biobank.
+process;sample collection data update;A planned process which involves editing of specimen collection data into a database after its initial entry.
+process;sample collection data entry;A planned process that involves the initial entering of data about sample collection into a database.
+generically dependent continuant;study subject survey data;A survey data for a specimen donor.
+generically dependent continuant;donor patient registry data;Registry data for a patient who participates as a donor in a study.
+generically dependent continuant;age interval information for sampled donors;Age interval information that is age information of specimen donors.
+generically dependent continuant;sample handling summary;A document that outlines the procedures employed to preserve and protect the material collected during specimen collection as an indication of sample quality.
+generically dependent continuant;sample medical record;A medical record of a specimen donor.
+generically dependent continuant;medical record;A document that contains information representing health-relevant qualities of a patient written in a chronological manner and that is primarily used for patient care in a clinical setting.
+generically dependent continuant;survey plan specification;A plan specification that is realized by process of gathering information (e.g. by asking questions).
+generically dependent continuant;twin study design;A study design usually in behavior genetics which aids the study of individual differences between genetically identical twins by highlighting the role of environmental and genetic causes on behavior.
+process;specimen surgical removal;A collecting specimen from organism process that involves removing the specimen from an individual through a surgical procedure.
+generically dependent continuant;time in formalin measurement;A time measurement datum that states the duration during which a specimen was submerged in formalin.
+generically dependent continuant;specimen preparation contact;A personal name that designates the person who prepared the specimen.
+process;surgical procedure;A planned process that uses operative manual and instrumental techniques on a patient to investigate and/or treat a pathological condition such as disease or injury, or to help improve bodily function or appearance.
+material entity;specimen meeting specification;All specimens that meet the set parameters to be procured on.
+generically dependent continuant;date of specimen collection;A data item that indicates the time when the collection of a specimen occurred.
+generically dependent continuant;specimen measurement;A measurement datum that is the result of measurement of the three dimensions of a specimen.
+generically dependent continuant;comment from tissue procurement;A textual entity that states additional information about the specimen or donor that is deemed relevant for the specimen collection process.
+process;temperature regulating;A planned process that aims to control or maintain the temperature of a material entity to a given or required measurement datum.
+process;survey execution;A planned process that realizes the concretization of a survey to generate an output(survey data.)

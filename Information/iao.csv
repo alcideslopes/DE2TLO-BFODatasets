@@ -1,0 +1,193 @@
+class;term;comment
+quality;information carrier;A quality of an information bearer that imparts the information content
+generically dependent continuant;model number;A model number is an information content entity specifically borne by catalogs, design specifications, advertising materials, inventory systems and similar that is about manufactured objects of the same class. The model number is an alternative term for the class. The manufactered objects may or may not also bear the model number. Model numbers can be encoded in a variety of other information objects, such as bar codes, numerals, or patterns of dots.
+generically dependent continuant;software;Software is a plan specification composed of a series of instructions that can be interpreted by or directly executed by a processing unit.
+generically dependent continuant;serial number;A serial number is an information content entity which is a unique sequence of characters borne by part of manufactured product or its packaging that is assigned to each individual in some class of products, and so can serve as a way to identify an individual product within the class. Serial numbers can be encoded in a variety of other information objects, such as bar codes, numerals, or patterns of dots.
+generically dependent continuant;lot number;A lot number is an information content entity which is an identical sequence of character borne by part of manufactured product or its packaging for each instances of a product class in a discrete batch of an item. Lot numbers are usually assigned to each separate production run of an item. Manufacturing as a lot might be due to a variety of reasons, for example, a single process during which many individuals are made from the same portion of source material. Lot numbers can be encoded in a pattern of other information objects, such as bar codes, numerals, or patterns of dots.
+generically dependent continuant;journal article;A report that is published in a journal.
+generically dependent continuant;action specification;A directive information entity that describes an action the bearer will take.
+generically dependent continuant;version number;A version number is an information content entity which is a sequence of characters borne by part of each of a class of manufactured products or its packaging and indicates its order within a set of other products having the same name.
+generically dependent continuant;datum label;A label is a symbol that is part of some other datum and is used to either partially define the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+generically dependent continuant;measurement unit label;A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure.
+generically dependent continuant;objective specification;A directive information entity that describes an intended process endpoint. When part of a plan specification the concretization is realized in a planned process in which the bearer tries to effect the world so that the process endpoint is achieved.
+generically dependent continuant;narrative object;A narrative object is an information content entity that is a set of propositions.
+generically dependent continuant;conditional specification;A directive information entity that specifies what should happen if the trigger condition is fulfilled.
+generically dependent continuant;software library;A software library is software composed of a collection of software modules and/or software methods in a form that can be statically or dynamically linked to some software application.
+generically dependent continuant;software application;A software application is software that can be directly executed by some processing unit.
+generically dependent continuant;software script;A software script is software whose instructions can be executed using a software interpreter.
+generically dependent continuant;written name;A textual entity that denotes a particular in reality.
+generically dependent continuant;software method;A software method (also called subroutine, subprogram, procedure, method, function, or routine) is software designed to execute a specific task.
+generically dependent continuant;software module;A software module is software composed of a collection of software methods.
+generically dependent continuant;measurement datum;A measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device.
+generically dependent continuant;data about an ontology part;Data about an ontology part is a data item about a part of an ontology, for example a term
+generically dependent continuant;plan specification;A directive information entity with action specifications and objective specifications as parts, and that may be concretized as a realizable entity that, if realized, is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified.
+generically dependent continuant;obsolescence reason specification;The reason for which a term has been deprecated. The allowed values come from an enumerated list of predefined terms. See the specification of these instances for more detailed definitions of each enumerated value.
+generically dependent continuant;time stamped measurement datum;
+generically dependent continuant;data set;A data item that is an aggregate of other data items of the same type that have something in common. Averages and distributions can be determined for data sets.
+generically dependent continuant;time sampled measurement data set;A data set that is an aggregate of data recording some measurement at a number of time points. The time series data set is an ordered list of pairs of time measurement data and the corresponding measurement data acquired at that time.
+generically dependent continuant;image;An image is an affine projection to a two dimensional surface, of measurements of some quality of an entity or entities repeated at regular intervals across a spatial range, where the measurements are represented as color and luminosity on the projected on surface.
+process;looking up a centrally registered identifier;A planned process in which a request to a CRID registry is made to return the information associated with a CRID symbol
+generically dependent continuant;conflict of interest section;A part of a document used to declare any competing interests regarding the authors and/or funding organization for the work described in the document.
+generically dependent continuant;conflict of interest textual entity;A textual entity that expresses a situation involving one or more of the authors, or the funding source of a document whereby the authors or funding source stand to potentially gain (typically financially) from the results reported in the document.
+generically dependent continuant;consent section;A part of a document about the consent process that was used to enroll patients in a study.
+generically dependent continuant;consent textual entity;A textual entity that documents the consenting process used to enroll patients in a study.
+generically dependent continuant;availability textual entity;A textual entity expressing the location of a resource, e.g. software, or the manner in which a resource can be obtained.
+generically dependent continuant;case report section;A part of a document about the medical history of a specific patient as it relates to the topic of the document.
+generically dependent continuant;case report textual entity;A textual entity that expresses a detailed account of a portion of the medical history for a specific patient.
+generically dependent continuant;conclusion section;A part of a document used to summarize the findings discussed in the document. The conclusion section is typically found near the end of a document.
+generically dependent continuant;histogram;A histogram is a report graph which is a statistical description of a distribution in terms of occurrence frequencies of different event classes.
+generically dependent continuant;author summary textual entity;A textual entity, distinct from the abstract, that describes the significance and broader context of the document content. The author summary is often written in a non-technical manner and is aimed at both scientists and non-scientist readers, e.g as described in the article submission guidelines for PLoS Genetics (http://journals.plos.org/plosgenetics/s/submission-guidelines).
+generically dependent continuant;availability section;A part of a document about a resource described in the document, e.g. software, that describes where and/or how that resource can be obtained.
+generically dependent continuant;rule;A rule is an executable which guides, defines, restricts actions.
+generically dependent continuant;contour plot;
+material entity;material information bearer;A material entity in which a concretization of an information content entity inheres.
+generically dependent continuant;author summary section;A part of a document, distinct from the abstract, that describes the significance and broader context of the document content. The author summary is often written in a non-technical manner and is aimed at both scientists and non-scientist readers.
+generically dependent continuant;abbreviation textual entity;A textual entity listing abbreviations and their expansions that are used in a document.
+generically dependent continuant;abbreviations section;A part of a document where abbreviations and their long-forms used within the document are listed.
+generically dependent continuant;author information section;A part of a document about the authors that provides biographical information and may discuss how the authors' professional experiences are relevant to the work described in the document.
+generically dependent continuant;author information textual entity;A textual entity expression information about an author of a document. This information may include biographical information and may discuss how the authors' professional experiences are relevant to the work described in the document.
+generically dependent continuant;dot plot;A dot plot is a report graph which is a graphical representation of data where each data point is represented by a single dot placed on coordinates corresponding to data point values in particular dimensions.
+generically dependent continuant;graph;A diagram that presents one or more tuples of information by mapping those tuples in to a two dimensional space in a non arbitrary way.
+generically dependent continuant;scalar measurement datum;A scalar measurement datum is a measurement datum that is composed of two parts, numerals and a unit label.
+generically dependent continuant;directive information entity;An information content entity whose concretizations indicate to their bearer how to realize them in a process.
+generically dependent continuant;time trigger;
+generically dependent continuant;information content entity;A generically dependent continuant that is about some thing.
+generically dependent continuant;integer numeral;A numeral that denotes an integer
+generically dependent continuant;ORCID identifier;A centrally registered identifier that is issued by ORCID (https://orcid.org/) and used to persistantly identify oneself as a human researcher or contributor.
+generically dependent continuant;measurement methods section;A methods section that describes details of data assessment methods (data measurement).
+generically dependent continuant;research settings section;A document part that describes the physical/social/cultural conditions around a research trial.
+generically dependent continuant;study bias section;A study limitations section that describes systematic error introduced into sampling or testing by selecting or encouraging one outcome or answer over others.
+generically dependent continuant;graphical abstract;An abstract that is pictorial summary of the main findings described in the document.
+generically dependent continuant;numeral;A symbol that denotes a number.
+generically dependent continuant;descriptive data section;A document part that lists and defines data variables, describes data characteristics (e.g. missing data information) and any assumptions and simplifications made.
+generically dependent continuant;additional results section;A results section that reports analyses other than main results of the study (e.g. subgroups analyses, adjusted analyses, sensitivity analyses, etc.)
+generically dependent continuant;research participants section;A document part that describes human subject(s) that participated in a study (e.g. inclusion & exclusion criteria, recruitment methods, reasons for non-participation, grouping and randomisation, methods of follow-up, etc.).
+generically dependent continuant;programming language;A language in which source code is written that is intended to be executed/run by a software interpreter. Programming languages are ways to write instructions that specify what to do, and sometimes, how to do it.
+generically dependent continuant;data item;An information content entity that is intended to be a truthful statement about something (modulo, e.g., measurement precision or other systematic errors) and is constructed/acquired by a method which reliably tends to produce (approximately) truthful statements.
+generically dependent continuant;symbol;An information content entity that is a mark(s) or character(s) used as a conventional representation of another entity.
+generically dependent continuant;conclusion textual entity;A textual entity that expresses the results of reasoning about a problem, for instance as typically found towards the end of scientific papers.
+generically dependent continuant;setting datum;A settings datum is a datum that denotes some configuration of an instrument.
+generically dependent continuant;mass measurement datum;A scalar measurement datum that is the result of measurement of mass quality
+generically dependent continuant;hypothesis textual entity;A textual entity that expresses an assertion that is intended to be tested.
+generically dependent continuant;time measurement datum;A scalar measurement datum that is the result of measuring a temporal interval
+generically dependent continuant;code set;An information content entity that is a collection of other information content entities that has been created to identify or annotate things in a specified domain, and where the intention of its creators is that the collection has a one-to-one correspondence with those things.
+generically dependent continuant;data format specification;A data format specification is the information content borne by the document published defining the specification. Example: The ISO document specifying what encompasses an XML document. The instructions in a XSD file
+process;database extract, transform, and load process;A planned process which takes as input a database and fills another database by extracting concretizations of information entities from the first, transforming them, and loading the transformed concretizations into the second.
+generically dependent continuant;source code module;A source code module is a directive information entity that specifies, using a programming language, some algorithm.
+generically dependent continuant;EL++ ontology module;
+generically dependent continuant;length measurement datum;A scalar measurement datum that is the result of measurement of length quality
+generically dependent continuant;denotator type;A denotator type indicates how a term should be interpreted from an ontological perspective.
+generically dependent continuant;three dimensional cartesian spatial coordinate datum;A cartesion spatial coordinate datum that uses three values to specify a position within a three dimensional spatial region
+generically dependent continuant;tables section;A part of a document that contains one or more tables.
+generically dependent continuant;postal code;An identifier that denotes some postal delivery route, some aggregate of postal delivery routes or a geographical region and was created for the purpose of sorting and delivering mail.
+generically dependent continuant;Postal delivery route;A plan specification that if realized, is realized by the delivery of mail to some facility or mailbox within some geographical region.
+generically dependent continuant;zone improvement plan code;A postal code that is used in the United States for the purpose of sorting and delivering mail, and that denotes some postal delivery route or some aggregate of postal delivery routes.
+generically dependent continuant;requirements section;A part of a document about a resource described in the document, e.g. software, that describes the requirements necessary to use the resource, e.g. operating systems, hardware, etc. in the case of a software resource.
+generically dependent continuant;cartesian spatial coordinate datum;A cartesian spatial coordinate datum is a representation of a point in a spatial region, in which equal changes in the magnitude of a coordinate value denote length qualities with the same magnitude
+generically dependent continuant;requirements textual entity;A textual entity that expresses the requirements necessary to use a resource, e.g. software.
+generically dependent continuant;one dimensional cartesian spatial coordinate datum;A cartesion spatial coordinate datum that uses one value to specify a position along a one dimensional spatial region
+generically dependent continuant;statistical analysis textual entity;A textual entity documenting statistical analysis tools and techniques employed.
+generically dependent continuant;two dimensional cartesian spatial coordinate datum;A cartesion spatial coordinate datum that uses two values to specify a position within a two dimensional spatial region
+generically dependent continuant;statistical analysis section;A part of the document used to describe the statistical methodologies employed in the work presented in the document.
+generically dependent continuant;report;A document assembled by an author for the purpose of providing information for the audience. A report is the output of a documenting process and has the objective to be consumed by a specific audience. Topic of the report is on something that has completed. A report is not a single figure. Examples of reports are journal article, patent application, grant progress report, case report (not patient record).
+generically dependent continuant;related work textual entity;A textual entity that discusses work from other publications and expresses their relevancy to the content of a document.
+generically dependent continuant;pre-publication history textual entity;A textual entity that expresses the pre-publication history (submission dates, reviewer comments, etc) for a document, often including a hyperlink to a web page detailing the information.
+generically dependent continuant;related work section;A part of a document about work in other publications that is relevant to the content of the document.
+generically dependent continuant;notes section;A part of a document containing typically short notes about the document itself and/or the authors. Often the notes section contains subsections related to funding, competing interests, ethical approval, etc.
+generically dependent continuant;patients section;A part of a document about the patients that participated in a study.
+generically dependent continuant;patients textual entity;A textual entity expressing information regarding the patients used in a study.
+generically dependent continuant;pre-publication history section;A part of the document about the publication history of a document. This section typically details dates of document submission to a journal and dates of any re-submissions as well as reviewer comments and responses to reviewers by the authors.
+generically dependent continuant;keywords section;A part of a document where keywords selected by the author to categorize the major theme(s) of a document are listed.
+generically dependent continuant;study limitations section;A part of a document about biases or short comings related to the study design and execution.
+generically dependent continuant;study limitations textual entity;A textual entity addressing a shortcoming or bias of a study design or execution.
+generically dependent continuant;materials section;A part of a document about the materials required to reproduce the content of the document.
+generically dependent continuant;curation status specification;The curation status of the term. The allowed values come from an enumerated list of predefined terms. See the specification of these instances for more detailed definitions of each enumerated value.
+generically dependent continuant;density plot;A density plot is a report graph which is a graphical representation of data where the tint of a particular pixel corresponds to some kind of function corresponding the the amount of data points relativelly with their distance from the the pixel.
+generically dependent continuant;genome announcement section;A document part announcing the publication of a novel draft genome sequence.
+generically dependent continuant;genome announcement textual entity;A textual entity that describes the generation and public release of a novel, draft genome sequence.
+generically dependent continuant;keyword textual entity;A textual entity listing keywords indicating the major theme(s) of a document.
+generically dependent continuant;funding source declaration section;A part of a document used to detail information regarding the source of funding used in support of the generation of the document content.
+generically dependent continuant;funding source declaration textual entity;A textual entity documenting the source of funding that supported some study.
+generically dependent continuant;future directions section;A part of a document detailing extensions of the described work that may be implemented at some future point in time.
+generically dependent continuant;future directions textual entity;A textual entity expressing ideas regarding future work relevant to work described in a document that could be done.
+generically dependent continuant;ethical approval section;A part of a document about the governance body responsible for approving the work discussed in a document on an ethical basis.
+generically dependent continuant;ethical approval textual entity;A textual entity that documents the ethical approval of some study design.
+generically dependent continuant;figures section;A part of a document that contains one or more figures.
+generically dependent continuant;software interpreter;A software interpreter is a software application that executes some specified input software.
+material entity;photographic print;A photographic print is a material entity upon which a photograph generically depends.
+generically dependent continuant;dendrogram;A dendrogram is a report graph which is a tree diagram frequently used to illustrate the arrangement of the clusters produced by a clustering algorithm.
+generically dependent continuant;scatter plot;A scatterplot is a graph which uses Cartesian coordinates to display values for two variables for a set of data. The data is displayed as a collection of points, each having the value of one variable determining the position on the horizontal axis and the value of the other variable determining the position on the vertical axis.
+generically dependent continuant;algorithm;A plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective. Algorithms are realized usually by means of implementation as computer programs for execution by automata.
+generically dependent continuant;photograph;A photograph is created by projecting an image onto a photosensitive surface such as a chemically treated plate or film, CCD receptor, etc.
+generically dependent continuant;heatmap;A heatmap is a report graph which is a graphical representation of data where the values taken by a variable(s) are shown as colors in a two-dimensional map.
+generically dependent continuant;Venn diagram;A Venn diagram is a report graph showing all hypothetically possible logical relations between a finite collection of sets.
+generically dependent continuant;centrally registered identifier registry;A code set of CRID records, each consisting of a CRID symbol and additional information which was recorded in the code set through an assigning a centrally registered identifier process.
+process;associating information with a centrally registered identifier in its registry;A planned process in which a CRID registry associates an information content entity with a CRID symbol
+generically dependent continuant;centrally registered identifier symbol;A symbol that is part of a CRID and that is sufficient to look up a record from the CRID's registry.
+generically dependent continuant;centrally registered identifier;An information content entity that consists of a CRID symbol and additional information about the CRID registry to which it belongs.
+generically dependent continuant;copyright section;A document part that describes legal restrictions on making or distributing copies of the document
+process;documenting;A planned process in which a document is created or added to by including the specified input in it.
+generically dependent continuant;line graph;A line graph is a type of graph created by connecting a series of data points together with a line.
+process;assigning a centrally registered identifier;A planned process in which a new CRID is created, associated with an entity, and stored in the CRID registry thereby registering it as being associated with some entity
+generically dependent continuant;supplementary material to a document;A part of a document that is segregated from the rest of the document due to its size
+generically dependent continuant;table of contents;A table that relates document parts to specific locations in a document (usually page numbers). This is also a document part (subsumption there should be inferred).
+generically dependent continuant;table of figures;A table that relates figures in a document to specific locations in that document (usually page numbers). This is also a document part (subsumption there should be inferred).
+generically dependent continuant;running title;A shorter version of a document title
+generically dependent continuant;institution list;A part of a document that has parts that are institution identifications associated with the authors of the document
+process;data item extraction from journal article;A planned process in which journal articles are read or processed and data items are extracted, typically for further analysis or indexing
+generically dependent continuant;author contributions section;A part of a publication that is about the specific contributions of each author
+process;publishing process;A planned process of making information, such as literature, music, and software etc., available to the public for sale or for free.
+generically dependent continuant;acknowledgements section;Part of a publication that is about the contributions of people or institutions other than the authors.
+generically dependent continuant;document in preparation for publication;A document that is in preparation for submission to be published.
+generically dependent continuant;footnote;A part of a document that is about a specific other part of the document. Usually footnotes are spatially segregated from the rest of the document.
+generically dependent continuant;references section;A part of a document that has citations as parts
+generically dependent continuant;author list;A part of a document that enumerates the authors of the document
+role;author role;A role inhering in a person or organization that is realized when the bearer participates in the work which is the basis of the document, in the writing of the document, and signs it with their name.
+generically dependent continuant;discussion section of a publication about an investigation;A part of a publication about an investigation that is about the study interpretation of the investigation
+generically dependent continuant;abstract;A summary of the entire document that is substantially smaller than the document it summarizes. It is about the document it summarizes.
+generically dependent continuant;introduction to a publication about an investigation;A part of a publication about an investigation that is about the objective specification (why the investigation is being done)
+generically dependent continuant;methods section;A part of a publication about an investigation that is about the study design of the investigation
+generically dependent continuant;results section;A part of a publication about an investigation that is about a study design execution
+generically dependent continuant;publication;A document that is the output of a publishing process.
+generically dependent continuant;publication about an investigation;A publication that is about an investigation
+generically dependent continuant;patent;A document that has been accepted by a patent authority
+generically dependent continuant;document part;An information content entity that is part of a document.
+generically dependent continuant;identifier;An information content entity that is the outcome of a dubbing process and is used to refer to one instance of entity shared by a group of people to refer to that individual entity.
+generically dependent continuant;grapheme;An information content entity that is a fundamental unit in a written language.
+generically dependent continuant;obo basic subset ontology module;A subset ontology that is designed for basic applications to continue to make certain simplifying assumptions. many of these simplifying assumptions were based on the initial version of the Gene Ontology, and have become enshrined in many popular and useful tools such as term enrichment tools. Examples of such assumptions include: traversing the ontology graph ignoring relationship types using a naive algorithm will not lead to cycles (i.e. the ontology is a DAG). every referenced term is declared in the ontology (i.e. there are no dangling clauses). An ontology is OBO Basic if and only if it has the following characteristics: DAG Unidirectional No Dangling Clauses Fully Asserted Fully Labeled No equivalence axioms Singly labeled edges No qualifier lists No disjointness axioms No owl-axioms header No imports
+generically dependent continuant;document;A collection of information content entities intended to be understood together as a whole
+generically dependent continuant;ontology module subsetted by OWL profile;
+generically dependent continuant;taxonomic bridge ontology module;
+generically dependent continuant;ontology module subsetted by expressivity;
+generically dependent continuant;generated ontology module;An ontology module that is automatically generated, for example via a SPARQL query or via template and a CSV.
+generically dependent continuant;template generated ontology module;An ontology module that is automatically generated from a template specification and fillers for slots in that template.
+generically dependent continuant;species subset ontology module;A subset ontology that is crafted to either include or exclude a taxonomic grouping of species.
+generically dependent continuant;reasoned ontology module;An ontology module that contains axioms generated by a reasoner. The generated axioms are typically direct SubClassOf axioms, but other possibilities are available.
+generically dependent continuant;exclusion subset ontology module;A subset of an ontology that is intended to be excluded for some purpose. For example, a blacklist of classes.
+generically dependent continuant;external import ontology module;An imported ontology module that is derived from an external ontology. Derivation methods include the OWLAPI SLME approach.
+generically dependent continuant;figure;An information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something.
+generically dependent continuant;email address;
+generically dependent continuant;given name;A personal name that specifies and differentiates between members of a group of individuals, especially in a family, all of whose members usually share the same family name (surname). A given name is purposefully given, usually by a child's parents at or near birth, in contrast to an inherited one such as a family name
+generically dependent continuant;diagram;A figure that expresses one or more propositions
+generically dependent continuant;family name;An identifier that is typically a part of a person's name which has been passed, according to law or custom, from one or both parents to their children.
+generically dependent continuant;caption;A textual entity that describes a figure
+generically dependent continuant;document title;A textual entity that names a document
+generically dependent continuant;table;A textual entity that contains a two-dimensional arrangement of texts repeated at regular intervals across a spatial range, such that the spatial relationships among the constituent texts expresses propositions
+generically dependent continuant;table of abbreviations;A table where the constituent texts are abbreviations and their expansions
+generically dependent continuant;textual entity;A textual entity is a part of a manifestation (FRBR sense), a generically dependent continuant whose concretizations are patterns of glyphs intended to be interpreted as words, formulas, etc.
+generically dependent continuant;citation;A textual entity intended to identify a particular publication.
+generically dependent continuant;postal address;A textual entity that is used as directive to deliver something to a person, or organization
+generically dependent continuant;author identification;A textual entity intended to identify a particular author
+process;identifier creating process;A planned process that provides a reference to an individual entity shared by a group of subscribers to refer to that individual entity.
+generically dependent continuant;institutional identification;A textual entity intended to identify a particular institution
+generically dependent continuant;single layer subset ontology module;A subset ontology that is largely comprised of a single layer or strata in an ontology class hierarchy. The purpose is typically for rolling up for visualization. The classes in the layer need not be disjoint.
+generically dependent continuant;curation subset ontology module;A subset ontology that is intended as a whitelist for curators using the ontology. Such a subset will exclude classes that curators should not use for curation.
+generically dependent continuant;personal name;An identifier referring to an individual entity that is ascribed personhood by the user of the identifier.
+generically dependent continuant;analysis subset ontology module;An ontology module that is intended for usage in analysis or discovery applications.
+generically dependent continuant;import ontology module;A subset ontology module that is intended to be imported from another ontology.
+generically dependent continuant;subset ontology module;An ontology module that is extracted from a main ontology module and includes only a subset of entities or axioms.
+generically dependent continuant;main release ontology module;An ontology module that is intended to be the primary release product and the one consumed by the majority of tools.
+generically dependent continuant;bridge ontology module;An ontology module that consists entirely of axioms that connect or bridge two distinct ontology modules. For example, the Uberon-to-ZFA bridge module.
+generically dependent continuant;base ontology module;An ontology module that comprises only of asserted axioms local to the ontology, excludes import directives, and excludes axioms or declarations from external ontologies.
+generically dependent continuant;editors ontology module;An ontology module that is intended to be directly edited, typically managed in source control, and typically not intended for direct consumption by end-users.
+generically dependent continuant;ontology module;

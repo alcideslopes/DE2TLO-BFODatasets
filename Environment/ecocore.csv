@@ -1,0 +1,181 @@
+class;term;comment
+object;parasitoid;A heterotroph with a temporary parasitic association with another organism that leads to the death of the host. After which, the parasitoid can continue without the host or can move on to a new host. These organisms are considered partly parasites and partly predators.
+quality;sequentially hermaphroditic;a reproductive quality inhering in the bearer by virtue of the bearer changing sex at some point in its life
+object;algivore;An herbivore that primarily consumes algae
+object;rhizovore;An herbivore that primarily consumes roots
+object;folivore;An herbivore that primarily consumes leaves
+object;graminivore;An herbivore that primarily consumes grasses.
+quality;migratory;An evolutionary quality inhering in a bearer by virtue of the bearer's morphological and physiological adaptation for participating in long-distance movement of conspecifics, usually on a seasonal basis
+quality;diurnal;An evolutionary quality inhering in a bearer by virtue of the bearer's morphological and physiological adaptation for being active during the hours of daylight
+function;mixotrophic function;A function which inheres in a living entity by virtue of that entity being able to realize autotrophic and heterotrophic functions.
+object;chemolithoheterotroph;A chemoheterotroph which is capable of using an abiogenic organic compound as an electron donor.
+function;autotrophic function;A function which inheres in a living entity by virtue of that entity being able to harvest energy and create biomass from non-living materials.
+object;chemoorganoheterotroph;A chemoheterotroph which is capable of using a biogenic organic compound as an electron donor.
+function;heterotrophic function;A function which inheres in a living entity by virtue of that entity being able to feed on living or once-living (dead) material.
+object;photolithoheterotroph;A photoheterotroph which is capable of using an abiogenic organic compound as an electron donor.
+function;trophic function;A function which inheres in a living entity by virtue of that entity being able to feed on a material.
+object;photoorganoheterotroph;A photoheterotroph which is capable of using a biogenic organic compound as an electron donor.
+material entity;food chain;A system in which a series of living entities consume living, dead, or non-living entities in successively higher trophic levels.
+object;chemolithoautotroph;A chemoautotroph which is capable of using an abiogenic organic compound as an electron donor.
+material entity;food cycle;A food web in which the outputs of a trophic interaction are consumed by organisms acting in a lower trophic level relative to the initial interaction.
+object;chemoorganoautotroph;A chemoautotroph which is capable of using a biogenic organic compound as an electron donor.
+material entity;food web;A system in which living entities consume living, dead, or non-living entities or are consumed by other living entities through trophic interactions.
+object;predator;A carnivore that actively captures and consumes other animals, causing their immediate or immenent death
+object;photolithoautotroph;A photoautotroph which is capable of using an abiogenic organic compound as an electron donor.
+object;carnivore;A heterotroph that consumes animals in whole or in part via ingestion through a type of "mouth". Animal matter is broken down through an internal digestion process.
+object;photoorganoautotroph;A photoautotroph which is capable of using a biogenic organic compound as an electron donor.
+process;autotrophy;A trophic process during which a living entity acquires energy and generates biomass from non-living entities.
+process;trophic process;A process during which a living entity acquires or generates food and energy from a living, dead, or non-living entity.
+object;chemoautotroph;An autotroph which is capable of obtaining energy from the bonds in a chemical compound.
+object;algae;A polyphyletic group of diverse photosynthetic organisms that excludes vascular plants and mosses and includes cyanobacteria, seaweed, and some single-celled organisms.
+quality;annual survival rate;The estimated proportion of members of a population alive in year t that is still alive in year t + 1
+quality;microendemic;The ecological state of a species being unique to a very small and specific location, such as the side of a mountain or a single lake.
+quality;cosmopolitan;The ecological state of a species being found across all or most of the world in appropriate habitats.
+quality;extant;The ecological state that is not the extinct state
+quality;introduced;The ecological state of a species living outside its native distributional range, which has arrived there by human activity, either deliberate or accidental.
+quality;indigenous;The ecological state of a species living in a region where its presence is the result of only natural process, with no human intervention
+quality;protandrous;a reproductive quality inhering in the bearer by virtue of the bearer having male reproductive organs at the beginning of its life and then switching to female reproductive organs
+quality;sac spawn;A reproductive quality inhering in a bearer by virtue of the bearer's ability to produce offspring via external fertilisation, the oocytes being released in an ovigerous sac and fertilised outside the female's body by the male.
+quality;broadcast spawn;A reproductive quality inhering in a bearer by virtue of the bearer's ability to produce offspring via external fertilisation, the oocytes being scattered into the environment and fertilised outside the female's body by the male.
+process;bactivory;A heterotrophic process during which a living entity acquires food and energy from consuming bacteria.
+process;polyphagy;A heterotrophic process during which a living entity acquires food and energy by consuming a wide range of food items.
+quality;nocturnal;An evolutionary quality inhering in a bearer by virtue of the bearer's morphological and physiological adaptation for being active during the hours of darkness
+process;oligophagy;A heterotrophic process during which a living entity acquires food and energy by consuming a few, very specific food items.
+quality;crepuscular;
+process;monophagy;A heterotrophic process during which a living entity acquires food and energy by consuming a very narrow range of food items, sometimes only one.
+object;cyanobacteria;Bacteria that are able to obtain their energy through photosynthesis
+process;social predation;A predation process during which a group of predators cooperates to kill creatures larger than those they could overpower singly.
+quality;protandrous hermaphroditism;a reproductive quality inhering in the bearer by virtue of the bearer having male reproductive organs at the beginning of its life and then switching to being a hermaphrodite
+quality;protogynous hermaphroditism;a reproductive quality inhering in the bearer by virtue of the bearer having female reproductive organs at the beginning of its life and then switching to being a hermaphrodite
+quality;polygynous;One male has an exclusive mating relationship with two or more females
+quality;polyandrous;One female has an exclusive mating relationship with two or more males
+quality;monogamous;One male and one female have an exclusive mating relationship
+quality;mating system;An organismal quality inhering in a bearer by virtue of the structure of the bearer's conspecifics in relation to sexual behavior.
+quality;sexual system;An organismal quality inhering in a bearer by virtue of the organization of the systems of organs involved with sexual reproduction amongst the bearer's conspecifics.
+process;deposit feeding;A heterotrophic process during which a living entity acquires food and energy by consuming particles of organic matter that have settled to the bottom of a body of water
+process;symbiotrophy;A heterotrophic process during which a living entity acquires food and energy through a symbiotic relationship with another organism.
+object;aerotolerant anaerobe;an anaerobe that can tolerate low levels of oxygen
+object;microaerophile;an aerobe that can grow at oxygen levels lower than what is present in the atmosphere
+process;adelphophagy;An intrauterine cannibalistic process during which an embryo obtains food and energy by consuming a less-developed sibling embryo while both are still in the uterus.
+process;intrauterine cannibalism;A cannibalistic process during which an embryo obtains food and energy by consuming a less-developed sibling while both are still in the uterus.
+process;cannibalism;A predation process during which a living entity acquires food and energy by consuming all or part of another individual of the same species as food.
+process;scavenging;A carnivorous process during which a living entity acquires food and energy by consuming dead or decaying animal matter.
+quality;extinct;The ecological state of a species or population wherein all individuals are dead.
+process;predation;A carnivorous process during which a living entity acquires food and energy by consuming other animals while they are stil alive. Predation leads directly to the imminent death of the prey organism(s).
+quality;endemic;The ecological state of a species being unique to a defined geographic location, such as an island, nation, or other defined zone or habitat type.
+process;herbivorous browsing;A herbivorous process during which a living entity acquires food and energy by consuming twigs, leaves, and bark of trees and shrubs.
+quality;promiscuity;a member of one sex mates with any member of the opposite sex
+process;seed predation;A herbivorous process during which a living entity acquires food and energy by consuming seeds of a plant.
+quality;polygynandrous;Two or more males have an exclusive mating relationship with two or more females
+process;egg predation;A predation process during which a living entity acquires food and energy by consuming eggs.
+process;insectivory;A predation process during which a living entity acquires food and energy by consuming insects.
+process;oophagy;An intrauterine cannibalistic process during which an embryo obtains food and energy by consuming less-developed sibling eggs while both are still in the uterus.
+object;decomposer;heterotroph that obtains nutrition by breaking down dead or decaying organisms or other organic matter
+object;auxotroph;an organism that is unable to synthesize a particular organic compound required for its growth
+object;surface deposit feeder;Organism that acquires nutrition by consuming particles of organic matter that have settled to the bottom of a body of water. The organism lives on or in the bottom sediment and uses a part of its body to retrieve the food particles directly from the surface.
+object;prototroph;an organism capable of producing all amino acids required for its growth
+object;subsurface deposit feeder;Organism that acquires nutrition by consuming particles of organic matter that have settled to the bottom of a body of water. The organism lives beneath the surface of the bottom sediment and retrieves food particles without coming into direct contact with the sediment surface.
+object;aerobe;an organism that can survive and grow in an oxygenated environment
+object;suspension feeder;A heterotroph that acquires nutrition by consuming particles suspended in water or air.
+object;anaerobe;an organism that does not require oxygen for growth
+object;deposit feeder;Organism that acquires nutrition by consuming particles of organic matter that have settled to the bottom of a body of water.
+object;sulfur reducer;an organism that uses inorganic sulfur compounds as a terminal electron acceptor during cellular respiration
+object;microcarnivore;a carnivore that primarily eats organisms less than 1 cm in their longest dimension
+process;saprotrophy;A decomposition process during which a living entity acquires food and energy through extracellular digestion of decaying organic matter.
+process;decomposition;A heterotrophic process during which a living entity acquires food and energy by breaking down organic substances into simpler matter.
+object;obligate aerobe;an aerobe that requires oxygen to grow
+process;detritivory;A decomposition process during which a living entity acquires food and energy by consuming detritus.
+object;obligate anaerobe;an anaerobe that cannot grow in the presence of oxygen
+object;saprotroph;A decomposer that obtains nutrition through extracellular digestion of decaying organic matter
+object;facultative anaerobe;an anaerobe that makes ATP by aerobic respiration if oxygen is present, but is capable of switching to fermentation if oxygen is absent.
+object;detritivore;A decomposer which obtains nutrition by consuming detritus.
+object;coprophage;a decomposer which obtains nutrition by consuming feces
+quality;protogynous;a reproductive quality inhering in the bearer by virtue of the bearer having female reproductive organs at the beginning of its life and then switching to male reproductive organs
+object;sanguivore;A carnivore that consumes blood, during a brief, temporary interaction.
+quality;hermaphroditic;a reproductive quality inhering in the bearer by virtue of the bearer having reproductive organs normally associated with both male and female sexes at the same time
+process;chemotrophy;A trophic process during which a living entity generates food from abiotic sources or through consumption of living or dead material, and captures energy from preformed molecules.
+quality;arboreal;An evolutionary quality inhering in a bearer by virtue of the bearer's morphological and physiological adaptation for living in trees
+process;organotrophy;A trophic process during which a living entity acquires reducing equivalents from organic chemicals for use in biosynthesis or energy conservation via aerobic or anaerobic respiration.
+quality;fossorial;An evolutionary quality inhering in a bearer by virtue of the bearer's morphological and physiological adaptation for digging and living underground
+process;photosymbiosis;A symbiotrophic process in which a photosynthetic organism provides energy and nutrients to a heterotrophic organism.
+process;chemosymbiosis;A symbiotrophic process in which a bacterium provides chemically-derived energy and nutrients, often via the oxidation of hydrogen sulfide, to a higher organism.
+object aggregate;microphytobenthos;a community of microscopic, unicellular eukaryotic algae and the prokaryotic Cyanobacteria which live on sediment surfaces
+material entity;lecithotrophic larva;anatomical entity that comprises the organism in a distinct juvenile form that is provided with a source of nutrition, usually a yolk sac, to use before metamorphosing into an adult
+object;herbivorous browser;An herbivore that primarily consumes twigs, leaves, and bark of trees and shrubs.
+process;parasitism;A symbiotic process in which one participant gains benefits while the other participant is harmed.
+object;herbivorous grazer;an herbivore that primarily consumes grasses, leaves, and other soft plant material
+object;endophyte;An organism bearing a symbiont role and capable of living within a plant for at least part of its life cycle without causing apparent disease
+object;leaf miner;a folivore that lives in and eats the leaf tissue of plants
+object;symbiotroph;heterotroph that acquires nutrition from a symbiont
+process;viral predation;A reproductive process wherein a virus uses another cell for reproduction. This process causes the mortality of the host cell via lysis.
+process;direct development;The process by which a larvae transforms into an adult wherein the larvae looks like a smaller adult form
+process;hematophagy;A carnivorous process during which a living entity acquires food and energy from consuming blood.
+quality;histrotrophic viviparity;A reproductive quality inhering in a bearer by virtue of the bearer's ability to produce zygotes that develop in the female's oviducts, but find their nutriments from other tissues, whether skin or glandular tissue
+object;mesoparasite;A parasite that enters the body of the host, but remains partially outside
+quality;ovuliparous;A reproductive quality inhering in a bearer by virtue of the bearer's ability to produce offspring via external fertilization, the oocytes being released and fertilized outside the female's body by the male
+object;external parasite;A parasite that lives on the exterior surface of its host
+quality;ovoviviparous;A reproductive quality inhering in a bearer by virtue of the bearer's ability to produce offspring that are born live after retaining the eggs inside the body of the female
+object;internal parasite;A parasite that lives entirely within the body of its host
+object;alternate prey;Prey that is consumed only if the preferred prey are unavailable.
+quality;cursorial;An evolutionary quality inhering in a bearer by virtue of the bearer's morphological and physiological adaptation for running
+occurrent;copepodid stage 6;The sixth post-naupliar life stage of a copepod
+object;osmotroph;A heterotroph that obtains dissolved organic compounds by osmosis for nutrition. An osmotroph is not directly involved in breaking down organic material to create the organic compounds it uses.
+occurrent;copepodid stage 5;The fifth post-naupliar life stage of a copepod
+object;planktivore;A suspension feeder that acquires nutrition by consuming planktonic organisms.
+occurrent;copepodid stage 4;The fourth post-naupliar life stage of a copepod
+object;filter feeder;A suspension feeder that acquires nutrition by consuming particles using a filtering apparatus.
+occurrent;copepodid stage 3;The third post-naupliar life stage of a copepod
+object;piscivore;A predator that primarily eats fish
+occurrent;copepodid stage 2;The second post-naupliar life stage of a copepod
+process;durophagy;A heterotrophic process during which a living entity acquires food and energy from consuming hard organisms or hard parts of organisms. This can include plants, such as bamboo, animals with hard shells, such as corals, or the hard parts of organisms, such as bone. Durophagy requires special adaptions, such as blunt, strong teeth and a heavy jaw.
+quality;hemotrophic viviparity;A reproductive quality inhering in a bearer by virtue of the bearer's ability to produce offspring that receive nutriments from the female during prenatal development via a specialized structure, such as a placenta
+process;ophiophagy;A predation process during which a living entity acquires food and energy by consuming snakes.
+site;species range;An environmental zone that encompasses the geographical area in which most members of a species as collection of organisms can be found.
+process;carnivory;A heterotrophic process during which a living entity acquires food and energy from consuming living metazoan (animal) material.
+quality;anecic;An organismal quality inhering in a bearer by virtue of the bearer's ability to burrow more than 20 cm deep into the soil and make permanent, vertical burrows.
+process;herbivory;A heterotrophic process during which a living entity acquires food and energy by consuming living plant- or macro-algal material.
+quality;endogeic;An organismal quality inhering in a bearer by virtue of the bearer's ability to live in the top 20 cm of soil and make temporary, horizontal burrows.
+object;nectarivore;An herbivore that primarily consumes nectar
+quality;viviparous;A reproductive quality inhering in a bearer by virtue of the bearer's ability to produce offspring that are born live, or where the development of the offspring is supported by either parent in or on any part of their body
+quality;oviparous;A reproductive quality inhering in a bearer by virtue of the bearer's ability to produce offspring that develop inside a shelled egg, with a large food supply in yolk, after internal fertilization
+object;preferred prey;Prey that is successfully captured and consumed at a higher frequency than other types of prey. The predator may be specially adapted for capturing or consuming its preferred prey or have special nutritional requirements that are only met by the preferred prey.
+quality;primary diet;Type of food comprising the majority of the diet of an organism
+object;prey;An organism that is consumed in whole or in part by a predator
+process;prenatal development;The duration of the development from fertilized, deposited or implanted egg to hatching/birth. Corresponds to egg incubation duration in oviparous animals and to gestation period duration in viviparous animals.
+process;trophic parasitism;A symbiotrophic process during which a living entity acquires food and energy from another living entity via a close association. The entity providing the food and energy is harmed by this process.
+process;commensalism;A symbiotic process in which one participant gains benefits while the other participant neither benefits nor is harmed.
+object;parasite;A symbiotroph that reduces the fitness, survival, or growth of its symbiont, often called a host
+quality;area to mass ratio;Quotient (or ratio) of surface area of an organism divided by the mass of the same organism
+object;gumnivore;An herbivore that primarily consumes plant exudates - gums, saps, and resins
+object;autotroph;An organism which is capable of incorporating abiogenic (inorganic) carbon into its biomass.
+object;xylophage;An herbivore that primarily consumes wood
+process;symbiosis;A process during which two living entities engage in a close and long-term biological interaction.
+object;granivore;An herbivore that primarily consumes seeds
+object;scavenger;A carnivore that feeds on dead and decaying animal matter
+object;heterotroph;An organism that obtains carbon for growth and development by metabolizing biogenic organic compounds derived from living or dead material.
+object;bacterivore;a heterotroph that consumes bacteria
+object;photoheterotroph;A heterotroph which is capable of transforming light into chemical energy.
+object;litter transformer;a detritivore that consumes leaf litter
+object;photoautotroph;An autotroph which is capable of transforming light into chemical energy.
+object;ambush predator;a predator that captures or traps prey by stealth or strategy, rather than by speed or strength.
+object;apex predator;a predator residing at the top of a food chain upon which no other creatures prey.
+object;quaternary consumer;A predator that eats tertiary consumers
+object;tertiary consumer;A predator that eats secondary consumers
+object;secondary consumer;A predator that eats primary consumers or herbivores
+object;insectivore;A predator that primarily eats insects
+history;life history;A history which includes all the processes during which resources are used by an organism to grow, survive, and reproduce over its lifetime.
+process;grazing;A heterotrophic process during which a living entity acquires food and energy by eating food off of a surface while slowly moving through the environment.
+process;phototrophy;A trophic process during which a living entity generates food from abiotic sources or through consumption of living or dead material, and captures energy from light.
+process;fungivory;A heterotrophic process during which a living entity acquires food and energy by consuming living fungal material.
+object;palynivore;An herbivore that primarily consumes pollen
+object;fungivore;A heterotroph which consumes fungi.
+object;frugivore;An herbivore that primarily consumes fruits or fruit-like vegetables
+process;lithotrophy;A trophic process during which a living entity acquires reducing equivalents from inorganic chemicals for use in biosynthesis or energy conservation via aerobic or anaerobic respiration.
+quality;epigeic;An organismal quality inhering in a bearer by virtue of the bearer's ability to live on the surface of the soil and in leaf litter
+process;nectivory;A herbivorous process during which a living entity acquires food and energy by consuming nectar.
+object;extremophile;An organism that thrives in physically or geochemically extreme conditions that are detrimental to most life on Earth
+object;mixotroph;An organism which is capable of heterotrophic and autotrophic trophic processes.
+process;heterotrophy;A trophic process during which a living entity acquires food and energy by consuming another organism or organism part, living or dead.
+process;herbivorous grazing;A herbivorous process during which a living entity acquires food and energy by consuming grasses, leaves, and other soft plant material.
+object;chemoheterotroph;A heterotroph which is capable of obtaining energy from the bonds in a chemical compound.
+object;herbivore;A heterotroph which consumes plants or macroalgae via ingestion through a type of "mouth". Plant or algal matter is broken down through an internal digestion process.

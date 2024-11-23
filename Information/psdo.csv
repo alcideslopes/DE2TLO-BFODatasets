@@ -1,0 +1,82 @@
+class;term;comment
+role;negative performance trend set;A performance trend set where the mark attributes are about worsening.
+role;performance trend set;A represented set where the mark attributes are about a change in performance.
+role;time set;A represented set where the attributes of the mark are about time.
+generically dependent continuant;loss content;An information content entity that is about a change from a positive performance gap to a negative performance gap
+role;performance measure set;A represented set where the attributes of the mark are about the methods of measuring behavior.
+two-dimensional continuant fiat boundary;mark collection;A object aggregate of marks.
+generically dependent continuant;achievement content;An information content entity that is about a change from a negative performance gap to a positive performance gap
+generically dependent continuant;time interval content;An information content entity that is about a unit of time.
+generically dependent continuant;performance summary textual entity;A textual entity about performance levels, measures, ascribees, and time.
+role;positive performance gap set;A performance gap set where the mark attributes are about a recipient performance level that is better than a comparator performance level.
+role;negative performance gap set;A performance gap set where the mark attributes are about a comparator performance level that is better than the recipient performance level.
+role;performance gap set;A represented set where the mark attributes are about a discrepancy between performance levels.
+role;performance set;A represented set where the attributes of the mark are about measurements, decisions, aggregates, or calculations related to measured behavior.
+generically dependent continuant;performance summary section;A document part designed for the purpose of providing information about performance levels, measures, ascribees, and time to a recipient of an intervention.
+role;performance level element;A represented element that is born by a member of a performance set.
+role;time element;A represented element that is born by a member of a time set.
+role;performance measure element;A represented element that is born by a member of a performance measure set.
+role;represented element;A role born by a member of a represented set.
+two-dimensional continuant fiat boundary;curvature;An attribute of the degree from which a curve deviates from a straight line.
+role;positive performance trend set;A performance trend set where the mark attributes are about improvement.
+role;performer set;An ascribee set where the mark attributes are about a living system.
+two-dimensional continuant fiat boundary;recipient element;A focal element that conveys information about identity to the recipient of the performance summary report.
+role;performer element;An ascribee element where the mark attributes are about a living system.
+two-dimensional continuant fiat boundary;focal element;A role inhering in a mark that conveys specific information to the recipient of a performance summary report realized through the acts of perception.
+role;ascribee element;A represented element that is born by a member of an acribee set.
+two-dimensional continuant fiat boundary;relational information display component;An information content entity that is a proper part of a relational information display and is concretized by a mark.
+generically dependent continuant;peer 90th percentile benchmark;A 90th percentile benchmark that is about a peer group.
+two-dimensional continuant fiat boundary;performance summary display;A relational information display whose display components bear some combination of sets (roles): ascribee set, performance measure set, performance set, or time set.
+role;standard comparator element;A comparative element that conveys information about a predetermined performance level.
+generically dependent continuant;90th percentile benchmark;A top performer benchmark that is ascribed the performance level of the 90th percentile for a population.
+generically dependent continuant;performance summary display template;An information content entity that is the collection of specification and metadata associated with a generalized potential information display.
+role;goal comparator element;A comparative element that conveys information about a desired future performance level.
+generically dependent continuant;top performer benchmark;Social comparator content that is about a percentile for a performance level that is better than average.
+two-dimensional continuant fiat boundary;relational information display;An information content entity that displays relations between sets in a concretized collection of display components.
+role;social comparator element;A comparative element that conveys information about an entity that has an attributed performance level.
+two-dimensional continuant fiat boundary;position on unaligned scale;A position where the distance between marks is not on the same scale.
+role;loss set;A represented set where the mark attributes are about a change from a positive performance gap to a negative performance gap.
+two-dimensional continuant fiat boundary;position on common scale;A position where the distance between marks is on the same scale.
+role;achievement set;A represented set where the mark attributes are about a change from a negative performance gap to a positive performance gap.
+generically dependent continuant;peer 75th percentile benchmark;A 75th percentile benchmark that is about a peer group.
+role;represented set;A role inhering in the set of attributes of a mark in a relational information display that share a scale type and that convey information about another entity.
+generically dependent continuant;average comparator;Social comparator content that is about a mean performance level for a population.
+generically dependent continuant;peer average comparator;An average comparator that is about a peer group.
+generically dependent continuant;75th percentile benchmark;A top performer benchmark that is ascribed the performance level of the 75th percentile for a population.
+generically dependent continuant;goal comparator content;Comparator content that has been ascribed a desired future performance level.
+generically dependent continuant;comparator content;Ascribee content that is used to identify a discrepancy with the performance level of the recipient of an intervention.
+two-dimensional continuant fiat boundary;color lightness;An attribute that is the amount of black content mixed with a pure color, or mixture of pure colors.
+two-dimensional continuant fiat boundary;color saturation;An attribute that is the amount of white content mixed with a pure color, or mixture of pure colors.
+two-dimensional continuant fiat boundary;shape;An attribute of external form or contour.
+generically dependent continuant;performance summary document;A document that is an aggregate of information content entities about performance levels, performance measures, time intervals, and ascribees.
+generically dependent continuant;recipient content;Ascribee content that is about a living system to whom an intervention is directed.
+generically dependent continuant;standard comparator content;Comparator content that has been ascribed a predetermined performance level.
+generically dependent continuant;social comparator content;Comparator content about living systems that are ascribed a performance level.
+two-dimensional continuant fiat boundary;area;An attribute that is the quantity that expresses the extent of a two-dimensional figure or shape in a plane.
+role;comparative element;A role inhering in a mark that is disjoint with a focal element and that has the same scale type as the focal element.
+two-dimensional continuant fiat boundary;angle;An attribute of the magnitude of the degree of divergence of two things from one another.
+two-dimensional continuant fiat boundary;position;An attribute of relation in which a thing stands with respect to another or others.
+two-dimensional continuant fiat boundary;color hue;An attribute by virtue of which some thing appears to have a 'pure' color.
+generically dependent continuant;positive performance trend content;A performance trend that is improving
+role;ascribee set;A represented set where the mark attributes are about entities that have attributed performance data.
+two-dimensional continuant fiat boundary;texture;An attribute of constitution, structure, or substance of anything with regard to its constituents or formative element.
+two-dimensional continuant fiat boundary;attribute;An information carrier that can be measured, observed, or logged.
+two-dimensional continuant fiat boundary;mark length;The quality of linear magnitude of any thing as measured from end to end
+two-dimensional continuant fiat boundary;scale type;A quality that is the abstract measurement property of a concretized display component.
+two-dimensional continuant fiat boundary;mark;A material information bearer that is a basic visual element of a relational information display.
+generically dependent continuant;ascribee content;An information content entity that is about an entity that is ascribed a performance value.
+generically dependent continuant;performance content;An information content entity that is an aggregate of performance level content entities.
+two-dimensional continuant fiat boundary;ordinal scale;A scale type with two formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale.
+generically dependent continuant;performance measure content;An information content entity about a method of measuring performance.
+two-dimensional continuant fiat boundary;ratio scale;A scale type with four formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale, that (3) the magnitude of an instance represented by a unit on the scale is the same regardless of where on the scale the unit falls and (4) an absolute zero value can indicate that nothing at all of the property being represented exists.
+generically dependent continuant;performance trend content;An information content entity that is about a change in performance
+two-dimensional continuant fiat boundary;interval scale;A scale type with three formal properties that (1) the instances can be distinguished from each other and (2) that one instance on a scale can be judged greater than, less than, or equal to another instance on the same scale and that (3) the magnitude of an instance represented by a unit on the scale is the same regardless of where on the scale the unit falls.
+generically dependent continuant;negative performance trend content;A performance trend that is worsening
+relational quality;performance gap quality;A relational quality of the perceived distance between marks.
+generically dependent continuant;performance gap content;An information content entity that is about a discrepancy between performance levels.
+relational quality;performance trend quality;A relational quality of the perceived general movement of a mark, or set of marks that is integrated over a time set.
+generically dependent continuant;negative performance gap content;A performance gap content entity having a comparator performance level that is better than its recipient performance level.
+generically dependent continuant;positive performance gap content;A performance gap content entity having a recipient performance level that is better than its comparator performance level
+two-dimensional continuant fiat boundary;nominal scale;A scale type with one formal property that (1) the instances can be distinguished from each other.
+generically dependent continuant;performance level content;An information content entity that is about the output value of a method of measuring performance.
+generically dependent continuant;performance report;A report designed for the purpose of providing performance summary information to a recipient of an intervention.

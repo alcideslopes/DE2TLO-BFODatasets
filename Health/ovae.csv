@@ -1,0 +1,628 @@
+class;term;comment
+process;Vivotif-associated diarrhea AE;A Vivotif vaccine adverse event that is associated with an administration of Vivotif and displays an diarrhea AE
+process;ProQuad-associated local swelling AE;A ProQuad vaccine adverse event that is associated with an administration of ProQuad and displays an local swelling AE
+process;ProQuad-associated injection-site erythema AE;A ProQuad vaccine adverse event that is associated with an administration of ProQuad and displays an injection-site erythema AE
+process;Rotarix-associated cough;A Rotarix vaccine adverse event that is associated with an administration of Rotarix and displays an cough
+process;ProQuad-associated injection-site muscular soreness AE;A ProQuad vaccine adverse event that is associated with an administration of ProQuad and displays an injection-site muscular soreness AE
+process;Rotarix-associated irritability AE;A Rotarix vaccine adverse event that is associated with an administration of Rotarix and displays an irritability AE
+process;Vivotif-associated fever AE;A Vivotif vaccine adverse event that is associated with an administration of Vivotif and displays an fever AE
+process;ProQuad-associated injection-site tenderness AE;A ProQuad vaccine adverse event that is associated with an administration of ProQuad and displays an injection-site tenderness AE
+process;RabAvert-associated rash AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an rash AE
+process;Vivotif-associated headache AE;A Vivotif vaccine adverse event that is associated with an administration of Vivotif and displays an headache AE
+process;ProQuad-associated injection-site pain AE;A ProQuad vaccine adverse event that is associated with an administration of ProQuad and displays an injection-site pain AE
+process;RabAvert-associated nausea AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an nausea AE
+process;Vivotif-associated nausea AE;A Vivotif vaccine adverse event that is associated with an administration of Vivotif and displays an nausea AE
+process;JE-Vax-associated abdominal pain AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an abdominal pain AE
+process;RabAvert-associated lymphadenopathy AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an lymphadenopathy AE
+process;Vivotif-associated abdominal pain AE;A Vivotif vaccine adverse event that is associated with an administration of Vivotif and displays an abdominal pain AE
+process;Adacel vaccine adverse event;
+process;JE-Vax-associated vomiting AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an vomiting AE
+process;RabAvert-associated dizziness AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an dizziness AE
+process;ACAM2000 vaccine adverse event;A smallpox vaccine adverse event that is associated with the administration of ACAM2000.
+process;JE-Vax-associated nausea AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an nausea AE
+process;RabAvert-associated arthralgia AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an arthralgia AE
+process;ActHIB vaccine adverse event;
+process;JE-Vax-associated myalgia AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an myalgia AE
+process;RabAvert-associated malaise AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an malaise AE
+process;FluMist vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of FluMist.
+process;JE-Vax-associated dizziness AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an dizziness AE
+process;RabAvert-associated myalgia AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an myalgia AE
+process;Afluria vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Afluria.
+process;RabAvert-associated headache AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an headache AE
+process;RabAvert-associated fever AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an fever AE
+process;RabAvert-associated fatigue AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an fatigue AE
+process;RabAvert-associated asthenia AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an asthenia AE
+process;Boostrix-associated gastrointestinal disorder AE;A Boostrix vaccine adverse event that is associated with an administration of Boostrix and displays an gastrointestinal disorder AE
+process;RabAvert-associated injection-site pain AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an injection-site pain AE
+process;Boostrix-associated fatigue AE;A Boostrix vaccine adverse event that is associated with an administration of Boostrix and displays an fatigue AE
+process;RabAvert-associated injection-site induration AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an injection-site induration AE
+process;Boostrix-associated headache AE;A Boostrix vaccine adverse event that is associated with an administration of Boostrix and displays an headache AE
+process;RabAvert-associated injection-site erythema AE;A RabAvert vaccine adverse event that is associated with an administration of RabAvert and displays an injection-site erythema AE
+process;Boostrix-associated injection-site edema AE;A Boostrix vaccine adverse event that is associated with an administration of Boostrix and displays an injection-site edema AE
+process;Imovax Rabies-associated dizziness AE;A Imovax Rabies vaccine adverse event that is associated with an administration of Imovax Rabies and displays an dizziness AE
+process;Boostrix-associated local swelling AE;A Boostrix vaccine adverse event that is associated with an administration of Boostrix and displays an local swelling AE
+process;Imovax Rabies-associated muscle ache AE;A Imovax Rabies vaccine adverse event that is associated with an administration of Imovax Rabies and displays an muscle ache AE
+process;Boostrix-associated injection-site redness AE;A Boostrix vaccine adverse event that is associated with an administration of Boostrix and displays an injection-site redness AE
+process;Imovax Rabies-associated abdominal pain AE;A Imovax Rabies vaccine adverse event that is associated with an administration of Imovax Rabies and displays an abdominal pain AE
+process;Boostrix-associated injection-site pain AE;A Boostrix vaccine adverse event that is associated with an administration of Boostrix and displays an injection-site pain AE
+process;Imovax Rabies-associated nausea AE;A Imovax Rabies vaccine adverse event that is associated with an administration of Imovax Rabies and displays an nausea AE
+process;Adacel-associated muscular weakness AE;A Adacel vaccine adverse event that is associated with an administration of Adacel and displays an muscular weakness AE
+process;Adacel-associated headache AE;A Adacel vaccine adverse event that is associated with an administration of Adacel and displays an headache AE
+process;MenHibrix-associated decreased appetite AE;A MenHibrix vaccine adverse event that is associated with an administration of MenHibrix and displays an decreased appetite AE
+process;ACAM2000-associated malaise AE;A ACAM2000 vaccine adverse event that is associated with an administration of ACAM2000 and displays an malaise AE
+process;YF-Vax-associated injection-site edema AE;A YF-Vax vaccine adverse event that is associated with an administration of YF-Vax and displays an injection-site edema AE
+process;ACAM2000-associated lymphadenitis AE;A ACAM2000 vaccine adverse event that is associated with an administration of ACAM2000 and displays an lymphadenitis AE
+process;YF-Vax-associated low grade fever AE;A YF-Vax vaccine adverse event that is associated with an administration of YF-Vax and displays an low grade fever AE
+process;YF-Vax-associated myalgia AE;A YF-Vax vaccine adverse event that is associated with an administration of YF-Vax and displays an myalgia AE
+process;Comvax-associated injection-site induration AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an injection-site induration AE
+process;Comvax-associated local swelling AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an local swelling AE
+process;MenHibrix-associated drowsiness;A MenHibrix vaccine adverse event that is associated with an administration of MenHibrix and displays an drowsiness
+process;Comvax-associated injection-site soreness AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an injection-site soreness AE
+process;MenHibrix-associated irritability AE;A MenHibrix vaccine adverse event that is associated with an administration of MenHibrix and displays an irritability AE
+process;Meruvax II-associated nausea AE;A Meruvax II vaccine adverse event that is associated with an administration of Meruvax II and displays an nausea AE
+process;Comvax-associated injection-site tenderness AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an injection-site tenderness AE
+process;MenHibrix-associated local swelling AE;A MenHibrix vaccine adverse event that is associated with an administration of MenHibrix and displays an local swelling AE
+process;Meruvax II-associated vomiting AE;A Meruvax II vaccine adverse event that is associated with an administration of Meruvax II and displays an vomiting AE
+process;YF-Vax-associated headache AE;A YF-Vax vaccine adverse event that is associated with an administration of YF-Vax and displays an headache AE
+process;Comvax-associated injection-site pain AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an injection-site pain AE
+process;MenHibrix-associated injection-site redness AE;A MenHibrix vaccine adverse event that is associated with an administration of MenHibrix and displays an injection-site redness AE
+process;Meruvax II-associated diarrhea AE;A Meruvax II vaccine adverse event that is associated with an administration of Meruvax II and displays an diarrhea AE
+process;PedvaxHIB-associated upper respiratory tract infection AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an upper respiratory tract infection AE
+process;MenHibrix-associated injection-site pain AE;A MenHibrix vaccine adverse event that is associated with an administration of MenHibrix and displays an injection-site pain AE
+process;Meruvax II-associated vasculitis AE;A Meruvax II vaccine adverse event that is associated with an administration of Meruvax II and displays an vasculitis AE
+process;PedvaxHIB-associated rash AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an rash AE
+process;Menveo-associated nausea AE;A Menveo vaccine adverse event that is associated with an administration of Menveo and displays an nausea AE
+process;Meruvax II-associated irritability AE;A Meruvax II vaccine adverse event that is associated with an administration of Meruvax II and displays an irritability AE
+process;Varivax-associated injection-site adverse event;A Varivax vaccine adverse event that is associated with an administration of Varivax and displays an injection-site adverse event
+process;PedvaxHIB-associated otitis media AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an otitis media AE
+process;Menveo-associated malaise AE;A Menveo vaccine adverse event that is associated with an administration of Menveo and displays an malaise AE
+process;Meruvax II-associated malaise AE;A Meruvax II vaccine adverse event that is associated with an administration of Meruvax II and displays an malaise AE
+process;Varivax-associated fever AE;A Varivax vaccine adverse event that is associated with an administration of Varivax and displays an fever AE
+process;PedvaxHIB-associated pain AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an pain AE
+process;Menveo-associated myalgia AE;A Menveo vaccine adverse event that is associated with an administration of Menveo and displays an myalgia AE
+process;Meruvax II-associated dizziness AE;A Meruvax II vaccine adverse event that is associated with an administration of Meruvax II and displays an dizziness AE
+process;Typhim Vi-associated vomiting AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an vomiting AE
+process;PedvaxHIB-associated crying abnormal AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an crying abnormal AE
+process;Menveo-associated headache AE;A Menveo vaccine adverse event that is associated with an administration of Menveo and displays an headache AE
+process;Meruvax II-associated headache AE;A Meruvax II vaccine adverse event that is associated with an administration of Meruvax II and displays an headache AE
+process;Typhim Vi-associated fever AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an fever AE
+process;Menveo-associated injection-site pain AE;A Menveo vaccine adverse event that is associated with an administration of Menveo and displays an injection-site pain AE
+process;Meruvax II-associated syncope AE;A Meruvax II vaccine adverse event that is associated with an administration of Meruvax II and displays an syncope AE
+process;Typhim Vi-associated irritability AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an irritability AE
+process;Meruvax II-associated fever AE;A Meruvax II vaccine adverse event that is associated with an administration of Meruvax II and displays an fever AE
+process;Typhim Vi-associated diarrhea AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an diarrhea AE
+process;Typhim Vi-associated nausea AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an nausea AE
+process;RotaTeq-associated bronchospasm AE;A RotaTeq vaccine adverse event that is associated with an administration of RotaTeq and displays an bronchospasm AE
+process;Menveo-associated sleepiness AE;A Menveo vaccine adverse event that is associated with an administration of Menveo and displays an sleepiness AE
+process;RotaTeq-associated nasopharyngitis AE;A RotaTeq vaccine adverse event that is associated with an administration of RotaTeq and displays an nasopharyngitis AE
+process;Typhim Vi-associated myalgia AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an myalgia AE
+process;Menveo-associated injection-site induration AE;A Menveo vaccine adverse event that is associated with an administration of Menveo and displays an injection-site induration AE
+process;RotaTeq-associated otitis media AE;A RotaTeq vaccine adverse event that is associated with an administration of RotaTeq and displays an otitis media AE
+process;Typhim Vi-associated headache AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an headache AE
+process;Menveo-associated irritability AE;A Menveo vaccine adverse event that is associated with an administration of Menveo and displays an irritability AE
+process;RotaTeq-associated irritability AE;A RotaTeq vaccine adverse event that is associated with an administration of RotaTeq and displays an irritability AE
+process;Typhim Vi-associated malaise AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an malaise AE
+process;Menveo-associated injection-site erythema AE;A Menveo vaccine adverse event that is associated with an administration of Menveo and displays an injection-site erythema AE
+process;RotaTeq-associated vomiting AE;A RotaTeq vaccine adverse event that is associated with an administration of RotaTeq and displays an vomiting AE
+process;Typhim Vi-associated injection-site erythema AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an injection-site erythema AE
+process;RotaTeq-associated diarrhea AE;A RotaTeq vaccine adverse event that is associated with an administration of RotaTeq and displays an diarrhea AE
+process;Typhim Vi-associated injection-site induration AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an injection-site induration AE
+process;ProQuad-associated rash AE;A ProQuad vaccine adverse event that is associated with an administration of ProQuad and displays an rash AE
+process;Rotarix-associated vomiting AE;A Rotarix vaccine adverse event that is associated with an administration of Rotarix and displays an vomiting AE
+process;Typhim Vi-associated injection-site pain AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an injection-site pain AE
+process;ProQuad-associated irritability AE;A ProQuad vaccine adverse event that is associated with an administration of ProQuad and displays an irritability AE
+process;Rotarix-associated decreased appetite AE;A Rotarix vaccine adverse event that is associated with an administration of Rotarix and displays an decreased appetite AE
+process;Typhim Vi-associated injection-site tenderness AE;A Typhim Vi vaccine adverse event that is associated with an administration of Typhim Vi and displays an injection-site tenderness AE
+process;ProQuad-associated fever AE;A ProQuad vaccine adverse event that is associated with an administration of ProQuad and displays an fever AE
+process;Rotarix-associated fever AE;A Rotarix vaccine adverse event that is associated with an administration of Rotarix and displays an fever AE
+process;Vivotif-associated rash AE;A Vivotif vaccine adverse event that is associated with an administration of Vivotif and displays an rash AE
+process;Rotarix-associated runny nose;A Rotarix vaccine adverse event that is associated with an administration of Rotarix and displays an runny nose
+process;Vivotif-associated vomiting AE;A Vivotif vaccine adverse event that is associated with an administration of Vivotif and displays an vomiting AE
+process;Adenovirus Type 4 and Type 7 Vaccine, Live, Oral-associated cough;A adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral that is associated with an administration of Adenovirus Type 4 and Type 7 Vaccine, Live, Oral and displays an cough
+process;Havrix-associated drowsiness;A Havrix vaccine adverse event that is associated with an administration of Havrix and displays an drowsiness
+process;Menactra-associated arthralgia AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an arthralgia AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated nausea AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an nausea AE
+process;Havrix-associated irritability AE;A Havrix vaccine adverse event that is associated with an administration of Havrix and displays an irritability AE
+process;Menactra-associated malaise AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an malaise AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated rash AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an rash AE
+process;Menactra-associated fatigue AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an fatigue AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated arthralgia AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an arthralgia AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated musculoskeletal pain AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an musculoskeletal pain AE
+process;Adenovirus Type 4 and Type 7 Vaccine, Live, Oral-associated pharyngolaryngeal pain AE;A adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral that is associated with an administration of Adenovirus Type 4 and Type 7 Vaccine, Live, Oral and displays an pharyngolaryngeal pain AE
+process;Adenovirus Type 4 and Type 7 Vaccine, Live, Oral-associated nasal congestion AE;A adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral that is associated with an administration of Adenovirus Type 4 and Type 7 Vaccine, Live, Oral and displays an nasal congestion AE
+process;Havrix-associated injection-site redness AE;A Havrix vaccine adverse event that is associated with an administration of Havrix and displays an injection-site redness AE
+process;Adenovirus Type 4 and Type 7 Vaccine, Live, Oral-associated headache AE;A adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral that is associated with an administration of Adenovirus Type 4 and Type 7 Vaccine, Live, Oral and displays an headache AE
+process;Havrix-associated injection-site pain AE;A Havrix vaccine adverse event that is associated with an administration of Havrix and displays an injection-site pain AE
+process;Menactra-associated headache AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an headache AE
+process;Adenovirus Type 4 and Type 7 Vaccine, Live, Oral-associated upper respiratory tract infection AE;A adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral that is associated with an administration of Adenovirus Type 4 and Type 7 Vaccine, Live, Oral and displays an upper respiratory tract infection AE
+process;Havrix-associated headache AE;A Havrix vaccine adverse event that is associated with an administration of Havrix and displays an headache AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated musculoskeletal stiffness AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an musculoskeletal stiffness AE
+process;Influenza Virus Vaccine H5N1-associated myalgia AE;A Influenza Virus Vaccine H5N1 vaccine adverse event that is associated with an administration of Influenza Virus Vaccine H5N1 and displays an myalgia AE
+process;Havrix-associated headache AE;A Havrix vaccine adverse event that is associated with an administration of Havrix and displays an headache AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated myalgia AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an myalgia AE
+process;Influenza Virus Vaccine H5N1-associated malaise AE;A Influenza Virus Vaccine H5N1 vaccine adverse event that is associated with an administration of Influenza Virus Vaccine H5N1 and displays an malaise AE
+process;Havrix-associated injection-site muscular soreness AE;A Havrix vaccine adverse event that is associated with an administration of Havrix and displays an injection-site muscular soreness AE
+process;Menactra-associated diarrhea AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an diarrhea AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated convulsion AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an convulsion AE
+process;Influenza Virus Vaccine H5N1-associated headache AE;A Influenza Virus Vaccine H5N1 vaccine adverse event that is associated with an administration of Influenza Virus Vaccine H5N1 and displays an headache AE
+process;Menactra-associated anorexia AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an anorexia AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated headache AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an headache AE
+process;Influenza Virus Vaccine H5N1-associated injection-site pain AE;A Influenza Virus Vaccine H5N1 vaccine adverse event that is associated with an administration of Influenza Virus Vaccine H5N1 and displays an injection-site pain AE
+process;Comvax-associated otitis media AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an otitis media AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated dizziness AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an dizziness AE
+process;Fluarix Quadrivalent-associated gastrointestinal disorder AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an gastrointestinal disorder AE
+process;Comvax-associated rash AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an rash AE
+process;Menactra-associated injection-site induration AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an injection-site induration AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated malaise AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an malaise AE
+process;Fluarix Quadrivalent-associated arthralgia AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an arthralgia AE
+process;Comvax-associated rhinitis AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an rhinitis AE
+process;Menactra-associated injection-site redness AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an injection-site redness AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated pyrexia AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an pyrexia AE
+process;Comvax-associated cough;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an cough
+process;Menactra-associated injection-site pain AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an injection-site pain AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated oedema, swelling dropsy;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an oedema, swelling dropsy
+process;Menactra-associated fever AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an fever AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated local swelling AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an local swelling AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated injection-site pruritus AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an injection-site pruritus AE
+process;Comvax-associated rhinorrhea AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an rhinorrhea AE
+process;Comvax-associated upper respiratory tract infection AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an upper respiratory tract infection AE
+process;Menactra-associated vomiting AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an vomiting AE
+process;Comvax-associated crying abnormal AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an crying abnormal AE
+process;Menactra-associated decreased appetite AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an decreased appetite AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated injection-site induration AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an injection-site induration AE
+process;Comvax-associated somnolence AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an somnolence AE
+process;Menactra-associated drowsiness;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an drowsiness
+process;Tetanus and Diptheria Toxoids Absorbed-associated injection-site erythema AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an injection-site erythema AE
+process;Comvax-associated irritability AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an irritability AE
+process;Menactra-associated crying abnormal AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an crying abnormal AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated injection-site tenderness AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an injection-site tenderness AE
+process;Comvax-associated vomiting AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an vomiting AE
+process;Menactra-associated irritability AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an irritability AE
+process;Tetanus and Diptheria Toxoids Absorbed-associated injection-site pain AE;A adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological that is associated with an administration of Tetanus and Diptheria Toxoids Absorbed and displays an injection-site pain AE
+process;Zostavax-associated injection-site reaction;A Zostavax vaccine adverse event that is associated with an administration of Zostavax and displays an injection-site reaction
+process;Comvax-associated diarrhea AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an diarrhea AE
+process;Menactra-associated local swelling AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an local swelling AE
+process;ACAM2000-associated headache AE;A ACAM2000 vaccine adverse event that is associated with an administration of ACAM2000 and displays an headache AE
+process;Zostavax-associated headache AE;A Zostavax vaccine adverse event that is associated with an administration of Zostavax and displays an headache AE
+process;Comvax-associated anorexia AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an anorexia AE
+process;Menactra-associated injection-site erythema AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an injection-site erythema AE
+process;ACAM2000-associated myalgia AE;A ACAM2000 vaccine adverse event that is associated with an administration of ACAM2000 and displays an myalgia AE
+process;YF-Vax-associated injection-site mass AE;A YF-Vax vaccine adverse event that is associated with an administration of YF-Vax and displays an injection-site mass AE
+process;Comvax-associated fever AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an fever AE
+process;Menactra-associated injection-site tenderness AE;A Menactra vaccine adverse event that is associated with an administration of Menactra and displays an injection-site tenderness AE
+process;ACAM2000-associated fever AE;A ACAM2000 vaccine adverse event that is associated with an administration of ACAM2000 and displays an fever AE
+process;YF-Vax-associated injection-site pain AE;A YF-Vax vaccine adverse event that is associated with an administration of YF-Vax and displays an injection-site pain AE
+process;Comvax-associated injection-site erythema AE;A Comvax vaccine adverse event that is associated with an administration of Comvax and displays an injection-site erythema AE
+process;MenHibrix-associated fever AE;A MenHibrix vaccine adverse event that is associated with an administration of MenHibrix and displays an fever AE
+process;ACAM2000-associated fatigue AE;A ACAM2000 vaccine adverse event that is associated with an administration of ACAM2000 and displays an fatigue AE
+process;YF-Vax-associated hypersensitivity AE;A YF-Vax vaccine adverse event that is associated with an administration of YF-Vax and displays an hypersensitivity AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated fever AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an fever AE
+process;Recombivax HB-associated rhinitis AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an rhinitis AE
+process;Pneumovax 23-associated myalgia AE;A Pneumovax 23 vaccine adverse event that is associated with an administration of Pneumovax 23 and displays an myalgia AE
+process;Tetanus Toxoid-associated injection-site redness AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an injection-site redness AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated malaise AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an malaise AE
+process;Recombivax HB-associated decreased appetite AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an decreased appetite AE
+process;Pneumovax 23-associated fatigue AE;A Pneumovax 23 vaccine adverse event that is associated with an administration of Pneumovax 23 and displays an fatigue AE
+process;Tenivac-associated joint pain AE;A Tenivac vaccine adverse event that is associated with an administration of Tenivac and displays an joint pain AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated injection-site rash AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an injection-site rash AE
+process;Recombivax HB-associated fatigue AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an fatigue AE
+process;Pneumovax 23-associated asthenia AE;A Pneumovax 23 vaccine adverse event that is associated with an administration of Pneumovax 23 and displays an asthenia AE
+process;Tenivac-associated muscular weakness AE;A Tenivac vaccine adverse event that is associated with an administration of Tenivac and displays an muscular weakness AE
+process;Recombivax HB-associated diarrhea AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an diarrhea AE
+process;Pneumovax 23-associated headache AE;A Pneumovax 23 vaccine adverse event that is associated with an administration of Pneumovax 23 and displays an headache AE
+process;Tenivac-associated malaise AE;A Tenivac vaccine adverse event that is associated with an administration of Tenivac and displays an malaise AE
+process;Pneumovax 23-associated injection-site erythema AE;A Pneumovax 23 vaccine adverse event that is associated with an administration of Pneumovax 23 and displays an injection-site erythema AE
+process;Tenivac-associated local swelling AE;A Tenivac vaccine adverse event that is associated with an administration of Tenivac and displays an local swelling AE
+process;Tenivac-associated injection-site redness AE;A Tenivac vaccine adverse event that is associated with an administration of Tenivac and displays an injection-site redness AE
+process;Afluria-associated injection-site tenderness AE;A Afluria vaccine adverse event that is associated with an administration of Afluria and displays an injection-site tenderness AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated urticaria AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an urticaria AE
+process;Afluria-associated fever AE;A Afluria vaccine adverse event that is associated with an administration of Afluria and displays an fever AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated local swelling AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an local swelling AE
+process;Recombivax HB-associated fever AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an fever AE
+process;Afluria-associated malaise AE;A Afluria vaccine adverse event that is associated with an administration of Afluria and displays an malaise AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated injection-site induration AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an injection-site induration AE
+process;Recombivax HB-associated irritability AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an irritability AE
+process;Pneumovax 23-associated injection-site induration AE;A Pneumovax 23 vaccine adverse event that is associated with an administration of Pneumovax 23 and displays an injection-site induration AE
+process;Afluria-associated myalgia AE;A Afluria vaccine adverse event that is associated with an administration of Afluria and displays an myalgia AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated injection-site edema AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an injection-site edema AE
+process;Engerix-B-associated fatigue AE;A Engerix-B vaccine adverse event that is associated with an administration of Engerix-B and displays an fatigue AE
+process;Pneumovax 23-associated local swelling AE;A Pneumovax 23 vaccine adverse event that is associated with an administration of Pneumovax 23 and displays an local swelling AE
+process;Tenivac-associated headache AE;A Tenivac vaccine adverse event that is associated with an administration of Tenivac and displays an headache AE
+process;Afluria-associated headache AE;A Afluria vaccine adverse event that is associated with an administration of Afluria and displays an headache AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated injection-site warmth AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an injection-site warmth AE
+process;Engerix-B-associated injection-site muscular soreness AE;A Engerix-B vaccine adverse event that is associated with an administration of Engerix-B and displays an injection-site muscular soreness AE
+process;Pneumovax 23-associated injection-site tenderness AE;A Pneumovax 23 vaccine adverse event that is associated with an administration of Pneumovax 23 and displays an injection-site tenderness AE
+process;Afluria-associated local swelling AE;A Afluria vaccine adverse event that is associated with an administration of Afluria and displays an local swelling AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated injection-site redness AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an injection-site redness AE
+process;Twinrix-associated fatigue AE;A Twinrix vaccine adverse event that is associated with an administration of Twinrix and displays an fatigue AE
+process;Pneumovax 23-associated injection-site muscular soreness AE;A Pneumovax 23 vaccine adverse event that is associated with an administration of Pneumovax 23 and displays an injection-site muscular soreness AE
+process;Tenivac-associated injection-site pain AE;A Tenivac vaccine adverse event that is associated with an administration of Tenivac and displays an injection-site pain AE
+process;Afluria-associated injection-site redness AE;A Afluria vaccine adverse event that is associated with an administration of Afluria and displays an injection-site redness AE
+process;Biothrax-associated headache AE;A Biothrax vaccine adverse event that is associated with an administration of Biothrax and displays an headache AE
+process;Twinrix-associated headache AE;A Twinrix vaccine adverse event that is associated with an administration of Twinrix and displays an headache AE
+process;Pneumovax 23-associated injection-site pain AE;A Pneumovax 23 vaccine adverse event that is associated with an administration of Pneumovax 23 and displays an injection-site pain AE
+process;Decavac-associated joint swelling AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an joint swelling AE
+process;Afluria-associated injection-site pain AE;A Afluria vaccine adverse event that is associated with an administration of Afluria and displays an injection-site pain AE
+process;Biothrax-associated fatigue AE;A Biothrax vaccine adverse event that is associated with an administration of Biothrax and displays an fatigue AE
+process;Twinrix-associated injection-site redness AE;A Twinrix vaccine adverse event that is associated with an administration of Twinrix and displays an injection-site redness AE
+process;Menomune-A/C/Y/W-135-associated diarrhea AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an diarrhea AE
+process;Decavac-associated nausea AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an nausea AE
+process;Biothrax-associated muscle ache AE;A Biothrax vaccine adverse event that is associated with an administration of Biothrax and displays an muscle ache AE
+process;Twinrix-associated injection-site muscular soreness AE;A Twinrix vaccine adverse event that is associated with an administration of Twinrix and displays an injection-site muscular soreness AE
+process;Menomune-A/C/Y/W-135-associated arthralgia AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an arthralgia AE
+process;Decavac-associated chills AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an chills AE
+process;Biothrax-associated arm motion limitation AE;A Biothrax vaccine adverse event that is associated with an administration of Biothrax and displays an arm motion limitation AE
+process;Vaqta-associated headache AE;A Vaqta vaccine adverse event that is associated with an administration of Vaqta and displays an headache AE
+process;Menomune-A/C/Y/W-135-associated malaise AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an malaise AE
+process;Decavac-associated diarrhea AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an diarrhea AE
+process;Vaqta-associated injection-site warmth AE;A Vaqta vaccine adverse event that is associated with an administration of Vaqta and displays an injection-site warmth AE
+process;Menomune-A/C/Y/W-135-associated fatigue AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an fatigue AE
+process;Decavac-associated tiredness AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an tiredness AE
+process;Menomune-A/C/Y/W-135-associated headache AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an headache AE
+process;Decavac-associated muscular weakness AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an muscular weakness AE
+process;Decavac-associated pain AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an pain AE
+process;Biothrax-associated injection-site edema AE;A Biothrax vaccine adverse event that is associated with an administration of Biothrax and displays an injection-site edema AE
+process;Biothrax-associated injection-site erythema AE;A Biothrax vaccine adverse event that is associated with an administration of Biothrax and displays an injection-site erythema AE
+process;Vaqta-associated injection-site muscular soreness AE;A Vaqta vaccine adverse event that is associated with an administration of Vaqta and displays an injection-site muscular soreness AE
+process;Biothrax-associated injection-site pain AE;A Biothrax vaccine adverse event that is associated with an administration of Biothrax and displays an injection-site pain AE
+process;Vaqta-associated injection-site tenderness AE;A Vaqta vaccine adverse event that is associated with an administration of Vaqta and displays an injection-site tenderness AE
+process;Menomune-A/C/Y/W-135-associated injection-site induration AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an injection-site induration AE
+process;Biothrax-associated injection-site tenderness AE;A Biothrax vaccine adverse event that is associated with an administration of Biothrax and displays an injection-site tenderness AE
+process;Vaqta-associated injection-site pain AE;A Vaqta vaccine adverse event that is associated with an administration of Vaqta and displays an injection-site pain AE
+process;Menomune-A/C/Y/W-135-associated injection-site redness AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an injection-site redness AE
+process;Decavac-associated injection-site erythema AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an injection-site erythema AE
+process;Adenovirus Type 4 and Type 7 Vaccine, Live, Oral-associated vomiting AE;A adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral that is associated with an administration of Adenovirus Type 4 and Type 7 Vaccine, Live, Oral and displays an vomiting AE
+process;Menomune-A/C/Y/W-135-associated injection-site pain AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an injection-site pain AE
+process;Decavac-associated local swelling AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an local swelling AE
+process;Adenovirus Type 4 and Type 7 Vaccine, Live, Oral-associated diarrhea AE;A adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral that is associated with an administration of Adenovirus Type 4 and Type 7 Vaccine, Live, Oral and displays an diarrhea AE
+process;Vaqta-associated fever AE;A Vaqta vaccine adverse event that is associated with an administration of Vaqta and displays an fever AE
+process;Menomune-A/C/Y/W-135-associated diarrhea AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an diarrhea AE
+process;Decavac-associated headache AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an headache AE
+process;Adenovirus Type 4 and Type 7 Vaccine, Live, Oral-associated abdominal pain AE;A adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral that is associated with an administration of Adenovirus Type 4 and Type 7 Vaccine, Live, Oral and displays an abdominal pain AE
+process;Vaqta-associated injection-site erythema AE;A Vaqta vaccine adverse event that is associated with an administration of Vaqta and displays an injection-site erythema AE
+process;Menomune-A/C/Y/W-135-associated irritability AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an irritability AE
+process;Adenovirus Type 4 and Type 7 Vaccine, Live, Oral-associated nausea AE;A adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral that is associated with an administration of Adenovirus Type 4 and Type 7 Vaccine, Live, Oral and displays an nausea AE
+process;Menomune-A/C/Y/W-135-associated drowsiness;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an drowsiness
+process;Decavac-associated injection-site pain AE;A Decavac vaccine adverse event that is associated with an administration of Decavac and displays an injection-site pain AE
+process;Adenovirus Type 4 and Type 7 Vaccine, Live, Oral-associated arthralgia AE;A adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral that is associated with an administration of Adenovirus Type 4 and Type 7 Vaccine, Live, Oral and displays an arthralgia AE
+process;Havrix-associated decreased appetite AE;A Havrix vaccine adverse event that is associated with an administration of Havrix and displays an decreased appetite AE
+process;Menomune-A/C/Y/W-135-associated injection-site pain AE;A Menomune-A/C/Y/W-135 vaccine adverse event that is associated with an administration of Menomune-A/C/Y/W-135 and displays an injection-site pain AE
+process;Herpesvirus vaccine adverse event;a viral vaccine adverse event that is associated with administration of Herpesvirus vaccine
+process;Fluarix-associated local swelling AE;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an local swelling AE
+process;Daptacel-associated injection-site edema AE;A Daptacel vaccine adverse event that is associated with an administration of Daptacel and displays an injection-site edema AE
+process;Gardasil-associated injection-site pain AE;A Gardasil vaccine adverse event that is associated with an administration of Gardasil and displays an injection-site pain AE
+process;Prevnar 13-associated rash AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an rash AE
+process;Hepatitis B virus vaccine adverse event;a viral vaccine adverse event that is associated with administration of Hepatitis B virus vaccine
+process;Fluarix-associated injection-site redness AE;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an injection-site redness AE
+process;Daptacel-associated injection-site redness AE;A Daptacel vaccine adverse event that is associated with an administration of Daptacel and displays an injection-site redness AE
+process;Gardasil-associated dizziness AE;A Gardasil vaccine adverse event that is associated with an administration of Gardasil and displays an dizziness AE
+process;Prevnar 13-associated chills AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an chills AE
+process;Hepatitis A&B vaccine adverse event;a viral vaccine adverse event that is associated with administration of Hepatitis A&B vaccine
+process;Daptacel-associated injection-site tenderness AE;A Daptacel vaccine adverse event that is associated with an administration of Daptacel and displays an injection-site tenderness AE
+process;Gardasil-associated nausea AE;A Gardasil vaccine adverse event that is associated with an administration of Gardasil and displays an nausea AE
+process;Prevnar 13-associated arm motion limitation AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an arm motion limitation AE
+process;Fluarix-associated gastrointestinal disorder AE;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an gastrointestinal disorder AE
+process;Infanrix-associated decreased appetite AE;A Infanrix vaccine adverse event that is associated with an administration of Infanrix and displays an decreased appetite AE
+process;Gardasil-associated fever AE;A Gardasil vaccine adverse event that is associated with an administration of Gardasil and displays an fever AE
+process;Infanrix-associated irritability AE;A Infanrix vaccine adverse event that is associated with an administration of Infanrix and displays an irritability AE
+process;Gardasil-associated headache AE;A Gardasil vaccine adverse event that is associated with an administration of Gardasil and displays an headache AE
+process;Prevnar 13-associated joint pain AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an joint pain AE
+process;Recombivax HB-associated upper respiratory tract infection AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an upper respiratory tract infection AE
+process;Prevnar 13-associated muscle pain AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an muscle pain AE
+process;Prevnar 13-associated headache AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an headache AE
+process;Hepatitis A virus vaccine adverse event;a viral vaccine adverse event that is associated with administration of Hepatitis A virus vaccine
+process;Haemophilus b and Hepatitis B vaccine adverse event;a viral vaccine adverse event that is associated with administration of Haemophilus b and Hepatitis B vaccine
+process;Fluarix-associated arthralgia AE;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an arthralgia AE
+process;Salmonella vaccine adverse event;a bacterial vaccine adverse event that is associated with administration of Salmonella vaccine
+process;Infanrix-associated drowsiness;A Infanrix vaccine adverse event that is associated with an administration of Infanrix and displays an drowsiness
+process;Diphtheria-Tetanus-Pertussis-Poliovirus-Hepatitis B vaccine adverse event;a bacterial vaccine adverse event that is associated with administration of Diphtheria-Tetanus-Pertussis-Poliovirus-Hepatitis B vaccine
+process;Infanrix-associated fever AE;A Infanrix vaccine adverse event that is associated with an administration of Infanrix and displays an fever AE
+process;Recombivax HB-associated pharyngitis AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an pharyngitis AE
+process;Diphtheria-Tetanus-Pertussis-Poliovirus-Haemophilus b vaccine adverse event;a bacterial vaccine adverse event that is associated with administration of Diphtheria-Tetanus-Pertussis-Poliovirus-Haemophilus b vaccine
+process;Infanrix-associated local swelling AE;A Infanrix vaccine adverse event that is associated with an administration of Infanrix and displays an local swelling AE
+process;Prevnar 13-associated fatigue AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an fatigue AE
+process;Diphtheria-Tetanus-Pertussis-Poliovirus vaccine adverse event;a bacterial vaccine adverse event that is associated with administration of Diphtheria-Tetanus-Pertussis-Poliovirus vaccine
+process;Fluarix-associated decreased appetite AE;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an decreased appetite AE
+process;Infanrix-associated injection-site redness AE;A Infanrix vaccine adverse event that is associated with an administration of Infanrix and displays an injection-site redness AE
+process;Recombivax HB-associated nausea AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an nausea AE
+process;Diphtheria-Tetanus-Poliovirus vaccine adverse event;a bacterial vaccine adverse event that is associated with administration of Diphtheria-Tetanus-Poliovirus vaccine
+process;Fluarix-associated irritability AE;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an irritability AE
+process;Infanrix-associated injection-site pain AE;A Infanrix vaccine adverse event that is associated with an administration of Infanrix and displays an injection-site pain AE
+process;Recombivax HB-associated malaise AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an malaise AE
+process;Diphtheria-Tetanus-Pertussis vaccine adverse event;a bacterial vaccine adverse event that is associated with administration of Diphtheria-Tetanus-Pertussis vaccine
+process;Fluarix-associated drowsiness;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an drowsiness
+process;Tripedia-associated irritability AE;A Tripedia vaccine adverse event that is associated with an administration of Tripedia and displays an irritability AE
+process;Prevnar 13-associated injection-site pain AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an injection-site pain AE
+process;Diphtheria-Tetanus vaccine adverse event;a bacterial vaccine adverse event that is associated with administration of Diphtheria-Tetanus vaccine
+process;Flulaval-associated myalgia AE;A Flulaval vaccine adverse event that is associated with an administration of Flulaval and displays an myalgia AE
+process;Tripedia-associated drowsiness;A Tripedia vaccine adverse event that is associated with an administration of Tripedia and displays an drowsiness
+process;Recombivax HB-associated headache AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an headache AE
+process;Prevnar 13-associated irritability AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an irritability AE
+process;diphtheria vaccine adverse event;a bacterial vaccine adverse event that is associated with administration of diphtheria vaccine
+process;Flulaval-associated headache AE;A Flulaval vaccine adverse event that is associated with an administration of Flulaval and displays an headache AE
+process;Tripedia-associated vomiting AE;A Tripedia vaccine adverse event that is associated with an administration of Tripedia and displays an vomiting AE
+process;Prevnar 13-associated fever AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an fever AE
+process;Flulaval-associated fatigue AE;A Flulaval vaccine adverse event that is associated with an administration of Flulaval and displays an fatigue AE
+process;Tripedia-associated anorexia AE;A Tripedia vaccine adverse event that is associated with an administration of Tripedia and displays an anorexia AE
+process;Recombivax HB-associated skin nodule AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an skin nodule AE
+process;Prevnar 13-associated increased sleep AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an increased sleep AE
+process;Tripedia-associated fever AE;A Tripedia vaccine adverse event that is associated with an administration of Tripedia and displays an fever AE
+process;Recombivax HB-associated injection-site warmth AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an injection-site warmth AE
+process;Prevnar 13-associated decreased sleep AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an decreased sleep AE
+process;Recombivax HB-associated local swelling AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an local swelling AE
+process;Prevnar 13-associated decreased appetite AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an decreased appetite AE
+process;Prevnar 13-associated local swelling AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an local swelling AE
+process;Flulaval-associated local swelling AE;A Flulaval vaccine adverse event that is associated with an administration of Flulaval and displays an local swelling AE
+process;Flulaval-associated injection-site redness AE;A Flulaval vaccine adverse event that is associated with an administration of Flulaval and displays an injection-site redness AE
+process;Tripedia-associated injection-site pain AE;A Tripedia vaccine adverse event that is associated with an administration of Tripedia and displays an injection-site pain AE
+process;Flulaval-associated injection-site pain AE;A Flulaval vaccine adverse event that is associated with an administration of Flulaval and displays an injection-site pain AE
+process;Tripedia-associated local swelling AE;A Tripedia vaccine adverse event that is associated with an administration of Tripedia and displays an local swelling AE
+process;Recombivax HB-associated ecchymosis AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an ecchymosis AE
+process;Agriflu-associated malaise AE;A Afluria vaccine adverse event that is associated with an administration of Agriflu and displays an malaise AE
+process;Tripedia-associated injection-site redness AE;A Tripedia vaccine adverse event that is associated with an administration of Tripedia and displays an injection-site redness AE
+process;Recombivax HB-associated injection-site erythema AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an injection-site erythema AE
+process;Prevnar 13-associated injection-site redness AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an injection-site redness AE
+process;Agriflu-associated myalgia AE;A Afluria vaccine adverse event that is associated with an administration of Agriflu and displays an myalgia AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated arthralgia AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an arthralgia AE
+process;Recombivax HB-associated injection-site pruritus AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an injection-site pruritus AE
+process;Prevnar 13-associated injection-site tenderness AE;A Prevnar 13 vaccine adverse event that is associated with an administration of Prevnar 13 and displays an injection-site tenderness AE
+process;Tetanus Toxoid-associated induration with tenderness AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an induration with tenderness AE
+process;Agriflu-associated headache AE;A Afluria vaccine adverse event that is associated with an administration of Agriflu and displays an headache AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated nausea AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an nausea AE
+process;Recombivax HB-associated injection-site tenderness AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an injection-site tenderness AE
+process;Prevnar-associated injection-site tenderness AE;A Prevnar vaccine adverse event that is associated with an administration of Prevnar and displays an injection-site tenderness AE
+process;Tetanus Toxoid-associated injection-site induration AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an injection-site induration AE
+process;Agriflu-associated injection-site pain AE;A Afluria vaccine adverse event that is associated with an administration of Agriflu and displays an injection-site pain AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated hypotension AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an hypotension AE
+process;Recombivax HB-associated injection-site pain AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an injection-site pain AE
+process;Prevnar-associated injection-site induration AE;A Prevnar vaccine adverse event that is associated with an administration of Prevnar and displays an injection-site induration AE
+process;Tetanus Toxoid-associated injection-site edema AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an injection-site edema AE
+process;Afluria-associated muscle ache AE;A Afluria vaccine adverse event that is associated with an administration of Afluria and displays an muscle ache AE
+process;Diphtheria & Tetanus Toxoids Absorbed (for pediatric use)-associated pain AE;A adverse event associated with Diphtheria & Tetanus Toxoids Absorbed that is associated with an administration of Diphtheria & Tetanus Toxoids Absorbed and displays an pain AE
+process;Recombivax HB-associated injection-site muscular soreness AE;A Recombivax HB vaccine adverse event that is associated with an administration of Recombivax HB and displays an injection-site muscular soreness AE
+process;Prevnar-associated injection-site erythema AE;A Prevnar vaccine adverse event that is associated with an administration of Prevnar and displays an injection-site erythema AE
+process;Tetanus Toxoid-associated injection-site warmth AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an injection-site warmth AE
+process;Flulaval vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Flulaval.
+process;Fluzone-associated injection-site redness AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an injection-site redness AE
+process;Pentacel-associated injection-site tenderness AE;A Pentacel vaccine adverse event that is associated with an administration of Pentacel and displays an injection-site tenderness AE
+process;JE-Vax-associated malaise AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an malaise AE
+process;Flucelvax vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Flucelvax.
+process;Fluzone-associated injection-site tenderness AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an injection-site tenderness AE
+process;Pentacel-associated fever AE;A Pentacel vaccine adverse event that is associated with an administration of Pentacel and displays an fever AE
+process;JE-Vax-associated headache AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an headache AE
+process;Fluarix Quadrivalent vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Fluarix Quadrivalent vaccine.
+process;Fluvirin-associated flu-like syndrome AE;A Fluvirin vaccine adverse event that is associated with an administration of Fluvirin and displays an flu-like syndrome AE
+process;Pentacel-associated inconsolable crying AE;A Pentacel vaccine adverse event that is associated with an administration of Pentacel and displays an inconsolable crying AE
+process;JE-Vax-associated fever AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an fever AE
+process;Fluarix vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Fluarix.
+process;Fluvirin-associated mild hypersensitity AE;A Fluvirin vaccine adverse event that is associated with an administration of Fluvirin and displays an mild hypersensitity AE
+process;Pentacel-associated irritability AE;A Pentacel vaccine adverse event that is associated with an administration of Pentacel and displays an irritability AE
+process;JE-Vax-associated local swelling AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an local swelling AE
+process;Flucelvax-associated malaise AE;A Flucelvax vaccine adverse event that is associated with an administration of Flucelvax and displays an malaise AE
+process;Kinrix-associated decreased appetite AE;A Kinrix vaccine adverse event that is associated with an administration of Kinrix and displays an decreased appetite AE
+process;JE-Vax-associated injection-site redness AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an injection-site redness AE
+process;Flucelvax-associated headache AE;A Flucelvax vaccine adverse event that is associated with an administration of Flucelvax and displays an headache AE
+process;Kinrix-associated fever AE;A Kinrix vaccine adverse event that is associated with an administration of Kinrix and displays an fever AE
+process;JE-Vax-associated injection-site tenderness AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an injection-site tenderness AE
+process;Kinrix-associated drowsiness;A Kinrix vaccine adverse event that is associated with an administration of Kinrix and displays an drowsiness
+process;Ixiaro-associated myalgia AE;A Ixiaro vaccine adverse event that is associated with an administration of Ixiaro and displays an myalgia AE
+process;Ixiaro-associated headache AE;A Ixiaro vaccine adverse event that is associated with an administration of Ixiaro and displays an headache AE
+process;Flublok vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Flublok.
+process;Engerix-B vaccine adverse event;
+process;adverse event associated with Diphtheria & Tetanus Toxoids Absorbed;
+process;Flucelvax-associated fatigue AE;A Flucelvax vaccine adverse event that is associated with an administration of Flucelvax and displays an fatigue AE
+process;bacterial and viral combination vaccine adverse event;a vaccine adverse event that is associated with administration of a bacterial and viral combination vaccine
+process;Flucelvax-associated injection-site erythema AE;A Flucelvax vaccine adverse event that is associated with an administration of Flucelvax and displays an injection-site erythema AE
+process;Kinrix-associated local swelling AE;A Kinrix vaccine adverse event that is associated with an administration of Kinrix and displays an local swelling AE
+process;cancer vaccine adverse event;a vaccine adverse event that is associated with administration of a cancer vaccine
+process;Kinrix-associated injection-site edema AE;A Kinrix vaccine adverse event that is associated with an administration of Kinrix and displays an injection-site edema AE
+process;Ixiaro-associated injection-site tenderness AE;A Ixiaro vaccine adverse event that is associated with an administration of Ixiaro and displays an injection-site tenderness AE
+process;fugal vaccine adverse event;a vaccine adverse event that is associated with administration of a fungal vaccine
+process;Flucelvax-associated myalgia AE;A Flucelvax vaccine adverse event that is associated with an administration of Flucelvax and displays an myalgia AE
+process;Kinrix-associated injection-site redness AE;A Kinrix vaccine adverse event that is associated with an administration of Kinrix and displays an injection-site redness AE
+process;Ixiaro-associated injection-site pain AE;A Ixiaro vaccine adverse event that is associated with an administration of Ixiaro and displays an injection-site pain AE
+process;parasite vaccine adverse event;a vaccine adverse event that is associated with administration of a parasite vaccine
+process;Kinrix-associated injection-site pain AE;A Kinrix vaccine adverse event that is associated with an administration of Kinrix and displays an injection-site pain AE
+process;Cervarix-associated arthralgia AE;A Cervarix vaccine adverse event that is associated with an administration of Cervarix and displays an arthralgia AE
+process;virus vaccine adverse event;a vaccine adverse event that is associated with administration of a virus vaccine
+process;Pediarix-associated decreased appetite AE;A Pediarix vaccine adverse event that is associated with an administration of Pediarix and displays an decreased appetite AE
+process;Cervarix-associated gastrointestinal disorder AE;A Cervarix vaccine adverse event that is associated with an administration of Cervarix and displays an gastrointestinal disorder AE
+process;bacterial vaccine adverse event;a vaccine adverse event that is associated with administration of a bacterial vaccine
+process;Pediarix-associated irritability AE;A Pediarix vaccine adverse event that is associated with an administration of Pediarix and displays an irritability AE
+process;Cervarix-associated myalgia AE;A Cervarix vaccine adverse event that is associated with an administration of Cervarix and displays an myalgia AE
+process;Yellow fever vaccine adverse event;a viral vaccine adverse event that is associated with administration of Yellow fever vaccine
+process;Flucelvax-associated injection-site pain AE;A Flucelvax vaccine adverse event that is associated with an administration of Flucelvax and displays an injection-site pain AE
+process;Pediarix-associated drowsiness;A Pediarix vaccine adverse event that is associated with an administration of Pediarix and displays an drowsiness
+process;Cervarix-associated headache AE;A Cervarix vaccine adverse event that is associated with an administration of Cervarix and displays an headache AE
+process;Rubella vaccine adverse event;a viral vaccine adverse event that is associated with administration of Rubella vaccine
+process;Flublok-associated myalgia AE;A Flublok vaccine adverse event that is associated with an administration of Flublok and displays a myalgia AE
+process;Pediarix-associated fever AE;A Pediarix vaccine adverse event that is associated with an administration of Pediarix and displays an fever AE
+process;Cervarix-associated fatigue AE;A Cervarix vaccine adverse event that is associated with an administration of Cervarix and displays an fatigue AE
+process;Flublok-associated fatigue AE;A Flublok vaccine adverse event that is associated with an administration of Flublok and displays a fatigue AE
+process;Pediarix-associated local swelling AE;A Pediarix vaccine adverse event that is associated with an administration of Pediarix and displays an local swelling AE
+process;Cervarix-associated local swelling AE;A Cervarix vaccine adverse event that is associated with an administration of Cervarix and displays an local swelling AE
+process;Pediarix-associated injection-site redness AE;A Pediarix vaccine adverse event that is associated with an administration of Pediarix and displays an injection-site redness AE
+process;Cervarix-associated injection-site redness AE;A Cervarix vaccine adverse event that is associated with an administration of Cervarix and displays an injection-site redness AE
+process;Cervarix-associated injection-site pain AE;A Cervarix vaccine adverse event that is associated with an administration of Cervarix and displays an injection-site pain AE
+process;Rotavirus vaccine adverse event;a viral vaccine adverse event that is associated with administration of Rotavirus vaccine
+process;Rabies vaccine adverse event;a viral vaccine adverse event that is associated with administration of Rabies vaccine
+process;Flublok-associated headache AE;A Flublok vaccine adverse event that is associated with an administration of Flublok and displays a headache AE
+process;smallpox vaccine adverse event;a viral vaccine adverse event that is associated with administration of smallpox vaccine
+process;Flublok-associated injection-site pain AE;A Flublok vaccine adverse event that is associated with an administration of Flublok and displays an injection-site pain AE
+process;Pediarix-associated injection-site pain AE;A Pediarix vaccine adverse event that is associated with an administration of Pediarix and displays an injection-site pain AE
+process;Poliovirus vaccine adverse event;a viral vaccine adverse event that is associated with administration of Poliovirus vaccine
+process;Fluarix-associated fatigue AE;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an fatigue AE
+process;Daptacel-associated fever AE;A Daptacel vaccine adverse event that is associated with an administration of Daptacel and displays an fever AE
+process;Gardasil-associated hematoma, bruise, ecchymoses AE;A Gardasil vaccine adverse event that is associated with an administration of Gardasil and displays an hematoma, bruise, ecchymoses AE
+process;Measles-Mumps-Rubella-Vericella vaccine adverse event;a viral vaccine adverse event that is associated with administration of Measles-Mumps-Rubella-Vericella vaccine
+process;Fluarix-associated headache AE;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an headache AE
+process;Daptacel-associated lethargy AE;A Daptacel vaccine adverse event that is associated with an administration of Daptacel and displays an lethargy AE
+process;Gardasil-associated injection-site pruritus AE;A Gardasil vaccine adverse event that is associated with an administration of Gardasil and displays an injection-site pruritus AE
+process;IPOL-associated injection-site pain AE;A IPOL vaccine adverse event that is associated with an administration of IPOL and displays an injection-site pain AE
+process;Measles virus vaccine adverse event;a viral vaccine adverse event that is associated with administration of Measles virus vaccine
+process;Fluarix-associated muscle ache AE;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an muscle ache AE
+process;Daptacel-associated inconsolable crying AE;A Daptacel vaccine adverse event that is associated with an administration of Daptacel and displays an inconsolable crying AE
+process;Gardasil-associated injection-site erythema AE;A Gardasil vaccine adverse event that is associated with an administration of Gardasil and displays an injection-site erythema AE
+process;IPOL-associated injection-site induration AE;A IPOL vaccine adverse event that is associated with an administration of IPOL and displays an injection-site induration AE
+process;Japanese encephalitis virus vaccine adverse event;a viral vaccine adverse event that is associated with administration of Japanese encephalitis virus vaccine
+process;Fluarix-associated injection-site pain AE;A Flulaval vaccine adverse event that is associated with an administration of Fluarix and displays an injection-site pain AE
+process;Daptacel-associated irritability AE;A Daptacel vaccine adverse event that is associated with an administration of Daptacel and displays an irritability AE
+process;Gardasil-associated local swelling AE;A Gardasil vaccine adverse event that is associated with an administration of Gardasil and displays an local swelling AE
+process;IPOL-associated injection-site erythema AE;A IPOL vaccine adverse event that is associated with an administration of IPOL and displays an injection-site erythema AE
+process;PedvaxHIB vaccine adverse event;
+process;Fluzone Intradermal-associated myalgia AE;A Fluzone Intradermal vaccine adverse event that is associated with an administration of Fluzone Intradermal and displays an myalgia AE
+process;PedvaxHIB-associated diarrhea AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an diarrhea AE
+process;Pediarix vaccine adverse event;
+process;Fluzone Intradermal-associated headache AE;A Fluzone Intradermal vaccine adverse event that is associated with an administration of Fluzone Intradermal and displays an headache AE
+process;PedvaxHIB-associated prolonged crying AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an prolonged crying AE
+process;Meruvax II vaccine adverse event;
+process;Fluzone Intradermal-associated OAE 0000373;A Fluzone Intradermal vaccine adverse event that is associated with an administration of Fluzone Intradermal and displays an OAE 0000373
+process;PedvaxHIB-associated unusual high-patched crying AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an unusual high-patched crying AE
+process;Menveo vaccine adverse event;
+process;Fluzone Intradermal-associated injection-site pain AE;A Fluzone Intradermal vaccine adverse event that is associated with an administration of Fluzone Intradermal and displays an injection-site pain AE
+process;PedvaxHIB-associated injection-site induration AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an injection-site induration AE
+process;Menomune-A/C/Y/W-135 vaccine adverse event;
+process;Fluzone Intradermal-associated local swelling AE;A Fluzone Intradermal vaccine adverse event that is associated with an administration of Fluzone Intradermal and displays an local swelling AE
+process;PedvaxHIB-associated local swelling AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an local swelling AE
+process;MenHibrix vaccine adverse event;
+process;Fluzone Intradermal-associated injection-site induration AE;A Fluzone Intradermal vaccine adverse event that is associated with an administration of Fluzone Intradermal and displays an injection-site induration AE
+process;PedvaxHIB-associated injection-site erythema AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an injection-site erythema AE
+process;Fluzone Intradermal-associated injection-site erythema AE;A Fluzone Intradermal vaccine adverse event that is associated with an administration of Fluzone Intradermal and displays an injection-site erythema AE
+process;PedvaxHIB-associated injection-site pain AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an injection-site pain AE
+process;Fluzone High-Dose-associated malaise AE;A Fluzone High-Dose vaccine adverse event that is associated with an administration of Fluzone High-Dose and displays an malaise AE
+process;PedvaxHIB-associated sleepiness AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an sleepiness AE
+process;PedvaxHIB-associated irritability AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an irritability AE
+process;Menactra vaccine adverse event;
+process;Kinrix vaccine adverse event;
+process;JE-Vax vaccine adverse event;
+process;Fluzone High-Dose-associated erythema AE;A Fluzone High-Dose vaccine adverse event that is associated with an administration of Fluzone High-Dose and displays an erythema AE
+process;Ixiaro vaccine adverse event;
+process;Fluzone High-Dose-associated myalgia AE;A Fluzone High-Dose vaccine adverse event that is associated with an administration of Fluzone High-Dose and displays an myalgia AE
+process;Hiberix-associated restlessness AE;A Hiberix vaccine adverse event that is associated with an administration of Hiberix and displays an restlessness AE
+process;IPOL vaccine adverse event;
+process;Fluzone High-Dose-associated headache AE;A Fluzone High-Dose vaccine adverse event that is associated with an administration of Fluzone High-Dose and displays an headache AE
+process;Hiberix-associated decreased appetite AE;A Hiberix vaccine adverse event that is associated with an administration of Hiberix and displays an decreased appetite AE
+process;Influenza Virus Vaccine H5N1 vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Influenza virus vaccine H5N1 vaccine.
+process;Fluzone High-Dose-associated injection-site pain AE;A Fluzone High-Dose vaccine adverse event that is associated with an administration of Fluzone High-Dose and displays an injection-site pain AE
+process;Hiberix-associated fussiness AE;A Hiberix vaccine adverse event that is associated with an administration of Hiberix and displays an fussiness AE
+process;Infanrix vaccine adverse event;
+process;Fluzone-associated malaise AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an malaise AE
+process;Hiberix-associated fever AE;A Hiberix vaccine adverse event that is associated with an administration of Hiberix and displays an fever AE
+process;Imovax Rabies vaccine adverse event;
+process;Fluzone-associated myalgia AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an myalgia AE
+process;Hiberix-associated injection-site redness AE;A Hiberix vaccine adverse event that is associated with an administration of Hiberix and displays an injection-site redness AE
+process;Hiberix vaccine adverse event;
+process;Fluzone-associated headache AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an headache AE
+process;Hiberix-associated injection-site pain AE;A Hiberix vaccine adverse event that is associated with an administration of Hiberix and displays an injection-site pain AE
+process;Havrix vaccine adverse event;
+process;Fluzone-associated injection-site pain AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an injection-site pain AE
+process;ActHIB-associated lethargy AE;A ActHIB vaccine adverse event that is associated with an administration of ActHIB and displays an lethargy AE
+process;Fluzone-associated myalgia AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an myalgia AE
+process;ActHIB-associated irritability AE;A ActHIB vaccine adverse event that is associated with an administration of ActHIB and displays an irritability AE
+process;Fluzone-associated headache AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an headache AE
+process;ActHIB-associated fever AE;A ActHIB vaccine adverse event that is associated with an administration of ActHIB and displays an fever AE
+process;ActHIB-associated local swelling AE;A ActHIB vaccine adverse event that is associated with an administration of ActHIB and displays an local swelling AE
+process;Gardasil vaccine adverse event;
+process;Fluzone Intradermal vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Fluzone intradermal vaccine.
+process;Fluzone High-Dose vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Fluzone High-dose vaccine.
+process;Fluzone-associated injection-site pain AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an injection-site pain AE
+process;Fluzone vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Fluzone.
+process;Fluzone-associated myalgia AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an myalgia AE
+process;ActHIB-associated injection-site redness AE;A ActHIB vaccine adverse event that is associated with an administration of ActHIB and displays an injection-site redness AE
+process;Fluvirin vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Fluvirin.
+process;Fluzone-associated drowsiness;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an drowsiness
+process;ActHIB-associated injection-site pain AE;A ActHIB vaccine adverse event that is associated with an administration of ActHIB and displays an injection-site pain AE
+process;JE-Vax-associated chills AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an chills AE
+process;FluMist Quadrivalent vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of FluMist Quadrivalent vaccine.
+process;Fluzone-associated irritability AE;A Fluzone vaccine adverse event that is associated with an administration of Fluzone and displays an irritability AE
+process;Pentacel-associated injection-site edema AE;A Pentacel vaccine adverse event that is associated with an administration of Pentacel and displays an injection-site edema AE
+process;JE-Vax-associated rash AE;A JE-Vax vaccine adverse event that is associated with an administration of JE-Vax and displays an rash AE
+process;Fluarix Quadrivalent-associated headache AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an headache AE
+process;Zostavax vaccine adverse event;
+process;Fluarix Quadrivalent-associated muscle ache AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an muscle ache AE
+process;YF-Vax vaccine adverse event;
+process;Fluarix Quadrivalent-associated fatigue AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an fatigue AE
+process;Vivotif vaccine adverse event;
+process;Fluarix Quadrivalent-associated decreased appetite AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an decreased appetite AE
+process;Varivax vaccine adverse event;
+process;Fluarix Quadrivalent-associated irritability AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an irritability AE
+process;Vaqta vaccine adverse event;
+process;Fluarix Quadrivalent-associated drowsiness;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an drowsiness
+process;Typhim Vi vaccine adverse event;
+process;Fluarix Quadrivalent-associated local swelling AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an local swelling AE
+process;Twinrix vaccine adverse event;
+process;Fluarix Quadrivalent-associated injection-site redness AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an injection-site redness AE
+process;Fluarix Quadrivalent-associated injection-site pain AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of Fluarix Quadrivalent and displays an injection-site pain AE
+process;Tripedia vaccine adverse event;
+process;Tetanus Toxoid Absorbed vaccine adverse event;
+process;Tetanus Toxoid (boost only) vaccine adverse event;
+process;adverse event associated with Tetanus and Diptheria Toxoids Absorbed by MA Biological;
+process;Tenivac vaccine adverse event;
+process;RotaTeq vaccine adverse event;
+process;FluMist Quadrivalent-associated sore throat AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of FluMist Quadrivalent and displays an sore throat AE
+process;Rotarix vaccine adverse event;
+process;FluMist Quadrivalent-associated fever AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of FluMist Quadrivalent and displays an fever AE
+process;Recombivax HB vaccine adverse event;
+process;RabAvert vaccine adverse event;
+process;FluMist Quadrivalent-associated nasal congestion AE;A FluMist Quadrivalent vaccine adverse event that is associated with an administration of FluMist Quadrivalent and displays an nasal congestion AE
+process;ProQuad vaccine adverse event;
+process;FluMist-associated sore throat AE;A FluMist vaccine adverse event that is associated with an administration of FluMist and displays an sore throat AE
+process;FluMist-associated nasal congestion AE;A FluMist vaccine adverse event that is associated with an administration of FluMist and displays an nasal congestion AE
+process;Prevnar 13 vaccine adverse event;
+process;Prevnar vaccine adverse event;
+process;Pneumovax 23 vaccine adverse event;
+process;FluMist-associated fever AE;A FluMist vaccine adverse event that is associated with an administration of FluMist and displays an fever AE
+process;Pentacel vaccine adverse event;
+process;Fluzone Intradermal-associated malaise AE;A Fluzone Intradermal vaccine adverse event that is associated with an administration of Fluzone Intradermal and displays an malaise AE
+process;PedvaxHIB-associated vomiting AE;A PedvaxHIB vaccine adverse event that is associated with an administration of PedvaxHIB and displays an vomiting AE
+process;Neisseria meningitidis vaccine adverse event;
+process;Streptococcus pneumoniae vaccine adverse event;
+process;Bacillus anthracis vaccine adverse event;a bacterial adverse event that is associated with administration of a Bacillus anthracis vaccine
+process;human papillomavirus vaccine adverse event;a virus vaccine adverse event that is associated with administration of a human papillomavirus vaccine
+process;adverse event associated with Adenovirus Type 4 and Type 7 Vaccine, Live, Oral;an adenovirus vaccine adverse event that is associated with administration of an adenovirus vaccine Adenovirus Type 4 and Type 7 Vaccine, Live, Oral
+process;adenovirus vaccine adverse event;a virus vaccine adverse event that is associated with administration of an adenovirus vaccine
+process;Haemophilus vaccine adverse event;a bacterial adverse event that is associated with administration of a Haemophilus vaccine
+process;influenza vaccine adverse event;a virus vaccine adverse event that is associated with administration of an influenza virus vaccine
+process;Decavac vaccine adverse event;
+process;Daptacel vaccine adverse event;
+process;Comvax vaccine adverse event;
+process;Cervarix vaccine adverse event;
+process;Boostrix vaccine adverse event;
+process;Flublok-associated muscle pain AE;A Flublok vaccine adverse event that is associated with an administration of Flublok and displays a muscle pain AE
+process;Biothrax vaccine adverse event;
+process;Agriflu vaccine adverse event;An influenza vaccine adverse event that is associated with the administration of Agriflu.
+process;Tetanus Toxoid Absorbed-associated injection-site warmth AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an injection-site warmth AE
+process;Tetanus Toxoid Absorbed-associated injection-site redness AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an injection-site redness AE
+process;Tetanus Toxoid-associated arthralgia AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an arthralgia AE
+process;Tetanus Toxoid-associated nausea AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an nausea AE
+process;Tetanus Toxoid-associated hypotension AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an hypotension AE
+process;Tetanus Toxoid-associated pain AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an pain AE
+process;Tetanus Toxoid-associated fever AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an fever AE
+process;Tetanus Toxoid-associated malaise AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an malaise AE
+process;Tetanus Toxoid-associated rash AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an rash AE
+process;Tetanus Toxoid-associated urticaria AE;A Tetanus Toxoid (boost only) vaccine adverse event that is associated with an administration of Tetanus Toxoid and displays an urticaria AE
+process;Imovax Rabies-associated headache AE;A Imovax Rabies vaccine adverse event that is associated with an administration of Imovax Rabies and displays an headache AE
+process;Imovax Rabies-associated itching;A Imovax Rabies vaccine adverse event that is associated with an administration of Imovax Rabies and displays an itching
+process;Adacel-associated fatigue AE;A Adacel vaccine adverse event that is associated with an administration of Adacel and displays an fatigue AE
+process;Imovax Rabies-associated local swelling AE;A Imovax Rabies vaccine adverse event that is associated with an administration of Imovax Rabies and displays an local swelling AE
+process;Imovax Rabies-associated injection-site erythema AE;A Imovax Rabies vaccine adverse event that is associated with an administration of Imovax Rabies and displays an injection-site erythema AE
+process;Imovax Rabies-associated injection-site pain AE;A Imovax Rabies vaccine adverse event that is associated with an administration of Imovax Rabies and displays an injection-site pain AE
+process;Adacel-associated injection-site erythema AE;A Adacel vaccine adverse event that is associated with an administration of Adacel and displays an injection-site erythema AE
+process;IPOL-associated crying abnormal AE;A IPOL vaccine adverse event that is associated with an administration of IPOL and displays an crying abnormal AE
+process;Adacel-associated local swelling AE;A Adacel vaccine adverse event that is associated with an administration of Adacel and displays an local swelling AE
+process;IPOL-associated fussiness AE;A IPOL vaccine adverse event that is associated with an administration of IPOL and displays an fussiness AE
+process;Adacel-associated injection-site pain AE;A Adacel vaccine adverse event that is associated with an administration of Adacel and displays an injection-site pain AE
+process;IPOL-associated sleepiness AE;A IPOL vaccine adverse event that is associated with an administration of IPOL and displays an sleepiness AE
+process;IPOL-associated irritability AE;A IPOL vaccine adverse event that is associated with an administration of IPOL and displays an irritability AE
+process;IPOL-associated fever AE;A IPOL vaccine adverse event that is associated with an administration of IPOL and displays an fever AE
+process;Tetanus Toxoid Absorbed-associated arthralgia AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an arthralgia AE
+process;Tetanus Toxoid Absorbed-associated nausea AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an nausea AE
+process;Tetanus Toxoid Absorbed-associated hypotension AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an hypotension AE
+process;Tetanus Toxoid Absorbed-associated pain AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an pain AE
+process;Tetanus Toxoid Absorbed-associated fever AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an fever AE
+process;Tetanus Toxoid Absorbed-associated malaise AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an malaise AE
+process;Tetanus Toxoid Absorbed-associated rash AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an rash AE
+process;Tetanus Toxoid Absorbed-associated urticaria AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an urticaria AE
+process;Tetanus Toxoid Absorbed-associated induration with tenderness AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an induration with tenderness AE
+process;Tetanus Toxoid Absorbed-associated injection-site induration AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an injection-site induration AE
+process;Tetanus Toxoid Absorbed-associated injection-site edema AE;A Tetanus Toxoid Absorbed vaccine adverse event that is associated with an administration of Tetanus Toxoid Absorbed and displays an injection-site edema AE

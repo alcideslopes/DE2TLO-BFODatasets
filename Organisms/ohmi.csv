@@ -1,0 +1,456 @@
+class;term;comment
+material entity;differentially enriched microbial marker for disease;A microbe that is differentially enriched in a microbiome host and can serve as a marker for a disease
+process;depletion of Bacteroidales in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroidales is decreased.
+process;expansion of Prevotella oulorum in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an expansion of Prevotella oulorum in patients with SLE compared with healthy controls.
+process;depletion of Rikenellaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Rikenellaceae is decreased.
+process;microbiome-gut-brain interaction;An host-microbiome interaction that involves the interaction between enteric microbiota on the host and the host brain (esp. the central nervous system), which often leads to a specific nervous phenotype
+process;expansion of Negativicutes in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Negativicutes in patients with gout compared with healthy controls.
+process;expansion of Fretibacterium fastidiosum in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an expansion of Fretibacterium fastidiosum in patients with SLE compared with healthy controls.
+process;depletion of B. uniformis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroides uniformis is decreased.
+process;microbiome-cancer interaction;An host-microbiome interaction that is associated with cancer
+process;human skin microbiome interaction;An interaction between human and zone of skin microbiome.
+process;expansion of Fusobacterium in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an expansion of Fusobacterium in patients with SLE compared with healthy controls.
+process;microbiome-immune-cancer interaction;An interaction between microbiome and host immune system that is associated with cancer
+process;host-microbiome interaction;A biological interaction between a microbiome and its host
+process;PsA human zone of skin microbiome interaction;A human skin microbiome interaction that is associated with psoriatic arthritis (PsA).
+process;expansion of Selenomonas in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an expansion of Selenomonas in patients with SLE compared with healthy controls.
+material entity;host;An organism that has 'host role', i.e., a role played by an organism and realized by providing nourishment, shelter or a means of reproduction to another organism.
+material entity;human microbiome;A microbiome located in a human body
+process;depletion of Vibrionaceae in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Vibrionaceae in patients with gout compared with healthy controls.
+process;expansion of Treponema in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an expansion of Treponema in patients with SLE compared with healthy controls.
+process;expansion of Providencia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Providencia is increased.
+material entity;microbiome;A biome that consists of a collection of microorganisms (i.e., microbiota) and the surrounding environment where the microorganisms reside.
+process;depletion of Photobacterium in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Photobacterium in patients with gout compared with healthy controls.
+process;expansion of Chloroflexi in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Chloroflexi in patients with gout compared with healthy controls.
+process;expansion of Bacteroidaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroidaceae is increased.
+material entity;mouse microbiome;A microbiome located in a mouse body
+process;depletion of Vibrio in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Vibrio in patients with gout compared with healthy controls.
+process;expansion of Anaerolineae in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Anaerolineae in patients with gout compared with healthy controls.
+process;expansion of Streptococcaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Streptococcaceae is increased.
+material entity;bacterial microbiome;A microbiome that includes a collective population of bacterial organisms.
+process;depletion of Eubacterium ventriosum in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Eubacterium ventriosum is decreased.
+process;expansion of Anaerolineales in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Anaerolineales in patients with gout compared with healthy controls.
+process;expansion of Fusobacteriaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Fusobacteriaceae is increased.
+material entity;fungal microbiome;A microbiome that includes a collective population of fungal microorganisms.
+process;depletion of Lachnospiraceae in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Lachnospiraceae in patients with gout compared with healthy controls.
+process;expansion of Anaerolineaceae in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Anaerolineaceae in patients with gout compared with healthy controls.
+process;expansion of Peptostreptococcaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Peptostreptococcaceae is increased.
+material entity;viral microbiome;A microbiome that includes a collective population of virus
+process;depletion of Ruminococcaceae in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Ruminococcaceae in patients with gout compared with healthy controls.
+process;expansion of Corynebacteriales in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Corynebacteriales in patients with gout compared with healthy controls.
+material entity;fungal microbiome of skin;A fungal microbiome that is located in the skin of a host organism
+process;expansion of Erysipelatoclostridium in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Erysipelatoclostridium in patients with gout compared with healthy controls.
+material entity;fungal microbiome of mucosal site;A fungal microbiome that is located in a mucosal site of a host organism (e.g., urogenital tract, oral cavity, and gastrointestinal tract)
+process;expansion of Veillonellaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Veillonellaceae is increased.
+process;expansion of Nocardiaceae in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Nocardiaceae in patients with gout compared with healthy controls.
+process;expansion of Pasteurellaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Pasteurellaceae is increased.
+process;expansion of Escherichia coli EPEC 32/73 in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Escherichia coli EPEC32/73 in patients with gout compared with healthy controls.
+process;expansion of Rhodococcus in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Rhodococcus in patients with gout compared with healthy controls.
+process;expansion of Porphyromonas in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Porphyromonas is increased.
+material entity;fungal microbiome of lung;A fungal microbiome that is located in a lung of a host organism
+process;expansion of E. coli ETEC TW03439 in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Escherichia coli ETEC TW03439 in patients with gout compared with healthy controls.
+process;expansion of Mogibacterium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Mogibacterium is increased.
+process;interaction between microbiome and host immune system;A host-microbiome interaction where the microbiome interacts with the host immune system
+process;expansion of Barnesiella in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Barnesiella in patients with gout compared with healthy controls.
+process;expansion of Selenomonadales in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Selenomonadales in patients with gout compared with healthy controls.
+process;expansion of Erysipelotrichaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Erysipelotrichaceae is increased.
+process;interaction between microbiome and adaptive immune system;A interaction between microbiome and host immune system where the immune system is the host adaptive immune system
+process;expansion of Parasporobacterium in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Parasporobacterium in patients with gout compared with healthy controls.
+process;expansion of Desulfovibrionaceae in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Desulfovibrionaceae in rattus with arthritis compared with healthy controls.
+process;expansion of Prevotellaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Prevotellaceae is increased.
+material entity;microbiome in human lung;a human microbiome that is located in a human respiratory system
+process;expansion of Paraprevotella in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Paraprevotella in patients with gout compared with healthy controls.
+process;ERA human-gut microbiome interaction;A human gut-microbiome interaction that is associated with juvenile rheumatoid arthritis (ERA).
+process;expansion of Coriobacteriaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Coriobacteriaceae is increased.
+material entity;microbiome in human respiratory system;a human microbiome that is located in a human lung
+process;expansion of Anaerotruncus in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Anaerotruncus in patients with gout compared with healthy controls.
+process;expansion of Bacteroidaceae in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Bacteroidaceae in patients with ERA compared with healthy controls.
+material entity;microbiome in human oral;a human microbiome that is located in a human oral system
+process;expansion of Pseudobutyrivibrio in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Pseudobutyrivibrio in patients with gout compared with healthy controls.
+process;expansion of Enterobacteriaceae in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Enterobacteriaceae in patients with ERA compared with healthy controls.
+process;depletion of Ruminococcaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Ruminococcaceae is decreased.
+material entity;microbiome in human gastrointestinal system;a human microbiome that is located in a human gastrointestinal system
+process;expansion of Bacteroides caccae in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Bacteroides caccae in patients with gout compared with healthy controls.
+process;expansion of Enterococcaceae in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Enterococcaceae in patients with ERA compared with healthy controls.
+process;depletion of Lactobacillaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Lactobacillaceae is decreased.
+material entity;microbiome in human cutaneous system;a human microbiome that is located in a human cutaneous system
+process;expansion of Bacteroides sp in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Bacteroides sp in patients with gout compared with healthy controls.
+process;expansion of Bacteroides in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Bacteroides in patients with ERA compared with healthy controls.
+material entity;microbiome in human urogenital system;a human microbiome that is located in a human urogenital system
+process;expansion of Bacteroides xylanisolvens XB1A in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Bacteroides xylanisolvens XB1A in patients with gout compared with healthy controls.
+process;human-microbiome interaction;A host-microbiome interaction where the host is human
+material entity;microbe;An organism or virus or viron that is too small to be viewed by the unaided eye.
+process;expansion of Parabacteroides in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Parabacteroides is increased.
+quality;dysbiosis;
+process;expansion of Methylobacterium in RA human respiratory airway;RA human respiratory airway microbiome interaction that shows an expansion of Methylobacterium in patients with RA compared with healthy controls.
+process;expansion of Alistipes in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where ParaAlistipes is increased.
+quality;invisible to unaided eye;A physical object quality that is inhered in a material entity that is too small to be viewed by the unaided eye.
+process;expansion of Ruminococcaceae in AS human gut;an AS human-gut microbiome interaction that shows an expansion of Ruminococcaceae in patients with AS compared with healthy controls.
+process;expansion of Natronobacillus in diarrheal patient gut;a diarrheal patient-gut microbiome interaction that shows an increase of Prevotella in patients in the gut of human diarrheal patient compared with healthy controls.
+process;expansion of B. ovatus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroides ovatus is increased.
+material entity;microbiota;A collection of microbial organisms that reside in a particular environment.
+process;expansion of Lachnospiraceae in AS human gut;an AS human-gut microbiome interaction that shows an expansion of Lachnospiraceae in patients with AS compared with healthy controls.
+process;expansion of Eggerthella in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Eggerthella in patients with RA compared with healthy controls.
+process;expansion of B. xylanisolvens in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroides xylanisolvens is increased.
+generically dependent continuant;pH value;A measurement datum that is a logarithmic scale used to specify the acidity or basicity of an aqueous solution. It is the negative of the base 10 logarithm of the activity of the hydrogen ion. At 25 °C, solutions with a pH less than 7 are acidic and solutions with a pH greater than 7 are basic.
+process;expansion of Bacteroidaceae in AS human gut;an AS human-gut microbiome interaction that shows an expansion of Bacteroidaceae in patients with AS compared with healthy controls.
+process;expansion of Treponema denticola in AS human oral cavity;an AS human oral cavity microbiome interaction that shows an expansion of rare taxa,Treponema denticola in patients with AS compared with healthy controls.
+process;human-urine microbiome interaction;An interaction between human and urine microbiome.
+material entity;DMARD;A drug product that has its ability to alter the progression of a rheumatic disease.
+process;expansion of Prevotellaceae in AS human gut;an AS human-gut microbiome interaction that shows an expansion of Prevotellaceae in patients with AS compared with healthy controls.
+process;expansion of Rikenellaceae in AS human gut;an AS human-gut microbiome interaction that shows an expansion of Rikenellaceae in patients with AS compared with healthy controls.
+process;RA human-urine microbiome interaction;A human urine-microbiome interaction that is associated with rheumatoid arthritis (RA).
+quality;microbial species diversity;
+process;expansion of Veillonellaceae in AS human gut;an AS human-gut microbiome interaction that shows an expansion of rare taxa,Veillonellaceae in patients with AS compared with healthy controls.
+process;expansion of Porphyromonas macacae in AS human gut;an AS human-gut microbiome interaction that shows an expansion of Porphyromonas macacae in patients with AS compared with healthy controls.
+process;depletion of Lachnospiraceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Lachnospiraceae is decreased.
+process;expansion of Klebsiella pneumoniae in AS human gut;an AS human-gut microbiome interaction that shows an expansion of Klebsiella pneumoniae in patients with AS compared with healthy controls.
+process;Rikenellaceae depletion in AS rat gut;An association of rattus gut microbiota with ankylosing spondylitis(AS) that shows a depleted quantity of Rikenellaceae in rattus with AS compared with healty controls.
+quality;relative species abundance;A quality of ecological community that refers to how common or rare a species is relative to other species in a defined location or community
+process;AS human oral cavity microbiome interaction;A human oral cavity microbiome interaction that is associated with ankylosing spondylitis (AS).
+process;expansion of Campylobacter in AS human gut;an AS human-gut microbiome interaction that shows an expansion of Campylobacter in patients with AS compared with healthy controls.
+quality;relative abundance of microbe in host;A relative species abundance that refers to the microbial species abundance in a host ecosystem
+process;expansion of Klebsiella pneumoniae in AS human oral cavity;an AS human oral cavity microbiome interaction that shows an expansion of Klebsiella pneumoniae in patients with AS compared with healthy controls.
+process;expansion of Eubacterium in SLE human gut;a SLE human-gut microbiome interaction that shows an expansion of Eubacterium in patients with SLE compared with healthy controls.
+process;expansion of Enterobacteriaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Enterobacteriaceae is increased.
+process;expansion of Prevotella intermedia in AS human oral cavity;an AS human oral cavity microbiome interaction that shows an expansion of Prevotella intermedia in patients with AS compared with healthy controls.
+process;expansion of Flavonifractor in SLE human gut;a SLE human-gut microbiome interaction that shows an expansion of Flavonifractor in patients with SLE compared with healthy controls.
+process;expansion of Tannerella forsythia in AS human oral cavity;an AS human oral cavity microbiome interaction that shows an expansion of rare taxa,Tannerella forsythia in patients with AS compared with healthy controls.
+material entity;microbial genome;A genome from a microbe
+quality;alpha diversity;the mean species diversity in sites or habitats at a local scale
+process;expansion of Rhodococcus in SLE human gut;a SLE human-gut microbiome interaction that shows an expansion of Rhodococcus in patients with SLE compared with healthy controls.
+process;depletion of L. acidophilus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Lactobacillus acidophilus is decreased.
+quality;beta diversity;the ratio between regional and local species diversity
+process;AS rat-gut microbiome interaction;A rattus gut-microbiome interaction that is associated with ankylosing spondylitis (AS).
+process;expansion of Atopobium sp. in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of rare taxa,Atopobium sp. in patients with RA compared with healthy controls.
+process;'depletion of Bacteroides in colorectal cancer human gut';A colorectal cancer human-gut microbiome interaction where Bacteroides is decreased.
+quality;gamma diversity;the total species diversity in a landscape
+process;expansion of Prevotella in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an expansion of Prevotella in patients with SLE compared with healthy controls.
+process;depletion of Clostridiales in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Clostridiales is decreased.
+process;host microbiome restoration;A biological process that leads to the restoration of microbial community in a host organism
+process;depletion of Firmicutes in SLE human gut;a SLE human-gut microbiome interaction that shows an decrease of Firmicutes in patients with SLEcompared with healthy controls.
+process;expansion of Eggerthella in SLE human gut;a SLE human-gut microbiome interaction that shows an expansion of Eggerthella in patients with SLE compared with healthy controls.
+process;host microbiome restoration by treatment;A host microbiome restoration that is due to a treatment
+process;expansion of Bacteroidetes in SLE human gut;a SLE human-gut microbiome interaction that shows an expansion of Bacteroidetes in patients with SLE compared with healthy controls.
+process;depletion of Prevotella pleuritidis in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an decrease of Prevotella pleuritidis in patients with SLE compared with healthy controls.
+process;expansion of unclassified Proteobacteria in diarrheal patient gut;a diarrheal patient-gut microbiome interaction that shows an increase of unclassified Proteobacteria in patients in the gut of human diarrheal patient compared with healthy controls.
+process;host microbiome restoration by DMARD;host microbiome restoration by a DMARD treatment
+process;gout human-gut microbiome interaction;A human gut-microbiome interaction that is associated with gout.
+process;depletion of Pseudomonas sp. in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an decrease of Pseudomonas sp. in patients with SLE compared with healthy controls.
+process;depletion of Firmicutes in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Firmicutes is decreased.
+process;host microbiome restoration by antibiotics;host microbiome restoration by an antibiotics treatment
+process;expansion of Bacteroidetes in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of rare taxa,Bacteroidetes in patients with gout compared with healthy controls.
+process;depletion of Treponema maltophilum in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an decrease of Treponema maltophilum in patients with SLE compared with healthy controls.
+process;depletion of Bacteroidetes in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroidetes is decreased.
+process;host microbiome restoration by microbiota transplantation;host microbiome restoration through the transplantation of a microbiota into the host
+process;expansion of Bacteroides in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Bacteroides in patients with gout compared with healthy controls.
+process;depletion of Capnocytophaga gingivalis in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an decrease of Capnocytophaga gingivalis in patients with SLE compared with healthy controls.
+material entity;differentially enriched microbial marker for dysbiosis;A microbe that is differentially enriched in a microbiome host and can serve as a marker for a dysbiosis
+process;expansion of Bacteroidales in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Bacteroidales in patients with gout compared with healthy controls.
+process;depletion of Streptococcus sanguinis in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an decrease of Streptococcus sanguinis in patients with SLE compared with healthy controls.
+process;expansion of Porphyromonadaceae in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Porphyromonadaceae in patients with gout compared with healthy controls.
+process;depletion of Haemophilus parainfluenzae in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows a depletion of Haemophilus parainfluenzae in patients with SLE compared with healthy controls.
+process;expansion of Bacteroidaceae in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Bacteroidaceae in patients with gout compared with healthy controls.
+process;reactive arthritis rat-gut microbiome interaction;A rattus gut-microbiome interaction that is associated with reactive arthritis'.
+process;depletion of Propionibacterium in PsA human skin;a PsA human skin microbiome interaction that shows an decrease of Propionibacterium in patients with PsA compared with healthy controls.
+process;expansion of Yersinia in reactive arthritis rat gut;An association of rattus gut microbiota with reactive arthritis that shows an expansion of Yersinia in rattus with juvenile rheumatoid arthritis compared with healthy controls.
+process;depletion of Veillonella in RA human gut;a RA human-gut microbiome interaction that shows an decrease of Veillonellain in patients with RA compared with healthy controls.
+process;depletion of Actinobacteria <phylum> in PsA human skin;a PsA human skin microbiome interaction that shows an decrease of Actinobacteria <phylum> in patients with PsA compared with healthy controls.
+process;expansion of Salmonella in reactive arthritis rat gut;An association of rattus gut microbiota with reactive arthritis that shows an expansion of Salmonella in rattus with reactive arthritis compared with healthy controls.
+process;depletion of Sutterella wadsworthensis in RA human gut;RA human-gut microbiome interaction that shows an decrease of Sutterella wadsworthensis in patients with RA compared with healthy controls.
+process;depletion of Proteobacteria in PsA human skin;a PsA human skin microbiome interaction that shows an decrease of Proteobacteria in patients with PsA compared with healthy controls.
+process;expansion of S. moorei in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Solobacterium moorei is increased.
+process;depletion of Megamonas hypermegale in RA human gut;a RA human-gut microbiome interaction that shows an decrease of Megamonas hypermegale in patients with RA compared with healthy controls.
+process;expansion of Firmicutes in PsA human skin;a PsA human skin microbiome interaction that shows an expansion of Firmicutes in patients with PsA compared with healthy controls.
+process;expansion of [Clostridium] asparagiforme in RA human gut;a RA human-gut microbiome interaction that shows an expansion of [Clostridium] asparagiforme in patients with RA compared with healthy controls.
+process;expansion of Bacteroidetes in PsA human skin;a PsA human skin microbiome interaction that shows an expansion of Bacteroidetes in patients with PsA compared with healthy controls.
+process;expansion of Fusobacteria in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Fusobacteria is increased.
+process;expansion of B. fragilis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where B. fragilis is increased.
+process;expansion of Candida albicans in PsA human gut;a PsA human-gut microbiome interaction that shows an expansion of Candida albicans in patients with PsA compared with healthy controls.
+process;expansion of Basidiomycota in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Basidiomycota is increased.
+process;expansion of Eggerthella lenta in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Eggerthella lenta in patients with RA compared with healthy controls.
+process;PsA human oral cavity microbiome interaction;A human oral cavity microbiome interaction that is associated with psoriatic arthritis (PsA).
+process;expansion of Parvimonas in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Parvimonas is increased.
+quality;decreased organism quantity in acute disease patient compared with chronic disease control;A quality with a depleted quantity of a type of organism (e.g., bacteria inside human gut) in a patient with an acute disease compared with a patient control with the same disease but at a chronic stage.
+process;expansion of Candida albicans in PsA human oral cavity;An association of human oral cavity microbiota with psoriatic arthritis(PsA) that shows an expansion of Candida albicans in patients with PsA compared with healthy controls.
+process;expansion of Peptostreptococcusi in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Peptostreptococcus is increased.
+process;rat-microbiome interaction;A host-microbiome interaction where the host is rattus.
+process;depletion of Malassezia restricta in PsA human skin;a PsA human skin microbiome interaction that shows an decrease of Malassezia restricta in patients with PsA compared with healthy controls.
+process;expansion of Fusobacterium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Fusobacterium is increased.
+process;expansion of Bifidobacterium dentium in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Bifidobacterium dentium in patients with RA compared with healthy controls.
+process;depletion of Malassezia sympodialis in PsA human skin;a PsA human skin microbiome interaction that shows an decrease of Malassezia sympodialis in patients with PsA compared with healthy controls.
+process;expansion of Lactobacillus sp in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Lactobacillus sp in patients with RA compared with healthy controls.
+process;expansion of Beggiatoa in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Beggiatoa is increased.
+process;depletion of Malassezia pachydermatis in PsA human skin;a PsA human skin microbiome interaction that shows an decrease of Malassezia pachydermatis in patients with PsA compared with healthy controls.
+process;expansion of Malassezia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Malassezia is increased.
+process;expansion of Ruminococcus lactaris in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Ruminococcus lactaris in patients with chronic RA compared with healthy controls.
+process;expansion of Porphyromonas gingivalis in AS human oral cavity;an AS human oral cavity microbiome interaction that shows an expansion of Porphyromonas gingivalis in patients with AS compared with healthy controls.
+process;expansion of Leptotrichia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Leptotrichia is increased.
+process;segregation of Prevotella or Bacteroides dominance in RA human gut;a RA human-gut microbiome interaction that shows high Prevotella or high Bacteroides relative abundance, but rarely a high relative abundance of both.
+process;depletion of Lactobacillus in SLE mouse gut;An association of musculus gut microbiota with system lupus erythematosus(SLE) that shows a depletion of Lactobacillus in musculus with SLE compared with healthy controls.
+process;expansion of Filifactor in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Filifactor is increased.
+quality;decreased organism quantity compared with fibromyalgia patients;A quality with a depleted quantity of a type of organism (e.g., bacteria inside human gut) compared with a patient control with the fibromyalgia (FM) disease.
+process;depletion of Aggregatibacter in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an decrease of Aggregatibacter in patients with RA compared with healthy controls.
+process;expansion of Crenothrix in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Crenothrix is increased.
+process;SLE human-gut microbiome interaction;A human gut-microbiome interaction that is associated with systemic lupus erythematosus (SLE).
+process;depletion of Neisseria sp. in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of Neisseria sp. in patients with RA compared with healthy controls.
+process;expansion of Solobacterium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Solobacterium is increased.
+process;colorectal cancer human-gut microbiome interaction;A human-gut microbiome interaction that is associated with colorectal cancer.
+process;expansion of Paraprevotella in AS rat gut;An association of rattus gut microbiota with ankylosing spondylitis(AS) that shows an expansion of Paraprevotella in rattus with AS compared with healthy controls.
+process;expansion of Sulfurovum in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Sulfurovum is increased.
+process;expansion of Prevotella in AS rat gut;An association of rattus gut microbiota with ankylosing spondylitis(AS) that shows an expansion of Prevotella in rattus with AS compared with healthy controls.
+process;expansion of Streptobacillus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Streptobacillus is increased.
+process;expansion of Actinomyces in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of Actinomyces in patients with RA compared with healthy controls.
+process;expansion of Moniliophthora in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Moniliophthora is increased.
+process;expansion of Fusobacterium sp. in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Fusobacterium sp. is increased.
+process;expansion of Prevotella in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of Prevotella in patients with RA compared with healthy controls.
+process;expansion of Slackia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Slackia is increased.
+process;depletion of Citrobacter in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Citrobacter is decreased.
+process;expansion of Leptotrichia sp. in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of Leptotrichia sp. in patients with RA compared with healthy controls.
+process;depletion of B. longum in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bifidobacterium longum is decreased.
+process;expansion of Enterococcus in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Enterococcus in patients with ERA compared with healthy controls.
+process;depletion of F. prausnitzii in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Faecalibacterium prausnitzii is decreased.
+process;expansion of Holdemania in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of Holdemania in patients with gout compared with healthy controls.
+process;expansion of Klebsiella in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Klebsiella in patients with ERA compared with healthy controls.
+process;depletion of Blautia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Blautia is decreased.
+material entity;human gut microbiome;A microbiome located in a human gut.
+process;expansion of Acetanaerobacterium in gout human gut;a Gout human-gut microbiome interaction that shows an expansion of rare taxa,Acetanaerobacterium in patients with gout compared with healthy controls.
+process;expansion of Prevotella in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Prevotella in patients with ERA compared with healthy controls.
+process;depletion of L. rhamnosus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Lactobacillus rhamnosus is decreased.
+process;human-gut microbiome interaction;An interaction between human and gut microbiome.
+process;depletion of Coprococcus catus in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Coprococcus catus in patients with gout compared with healthy controls.
+process;expansion of Badula fragilis in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Badula fragilis in patients with ERA compared with healthy controls.
+process;'depletion of L. reuteri in colorectal cancer human gut';A colorectal cancer human-gut microbiome interaction where Lactobacillus reuteri is decreased.
+process;human gut microbiome interaction in bowel syndrome;A human-gut microbiome interaction that is associated with bowel syndrome.
+process;depletion of Faecalibacterium prausnitzii in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Faecalibacterium prausnitzii in patients with gout compared with healthy controls.
+process;expansion of Bacteroides plebeius in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Bacteroides plebeius in patients with ERA compared with healthy controls.
+process;expansion of Proteus mirabilis in RA human urine;a RA human-urine microbiome interaction that shows an expansion of Proteus mirabilis in patients with RA compared with healthy controls.
+process;human gut microbiome interaction in Crohn's disease;A human-gut microbiome interaction that is associated with Crohn's disease.
+process;depletion of Oscillibacter in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Oscillibacter in patients with gout compared with healthy controls.
+process;depletion of Prevotellaceae in ERA human gut;an ERA human-gut microbiome interaction that shows an decrease of Prevotellaceae in patients with ERA compared with healthy controls.
+process;expansion of A. putredinis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Alistipes putredinis is increased.
+process;colon cancer human-gut microbiome interaction;A human-gut microbiome interaction that is associated with colon cancer.
+process;depletion of Ruminococcus sp. in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Ruminococcus sp. in patients with gout compared with healthy controls.
+process;depletion of Prevotella copri in ERA human gut;an ERA human-gut microbiome interaction that shows an decrease of Prevotella copri in patients with ERA compared with healthy controls.
+process;expansion of L. bacterium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Lachnospiraceae bacterium is increased.
+process;human gut microbiome and Clostridium difficile interaction;A human-gut microbiome interaction that involves in Clostridium difficile
+process;depletion of Odoribacter in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Odoribacter in patients with gout compared with healthy controls.
+process;expansion of Salmonella in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Salmonella in patients with ERA compared with healthy controls.
+process;expansion of E. coli NC101 in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Escherichia coli NC101 is increased.
+process;antibiotics reducing colonization resistance against C. difficile in human gut;A human-gut microbiome interaction where antibiotics have significant and long-lasting effects on the intestinal microbiota and consequently reduce colonization resistance against Clostridium difficile.
+process;depletion of Subdoligranulum in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Subdoligranulum in patients with gout compared with healthy controls.
+process;depletion of Prevotella in ERA human gut;an ERA human-gut microbiome interaction that shows an decrease of Prevotella stercorea in patients with ERA compared with healthy controls.
+process;expansion of B. wadsworthia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bilophila wadsworthia is increased.
+process;restoring human gut microbiome resistance to C. difficile infection by fecal microbiota transplantation;A human-gut microbiome interaction where a fecal microbiota transplantation is used to restore a human gut microbiome to a state resistant to Clostridium difficile infection.
+process;depletion of Robinsoniella in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Robinsoniella in patients with gout compared with healthy controls.
+process;depletion of Faecalibacterium prausnitzii in ERA human gut;an ERA human-gut microbiome interaction that shows an decrease of Faecalibacterium prausnitzii in patients with ERA compared with healthy controls.
+process;Clostridioides difficile infection;An infection process that is caused by Clostridioides difficile.
+process;depletion of Dialister in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Dialister in patients with gout compared with healthy controls.
+process;RA human-gut microbiome interaction;A human gut-microbiome interaction that is associated with rheumatoid arthritis (RA).
+process;depletion of B. animalis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bifidobacterium animalis is decreased.
+process;depletion of Lachnospiraceae in ERA human gut;an ERA human-gut microbiome interaction that shows an decrease of Lachnospiraceae in patients with ERA compared with healthy controls.
+process;depletion of S. thermophilus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Streptococcus thermophilus is decreased.
+process;depletion of Alistipes in gout human gut;a Gout human-gut microbiome interaction that shows an decrease of Alistipes in patients with gout compared with healthy controls.
+process;depletion of [Clostridium] clostridioforme in ERA human gut;an ERA human-gut microbiome interaction that shows an decrease of [Clostridium] clostridioforme in patients with ERA compared with healthy controls.
+process;depletion of Ruminococcus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Ruminococcus is decreased.
+process;patient with RA having decreased gut microbial diversity;An association of human gut microbiota with rheumatoid arthritis (RA) that shows a patient with RV exhibits decreased gut microbial diversity
+process;depletion of Propionibacterium acnes 17B in PsA human skin;a PsA human skin microbiome interaction that shows an decrease of Propionibacterium acnes 17B in patients with PsA compared with healthy controls.
+process;depletion of Bifidobacterium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bifidobacterium is decreased.
+process;PsA human-gut microbiome interaction;A human gut-microbiome interaction that is associated with juvenile psoriatic arthritis(PsA).
+process;expansion of Bifidobacterium in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Bifidobacterium in patients with ERA compared with healthy controls.
+process;depletion of Streptococcus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Streptococcus is decreased.
+quality;increased organism quantity compared with healthy control;A quality with an increased quantity of a type of organism (e.g., bacteria inside human gut) compared with control.
+process;depletion of Akkermansia in PsA human gut;a PsA human-gut microbiome interaction that shows an decrease of Akkermansia in patients with PsA compared with healthy controls.
+process;expansion of Akkermansia muciniphila in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Akkermansia muciniphila in patients with ERA compared with healthy controls.
+process;expansion of Escherichia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Escherichia is increased.
+quality;descreased microbiome organism diversity;A quality with an decreased microbiome organism dirversity in a host microbiome environment (e.g., gut).
+process;depletion of Ruminococcus in PsA human gut;a PsA human-gut microbiome interaction that shows an decrease of Ruminococcus in patients with PsA compared with healthy controls.
+process;depletion of Coprococcus in PsA human gut;a PsA human-gut microbiome interaction that shows an decrease of Coprococcus in patients with PsA compared with healthy controls.
+process;expansion of Bilophila in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bilophila is increased.
+process;depletion of Klebsiella pneumoniae in RA human gut;a RA human-gut microbiome interaction that shows an decrease of Klebsiella pneumoniae in patients with RA compared with healthy controls.
+process;depletion of Pseudobutyrivibrio in PsA human gut;a PsA human-gut microbiome interaction that shows an decrease of Pseudobutyrivibrio in patients with PsA compared with healthy controls.
+process;expansion of P. micra in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Parvimonas micra is increased.
+process;expansion of Bacteroidetes in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroidetes is increased.
+quality;decreased organism quantity compared with healthy controls;A quality with a depleted quantity of a type of organism (e.g., bacteria inside human gut) compared with control.
+process;depletion of Verrucomicrobia in PsA human gut;a PsA human-gut microbiome interaction that shows an decrease of Verrucomicrobia in patients with PsA compared with healthy controls.
+process;expansion of Diutina rugosa in PsA human gut;a PsA human-gut microbiome interaction that shows an expansion of Diutina rugosa in patients with PsA compared with healthy controls.
+process;expansion of S. equinus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Streptococcus equinus is increased.
+process;human oral cavity microbiome interaction;An interaction between human and oral microbiome.
+process;depletion of Parabacteroides in PsA human gut;a PsA human-gut microbiome interaction that shows an decrease of Parabacteroides in patients with PsA compared with healthy controls.
+process;expansion of Malassezia furfur in PsA human skin;a PsA human skin microbiome interaction that shows an expansion of Malassezia furfur in patients with PsA compared with healthy controls.
+process;expansion of Enterococcaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Enterococcaceae is increased.
+process;expansion of Gordonibacter pamelaeae in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Gordonibacter pamelaeae in patients with RA compared with healthy controls.
+process;depletion of Coprobacillus in PsA human gut;a PsA human-gut microbiome interaction that shows an decrease of Coprobacillus in patients with PsA compared with healthy controls.
+process;expansion of Yersinia in ERA human gut;an ERA human-gut microbiome interaction that shows an expansion of Yersinia in patients with ERA compared with healthy controls.
+process;expansion of Prevotellaceae in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Prevotellaceae in patients with chronic RA compared with healthy controls.
+process;expansion of Streptococcus in PsA human skin;a PsA human skin microbiome interaction that shows an expansion of Streptococcus in patients with PsA compared with healthy controls.
+process;depletion of Bifidobacterium bifidum in RA human gut;a RA human-gut microbiome interaction that shows an decrease of Bifidobacterium bifidum in patients with RA compared with healthy controls.
+process;depletion of Pseudobutyrivibrio in SLE human gut;a SLE human-gut microbiome interaction that shows a depletion of Pseudobutyrivibrio in patients with SLE compared with healthy controls.
+process;SLE human oral cavity microbiome interaction;A human oral cavity microbiome interaction that is associated with systemic lupus erythematosus (SLE).
+process;RA human oral cavity microbiome interaction;A human oral cavity microbiome interaction that is associated with rheumatoid arthritis (RA).
+process;depletion of Haemophilus in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an decrease of Haemophilus in patients with RA compared with healthy controls.
+process;expansion of Actinobacteria<phylum> in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Actinobacteria<phylum> in patients with RA compared with healthy controls.
+process;depletion of Cardiobacterium in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an decrease of Cardiobacterium in patients with RA compared with healthy controls.
+process;depletion of Eikenella in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an decrease of Eikenella in patients with RA compared with healthy controls.
+process;depletion of Kingella in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of Kingella in patients with RA compared with healthy controls.
+process;depletion of Rothia aeria in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of Rothia aeria in patients with RA compared with healthy controls.
+process;depletion of Prevotella in diarrheal patient gut;a diarrheal patient-gut microbiome interaction that shows an decrease of Prevotella in patients in the gut of human diarrheal patient compared with healthy controls.
+process;expansion of Prevotella copri in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Prevotella copri in patients with RA compared with healthy controls.
+process;depletion of Haemophilus spp. in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an decrease of Haemophilus sp in patients with RA compared with healthy controls.
+process;expansion of Cryptobacterium curtum in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an increase of Cryptobacterium curtum in patients with RA compared with healthy controls.
+process;expansion of Veillonella in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of Veillonella in patients with RA compared with healthy controls.
+process;rat gut microbiome interaction;An interaction between rattus and gut microbiome.
+process;expansion of Escherichia coli in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Escherichia coli in patients with RA compared with healthy controls.
+process;depletion of Clostridiales in SLE human oral cavity;a SLE human oral cavity microbiome interaction that shows an decrease of Clostridiales in patients with SLE compared with healthy controls.
+process;depletion of Faecalibacterium in RA human gut;a RA human-gut microbiome interaction that shows an decrease of Faecalibacterium in patients with RA compared with healthy controls.
+process;AS human-gut microbiome interaction;A human gut-microbiome interaction that is associated with ankylosing spondylitis (AS).
+process;expansion of Tannerella forsythia in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of rare taxa,Tannerella forsythia in patients with RA compared with healthy controls
+process;Akkermansia muciniphila depletion in AS rat gut;An association of rattus gut microbiota with ankylosing spondylitis(AS) that shows a depleted quantity of Akkermansia muciniphila in rattus with AS compared with healty controls.
+process;expansion of Porphyromonas gingivalis in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Porphyromonas gingivalis in patients with RA compared with healthy controls.
+process;expansion of Bacteroides vulgatus in AS rat gut;An association of rattus gut microbiota with ankylosing spondylitis(AS) that shows an expansion of Bacteroides vulgatus in rattus with AS compared with healthy controls.
+process;depletion of Shigella in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Shigella is decreased.
+process;arthritis rat-gut microbiome interaction;A rattus gut-microbiome interaction that is associated with arthritis.
+process;expansion of Prevotella intermedia in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of rare taxa,Prevotella intermedia in patients with RA compared with healthy controls.
+process;expansion of Bifidobacterium in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Bifidobacterium in rattus with arthritis compared with healthy controls.
+process;expansion of Porphyromonas gingivalis in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of Porphyromonas gingivalis in patients with RA compared with healthy controls.
+process;expansion of Propionibacterium acnes 17B in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Propionibacterium acnes 17B in rattus with arthritis compared with healthy controls.
+process;expansion of Proteus mirabilis in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Proteus mirabilis in patients with RA compared with healthy controls.
+process;expansion of Lactobacillus casei in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Lactobacillus casei in rattus with arthritis compared with healthy controls.
+process;expansion of Collinsella aerofaciens in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Collinsella aerofaciens in patients with RA compared with healthy controls.
+process;expansion of Lactobacillus fermentum in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Lactobacillus fermentum in rattus with arthritis compared with healthy controls.
+process;diarrheal patient-gut microbiome interaction;A human gut-microbiome interaction that is associated with the diarrhea disease
+process;expansion of Lactobacillus murinus in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Lactobacillus murinus in rattus with arthritis compared with healthy controls.
+process;expansion of Klebsiella in SLE human gut;a SLE human-gut microbiome interaction that shows an expansion of Klebsiella in patients with SLE compared with healthy controls.
+process;expansion of Lactobacillus acidophilus in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Lactobacillus acidophilus in rattus with arthritis compared with healthy controls.
+process;expansion of Lactobacillus salivarius in RA human oral cavity;a RA human oral cavity microbiome interaction that shows an expansion of Lactobacillus salivarius in patients with RA compared with healthy controls.
+process;expansion of E. coli in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Escherichia coli in rattus with arthritis compared with healthy controls.
+process;expansion of Clostridia in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Clostridia in patients with RA compared with healthy controls.
+process;expansion of Lactobacillus in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Lactobacillus in rattus with arthritis compared with healthy controls.
+process;expansion of Clostridium perfringens in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Clostridium perfringens in patients with RA compared with healthy controls.
+process;expansion of Bacteroidaceae in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Bacteroidaceae in rattus with arthritis compared with healthy controls.
+process;expansion of Prevotella in SLE human gut;a SLE human-gut microbiome interaction that shows an expansion of Prevotella in patients with SLE compared with healthy controls.
+process;Lachnospiraceae depletion in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows a depleted quantity of Lachnospiraceae in rattus with arthritis compared with healty controls.
+process;depletion of Dialister in SLE human gut;a SLE human-gut microbiome interaction that shows a depletion of Dialister in patients with SLE compared with healthy controls.
+process;expansion of Bacteroides fragilis in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Bacteroides fragilis in rattus with arthritis compared with healthy controls.
+process;depletion of Bacteroides in RA human gut;a RA human-gut microbiome interaction that shows an decrease of Bacteroides in patients with RA compared with healthy controls.
+process;mouse-microbiome interaction;A host-microbiome interaction where the host is musculus.
+process;depletion of Porphyromonas in RA human gut compared to fibromyalgia patients;a RA human-gut microbiome interaction that shows an decrease of Porphyromonas in patients with RA compared to fibromyalgia patients
+process;mouse gut microbiome interaction;An interaction between musculus and gut microbiome.
+process;depletion of Prevotella in RA human gut compared to fibromyalgia patients;a RA human-gut microbiome interaction that shows an decrease of Prevotella in patients with RA compared to fibromyalgia patients
+process;SLE mouse-gut microbiome interaction;A musculus gut-microbiome interaction that is associated with system lupus erythematosus(SLE).
+process;human respiratory airway microbiome interaction;An interaction between human and respiratory airway microbiome.
+process;expansion of Lachnospiraceae in SLE mouse gut;An association of musculus gut microbiota with system lupus erythematosus(SLE) that shows an expansion of Lachnospiraceae in musculus with SLE compared with healthy controls.
+process;RA human respiratory airway microbiome interaction;A human respiratory airway microbiome interaction that is associated with rheumatoid arthritis (RA).
+process;expansion of Ruminococcaceae in SLE mouse gut;An association of musculus gut microbiota with system lupus erythematosus(SLE) that shows an expansion of Ruminococcaceae in musculus with SLE compared with healthy controls.
+process;depletion of Porphyromonas in RA human respiratory airway;RA human respiratory airway microbiome interaction that shows an decrease of Porphyromonas in patients with RA compared with healthy controls.
+process;depletion of Prevotella in RA human respiratory airway;RA human respiratory airway microbiome interaction that shows an decrease of Prevotella in patients with RA compared with healthy controls.
+process;expansion of Campylobacter in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Campylobacter is increased.
+process;expansion of Salmonella in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Salmonella is increased.
+process;expansion of Shigella in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Shigella is increased.
+process;depletion of B. animalis subsp. lactis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bifidobacterium animalis subsp. lactis is decreased.
+process;expansion of Chlamydia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Chlamydia is increased.
+process;expansion of Mycobacterium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Mycobacterium is increased.
+process;expansion of Clostridia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Clostridia is increased.
+process;expansion of C. Portiera in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Candidatus Portiera is increased.
+process;expansion of P. mirabilis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Proteus mirabilis is increased.
+process;expansion of K. pneumoniae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Klebsiella pneumoniae is increased.
+process;expansion of Proteobacteria in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction whereProteobacteria is increased.
+process;expansion of Helicobacter in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Helicobacter is increased.
+process;depletion of R. hominis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Roseburia hominis is decreased.
+process;depletion of Blautia coccoides in RA human gut compared to fibromyalgia patients;a RA human-gut microbiome interaction that shows an decrease of Blautia coccoides in patients with RA compared with fibromyalgia patients.
+process;expansion of H. pylori in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Helicobacter pylori is increased.
+process;expansion of H. hepaticus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Helicobacter hepaticus is increased.
+process;expansion of F. nucleatum in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Fusobacterium nucleatum is increased.
+process;expansion of P. anaerobius in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Peptostreptococcus anaerobius is increased.
+process;depletion of Bacteroides in RA human gut compared to fibromyalgia patients;a RA human-gut microbiome interaction that shows an decrease of Bacteroides in patients with RA compared with fibromyalgia patients.
+process;expansion of F. hwasookii in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Fusobacterium hwasookii is increased.
+process;expansion of Acinetobacter in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Acinetobacter is increased.
+process;depletion of L. bovis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Lachnobacterium bovis is decreased.
+process;expansion of B.obeum in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Blautia obeum is increased.
+process;expansion of Clostridiales in SLE mouse gut;An association of musculus gut microbiota with system lupus erythematosus(SLE) that shows an expansion of Clostridiales in musculus with SLE compared with healthy controls.
+process;depletion of L.pectinoschiza in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Lachnospira pectinoschiza is decreased.
+process;expansion of C. adipataccumulans in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Catenisphaera adipataccumulans is increased.
+process;expansion of Streptococcaceae in SLE mouse gut;An association of musculus gut microbiota with system lupus erythematosus(SLE) that shows an expansion of Streptococcaceae in musculus with SLE compared with healthy controls.
+process;depletion of P.ruminis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Pseudobutyrivibrio ruminis is decreased.
+process;expansion of Microbacterium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Microbacterium is increased.
+process;expansion of Streptococcus pyogenes in arthritis rat gut;An association of rattus gut microbiota with arthritis that shows an expansion of Streptococcus pyogenes in rattus with arthritis compared with healthy controls.
+process;depletion of R.albus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Ruminococcus albus is decreased.
+process;expansion of Anoxybacillus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Anoxybacillus is increased.
+process;arthritis mouse-gut microbiome interaction;A musculus gut-microbiome interaction that is associated with arthritis
+process;depletion of D. invisus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Dialister invisus is decreased.
+process;expansion of C. rodentium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Citrobacter rodentium is increased.
+process;expansion of Prevotella copri in arthritis mouse gut;An association of musuculus gut microbiota with arthritis that shows an expansion of Prevotella copri in musuculus with arthritis compared with healthy controls.
+process;depletion of D. pneumosintes in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Dialister pneumosintes is decreased.
+process;expansion of E. faecalis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Enterococcus faecalis is increased.
+process;Actinobacteria<class> depletion in arthritis mouse gut;An association of musculus gut microbiota with arthritis that shows a depleted quantity of Actinobacteria<class> in musculus with arthritis compared with healty controls.
+process;depletion of M. hypermegale in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Megamonas hypermegale is decreased.
+process;expansion of C. scindens in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where [Clostridium] scindens is increased.
+process;Bacteroides depletion in arthritis mouse gut;An association of musculus gut microbiota with arthritis that shows a depleted quantity of Bacteroides in musculus with arthritis compared with healty controls.
+process;expansion of Acidaminobacter in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Acidaminobacter is increased.
+process;expansion of C. hiranonis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where [Clostridium] hiranonis is increased.
+process;expansion of Dialister in AS human gut;an AS human-gut microbiome interaction that shows an expansion of Dialister in patients with AS compared with healthy controls.
+process;expansion of Phascolarctobacterium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Phascolarctobacterium is increased.
+process;expansion of C.hylemonae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where [Clostridium] hylemonae is increased.
+process;expansion of Alistipes in SLE mouse gut;An association of musculus gut microbiota with system lupus erythematosus(SLE) that shows an expansion of Alistipes in musculus with SLE compared with healthy controls.
+process;expansion of C.farmeri in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Citrobacter farmeri is increased.
+process;expansion of Acidovorax in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Acidovorax is increased.
+process;expansion of Bacteroides fragilis in RA human gut;a RA human-gut microbiome interaction that shows an decrease of Bacteroides fragilis in patients with RA compared with healthy controls. Bacteroides fragilis is a rare cause of septic arthritis.
+process;expansion of S. gallolyticus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Streptococcus gallolyticus is increased.
+process;expansion of Bacteroidia in SLE human gut;a SLE human-gut microbiome interaction that shows an expansion of Bacteroidia in patients with SLE compared with healthy controls.
+process;expansion of Roseburia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Roseburia is increased.
+process;depletion of Haemophilus spp. in RA human gut;a RA human gut microbiome interaction that shows an decrease of Haemophilus sp in patients with RA compared with healthy controls.
+process;expansion of Bacteroidales in SLE human gut;a SLE human-gut microbiome interaction that shows an expansion of Bacteroidales in patients with SLE compared with healthy controls.
+process;depletion of Anoxybacillus in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Anoxybacillus is decreased.
+process;depletion of Clostridia in SLE human gut;a SLE human-gut microbiome interaction that shows an decrease of Vibrio in patients with SLEcompared with healthy controls.
+process;expansion of Bacteroides in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroides is increased.
+process;expansion of F. nucleatum subsp. nucleatum in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Fusobacterium nucleatum subsp. nucleatum is increased.
+process;depletion of Clostridiales in SLE human gut;a SLE human-gut microbiome interaction that shows an decrease of Clostridiales in patients with SLE compared with healthy controls.
+process;expansion of Odoribacter in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Odoribacter is increased.
+process;expansion of F. nucleatum subsp. polymorphum in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Fusobacterium nucleatum subsp. polymorphum is increased.
+process;expansion of A. muciniphila in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Akkermansia muciniphila is increased.
+process;expansion of F. nucleatum subsp. vincentii in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Fusobacterium nucleatum subsp. vincentii is increased.
+process;depletion of Treponema in RA human respiratory airway;RA human respiratory airway microbiome interaction that shows an decrease of Treponema in patients with RA compared with healthy controls.
+process;depletion of Prevotellaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Prevotellaceae is decreased.
+process;expansion of F. nucleatum subsp. animalis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Fusobacterium nucleatum subsp. animalis is increased.
+process;depletion of Burkholderia in RA human respiratory airway;RA human respiratory airway microbiome interaction that shows an decrease of Burkholderia in patients with RA compared with healthy controls.
+process;depletion of Porphyromonadaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Porphyromonadaceae is decreased.
+process;expansion of Bacteroides sp. in RA human gut;a RA human-gut microbiome interaction that shows an expansion of Bacteroides sp in patients with RA compared with healthy controls.
+process;depletion of Actynomyces in RA human respiratory airway;RA human respiratory airway microbiome interaction that shows an decrease of Actynomyces in patients with RA compared with healthy controls.
+process;depletion of Clostridiaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Clostridiaceae is decreased.
+process;expansion of Lachnospiraceae bacterium in RA human gut;A RA human-gut microbiome interaction where Lachnospiraceae bacterium is increased.
+process;expansion of Pseudonocardia in RA human respiratory airway;RA human respiratory airway microbiome interaction that shows an expansion of Pseudonocardia in patients with RA compared with healthy controls.
+process;expansion of Micrococcus in RA human respiratory airway;RA human respiratory airway microbiome interaction that shows an expansion of Micrococcus in patients with RA compared with healthy controls.
+process;expansion of P. gingivalis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Porphyromonas gingivalis is increased.
+process;expansion of Collinsella in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Collinsella is increased.
+process;expansion of Selenomonas in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Selenomonas is increased.
+process;expansion of Prevotella in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Prevotella is increased.
+process;expansion of Clostridiaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Clostridiaceae is increased.
+process;expansion of P. stomatis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Peptostreptococcus stomatis is increased.
+process;depletion of Bacteroides fragilis in RA human gut compared to fibromyalgia patients;a RA human-gut microbiome interaction that shows an decrease of Bacteroides fragilis in patients with RA compared with fibromyalgia patients.
+process;expansion of Bacteroidales in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroidales is increased.
+process;expansion of Solobacterium sp. S4-A19 in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Solobacterium sp. S4-A19 is increased.
+process;expansion of D. paucivorans in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Dolosicoccus paucivorans is increased.
+process;depletion of Cronobacter in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Cronobacter is decreased.
+process;expansion of Clostridium sp. cp01.19 in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Clostridium sp. cp01.19 is increased.
+process;depletion of Kluyvera in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Kluyvera is decreased.
+process;expansion of Bacteroides sp. in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroides sp. is increased.
+process;depletion of Serratia in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Serratia is decreased.
+process;depletion of Subdoligranulum sp. 60 17 in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Subdoligranulum sp. 60 17 is decreased.
+process;depletion of Salmonella enterica subsp. enterica in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Salmonella enterica subsp. enterica is decreased.
+process;expansion of M. avium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Mycobacterium avium is increased.
+process;depletion of Eubacteriaceae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Eubacteriaceae is decreased.
+process;expansion of E. coli B in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Escherichia coli B is increased.
+process;depletion of Anaerovorax in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Anaerovorax is decreased.
+process;expansion of A. actinomycetemcomitans in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Aggregatibacter actinomycetemcomitans is increased.
+process;expansion of H. ducreyi in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where [Haemophilus] ducreyi is increased.
+process;depletion of Microbacterium in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Microbacterium is decreased.
+process;expansion of S. dysenteriae in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Shigella dysenteriae is increased.
+process;depletion of B. finegoldii in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroides finegoldii is decreased.
+process;expansion of Campylobacter jejuni in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Campylobacter jejuni is increased.
+process;depletion of B.intestinalis in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Bacteroides intestinalis is decreased.
+process;expansion of S. enterica in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Salmonella enterica is increased.
+process;depletion of P.copri in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Prevotella copri is decreased.
+process;depletion of Bifidobacterium bifidum in RA human gut compared to fibromyalgia patients;a RA human-gut microbiome interaction that shows an decrease of Bifidobacterium bifidum in patients with RA compared with fibromyalgia patients.
+process;depletion of P. oris in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Prevotella oris is decreased.
+process;expansion of Pseudomonas in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Pseudomonas is increased.
+process;depletion of D.formicigenerans in colorectal cancer human gut;A colorectal cancer human-gut microbiome interaction where Dorea formicigenerans is decreased.

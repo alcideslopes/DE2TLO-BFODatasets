@@ -1,0 +1,21 @@
+class;term;comment
+process;genomic assay;An assay that investigates the genome or genomes of an individual organism or population of organisms.
+quality;ethnicity;An organismal quality inhering in a bearer by virtue of the bearer's identification with a group of other individuals on the basis of presumed similarities such as language or common ancestry.
+quality;gender;An organismal quality inhering in a bearer by virtue of the bearer's preference towards a range of characteristics pertaining to, and differentiating between, masculinity and femininity.
+process;biosample storage;A storage process for a biosample collected from an organism.
+quality;education level;An organismal quality inhering in a bearer by virute of the bearer's highest level of formal education completed.
+site;residence location;A geographical location in which an individual currently resides.
+site;birthplace location;A geographical location in which an individual was born.
+disposition;congenital disorder;A disorder that is present at birth due to genetics or environmental factors during development.
+material entity;blood collected from fasting subject;Blood that is collected from an organism which has been fasting for a given amount of time.
+process;data collection;A planned process that is a part of an investigation in which raw data is collected.
+quality;population age range;A population quality concerning the age range of a population.
+quality;population gender or genders;A population quality concerning the gender or genders of the population.
+quality;population sex or sexes;A population quality concerning the sex or sexes of the population.
+immaterial entity;human social environment;An immaterial entity that encompasses the domain made up of interactions between the individual's physical environment, social processes, and relationships with other individuals and groups.
+process;response to medication;A biological process that results from a drug stimulus.
+quality;population quality;A quality which inheres in a population of organisms.
+process;microbiome sequencing assay;A genomic assay that profiles the microorganisms present in a sample.
+process;biosample processing;A material processing which prepares a biosample for investigation.
+process;emotion;A biological process that results from neurophysiological changes in response to internal and external events.
+process;eQTL analysis;A genomic assay that identifies genetic loci and candidate genes correlated with phenotypes.

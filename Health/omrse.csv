@@ -1,0 +1,277 @@
+class;term;comment
+generically dependent continuant;OMB ethnic identity information content entity;An ethnic identity information content entity that uses OMB terminology for ethnicity or terminology that is strictly mapped onto the OMB ethnicity terms.
+generically dependent continuant;OMB Hispanic or Latino identity information content entity;An OMB ethnic identity information content entity that is about some person's identifying as Hispanic or Latino, which are intended to mean being of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race.
+generically dependent continuant;social identity information content entity;An information content entity that is intended to be a truthful statement about some person and whether that person identifies as some particular aspect of social identity—such as a gender, an ethnicity, a race, or a sexual orientation—where the sense of identifying may correspond to either (i) an aspect of one’s cognitive representation of oneself, (ii) how one prefers to be regarded by others within some social context, or (iii) how one chooses to present oneself to others within some social context.
+generically dependent continuant;ethnic identity information content entity;A social identity information content entity that is about whether some person identifies as some ethnicity.
+generically dependent continuant;OMB not Hispanic or Latino identity information content entity;An OMB ethnic identity information content entity that is about some person's identifying as neither Hispanic nor Latino, which are intended to mean being of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race.
+generically dependent continuant;gender identity information content entity;A social identity information content entity that is about whether some person identifies as some gender.
+role;role in human social processes;A role that inheres in some entity that is realized in a social act.
+generically dependent continuant;preferred language information content entity;An information content entity that is about some person and some language, and that conveys the language with which that person prefers to communicate within some given context.
+process;disclosure of preferred language;A communication in which some participant states a preference for some communicative process to be in a certain language, via some concretization of some preferred language information content entity.
+generically dependent continuant;female gender identity information content entity;A gender identity information content entity that is about some person's identifying as female in gender.
+generically dependent continuant;racial identity information content entity;A social identity information content entity that is about whether some person identifies as some race.
+generically dependent continuant;OMB racial identity information content entity;A racial identity information content entity that uses OMB terminology and definitions for race or terminology that is strictly mapped onto the OMB race terms.
+generically dependent continuant;male gender identity information content entity;A gender identity information content entity that is about some person's identifying as male in gender.
+generically dependent continuant;non-binary identity information content entity;A gender identity information content entity that is about some person's identifying as non-binary in gender.
+generically dependent continuant;OMB black or African American identity information content entity;An OMB racial identity information content entity that is about some person's identifying as black or African American which is intended to mean having origins in any of the black racial groups of Africa.
+generically dependent continuant;OMB Native Hawaiian or other Pacific Islander identity information content entity;An OMB racial identity information content entity that is about some person's identifying as Native Hawaiian or other Pacific Islander, which is intended to mean having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+generically dependent continuant;OMB American Indian or Alaska Native identity information content entity;An OMB racial identity information content entity that is about some person's identifying as American Indian or Alaska Native, which is intended to mean having origins in any of the original peoples of North and South America (including Central America), and maintains tribal affiliation or community attachment.
+generically dependent continuant;OMB Asian identity information content entity;An OMB racial identity information content entity that is about some person's identifying as Asian, which is intended to mean having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent.
+generically dependent continuant;OMB white identity information content entity;An OMB racial identity information content entity that is about some person's identifying as white which is intended to mean having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+generically dependent continuant;sexual orientation identity information content entity;A social identity information content entity that is about whether some person identifies as having some sexual orientation.
+generically dependent continuant;residence ZIP code information content entity;An information content entity that is about some geographical region, in which a postal delivery route denoted by a particular ZIP code is realized, and that is the specified output of a disclosure of residence.
+role;US Census unemployed role;A human social role that inheres in a human who is legally eligible to work, is conferred by the U.S. Census Bureau, and is realized by the bearer not working and either making active efforts to find employment in the four weeks prior to the reference week or waiting to be recalled from temporary layoff.
+generically dependent continuant;electronic health record data set;A data set whose members are obtained from one or more electronic health records.
+material entity;hospice facility;A health care facility that bears a function to provide healthcare to the sick or terminally ill
+generically dependent continuant;health care claim data set;A data set whose members are the specified output of some process of adjudicating health care insurance claims (and whose inputs are at least partly some members of a health care billing data set).
+process;ethnic identification process;
+generically dependent continuant;debt obligation;A directive information entity that prescribes that something will be transferred from some human or organization that is the bearer of a duty holder role to another human or organization that is the bearer of a claimant role.
+material entity;health care facility;
+process;disclosure of residence;A social act that creates an information content entity that is about some geographical region in which a human being dwells.
+generically dependent continuant;highest level of education is grades 1 through 6 data item;A highest level of education socio-economic data item that represents the fact that the highest level of education achieved by an individual in the United States is in the range of first through sixth grade.
+generically dependent continuant;highest level of education is completion of graduate certificate or degree data item;A highest level of education socio-economic data item that represents the fact that the highest level of education achieved by an individual in the United States is completion of some graduate certificate or degree.
+generically dependent continuant;highest level of education is completion of undergraduate degree data item;A highest level of education socio-economic data item that represents the fact that the highest level of education achieved by an individual in the United States is completion of some undergraduate degree.
+generically dependent continuant;highest level of education is grades 10 through 12 data item;A highest level of education socio-economic data item that represents the fact that the highest level of education achieved by an individual in the United States is in the range of tenth (10th) through twelfth (12th) grade.
+generically dependent continuant;highest level of education is grades 7 through 9 data item;A highest level of education socio-economic data item that represents the fact that the highest level of education achieved by an individual in the United States is in the range of seventh (7th) through ninth (9th) grade.
+disposition;linguistic literacy competence;A disposition borne by a human being that (1) has a linguistic competence as a dispositional part and (2) if realized, is realized by the bearer's achievement of some personal goal.
+generically dependent continuant;highest level of education is completion of pre-kindergarten data item;A highest level of education socio-economic data item that represents the fact that the highest level of education achieved by an individual in the United States is kindergarten.
+generically dependent continuant;highest level of education is completion of kindergarten data item;A highest level of education socio-economic data item that represents the fact that the highest level of education achieved by an individual in the United States is pre-kindergarten.
+generically dependent continuant;highest level of education is completion of vocaational education program data item;A highest level of education socio-economic data item that represents the fact that the highest level of education achieved by an individual in the United States is completion of some vocational education program.
+role;caregiver role;A human social role that, if realized, is realized in providing assistance in the activities of daily living of another human being who possesses reduced capability to complete some of these activities alone.
+generically dependent continuant;monetary personal income data item;A data item that is about the sum of earnings for some person(s) from various forms of payment or profits.
+relational quality;family relationship;A relational quality that inheres within two or more persons related as members of a domestic group, or a number of domestic groups linked through descent from a common ancestor, marriage, or adoption.
+process;linguistic concretization-interpretation process;A concretization-interpretation process in which the specifically dependent continuant is inferred to concretize the generically dependent continuant in a way that makes use of some language.
+process;concretization-interpretation process;Process in which some participant infers that some particular specifically dependent continuant stands in the concretization relation to some particular generically dependent continuant.
+process;linguistic concretization-utilization process;A concretization-utilization process in which the utilized specifically dependent continuant concretizes the generically dependent through use of some language.
+process;concretization-utilization process;Process in which some participant utilizes some specifically dependent continuant as a concretization of some generically dependent continuant.
+disposition;language;A disposition that (i) is an aggregate of linguistic competences, considered as forming a distinct group on the basis of perceived common characteristics, such as mutual intelligibility among their bearers, in addition to historical or cultural factors. (ii) if realized, is realized in any and all realizations of those linguistic competences. and (iii) inheres in a linguistic community.
+process;communication;A process in which some participant shares some generically dependent continuant with some other participant. The former utilizes some specifically dependent continuant that concretizes the generically dependent continuant intended to be shared, while the latter interprets that specifically dependent continuant to concretize some particular generically dependent continuant, aiming to accurately infer the other participant’s intent.
+disposition;linguistic competence;A disposition that inheres in some material entity and is such that that, if realized, it is realized by either some linguistic concretization-utilization process or some linguistic concretization-interpretation process.
+process;cancer summary staging;A planned process of determining the extent to which a cancer disease has developed by growing and spreading throughout an organism.
+generically dependent continuant;cancer summary staging code;An information content entity that is the specified output of cancer summary staging.
+process;information content entity request about racial identity;an information content entity-request process in which some participant requests of some other participant an information content entity that indicates the racial identity of that other participant
+process;admission process;A deontic document act in which a patient is registered with a health care provider for the purpose of receiving care in an inpatient encounter.
+role;male gender role;A gender role borne by a human being that is realized in behaviour which is considered socially appropriate for individuals of the male sex in the context of the culture in question.
+role;US physician assistant role;A human health care provider role that inheres in a human being that is created by state licensing and that is realized by taking patient histories, performing physical exams, diagnosing illnesses, developing treatment plans, ordering lab tests, prescribing medications, counselling and educating patients, suturing wounds, and assisting in surgery under the supervision of a physician or a surgeon.
+role;female gender role;A gender role borne by a human being that is realized in behaviour which is considered socially appropriate for individuals of the female sex in the context of the culture in question.
+role;party to a power of attorney;
+role;gender role;A human social role borne by a human being being realized in behaviour which is considered socially appropriate for individuals of a specific sex in the context of a specific culture.
+role;birth attendant role;A health care provider role that is realized in maintaining the health of a human being during their pregnancy and both them and the neonate during labor, delivery, and postpartum.
+generically dependent continuant;linguistic competence information content entity;An information content entity that conveys that a particular person has a linguistic competence for a particular language
+role;patient role;A role borne by an organism and that is realized by presenting to a health care provider in a clinical encounter.
+process;religious gathering;A social act or aggregate of social acts that include some worship, prayer, or proselytizing.
+role;health care provider role;A human health care role inhering in an organization or human being that is realized by a process of providing health care services to an organism.
+generically dependent continuant;hospital bed capacity data item;A count of the number of patients that some hospital facility has the capacity for.
+role;anesthesiologist role;A physician role that inheres a human being and, if it is realized, is realized either by administering medication for the temporary general or local suppression of sensory or motor nerve function during some health care encounter or by making decisions independently of a supervising physician regarding the adminstration of such medication.
+generically dependent continuant;primary language information content entity;A linguistic competence information content entity that conveys the language is the one for which the person has their most proficient linguistic competence.
+role;human health care role;A role in human social processes that is realized by health care processes such as seeking or providing treatment for disease and injury, diagnosing disease and injury, or undergoing diagnosis.
+process;OMB racial identification process;
+generically dependent continuant;language-at-home information content entity;A linguistic competence information content entity that conveys the person uses the language at home.
+role;health care provider organization role;A role that inheres in an organization and that is realized by the providing of services in a health care encounter.
+material entity;insurance company;An insurance organization that is privately owned and that participates in the creation of insurance policies in return for some money from the policy holder.
+role;person health care provider role;
+role;private insurance policy holder role;A policy holder role that inheres in a person who participates in the creation of an insurance policy with an insurance company.
+role;physician role;A health care role borne by a human being and realized by promoting, maintaining or restoring human health through the study, diagnosis, and treatment of disease, injury and other physical and mental impairments.
+process;identification process;
+generically dependent continuant;proportion of population in an elementary occupation;A data item that is the output of some data transformation that takes as input the number of individuals in a population who are occupation holders and has as output the proportion of those individuals who are classified by the European Skills, Competences, Qualifications and Occupations as door-to-door sales worker, news or street vendors. building cleaning workers. pressers, textile, garment, or related materials. septic tank servicers or sewer pipe cleaners. farmworkers or laborers, crop, nursery, or greenhouse. farmworkers, farm, ranch, or aquacultural animal. agricultural workers, all other. landscaping or groundskeeping workers. grounds maintenance workers, all other. forest or conservation workers. logging workers, all other. fishing or hunting workers. helpers--extraction workers. extraction workers, all other. helpers, construction trades. rail-track laying or maintenance equipment operators. construction laborers. helpers--production workers. production workers, all other. laborers or material movers. refuse or recyclable material collectors. couriers or messengers. material moving workers, all other. aircraft cargo handling supervisors. first-line supervisors of helpers, laborer, or material mover, hand. first-line supervisors of transportation worker, all other. tank car, truck, or ship loaders. cooks, fast food. cooks, short order. food preparation workers. dining room or cafeteria attendants or bartender helpers. dishwashers. food preparation or serving related workers, all other. personal care or service workers, all other. baggage porters or bellhops. maintenance or repair workers, general. installation, maintenance, or repair workers, all other. meter readers, utilities. coin, vending, or amusement machine servicers or repairers. motion picture projectionists. ushers, lobby attendants, or ticket takers. amusement or recreation attendants. locker room, coatroom, or dressing room attendants. and parking attendants.
+role;nurse role;A health care role borne by a human being and realized by the care of individuals, families, and communities so they may attain, maintain, or recover optimal health and quality of life.
+process;gender identification process;
+role;Medicaid policy holder role;A policy holder role that inheres in a person who participates in the creation of an insurance policy with a US state Medicaid agency.
+role;integrated delivery network;A health care provider organization role that inheres in an organization that is comprised of other organizations.
+role;physician practice;A health care provider organization role that inheres in an organization consisting of two or more physicians.
+material entity;US state Medicaid agency;A government organization that administers a given US state's Medicaid program by participating in the creation of insurance policies with eligible people and by participating in some payment of debt for a specified aggregate of health care encounters, specified processes (e.g, treatments, diagnostic tests) that are part of those encounters, and material entities used or prescribed during the encounters (e.g., medicine, prosthetics, glasses).
+role;surgeon role;
+role;neurosurgeon role;A surgeon role realized by its bearer using performing neurosurgery.
+generically dependent continuant;highest level of education is below high school completion or equivalent data item;A highest level of education data item that represents the fact that an individual in the United States is has not achieved a level of education that is equivalent to or higher than a complete high school education.
+object aggregate;aggregate of objectual organisms;An object aggregate of organisms.
+object aggregate;aggregate of objectual organisms;An object aggregate of objectual organisms.
+object aggregate;collection of organisms;An object aggregate of organisms.
+object aggregate;collection of organisms;An object aggregate of objectual organisms.
+generically dependent continuant;household identifier;
+object aggregate;collection of humans;An object aggregate all of whose components are human beings.
+generically dependent continuant;family identifier;A symbol that denotes a family.
+generically dependent continuant;social categorization scheme;Categorization scheme that divides humans into groups considered by themselves or others as distinct on the basis of assumed common characteristics.
+generically dependent continuant;categorization scheme;Information content entity that characterizes some aggregate of entities as partitioned into distinct subgroups, thereby demarcating them as categories.
+generically dependent continuant;human traveling information;An information content entity that is about human travel.
+role;organism social role;A role in human social processes that inheres in an organism.
+role;pediatric surgeon role;A surgeon role borne by a human being and that, if realized, is realized by its bearer using operative manual and instrumental techniques on preadult patients to investigate and/or treat a pathological condition such as disease or injury, to help improve bodily function or appearance or to repair unwanted ruptured areas.
+generically dependent continuant;racial categorization scheme;Social categorization scheme based on characteristics assumed to be biologically hereditary and to result in part from common locality of ancestors.
+role;organization health care role;An organization social role that, if realized, is realized by either a health care process or an ancillary health care process
+material entity;adult foster home facility;a facility that is run by an adult foster home organization and is the bearer of an adult foster home organization
+object aggregate;racial category;Social category demarcated by some racial categorization scheme.
+generically dependent continuant;highest level of education is some college data item;A highest level of education data item that represents the fact that the highest level of education achieved by an individual in the United States is completion of some undergraduate coursework, but without attaining an undergraduate degree.
+role;organization social role;A role in human social processes that inheres in an organization.
+process;employment process;A planned process in which the bearer of an employer role provides wages or salary to the bearer of an employee roll in fullfillment of the arrangements specified in some declaration
+object aggregate;social category;Collection of humans demarcated by some social categorization scheme.
+material entity;nursing home facility;A facility that is run by a nursing home organization and is the bearer of a nursing home function.
+process;principal diagnosis-assignment process;A health care administrative process that has as input a diagnosis, and has as output a value indicating that diagnosis is about the condition that prompts the admission process that starts the encounter during which the diagnostic process that outputs that diagnosis begins.
+material entity;residential health care facility;A community living health care facility that provides health care services in a home-like setting
+process;secondary diagnosis-assignment process;A health care administrative process that has as input a diagnosis, and has as output a value indicating that diagnosis is about an underlying condition that is distinct from the condition that prompts the admission process that starts the encounter during which the diagnostic process that outputs that diagnosis begins.
+material entity;skilled nursing facility;
+generically dependent continuant;health care billing data set;A data set whose members are obtained from billing-related data sources that (i) are generated by a health care organization as a result of internal administrative processes, and (ii) are about services rendered or materials used during some health care encounter.
+material entity;rehabilitation facility;A facility to assist in physical or addiction recovery
+process;health care administrative process;A planned process (i) that is neither a health care process nor an ancillary health care process, and (ii) in which some employee of a health care organization manages, or helps to manage, the performance of tasks that realize the functions of that organization.
+material entity;overnight dialysis facility;
+material entity;outpatient clinic facility;A health care facility that bears a function to provide low intensity healthcare services to patients on a short-term basis, with patients leaving on the same date as arriving (i.e., without them staying overnight)
+process;county smoking survey execution;A survey execution that realizes the concretization of a smoking survey plan specification that is stratified by county.
+material entity;physician office facility;
+generically dependent continuant;county smoking survey data;Survey data that is the specified output of a county smoking survey execution.
+generically dependent continuant;county smoking survey plan specification;A survey plan specification that aims to collect information about the smoking behavior or lack thereof of a population on a county level. Concretization of a smoking survey plan that is stratified by county.
+material entity;emergency department facility;A health care facility that bears a function to provide emergency healthcare services and the acute care of patients who present without prior appointment, having arrived either by their own means or by ambulance
+generically dependent continuant;money;A debt obligation between two parties that has part a scalar value specification and whose concretizations indicate that their bearers can be used in a financial transaction or payment of debt, or as a measure of the value of some entity in a financial valuation process or prospective financial valuation process.
+function;urgent care function;
+material entity;currency;A material entity that is the bearer of a concretization of money and is created by some governmental organization or on behalf of some governmental organization that has authorized its creation.
+material entity;ambulatory surgery facility;
+process;smoking rate calculation;A data transformation that has data about the smoking status of a population as its specified input and a percentage or ratio of smokers in that population as a specified output.
+material entity;urgent care facility;
+generically dependent continuant;county smoking rate data;A data item that is the specified output of a smoking rate calculation that has data about smoking behavior or lack there of on a county level.
+function;emergency department function;
+process;payment of debt;A planned process whereby ownership of some entity of value is transferred by one participant to another to fulfill some obligation, on their behalf, after some service is performed or the ownership of some entity is exchanged.
+function;physician office function;
+function;ambulatory surgery function;
+process;exchange of ownership;A planned process whereby one agent (or active participant) or a group of agents transfer ownership of some property to another agent (or active participant) or group of agents in the process, who in return transfer ownership of some their property to the first agent (or active participant).
+function;hospice function;
+process;financial transaction;A planned process whereby one participant partly or completely fulfills an obligation to another participant by transferring ownership of some other debt obligation, which is typically money.
+generically dependent continuant;social security number;Social Security Number(SSN) is a Centrally Registered IDentifier that is a nine-digit number issued to U.S. citizens, permanent residents, and temporary (working) residents under section 205(c) of the Social Security Act, codified as 42 U.S.C. § 405(c). The number is issued to an individual by the Social Security Administration, an independent agency of the United States government. Its primary purpose is to track individuals for Social Security purposes.
+function;overnight dialysis function;
+relational quality;intimate partnership;Relational quality inhering in persons by virtue of being each other’s spouse, boyfriend/girlfriend, dating partner, or ongoing sexual partner.
+role;human social role;A social role inhering in a human being.
+function;rehabilitation function;
+process;abusive behavior;Behavior that is cruel, violent, demeaning, or invasive.
+process;financial valuation process;A planned process that has as specified output some scalar measurement datum that is about an entity—such as a material good or a service—and is measured in terms of the quantity of some other material entity.
+function;outpatient clinic function;
+process;prospective financial valuation process;A planned process that has as specified output some predicted value that is about an entity—such as a material good or a service—and is measured in terms of the quantity of some material entity at some point in the future.
+role;party to a legal agreement;
+function;nursing home function;
+process;sexually abusive behavior;Abusive behavior in which the aggressor does or attempts to do the following: force or coerce another to participate in a sexual act to which the latter has not freely given consent.
+role;party to a marriage contract;
+process;patient discharge;A deontic document act that concludes an inpatient encounter.
+role;party to a legal entity;
+function;skilled nursing function;
+process;psychologically abusive behavior;Abusive behavior in which the aggressor does or attempts to do the following: mentally or emotionally harm or exert control over another.
+role;party to a legal proceeding;
+process;physically abusive behavior;Abusive behavior in which the aggressor does or attempts to do the following: harm, restrain, or coerce another through physical force.
+role;organization role;
+function;health care function;
+function;hospital function;A function inhering in a material entity that, if realized, is realized by the material entity being the site at which inpatient and outpatient healthcare is provided to a patient population.
+process;palliative care encounter;
+role;Homo sapiens role;
+material entity;hospice organization;
+role;school role;
+material entity;hospital organization;An organization that is the bearer of a hospital role.
+function;school function;A function inhering in a material entity that, if realized, is realized by that material entity being the site at which formal education is provided to a student population.
+generically dependent continuant;refusal to answer datum;
+role;hospital role;A healthcare provider role that inheres in an organization and is realized by providing inpatient care.
+generically dependent continuant;response to an identity question asking process;
+role;nursery school role;
+material entity;school organization;An organization that is the bearer of a school role.
+role;student role;A human social role that, if realized, is realized by the process of formal education that the bearer undergoes.
+generically dependent continuant;answer to identity question;
+material entity;facility;An architectural structure that bears some function.
+material entity;hospital facility;A health care facility that bears the function to provide acute and intensive healthcare services and that is run by a hospital organization and is the bearer of a hospital function.
+role;primary school role;
+material entity;architectural structure;A material entity that is a human made strcuture with firm connection between its foundation and the ground.
+role;pediatric trauma patient role;A trauma patient role that inheres in a homo sapiens who is under the age of 15 years.
+role;light smoker role;A role that inheres in an organism and is realized by habitually smoking 1>10 tobacco cigerettes a day or the equivalent in other tobacco products.
+role;injured patient role;A patient role that inheres an organism suffering one or more injuries.
+generically dependent continuant;answer set;
+material entity;school facility;A facility that is run by a school organization and is the bearer of a school function.
+role;secondary school role;
+role;heavy smoker role;A role that inheres in an organism and is realized by habitually smoking 10 or more tobacco cigerettes a day or the equivalent in other tobacco products.
+generically dependent continuant;job role data item;A data item that is about a person's job role and/or its realization.
+generically dependent continuant;question text;
+role;burn patient role;A patient role that inheres in an organism suffering a thermal, electrical, chemical or radiation burn.
+function;adult foster home function;
+material entity;community living health care facility;a health care facility that also bears a residence function and thus one in which the patients are also residents of the facility
+object aggregate;ethnic category;Social category demarcated by some ethnic categorization scheme.
+role;human patient role;A patient role that inheres in a human being.
+role;registered nurse role;
+generically dependent continuant;ethnic categorization scheme;Social categorization scheme based on characteristics that are primarily cultural—such as ancestry, history, national or tribal background, cultural attachments or traditions, past linguistic heritage, religious affiliations, caste, or claimed kinship.
+material entity;aggregate of organizations;An aggregate of organizations that have some feature in common, but is not itself an organization.
+material entity;aggregate of organizations;An object aggregate that is not itself an organization and whose members are only organizations that have some feature in common
+process;assistance with activities of daily living care encounter;
+process;assistance with instrumental activities of daily living encounter;
+process;skilled nursing encounter;
+process;assistive care encounter;They include assistance with activities of daily living, assistance with instrumental activities of daily living, medication assistance, and health support http://ahca.myflorida.com/Medicaid/acs/index.shtml
+process;personal data disclosure;Communication in which a person reports some data items about either that person or another person.
+function;assisted living function;
+specifically dependent continuant;racial identity;Social identity for which the category is a racial category.
+role;legal person role;A role borne by a human individual or by a collection of humans regarded as possessing rights and duties enforeable at law.
+process;post-acute health care encounter;temporally located after some acute care encounter Somehow involves skilled nursing encounters
+process;medication assistance care encounter;
+specifically dependent continuant;subjective representation;Cognitive representation in which the representation’s bearer is represented as being its bearer.
+material entity;assisted living facility;A facility that is run by an assisted living facility organization and is the bearer of an assisted living facility function.
+specifically dependent continuant;social identity;Subjective representation of its bearer as being a member of some social category.
+role;smoker role;A role that inheres in an organism and is realized by habitually smoking tobacco products.
+role;intravenous drug user;
+process;leaving a health care facility after receiving care;A process (1) where the active participant, who at the beginning of the process is located in a healthcare facility, exits the facility and no longer stands in a "located in" relationship to the facility and (2) is immediately preceded by a healthcare encounter in which the active participant also participated.
+specifically dependent continuant;behavioral identity;Social identity for which the category is also a behaviorally distinct group defined by its members degree of participation in some type of behavior.
+generically dependent continuant;highest level of education is completion of high school or equivalent data item;A highest level of education data item that represents the fact that the highest level of education achieved by an individual in the United States is completion of high school or equivalent.
+generically dependent continuant;highest level of education is some but not all high school data item;A highest level of education data item that represents the fact that the highest level of education achieved by an individual in the United States is completion of some high school coursework, but without attaining a diploma or equivalent.
+process;acute care encounter;
+specifically dependent continuant;ethnic identity;Social identity for which the category is an ethnic category.
+function;home health care function;
+role;U.S. veteran role;A human role within an organization that inheres in a person who has served in a branch of the U.S. military, is not currently serving in the U.S. military, and the person's service ended in accordance to conditions defined by the U.S. government.
+process;home health care encounter;
+generically dependent continuant;response to a question asking process;
+disposition;occupation disposition;A disposition that, if realized, is realized when the bearer intends to, and does, exercise abilities and skills in pursuit of obtaining or maintaining an job role.
+material entity;home health care organization;
+process;occupation activity;A process in which an occupation holder participates that realizes either an occupation disposition or job role.
+role;material entity role;
+function;palliative function;
+role;organism role;
+generically dependent continuant;insurance policy;An indemnity contract that distributes risk among a group of people
+role;insured party role;A role that inheres in an organism that is able to receive benefits from an insurance policy. The role, if realized, is realized by receiving benefits that are covered by the insurance policy.
+generically dependent continuant;indemnity contract;A contract by which one party secures the other against pecuniary loss by payment of a sum of money if a specified event occurs.
+role;payer role;
+process;completing a program of education;An educating that realizes a concretization of some program of education.
+role;party to an insurance policy;
+generically dependent continuant;educational program;A plan specification with an educational objective specification as part.
+material entity;insurance organization;An organization that secures a group of people against pecuniary loss by payment of a sum of money if a a specified event occurs.
+generically dependent continuant;educational objective;An objective specification that describes the type of capability or capabilities to be imparted or improved by its realization, which is an educating (education process).
+role;policy holder role;An insured party role that inheres in a person who participates in the creation of the insurance contract and is eligible to receive benefits as specified by the insurance contract.
+process;racial identification process;
+generically dependent continuant;lower secondary education objective;An education objective specification that has a concretization that, when realized, confers to the active participant skills and knowledge in subject areas more specialized than basic reading, writing, and mathematics, with the overall goal of laying the foundation for lifelong learning and human development on which education systems may systematically expand further educational opportunities.
+generically dependent continuant;primary education objective;An education objective specification that has a concretization that, when realized, results in the active participant's acquisition and development of fundamental skills in reading, writing and mathematics (i.e. literacy and numeracy).
+one-dimensional temporal region;enrollment start date;
+generically dependent continuant;primary education program;An education plan specification with one or more primary education objective specifications as parts, and these are the only objective specifications it has as parts.
+generically dependent continuant;early childhood education plan specification;An educational program whose intended active participant, when a concretization of it is realized, is a human child of age birth to 8 years or a human fetus prior to birth.
+generically dependent continuant;lower secondary education program;An education plan specification with one or more lower secondary education objective specifications as parts, and these are the only objective specifications it has as parts.
+generically dependent continuant;basic education program;An education plan specification that has as part both a primary educational objective specification and a lower secondary educational objective specification.
+process;awarding an academic degree;A deontic document act that has as specified output an academic degree and that confers on recipient of the academic degree the recognition and the claims and obligations that accompany the degree.
+generically dependent continuant;higher education objective;An educational objective specification that has a concretization that, when realized, confers on the active participant skills and knowledge in a specialized discipline, and culminates in the awarding of an academic degree.
+generically dependent continuant;higher education program;
+generically dependent continuant;upper secondary education program;An education plan specification with one or more upper secondary education objective specifications as parts, and these are the only objective specifications it has as parts.
+generically dependent continuant;upper secondary education objective;An educational objective specification that has a concretization that, when realized, confers on the active participant skills and knowledge that prepare them for tertiary education, or employment, or both.
+generically dependent continuant;kindergarten education program;A primary education plan specification that specifies the competencies and information content entities that should be acquired by students in the first year of primary education in the United States.
+generically dependent continuant;vocational education program;An educational plan specification that has a vocational objective specification as part.
+generically dependent continuant;highest level of education data item;A socio-economic data item that is about a person and their completion of an education program (and its type), where that education program is the last one in a sequence (of education programs) that the person has completed, where each education program completed except the last one is a pre-requisite to the education program completed after it.
+generically dependent continuant;vocational education objective;An educational objective specification that has a concretization that, when realized, is realized by a process that confers on the active participant knowledge and skills required to realize a particular type of employee role for a given occupation or trade.
+generically dependent continuant;graduate higher education program;A higher education plan specification that specifies the awarding of a graduate certificate or degree, and specifies as a pre-requisite the awarding of an undergraduate degree.
+generically dependent continuant;undergraduate higher education program;A higher education plan specification that specifies the awarding of an associates or bachelors degree in the United States or equivalent degrees in other nations, and specifies as a pre-requisite the completion of some secondary education program.
+generically dependent continuant;health care plan data item;
+generically dependent continuant;government assistance income data item;
+generically dependent continuant;income data item;
+generically dependent continuant;government assistance health care plan data item;
+generically dependent continuant;WIC data item;
+generically dependent continuant;socio-economic data item;
+generically dependent continuant;option as member of some answer set;
+material entity;residential facility;A facility that has at least one housing unit as part in which a person or persons live
+role;trauma patient role;A patient role that inheres in an organism with some non-superficial traumatic injury. The role is realized by admision to a hospital, transfer from one hospital to another for the purpose of trauma care, or has death as a result of the traumatic injury.
+material entity;linguistic community;A maximal aggregate of material entities such that each member bears a linguistic competence for the same language.
+role;physiatrist role;A physician role that is created by training and certification in rehabilitation/physical medicine and that is realized by the provision of or supervising of the provision of rehabilitation or physical therapy to a patient.
+role;job role;A role in human social processes that, if realized, is realized when the bearer provides labor or services in exchange for a wage or salary as specified by some deontic declaration.
+process;information content entity-request process;a communication in which some participant requests of some other participant an information content entity about some portion of reality
+material entity;workplace facility;
+process;information content entity request about ethnic identity;an information content entity-request process in which some participant requests of some other participant an information content entity that indicates the ethnic identity of that other participant
+function;residence function;A function that inheres in a material entity and, if realized, is realized by protecting persons and their possessions from weather and by some person or group of persons habitually sleeping in at least one site that is contained by that material entity.
+material entity;household;A human or collection of humans that occupies a housing unit by storing their possessions there and habitually sleeping there thereby participating in the realization of that housing unit's residence function.
+function;workplace function;a function inhering in a material entity that, if realized, is realized by that material entity being the site where the work of some organization is carried out
+role;US census householder role;A US Census householder role is a human social role that, if realized, is realized by that person being a member of a household and either owning or renting the housing unit in which that household resides and being designated as the householder. If there is only one member of the household who owns or rents the housing unit, that person is designated the householder by default.
+one-dimensional temporal region;enrollment end date;
+role;US Census reference person role;A US cenus reference person role is a human social role that inheres in a Homo sapiens who is a member of a household and is realized by other persons in the household being recorded in the US census in relation to that person.
+generically dependent continuant;age measurement datum;
+generically dependent continuant;contract;A document that records a legally binding agreement between two or more parties.
+role;human role within an organization;A human social role that is created by a deontic declaration performed by an organization.
+role;employer role;a role in human social processes that is realized when the bearer provides a wage or salary in exchange for some labour or services as specified by some declaration
+process;education process;A planned process with an active participant who acquires mental representations of information content entities (ICEs), which had no previous mental representation in the cognitive system, and through repeated use or application of these ICEs either (1) becomes the bearer of a new instance of some type of capability, and the participant was not previously the bearer of that instance of that type of capability, (2) "improves" an existing capability as demonstrated through realization(s) of that capability, and/or (3) loses a capability whose realization is considered negative.

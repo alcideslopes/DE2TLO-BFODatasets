@@ -1,0 +1,151 @@
+class;term;comment
+material entity;epitheliomuscular cell;
+material entity;ctenophore blastopore;
+material entity;ctenophore anal canal;
+material entity;pharyngeal muscle;
+material entity;giant smooth muscle;
+material entity;parietal muscle;Ribbon-shaped smooth muscle that resides between the glandular epithelial cells and the basal lamina
+material entity;longitudinal mesogleal muscle;
+material entity;mesogleal muscle;
+material entity;oral side of organism;
+material entity;periodic acid Schiff positive yolk particles;
+material entity;tentacle apparatus;
+material entity;subcortical plasm;
+material entity;aboral part of organism;
+material entity;anal pore;
+material entity;mixed E and M lineage structure;
+material entity;gonadopore;
+material entity;endodermal canal;
+occurrent;cydippid stage;
+material entity;polar field;an ectodermal structure emanating from the apical organ along the esophageal axis.
+material entity;cydippid larva;A ctenophore larva
+material entity;meridional canal;A canal that is associated with a testis and an ovary
+material entity;esophague-tentacle muscle cell;
+occurrent;ctenophore adult stage;
+material entity;polar field cell;
+material entity;ectoplasm;
+material entity;tentacle-apical organ muscle cell;
+material entity;nurse cell;
+material entity;anal canal cell;
+material entity;endoplasm;
+material entity;colloblast;A specialized adhesive cell found in ctenophores
+material entity;slash quadrant;
+two-dimensional spatial region;tentacular plane;
+material entity;adult ctenophore;
+material entity;tentacle bulb;
+material entity;oral lobe;A conspicuous lobed structure used for feeding, characteristic of the Lobata ("sea walnuts")
+material entity;backslash quadrant;
+material entity;balancer cell;
+material entity;lithocyte;A mineralized cell generated and constantly replaced in the floor of the apical organ. They are supported on top of the balancing cilia that make up the gravity-sensing statocyst of the apical organ.
+material entity;tentacular nerve;
+material entity;apical organ statolith;
+material entity;taststiften cell;
+material entity;tastborsten cell;
+material entity;nerve fiber of mesoglea of tentacle;
+material entity;nerve network cell;
+material entity;apical organ floor;
+material entity;oral pole;
+material entity;mesogleal nerve fiber;
+material entity;striated muscle of tentilla;
+material entity;gastrodermal nerve;
+material entity;subepidermal nerve net;
+material entity;mesoglea of tentacle;
+material entity;circumferential mesogleal muscle;
+material entity;tentacular muscle;
+material entity;radial mesogleal muscle;
+material entity;tentilla;
+material entity;trans-tentacular muscle;A muscle that connects the two tentacle apparatuses
+material entity;micromere, formed during gastulation;
+material entity;3M macromere;
+material entity;e22 micromere;
+material entity;2E macromere, 32 cell stage;
+material entity;e3 micromere;
+material entity;m111 micromere;
+material entity;e21 micromere;
+occurrent;ctenophore 16 cell stage;
+material entity;m112 micromere;
+occurrent;ctenophore 60 cell stage;
+occurrent;ctenophore 32 cell stage;
+material entity;EM-slash blastomere;
+material entity;EM macromere, 4 cell stage;
+material entity;M-slash blastomere;
+material entity;EM-backslash blastomere;
+material entity;macromere;
+material entity;M-blackslash blastomere;
+material entity;m122 micromere;
+material entity;1M macromere, 16 cell stage;
+material entity;m121 micromere;
+material entity;m22 micromere;
+material entity;3E macromere;
+material entity;m2 micromere;
+material entity;2M macromere;
+material entity;m1 micromere;
+material entity;m12 micromere;
+material entity;circumpharyngeal muscle cell;
+material entity;m11 micromere;
+material entity;e11 micromere;
+material entity;e2 micromere;
+material entity;m21 micromere;
+material entity;e12 micromere;
+material entity;epithelial papilla;
+material entity;quadrant;One of of four nearly identical quadrants organized along the oral-aboral axis. Each of the four quadrants is derived largely from one cell of the four-cell-stage embryo. At the eight-cell stage each quadrant contains a single E ("end") and M ("middle") blastomere. Subsequently, micromeres are formed first at the aboral pole and later at the oral pole.
+material entity;photoprotein;
+material entity;E macromere, 8 cell stage;
+material entity;ctenophore blastomere;
+material entity;micromere;
+material entity;M blastomere;
+material entity;dome cilium;
+material entity;lithocyte progenitor;
+material entity;balancer cilium;
+material entity;M-lineage cell;
+material entity;extracellular matrix of mesoglea;
+one-dimensional spatial region;tentacular axis;
+material entity;aboral groove cilium;
+two-dimensional spatial region;adesophageal plane;
+material entity;apical sense organ;
+material entity;apical organ statocyst;
+material entity;polster cell;
+material entity;ctene row;A row that is composed of individual ctene plates, which are arranged in longitudinal rows parallel to the oral–aboral axis
+material entity;photocyte;Light-producing cell present in nearly all ctenophores
+material entity;tentacle;
+material entity;2M-backslash macromere;
+material entity;2M-slash macromere;
+material entity;3M-backslash macromere, 30 cell stage;
+material entity;3M-slash macromere, 60 cell stage;
+material entity;micromere, 32 cell stage;
+material entity;trans-tentacular muscle cell;
+material entity;micromere, 16 cell stage;
+material entity;good groove cilium;
+material entity;e1 micromere;
+material entity;E-lineage cell;
+material entity;pharyngeal cilium;
+material entity;micromere, 60 cell stage;
+material entity;apical organ ctene row muscle;
+material entity;1M-slash macromere, 16 cell stage;
+material entity;1M-backslash macromere, 16 cell stage;
+material entity;auricular cilium;
+material entity;outer epidermis;
+material entity;tentacle sheath cell;
+material entity;ctene plate;A collection of cilia attached to basal cushions and made up of polster cells. A characteristic feature of ctenophores
+material entity;ctenophore pharynx;An ectodermal structure which connects the mouth to the endodermal component of the gut, deep inside the animal
+material entity;mesoglea;A thick jelly-like layer between the epidermis and gastrodermis. The mesoglea is mostly acellular and composed of extracellular matrix, but it also has some muscle and mesenchymal cells.
+material entity;radial mesogleal muscle cell;
+material entity;gastrodermis;
+material entity;longitudinal mesogleal muscle cell;
+material entity;sensory cell cilium;
+material entity;tentacle muscle cell;
+material entity;comb plate cilium;
+material entity;stellate mesenchymal cell;A multipolar mesenchymal cell found in the stellate mesenchyme. May be phagocytic. absent in derivatives of 2M? macromeres.
+material entity;polar field cilium;
+material entity;tentacle sheath cilium;
+material entity;longitudinal pharyngeal muscle cell;
+material entity;macromere, 8 cell stage;
+material entity;M macromere, 8 cell stage;
+material entity;M-slash macromere;
+material entity;M-backslash macromere;
+material entity;1E macromere, 16 cell stage;
+material entity;macromere, 16 cell stage;
+material entity;macromere, 60 cell stage;
+material entity;tentacle sheath;
+material entity;macromere, 32 cell stage and above;
+material entity;tentacle epithelium;

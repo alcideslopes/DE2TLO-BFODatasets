@@ -1,0 +1,644 @@
+class;term;comment
+material entity;spermatogonium;An euploid male germ cell of an early stage of spermatogenesis. In planaria, the gh4+ stem cell daughter exiting the niche undergoes three rounds of transit amplifying division with incomplete cytokinesis prior to transitioning to terminal differentiation.
+material entity;sensory cell;A cell that performs a sensory function.
+material entity;wedge fragment;A piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures.
+material entity;posterior region of lateral fragment;The posterior region of a fragment derived from an amputation parallel to or along any edge, which overlaps the lateral region, dorso-lateral region, ventro-lateral region, antero-lateral margin, lateral margin, ventro-lateral margin, postero-lateral margin, dorso-lateral margin, antero-lateral region, postero-lateral region.
+material entity;epithelial cell;A cell that is usually found in a two-dimensional sheet with a free surface. The cell has a cytoskeleton that allows for tight cell to cell contact and for cell polarity where the apical part is directed towards the lumen and the basal part to the basal lamina.
+material entity;spermatocyte;A tektin-1+ male germ cell that develops from spermatogonia. The euploid primary spermatocytes undergo meiosis and give rise to the haploid secondary spermatocytes which in turn give rise to spermatids.
+material entity;cholinergic neuron;Neurons that express choline acetyltransferase.
+material entity;dorsal region of longitudinal fragment;The dorsal region of a fragment derived from an amputation parallel to the midline.
+material entity;anterior commissure;A bundle of nerve fibers connecting the two cephalic ganglia.
+material entity;ventral region of longitudinal fragment;The ventral region of a fragment derived from an amputation parallel to the midline.
+material entity;lateral branch;Nerve branches that extend from the lateral side of each cephalic ganglia lobe. Each lobe has nine lateral branches which terminate in sensory organs. Evidence suggests they play a role in chemosensation.
+material entity;anterior region of longitudinal fragment;The anterior region of a fragment derived from an amputation parallel to the midline.
+material entity;central nervous system;The central nervous system is the core nervous system that serves an integrating and coordinating function. In vertebrates it consists of the neural tube derivatives: the brain and spinal cord. In invertebrates it includes central ganglia plus nerve cord.
+material entity;cement gland;Glands surrounding the genital atrium that are required for production of the proteinaceous egg capsule shell and stalk.
+material entity;subepidermal nerve plexus;Plexus of nerves located just between the epidermis and the body wall musculature.
+material entity;rhabdite;Straight or curved rod-like structures within the epidermal cells, oriented with long axis at right angles to the epidermal surface, that are discharged into mucous secretions.
+material entity;submuscular nerve plexus;Plexus of nerves that innervate the body wall musculature.
+material entity;muscle cell;A mature contractile cell, commonly known as a myocyte. This cell has as part of its cytoplasm myofibrils organized in various patterns.
+material entity;spermatid;A male germ cell that develops from the haploid secondary spermatocytes. Without further division, spermatids undergo structural changes and give rise to spermatozoa.
+material entity;GABAergic neuron;Neurons that express glutamine decarboxylase.
+material entity;anatomical region;A subdivision of an anatomical compartment.
+material entity;oogonial stem cell;A piwi-1+, nanos+ cell residing in the ovary that self-renews and give rise to oogonial cells that differentiate into oocytes.
+material entity;pharynx nerve plexus;Plexus of nerves located in the pharynx comprised of inner and outer wall rings.
+material entity;anterior region of lateral fragment;The anterior region of a fragment derived from an amputation parallel to or along any edge, which overlaps the lateral region, dorso-lateral region, ventro-lateral region, antero-lateral margin, lateral margin, ventro-lateral margin, postero-lateral margin, dorso-lateral margin, antero-lateral region, postero-lateral region.
+material entity;yolk cell;An extraembryonic cell, produced by somatic vitellogenic glands in adult hermaphrodites, that provides nutrition to the developing embryo.
+material entity;male germ cell;A male germ cell is a germ cell that supports male gamete production.
+material entity;posterior region of plug fragment;The posterior region of a 3D piece of tissue, usually though the whole depth of the animal encompassing both dorsal and ventral sides, often made with a biopsy punch.
+material entity;female germ cell;Female germ cell is a germ cell that supports female gamete production.
+material entity;secretory cell;A cell that specializes in controlled release of one or more substances.
+material entity;gastrodermal plexus;A thin net of single nerve fibers located around the gut.
+material entity;ciliated epithelial cell;An epithelial cell that has cilia.
+material entity;germ cell;1. A gamete (as an egg or sperm cell) or one of its antecedent cells. 2. A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.
+material entity;posterior region of longitudinal fragment;The posterior region of a fragment derived from an amputation parallel to the midline.
+material entity;dorsal region of plug fragment;The dorsal region of a 3D piece of tissue, usually though the whole depth of the animal encompassing both dorsal and ventral sides, often made with a biopsy punch.
+material entity;ventral region of plug fragment;The ventral region of a 3D piece of tissue, usually though the whole depth of the animal encompassing both dorsal and ventral sides, often made with a biopsy punch.
+material entity;anterior region of plug fragment;The anterior region of a 3D piece of tissue, usually though the whole depth of the animal encompassing both dorsal and ventral sides, often made with a biopsy punch.
+material entity;neuropil;A cluster of neurites that is part of a nervous system and forms a network of dendrites and axons where synapses are present and in which neuronal somata do not occur.
+material entity;pharynx progenitor cell;foxA1+ neoblasts and their post-mitotic, differentiating daughters required for maintenance and regeneration of the pharynx.
+material entity;vitelline gland;Glands surrounding the oviducts which produce yolk cells. Yolk cells deposited into the oviducts travel to the genital atrium where they are packaged, along with one or more zygotes, into developing egg capsules.
+material entity;pharynx outer circular muscle cell;Pharynx muscle fibers thar run circumferentially about the pharynx and lie just beneath the outer longitudinal pharynx muscles.
+material entity;cephalic ganglia progenitor cell;A progenitor cell that gives rise to one or more of the cell type(s) in the nervous system.
+material entity;anterior region of wedge fragment;The anterior region of a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures.
+material entity;proximal tubule epithelial cell;Ciliated epithelial cells that assemble into proximal tubules.
+material entity;copulatory apparatus;Accessory reproductive structures involved in copulation, egg capsule development and laying.
+material entity;pharynx inner circular muscle cell;Pharynx muscle fiber that runs circumferentially about the pharynx and lies just beneath the inner logitudinal pharynx muscle fibers.
+material entity;dorsal epidermis progenitor cell;A progenitor cell that gives rise to one or more of the cell type(s) in the dorsal epidermis.
+material entity;posterior region of wedge fragment;The posterior region of a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures.
+material entity;optic cup progenitor cell;A progenitor cell that gives rise to optic cup cells of the eye.
+material entity;tuba;A sperm storage organ located immediately posterior to the ovary, at the anterior end of the oviduct. Oocytes exiting the ovary are fertilized in the tuba as they enter the oviduct.
+material entity;pharynx outer epithelium;Heavily ciliated epidermal cells covering the outer surface of the pharynx shaft. These are "insunk" epidermal cells in which the nuclei reside behind the layers of longitudinal and circumferential muscles and the epithelial cell body sends out a ciliated projection to the surface to cover and encase the shaft.
+material entity;ventral epidermis progenitor cell;A progenitor cell that gives rise to one or more of the cell type(s) in the epidermis.
+material entity;anatomical system;Multicellular, connected anatomical structure that has multiple organs as parts and whose parts work together to achieve some shared function.
+material entity;pharynx radial muscle cell;Pharynx muscle fibers that run radially, connecting the outer muscle fibers and epithelia with their inner counterparts.
+material entity;distal tubule epithelial cell;Nonciliated epithelial cells that assemble into protonephridial distal tubules.
+material entity;pharynx musculature;The total musculature within the pharynx.
+material entity;copulatory bursa;An organ that receives and stores sperm from mating partners.
+material entity;pharynx inner longitudinal muscle cell;Pharynx muscle fibers running anteroposterior which lie beneath both the inner circular muscle fibers and the apical, ciliated portion of the epithium lining the lumenal surface.
+material entity;dorsal region of wedge fragment;The dorsal region of a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures.
+material entity;tissue;Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+material entity;seminal vesicle;Glandular pouches adjoining the sperm ducts which produce seminal fluid.
+material entity;pharynx outer longitudinal muscle cell;Pharynx muscle fibers running anteroposterior which lie just underneath the apical, cilaited portion of the outer epithelium.
+material entity;ventral region of wedge fragment;The ventral region of a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures.
+material entity;collecting duct epithelial cell;Nonciliated epithelial cells that assemble into collecting ducts.
+material entity;oogonial cell;An undifferentiated germ cell that proliferates rapidly and gives rise to oocytes.
+material entity;terminally differentiated cell;A post-mitotic, terminally differentiated cell type found in planarian embryos, juveniles and/or adult animals.
+material entity;embryo;Anatomical entity that comprises the organism in the early stages of growth and differentiation that are characterized by cleavage, the laying down of fundamental tissues, and the formation of primitive organs and organ systems. For example, for mammals, the process would begin with zygote formation and end with birth. For insects, the process would begin at zygote formation and end with larval hatching. For plant zygotic embryos, this would be from zygote formation to the end of seed dormancy. For plant vegetative embryos, this would be from the initial determination of the cell or group of cells to form an embryo until the point when the embryo becomes independent of the parent plant.
+material entity;round spermatid;A cyst of 8 interconnected spermatocytes undergoes meiosis, producing 32 haploid round spermatids. Round spermatids express protein kinase A, andundergo morphogenesis to produce mature sperm.
+material entity;pharynx inner nerve plexus;Ring of the pharynx nerve plexus that is proximal to the lumen.
+material entity;embryonic structure;Anatomical structure that is part of an embryo.
+material entity;elongate spermatid;Spermatids expressing protein kinase A undergoing morphogenic changes to make mature sperm.
+material entity;testis somatic gonadal cell progenitor cell;This progenitor cell develops into testis somatic gonadal cell
+material entity;pharynx outer nerve plexus;Ring of the pharynx nerve plexus that is proximal to the exterior surface.
+material entity;serotonergic neuron;Neurons that express the neurotransmitter serotonin.
+material entity;stem cell;A relatively undifferentiated cell that retains the ability to divide and proliferate throughout life to provide progenitor cells that can differentiate into specialized cells.
+material entity;secretory system;Anatomical system that has as its parts cells and glands devoted to the discharge of substances such as mucus.
+process;Stage 1;A stage of Smed embryonic development, 0 - 2 days post-egg capsule deposition at 20˚C. Zygote and dispersed blastomere cleavage in a yolk syncytium.
+material entity;gamete;A mature sexual reproductive cell having a single set of unpaired chromosomes.
+material entity;gland cell;Specialized insunk epithelial cells located in the mesenchyme that participate in mucus secretion. They are characterized by elongated cell bodies with long cytoplasmic projections that terminate between, or penetrate directly throughepithelial cells and form a secretory pore at the surface.
+material entity;body wall musculature;Any collection of muscles that is part of a body wall [Automatically generated definition].
+material entity;dopaminergic neuron;A neuron that expresses the neurotransmitter dopamine.
+material entity;progenitor cell;A cycling neoblast and/or post-mitotic cell that is primed or irreversibly committed to a tissue-specific differentation program
+material entity;pharynx longitudinal muscle cell;Pharynx muscle fibers running anteroposterior (proximal to distal).
+material entity;octopaminergic neuron;Neurons that express the biogenic amine octopamine.
+process;Stage 4;A stage of Smed embryonic development defined by a unique gene expression signature and morphology, 3 - 5 days post-egg capsule deposition at 20˚C. Dispersed blastomere cleavage in the embryonic wall. Yolk ingestion into the gut cavity. Early embryonic gut formation.
+material entity;sensory system;Anatomical system that overlaps the nervous system and is responsible for receiving and processing sensory information.
+material entity;basophilic gland cell;One of two distinct histochemical classes of gland cells, these are found near the ventral mesenchyme, the pharynx and in the dorsal region of the head. May also be called cyanophilic gland cells.
+process;Stage 5;A stage of Smed embryonic development defined by a unique gene expression signature and morphology, 5-7 days post-egg capsule deposition at 20˚C. Organogenesis onset. Downregulation of early embryo enriched transcripts and birth of adult lineages within the blastomere population. Early embryonic gut formation continues. Yolk ingestion into the gut cavity.
+material entity;reproductive system;Anatomical system that has as its parts the organs concerned with reproduction.
+process;Stage 2;A stage of Smed embryonic development defined by a unique gene expression signature and morphology, 2 - 3 days post-egg capsule deposition at 20˚C. Sphere formation. A fraction of the blastomeres differentiate into temporary embryonic tissues that provide form and function to the embryo. Undifferentiated blastomeres remain in the embryonic wall.
+material entity;embryonic cell;A cell of the embryo.
+immaterial entity;secretory pore;The opening by which the gland cells secrete mucus to the exterior of the animal.
+process;Stage 3;A stage of Smed embryonic development defined by a unique gene expression signature and morphology, 2 - 4 days post-egg capsule deposition at 20˚C. Dispersed blastomere cleavage in the embryonic wall of nascent spheres. Yolk ingestion into the gut cavity.
+material entity;visual system;The sensory system subserving the sense of vision.
+material entity;acidophilic gland cell;One of two distinct histochemical classes of gland cells, these can be found throughout the body but primarily form clusters of subepidermal marginal adhesive glands along the dorsoventral border of the animal.
+process;Stage 8;A stage of Smed embryonic development defined by a unique gene expression signature and morphology, 13 - 15 days post-egg capsule deposition at 20˚C. Organogenesis and organ maturation continues. Hatching.
+material entity;sigma neoblast;A heterogeneous subpopulation of neoblasts with enriched expression of SoxP-1 and SoxP-2 thought to contain both pluripotent stem cells and tissue-specific progenitors.
+process;Stage 6;A stage of Smed embryonic development defined by a unique gene expression signature and morphology, 7 - 9 days post-egg capsule deposition at 20˚C. Organogenesis and morphogenesis. Definitive organ formation. Temporary embryonic cell types degenerate. Embryo elongation.
+material entity;oviduct epithelial cell;Ciliated epithelial cells that assemble into the oviduct.
+process;Stage 7;A stage of Smed embryonic development defined by a unique gene expression signature and morphology, 9 - 11 days post-egg capsule deposition at 20˚C. Organogenesis and organ maturation continues. Embryos elongated. Eyes just visible. Onset of gliding motility.
+material entity;sperm duct epithelial cell;Ciliated epithelial cells comprising the sperm ducts.
+material entity;nerve plexus;Anatomical junction where subdivisions of two or more neural trees interconnect with one another to form a network through which nerve fibers of the constituent nerve trees become regrouped. together with other nerve plexuses, nerves and ganglia, it constitutes the peripheral nervous system. Examples: cervical nerve plexus, brachial nerve plexus, sacral nerve plexus[FMA].
+material entity;protonephridial progenitor cell;Neoblasts and post-mitotic, differentiating daughters coexpressing POU2-3, six1/2-2, Sal1, Eya and Osr,required for maintenance and regeneration of protonephridial cell types.
+material entity;blastema;A regenerating tissue composed of a proliferative mass of undifferentiated progenitor cells from which new differentiated structures arise.
+immaterial entity;testis lumen;lumen which is part of the testis
+material entity;neural progenitor cell;Neoblasts and their differentiating daughters implicated in maintenance and regeneration of different tissues in the nervous system.
+material entity;mechanoreceptor cell;A cell specialized to transduce mechanical stimuli and relay that information centrally in the nervous system.
+immaterial entity;ovary lumen;lumen which is part of the ovary
+material entity;circular muscle progenitor cell;piwi-1+, nkx1-1+ progenitor neoblasts required for specification of circular muscle fibers.
+immaterial entity;flame cell lumen;lumen which is part of the flame cell
+material entity;primordium;Primordia are populations of contiguous cells that are morphologically distinct and already correspond in extent to a later organ/tissue.
+material entity;brain commissure;any of the nerve fiber tracts that span the longitudinal fissure between the cerebral and/or cerebellar hemispheres of the brain
+material entity;non ciliated epithelial cell;An epithelial cell lacking cilia.
+material entity;whole organism;Anatomical structure that is an individual member of Schmidtea mediterranea or any other flatworm of the class Turbellaria.
+material entity;cell;A material entity of anatomical origin (part of or deriving from an organism) that has as its parts a maximally connected cell compartment surrounded by a plasma membrane.
+material entity;pharynx;A plicate and protrusible organ that is the sole point of entry and exit for the Triclad gut. It contains epithelial, muscular, secretory and neuronal cell types.
+process;regeneration;The regrowth of a lost or destroyed body part, such as an organ or tissue. This process may occur via renewal, repair, and/or growth alone (i.e. increase in size or mass).
+material entity;visceral musculature;Musculature surrounding internal organs of the body.
+material entity;longitudinal muscle progenitor cell;piwi-1+, myoD+, snail-1+ progenitor neoblasts required for specification and creation of longitudinal muscle fibers.
+material entity;zeta neoblast;An abundant neoblast subclass consisting of p53+, zfp1+ progenitors required for maintenance and regeneration of epidermal cell type(s).
+material entity;female primordial germ cell;Cells expressing nanos that are located ventrally in the location that the ovaries form. Primordial germ cells are present in both asexual adults and sexual hermaphrodites. This term may be redundant with oogonial stem cell.
+immaterial entity;protonephridial lumen;lumen which is part of the protonephridia
+material entity;muscle progenitor cell;Progenitor neoblasts implicated in the maintenance and regeneration of muscle fibers.
+material entity;photoreceptor neuron;Bipolar photoreceptor neurons with dendritic projections into the optic cup and axons that innervate the underlying brain.
+material entity;Hyman vesicle;PROG-2-5 positive granules that range in size from 0.5um to 1um present in epithelia and epithelia progenitor cells. These are distinct from rhabdites.
+material entity;Category 4 cell;Post-mitotic, mesenchymally and epidermally located progenitors downstream of the Category 3 cells.
+material entity;anterior region of the whole animal;Compartment along the anteroposterior axis closer to the head rather than the tail, from the head margin to the esophagus.
+material entity;Category 5 cell;Post-mitotic, ciliated epidermal cells.
+material entity;ventral region of the whole animal;Compartment along the dorsoventral axis that is below the anteroposterior axis.
+material entity;embryonic pharynx;An innervated, muscular pump that ingests yolk cells into the gut cavity. The embryonic pharynx is an extraembryonic tissue that forms during Stage 2, functions during Stages 3-5, and degenerates during Stages 6-7.
+material entity;protonephridia;Excretory organs consisting of flame cells, proximal tubules, and distal tubules connected to a mesenchymal collecting duct.
+material entity;dorsal region of the whole animal;Three dimensional compartment along the dorsoventral axis that is above the anteroposterior axis, containing the eyes.
+process;adult hermaphrodite;A fully formed, sexually mature organism that reproduces through cross-fertilization.
+material entity;posterior region of the whole animal;Three dimensional compartment along the anteroposterior axis that is closer to the tail rather than the head, from the anterior boundary of the pharyngeal pouch to the tip of the tail.
+process;asexual adult;Asexually reproducing Schmidtea mediterranea exist as constitutive adults, undergoing successive cycles of fission and whole animal regeneration. Asexual Schmidtea mediterranea contain primordial germ cells, but do not possess a reproductive system.
+material entity;gut;The planarian triclad gut contains a central anterior gut branch connected to two posterior gut branches arranged around the pharynx. Secondary gut branches extend laterally from the primary gut branches, while tertiary gut branches extend from the secondary branches. Food and waste enter and exit the gut through the pharynx.
+material entity;nervous system;The nervous system is an organ system containing predominantly neuron and glial cells. In bilaterally symmetrical organisms, it is arranged in a network of tree-like structures connected to a central body. The main functions of the nervous system are to regulate and control body functions, and to receive sensory input, process this information, and generate behavior [CUMBO].
+material entity;Category 2 cell;Post-mitotic, mesenchymally located epidermal progenitors downstream of the zeta neoblasts.
+material entity;primitive ectoderm;A single cell layer of extraembryonic, post-mitotic ectodermal cells bounding the embryo. The primitive ectoderm forms during Stage 2 and is thought to degenerate as the definitive epidermis forms during Stages 5-7.
+material entity;testis somatic gonadal cell;dmd-1+ expressing somatic cells within the testis that promote male GSC maintenance. dmd-1+, ophis-1+ somatic gonadal cells ensheath germ cells via long cytoplasmic processes and promote differentiation.
+material entity;ovarian somatic gonadal cell;ophis+ somatic cells (gh4-, nanos-) in the ovary that may provide trophic support to female germline stem cells and differentiating oogonia.
+material entity;midline;The median line/ plane of bilateral symmetry along the anteroposterior axis.
+material entity;epidermal progenitor cell;Mitotically active zeta neoblasts and their post-mitotic descendants which undergo progressive differentiation and outward directed movement through the mesenchyme prior to incorporation into the epidermis, where terminal differentiation occurs.
+material entity;pharynx primordium;This primordium develops into pharynx
+immaterial entity;primitive ectoderm surface;The apical surface of the single layered primitive ectoderm that is in contact with the environment.
+material entity;epidermis;A single cell layer of post-mitotic epithelial cells containing ciliated and non-ciliated cell types forming the exterior surface of the animal.
+material entity;pigment cup primordium;This primordium develops into optic cup
+immaterial entity;primtive gut cell surface;The surface of the primitive gut cells in contact with the embryonic wall.
+material entity;pigment cup cell;Non-neuronal, pigmented cells arrayed along the proximal side of the optic cup.
+material entity;testis primordium;This primordium develops into testis
+immaterial entity;embryonic gut cell surface;The surface of phagocytic embryonic gut cells in contact with ingested yolk cells.
+material entity;dorsal midline;The median line/plane of bilateral symmetry along the anteroposterior axis on the dorsal surface of the animal.
+material entity;gonad primoridium;This primordium develops into gonad
+material entity;ventral midline;The median line/ plane of bilateral symmetry along the anteroposterior axis on the ventral surface of the animal.
+material entity;basal lamina of epidermis;Acellular anatomical structure that consists of a thin sheet of fibrous proteins that underlie and support the cells of an epithelium. It separates the cells of an epithelium from any underlying tissue.
+material entity;Category 3 cell;Post-mitotic, mesenchymally located epidermal progenitors downstream of the Category 2 cells.
+material entity;cephalic ganglia primordium;This primordium develops into cephalic ganglia
+material entity;eye;An organ that detects light.
+material entity;eye primordium;This primordium develops into eye
+material entity;oral-aboral axis of the embryo;Axis that runs from the oral pole and to the aboral pole of the spherical embryo (Stage 3 through early Stage 6). The oral pole is centered around the embryonic pharynx. the aboral pole is located opposite the embryonic pharynx.
+material entity;gamma neoblast;An abundant neoblast subclass, exhibiting enriched expression of gata456a, hnf4, prox-1 and nkx2.2, implicated in maintenance and regeneration of the definitive gut.
+material entity;ovary primordium;This primordium develops into ovary
+immaterial entity;embryonic pharynx lumen epithelial surface;The epithelial cell surface lining the embryonic pharynx lumen.
+material entity;blastomere;An undifferentiated, cycling embryonic cell in Stage 1-5 embryos that expresses piwi-1, numerous adult asexual neoblast enriched genes, and early embryo enriched genes. Blastomeres give rise to temporary embryonic tissues during Stage 2, continue dividing asynchronously in the embryonic wall, and ultimately give rise to neoblasts and adult lineage progenitors beginning in Stage 5.
+material entity;extraembryonic cell;Post-mitotic, terminally differentiated cells which, give rise to temporary embryonic tissues.
+material entity;embryonic pharynx neuron;A neuronal cell innervating the embryonic pharynx. Four neurons innervate the radial muscle fibers that ring the oral opening.
+material entity;aboral hemisphere;Stage 3-5 embryo hemisphere centered around the pole opposite the embryonic pharynx.
+material entity;cephalic ganglia;The planarian brain, consisting of two bilaterally symmetric lobes occupying a ventral position in the head.
+material entity;synaptic vesicle;Vesicles that store various neurotransmitters that are released at the synapse. The release is regulated by a voltage-dependent calcium channel. Vesicles are essential for propagating nerve impulses between neurons and are constantly recreated by the cell. [Wikipedia]
+material entity;circular muscle cell;Body wall muscle fibers arrayed around the dorsoventral axis. Upon regeneration, these are thought to be produced de novo in the blastema.
+material entity;synaptic cleft;The narrow gap that separates the presynaptic and postsynaptic membranes, into which neurotransmitter is released.
+material entity;embryonic pharynx circular muscle cell;Differentiated muscle cell present in a circular muscle fiber of the embryonic pharynx.
+material entity;anterior primary gut branch;The single, central gut branch of the triclad gut anterior to the pharynx.
+material entity;synapse;The junction between a nerve fiber of one neuron and another neuron, muscle fiber or glial cell. As the nerve fiber approaches the synapse it enlarges into a specialized structure, the presynaptic nerve ending, which contains mitochondria and synaptic vesicles. At the tip of the nerve ending is the presynaptic membrane. facing it, and separated from it by a minute cleft (the synaptic cleft) is a specialized area of membrane on the receiving cell, known as the postsynaptic membrane. In response to the arrival of nerve impulses, the presynaptic nerve ending secretes molecules of neurotransmitters into the synaptic cleft. These diffuse across the cleft and transmit the signal to the postsynaptic membrane.
+material entity;dorsal ventral margin of the whole animal;Region along the edge of the animal where the dorsal and ventral surfaces meet.
+material entity;diagonal muscle cell;Body wall muscle fibers arrayed diagonally along the anteroposterior axis.
+material entity;septate junction;A cell-cell junction in invertebrates that seals cells together in an epithelium in a way that prevents even small molecules from leaking from one side of the sheet to the other.
+material entity;digestive system;Anatomical system that has as its parts the organs devoted to the ingestion, digestion, and assimilation of food and the discharge of residual wastes.
+material entity;telomere;The terminal region of a linear chromosome that includes the telomeric DNA repeats and associated proteins.
+material entity;embryonic pharynx radial muscle cell;Differentiated radial muscle cell present in the embryonic pharynx.
+material entity;clonogenic neoblast;Pluripotent piwi-1+ stem cells that self-renew, form expanding colonies and produce differentiating daughters that contribute to multiple organ systems. cNeoblasts are predicted to be broadly distributed across the anteroposterior axis of the adult worm.
+material entity;tail tip;The posterior-medial region of the tail margin.
+material entity;embryonic pharynx epithelial cell;foxA1+ epithelial cell contained in the embryonic pharynx.
+material entity;collecting duct;Non-ciliated tubules associated with the distal tubules, which cross the basement membrane and terminate in the dorsal epidermis.
+material entity;synaptonemal complex;A proteinaceous scaffold found between homologous chromosomes during meiosis. It consists of 2 lateral elements and a central element, all running parallel to each other. Transverse filaments connect the lateral elements to the central element.
+material entity;X1 cell;A sorted cell population enriched for irradiation-sensitive, cycling cells (4n cells, with high levels of Hoescht 33342 staining) with scant cytoplasm (low levels of calcein-AM staining). X1 cells are enriched for cycling neoblasts.
+process;wound;An injury that breaches the epidermis.
+process;wedge amputation;A wound resulting from a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures.
+material entity;copulatory region;Portion of the sexual biotype body plan immediately posterior to the parapharyngeal region, and immediately anterior to the tail. Encompasses the copulatory apparatus.
+material entity;pharynx epithelium;Epithelia associated with the pharynx organ.
+material entity;integumental system;Connected anatomical system that forms a barrier between an animal and its environment. In vertebrates, the integumental system consists of the epidermis, dermis plus associated glands and adnexa such as hair and scales. In invertebrates, the integumental system may include cuticle.
+material entity;dorsal stripe;Ciliated epithelial cells along the dorsal midline.
+material entity;postpharyngeal region;Posterior to the pharynx.
+material entity;prophase neoblast;neoblast undergoing mitotic prophase
+immaterial entity;tuba lumen;Anatomical space enclosed by tuba. Oocyte(s) are fertilized in the tuba lumen by sperm that traveled up the oviduct.
+material entity;ectolecithal embryo;Turbellarian (freshwater flatworm) embryos that undergo a modified form of cleavage due to separation of oocyte and yolk. Yolk is not contained within oocytes, and is produced by somatic vitellogenic gland cells.
+material entity;Xins cell;A sorted cell population of irradiation-insensitive cells that contains a variety of post-mitotic, differentiated cell types.
+material entity;metaphase neoblast;neoblast undergoing mitotic metaphase
+material entity;distal tubule;Sinusoidal, non-ciliated tubules connected to proximal tubules within the parenchyma. Tubules are formed via intercellular junctions between two epithelial cells.
+material entity;X2 cell;A sorted cell population containing irradiation-sensitive and irradiation-insensitive cells, characterized by weak Hoescht 33342 and calcein-AM staining. X2 cell populations contain neoblasts as well as a variety of lineage-dedicated post-mitotic progenitor cells.
+material entity;anaphase neoblast;neoblast undergoing mitotic anaphase
+material entity;dorsal region of the epidermis;Single cell layer of dorsal, post-mitotic, epithelial cells containing the dorsal stripe.
+material entity;X1(FS) cell;A heterogeneous sorted cell population of unstained planarian cells with similar size and complexity to irradiation-sensitive, cycling cells contained in the X1 gate. Unlike X1 cells, X1(FS) cells are amenable to cell transplantation.
+material entity;telophase neoblast;neoblast undergoing mitotic telophase
+material entity;embryonic gut cell;Dispersed, phagocytic gut cells that appear during Stage 4 and ultimately generate a honeycomb-like lattice surrounding the central gut cavity in Stage 5 embryos. Early embryonic gut cell specific transcripts are expressed from Stage 4-6, and are downregulated during Stage 7.
+immaterial entity;oviduct lumen;Anatomical space enclosed by the oviduct epithelium.
+material entity;fission fragment;A fragment derived from a spontaneous or induced fission event.
+material entity;G1 phase neoblast;neoblast undergoing mitotic G1 phase
+immaterial entity;sperm duct lumen;Anatomical space enclosed by the sperm duct epithelium.
+material entity;S phase neoblast;neoblast undergoing mitotic S phase
+material entity;oviduct epithelium;Ciliated epithelium lining the oviduct.
+material entity;embryonic digestive system;A cryptic digestive system in Stage 3-6 embryos comprised of temporary embryonic cell types and organs, including the embryonic pharynx and primitive gut cells. Embryonic gut cells, likely produced from blastomeres, form a phagocytic tissue layer surrounding the inner gut cavity during Stages 4-6. It is not known whether the embryonic gut is temporary embryonic tissue or a definitive tissue. For convenience, the embryonic gut is currently designated as an extraembryonic structure because cell type specific markers for the embryonic gut do not stain the definitive gut in hatchlings or adult animals.
+material entity;post-blastema region;Adjacent to blastema, or proximal to blastema.
+material entity;G2 phase neoblast;neoblast undergoing mitotic G2 phase
+material entity;sperm duct epithelium;Ciliated epithelium lining the sperm duct.
+material entity;gut branch;The triclad planarian gut is serially bifrucated into connected lumens where each bifrucation is a branch.
+material entity;epithelium;The avascular cellular layers that cover body surfaces and cavities and may form glands.
+material entity;G1 phase spermatogonial stem cell;spermatogonial stem cell undergoing mitotic G1 phase
+material entity;S phase spermatogonial stem cell;spermatogonial stem cell undergoing mitotic S phase
+material entity;G2 phase spermatogonial stem cell;spermatogonial stem cell undergoing mitotic G2 phase
+material entity;esophagus;Attachment between the triclad gut and the proximal end of the pharynx.
+material entity;extraembryonic organ;Organ that is associated with an embryo and derived from the zygote from which it develops, but which does not contribute to the embryo proper or to structures that are part of the same organism after embryogenesis.
+material entity;extraembryonic structure;A multicellular anatomical structure that is associated with an embryo and derived from the zygote from which it develops, but which does not contribute to the embryo proper or to structures that are part of the same organism after embryogenesis.
+material entity;embryonic wall;The parenchymal space between the gut cavity and the primitive ectoderm containing undifferentiated blastomeres in Stage 3-5 embryos.
+material entity;enteric musculature;Visceral muscle surrounding the gut.
+material entity;gastrodermis;The single cell layer columnar epithelial lining of the intestine. The gastrodermis is surrounded by a basal lamina and enteric muscle.
+process;amputation;A wound resulting in two or more separate tissue fragments.
+material entity;G1 phase oogonial stem cell;oogonial stem cell undergoing mitotic G1 phase
+material entity;goblet cell;Secretory cells that release digestive enzymes into the lumen of the intestine.
+material entity;adhesive papilla;Finger-like processes at the terminal pore of adhesive gland cells around the marginal adhesive zone. They protrude past the epidermis and are longer microvilli, and shorter than cilia.
+material entity;chromosomal structural element;structural element of a chromosome, for example, a telomere and a centromere
+material entity;S phase oogonial stem cell;oogonial stem cell undergoing mitotic S phase
+material entity;flame bulb;Terminal structure of protonephridia unit. consists of flame cells.
+material entity;adherens junction;A cell junction at which anchoring proteins (cadherins or integrins) extend through the plasma membrane and are attached to actin filaments.
+process;perturbation;An event or occurrence that causes damage to a tissue or organ.
+material entity;G2 phase oogonial stem cell;oogonial stem cell undergoing mitotic G2 phase
+material entity;flame cell;Terminal structure of the protonephridia unit, capping the proximal tubules. Flame cells are defined by the filtration weir‚ or filtration diaphragm, which consists of closely apposed strands of cytoplasm surrounding a central cilia bundle, and by numerous microvilli between weir and cilia. Positive for acetyated tubulin.
+material entity;adenal rhabdite;Rhabdites that are located basally to the epidermis, in the mesenchyme. In Smed these are present in cells likely on their way to becoming part of the mature epidermis.
+material entity;chromosome part;This is a manufactured term, that serves the purpose of allow the parts of a chromosome to have an is a path to the root.
+material entity;prophase oogonial stem cell;oogonial stem cell undergoing mitotic prophase
+material entity;auricle;A sense organ located along the dorsolateral head margin. The auricular groove is highly innervtated by ciliated sensory neurons, and has an altered epidermis devoid of rhabdites and gland cells.
+material entity;fragment;A piece of tissue isolated from the body.
+material entity;prophase spermatogonial stem cell;spermatogonial stem cell undergoing mitotic prophase
+immaterial entity;antrum;A chamber formation in an organ.
+material entity;metaphase spermatogonial stem cell;spermatogonial stem cell undergoing mitotic metaphase
+immaterial entity;embryonic gut cavity;Cavity encompassed by the embryonic digestive tract, prior to formation of the branched defintive gut.
+material entity;anterior tip;The anterior-medial region of the head margin.
+material entity;thin fragment;A longitudinal fragment lacking a midline and medial structures.
+material entity;anaphase spermatogonial stem cell;spermatogonial stem cell undergoing mitotic anaphase
+material entity;inner longitudinal muscle cell;Inner most body wall muscle fibers arrayed along the anteroposterior axis. These fibers are thicker than the outer longitudinal muscle fibers. The pattern of these muscles differs along the dorsoventral axis, with the dorsal arrangement converging at the central zone of the anterior pole. The ventral arrangement is more parallel or may diverge slightly as it approaches the ventral pole.
+material entity;anterior gut branch;A branch of the triclad gut located anterior to the pharynx.
+material entity;thick fragment;A longitudinal fragment containing the preexisting midline and medial structures.
+material entity;telophase spermatogonial stem cell;spermatogonial stem cell undergoing mitotic telophase
+material entity;axoneme;The bundle of microtubules and associated proteins that forms the core of cilia (also called flagella) in eukaryotic cells and is responsible for their movements.
+material entity;axon;The long process of a neuron that conducts nerve impulses, usually away from the cell body to the terminals and varicosities, which are sites of storage and release of neurotransmitter.
+material entity;longitudinal region;A region bounded by any sagittal plane though the animal and the left or right side of the animal. NOTE: sagittal plane is an anatomical plane that divides a bilateral body into left and right parts, not necessarily of even size
+material entity;metaphase oogonial stem cell;oogonial stem cell undergoing mitotic metaphase
+material entity;anaphase oogonial stem cell;oogonial stem cell undergoing mitotic anaphase
+material entity;intestinal phagocyte;Absorptive digestive cells that engulf food particles for intracellular digestion.
+material entity;telophase oogonial stem cell;oogonial stem cell undergoing mitotic telophase
+material entity;basal body;A membrane-tethered, short cylindrical array of microtubules and associated proteins found at the base of a eukaryotic cilium (also called flagellum) that is similar in structure to a centriole and derives from it. The cilium basal body is the site of assembly and remodelling of the cilium and serves as a nucleation site for axoneme growth. As well as anchoring the cilium, it is thought to provide a selective gateway regulating the entry of ciliary proteins and vesicles by intraflagellar transport.
+process;plug wound;A wound resulting from the removal of tissue, usually though the whole depth of the animal encompassing both dorsal and ventral sides, often made with a biopsy punch.
+material entity;oocyte;A female germ cell that has entered meiosis.
+process;chemical wound;An intentional wound produced by non-autonomous chemical means.
+material entity;longitudinal muscle cell;Body wall muscle fibers arrayed along the anteroposterior axis. Upon regeneration, these muscles are thought to be established from truncated pre-existing fibers.Inner most body wall muscle fibers arrayed along the anteroposterior axis. These fibers are thicker than the outer longitudinal muscle fibers. The pattern of these muscles differs along the dorsoventral axis, with the dorsal arrangement converging at the central zone of the anterior pole. The ventral arrangement is more parallel or may diverge slightly as it approaches the ventral pole.
+material entity;mouth;The sole point of entry and exit for the Triclad planarian flatworm gut. The mouth is connected to the pharyngeal pouch to allow for exit and re-entry of the pharynx on the ventral side of the animal. The mouth contains several cell types, including epithelial cells, muscle, and secretory cells.
+material entity;cell body;The portion of a cell bearing surface projections such as axons, dendrites, cilia, or flagella that includes the nucleus, but excludes all cell projections.
+specifically dependent continuant;parasagittal orientation;An orientation quality inhering in a bearer by virtue of the bearer having a position that is in the parasagittal plane, which runs longitudinally, and is never medial.
+material entity;enteric muscle cell;cell which is part of the enteric musculature
+material entity;metaphase spermatogonia;spermatogonium undergoing mitotic metaphase
+material entity;outer longitudinal muscle cell;Body wall muscle fibers arrayed along the anteroposterior axis. Upon regeneration, these muscles are thought to be established from truncated pre-existing fibers.
+material entity;Category 1 cell;Irradiation-sensitive, mesenchymal cells that are absent from the head region anterior to the eyes and the pharynx. The Category 1 designation encompasses the neoblast population.
+specifically dependent continuant;sagittal orientation;An orientation quality inhering in a bearer by virtue of the bearer having a position that is in the sagittal plane. This plane runs longitudinally and is not necessarily medial.
+material entity;dorsal epidermis cell;cell which is part of the dorsal region of the epidermis
+material entity;anaphase spermatogonia;spermatogonium undergoing mitotic anaphase
+material entity;optic cup;A portion of the eye containing pigment cells and dendritic projections from photoreceptor neurons.
+immaterial entity;bulbar cavity;An enlarged portion of the seminal vesicle, comprised of secretory epithelial cells, that connects to the ejaculatory duct within the penis papilla.
+material entity;regenerating fragment;A fragment that has undergone wound healing and is undergoing tissue replacement and morphallaxis.
+material entity;adhesion gland cell;cell which is part of the adhesion gland
+material entity;telophase spermatogonium;spermatogonium undergoing mitotic telophase
+material entity;oral hemisphere;Stage 3-5 embryo hemisphere centered around the embryonic pharynx.
+material entity;brain visual center;Region of the cephalic ganglia innervated by the optic nerve (posterior-projecting photoreceptor neuron fasiculated axons).
+process;wedge wound;A wound resulting from the removal of a piece of tissue from the lateral margin at any given point that extends interiorly to more medial structures.
+material entity;body wall muscle cell;cell which is part of the body wall musculature
+material entity;G1 phase oogonial cell;oogonial cell undergoing mitotic G1 phase
+process;chemical pharynx amputation;Amputation of the phaynx, including the esophagus, by treatment with Sodium Azide.
+material entity;derived cell population;Cells isolated from dissociated planarian tissue.
+material entity;testis cell;cell which is part of the testis
+material entity;G1 phase spermatogonium;spermatogonium undergoing mitotic G1 phase
+process;chemical amputation;Amputation carried out by application of chemicals.
+material entity;FACS sorted cell population;Any number of cells from dissociated planarian tissue sorted via a FACS sorter for any parameter.
+material entity;ventral epidermis cell;cell which is part of the ventral epidermis
+material entity;S phase spermatogonium;spermatogonium undergoing mitotic S phase
+material entity;parenchymal musculature;Muscles that are present through the mesenchyme, inclusing dorsal-ventral muscles, intestinal muscles and pharynx muscles.
+material entity;cephalic ganglia neuron;A central nervous system neuron located within the planarian brain.
+material entity;intracellular granule;Cytoplasmic part which forms a distinctive granular particle, which may or may not be visible using light microscopy.
+material entity;visual system cell;cell which is part of the visual system
+material entity;G2 phase spermatogonium;spermatogonium undergoing mitotic G2 phase
+material entity;cephalic ganglia lobe;One of two bilaterally symmetric structures comprising the planarian brain.
+material entity;syncytium;An anatomical entity consisting of a single or a few multinucleated structures
+material entity;eye cell;cell which is part of the eye
+material entity;prophase spermatogonium;spermatogonium undergoing mitotic prophase
+material entity;chemosensory neuron;Any neuron that capable of some detection of chemical stimulus involved in sensory perception.
+material entity;gastrodermal cell;cell which is part of the gastrodermis
+material entity;S phase oogonial cell;oogonial cell undergoing mitotic S phase
+material entity;anterior pole cell;cell which is part of the anterior pole
+material entity;peripheral nervous system;A major division of the nervous system that contains nerves which connect the central nervous system (CNS) with sensory organs, other organs, muscles, blood vessels and glands.
+material entity;pharynx pouch;An epithelial structure housing the pharynx, connected to the esophagus and mouth.
+material entity;G2 phase oogonial cell;oogonial cell undergoing mitotic G2 phase
+material entity;pharynx neuron;neuron which is part of the pharynx
+material entity;prophase oogonial cell;oogonial cell undergoing mitotic prophase
+material entity;posterior primary gut branch;The primary gut branches of the triclad gut lateral and posterior to the pharynx and pharyngeal pouch.
+material entity;chromosome;A structure composed of a very long molecule of DNA and associated proteins (e.g. histones) that carries hereditary information.
+material entity;parenchyma;A loosely organized collection of connective tissue and cells, including neoblasts and their immediate progeny, located in the space outside of the organs between the body wall musculature and the gut.
+material entity;primitive gut cell;A phagocytic cell closely associated with the embryonic pharynx.
+material entity;chromatoid body;A membrane-less, cytoplasmic ribonucleoprotein granule present in neoblasts and germ cells implicated in post-transcriptional regulation. The RNA helicase DHH1/RCK, Tudor, SmB, methylated substrates of PRMT5, PIWI-3 and Germinal Histone H4 localize to chromatoid bodies in neoblasts.
+immaterial entity;sperm duct epithelial surface;Epithelial surface lining the sperm duct.
+material entity;pharynx pouch epithelium;An epithelial monolayer lining the pharynx pouch cavity.
+material entity;renal system;The renal system is an anatomical system that maintains fluid balance and contributes to electrolyte balance, acid/base balance, and disposal of nitrogenous waste products.
+material entity;commissure;A bundle of nerve fibers crossing from one side to the other side of the brain or spinal cord.
+material entity;ommochrome pigment granule;pigment granule which is part of the ommochrome pigment cell
+material entity;S phase germ cell cyst;germ cell cyst undergoing mitotic S phase
+material entity;secondary gut branch;Gut branches, originating from and connected to the primary gut branches, that extend laterally towards the body edge.
+material entity;cilium;A specialized eukaryotic organelle that consists of a filiform extrusion of the cell surface and of some cytoplasmic parts. Each cilium is largely bounded by an extrusion of the cytoplasmic (plasma) membrane, and contains a regular longitudinal array of microtubules, anchored to a basal body. The longitudinal array of microtubules are almost always in a 9+2 array with 2 microtubles in the central cilia bundle and 9 sets of doublet microtubules around the perimeter. The exception to this arrangement is spermatazoa flagella, which have a 9+1 array in planarians.
+material entity;parenchymal cell;cell which is part of the parenchyma
+material entity;G2 phase germ cell cyst;germ cell cyst undergoing mitotic G2 phase
+material entity;ciliated epithelium;Epithelium bearing vibratile cilia on the free surface.
+material entity;parapharyngeal cell;cell which is part of the parapharyngeal region
+material entity;prophase germ cell cyst;germ cell cyst undergoing mitotic prophase
+material entity;proximal tubule;Ciliated epithelial cells form tubules, generating coiled, branching units terminating in flame bulbs. Tubules are formed via intercellular junctions between two epithelial cells. Proximal tubules are connected to non-ciliated distal tubules within the parenchyma.
+material entity;chromosome arm;Under the microscope chromosomes appear as thin, thread-like structures. They all have a short arm and long arm separated by a primary constriction called the centromere. The short arm is designated as p and the long arm as q.
+material entity;prepharyngeal cell;cell which is part of the prepharyngeal region
+material entity;metaphase germ cell cyst;germ cell cyst undergoing mitotic metaphase
+material entity;early female germ cell;A premeiotic female germ cell (i.e., a diploid female germline stem cell or transit amplifying oogonial cell).
+material entity;pharynx epithelial cell;epithelial cell which is part of the pharynx
+material entity;metaphase oogonial cell;oogonial cell undergoing mitotic metaphase
+material entity;dorsal-ventral muscle cell;A muscle cell that runs in the transverse plane that connects the dorsal and ventral sides of the animal.
+material entity;pharynx muscle cell;muscle cell which is part of the pharynx
+material entity;anaphase oogonial cell;oogonial cell undergoing mitotic anaphase
+material entity;dendrite;A neuron projection that has a short, tapering, morphology. Dendrites receive and integrate signals from other neurons or from sensory stimuli, and conduct nerve impulses towards the axon or the cell body. In most neurons, the impulse is conveyed from dendrites to axon via the cell body, but in some types of unipolar neuron, the impulse does not travel via the cell body.
+material entity;pharynx pouch epithelial cell;epithelial cell which is part of the pharynx pouch
+material entity;telophase oogonial cell;oogonial cell undergoing mitotic telophase
+process;cut;A wound or cleft resulted from tissue separation into parts or laid open or penetrated with a sharp edge or instrument.
+material entity;melanin pigment granule;pigment granule which is part of the eumelanin
+material entity;G1 phase germ cell cyst;germ cell cyst undergoing mitotic G1 phase
+material entity;yolk syncytium;Fused yolk cells surrounding blastomeres undergoing dispersed cleavage during Stages 1 and 2.
+material entity;anaphase germ cell cyst;germ cell cyst undergoing mitotic anaphase
+material entity;telophase germ cell cyst;germ cell cyst undergoing mitotic telophase
+material entity;sperm;A mature male germ cell that develops from a spermatid.
+material entity;dorsal region of tail;The dorsal region of the tail.
+material entity;meiotic S phase spermatocyte;spermatocyte undergoing meiotic S phase
+material entity;trail cell;Ovo+ neoblasts and post-mitotic eye progenitors that simultaneously migrate and differentiate into photoreceptor neurons and non-neuronal pigment cup cells comprising the optic cup.
+material entity;epidermal cell;An epithelial cell of the integument (the outer layer of an organism).
+material entity;ventral epidermis;Single cell layer of ventral, post-mitotic, heavily ciliated epithelial cells
+material entity;embryonic gut;A cryptic digestive cavity comprised of phagocytic embryonic gut cells.
+material entity;tertiary gut branch;Gut branches originating from and connected to the secondary gut branches.
+material entity;early male germ cell;A premeiotic male germ cell (i.e., a spermatogonial stem cell or transit amplifying spermatogonial cell).
+material entity;neuron;The basic cellular unit of nervous tissue. Each neuron consists of a body, an axon, and dendrites. Their purpose is to receive, conduct, and transmit impulses in the nervous system.
+material entity;excretory cell;A cell involved in the elimination of metabolic and foreign toxins, and in maintaining the ionic, acid-base and water balance of biological fluids.
+material entity;zygotene stage spermatocyte;spermatocyte undergoing zygotene
+material entity;eumelanin;The black pigment that gives non-neuronal pigment cells of the optic cup their characteristic color.
+material entity;pachytene stage spermatocyte;spermatocyte undergoing pachytene
+material entity;ventral nerve cord;The pair of closely united ventral longitudinal nerves with their segmental ganglia that is characteristic of many elongate invertebrates (as earthworms)[BTO]. A large process bundle that runs along the vental mid-line extending from the ventral region of the nerve ring[WB]. The ventral cord is one of the distinguishing traits of the central nervous system of all arthropods (such as insects, crustaceans and arachnids) as well as many other invertebrates, such as the annelid worms[GO].
+material entity;ER membrane;The lipid bilayer surrounding the endoplasmic reticulum.
+material entity;diplotene stage spermatocyte;spermatocyte undergoing diplotene
+material entity;zygote;Diploid cell resulting from the fusion of male and female gametes at fertilization. [The Dictionary of Cell and Molecular Biology:Third Edition ].
+material entity;epidermal rhabdite;Rhabdites located within epidermal cells.
+material entity;lateral region of the whole animal;The lateral region of the medio-lateral axis of the whole animal.
+material entity;meiotic G1 phase spermatocyte;spermatocyte undergoing meiotic G1 phase
+process;fission;A form of asexual reproduction resulting in self-amputation of posterior tissue, generating an anterior fragment and a fission fragment.
+material entity;anterior region of the eye;The anterior region of the eye.
+material entity;meiotic G2 phase spermatocyte;spermatocyte undergoing meiotic G2 phase
+material entity;extracellular space;That part of a multicellular organism outside the cells proper, usually taken to be outside the plasma membranes, and occupied by fluid.
+material entity;posterior region of the eye;The posterior region of the eye.
+material entity;meiotic prophase I spermatocyte;spermatocyte undergoing meiotic prophase I
+material entity;extracellular matrix;A structure lying external to one or more cells, which provides structural support, biochemical or biomechanical cues for cells or tissues.
+material entity;prepharyngeal midline;The center-most region just anterior to the pharynx
+material entity;leptotene stage spermatocyte;spermatocyte undergoing leptotene
+material entity;diakinesis stage spermatocyte;spermatocyte undergoing diakinesis
+material entity;meiotic metaphase 1 stage spermatocyte;spermatocyte undergoing meiotic metaphase I
+material entity;meiotic anaphase I stage spermatocyte;spermatocyte undergoing meiotic anaphase I
+material entity;meiotic telophase I spermatocyte;spermatocyte undergoing meiotic telophase I
+material entity;germ cell cyst;A clonally-related group of interconnected spermatogonial or oogonial cells, enveloped by somatic gonadal cells.
+immaterial entity;genital atrium;A chamber where egg capsules are formed. One or more zygotes and yolk cells produced by the vitelline glands collect in the genital atrium. glands surrounding the genital atrium produce the egg capsule shell.
+material entity;gap junction;A cell-cell junction composed of pannexins or innexins and connexins, two different families of channel-forming proteins.
+material entity;flagellum;Planarian undulipodia consisting of spermatazoa cell posterior protrusions. Planarian spermatozoa contain two flagella and are composed of 9 + 1 axonemal microtubule arrangements in their flagella (markedly different from the 9 + 2 structures generally observed in sperm of other animals).
+material entity;pharynx inner epidermal cell;Epithelial cells lining the inside of the pharynx. In Smed, distally located cells are heavily ciliated.
+material entity;meiotic telophase II spermatocyte;spermatocyte undergoing meiotic telophase II
+process;incision;A surgical cut that breaches the epidermis, made with a defined edge.
+material entity;glycogen granule;Cytoplasmic bead-like structures of animal cells, visible by electron microscope. Each granule is a functional unit with the biosynthesis and catabolism of glycogen being catalyzed by enzymes bound to the granule surface.
+material entity;germline stem cell;Stem cell that is the precursor of gametes.
+material entity;meiosis II stage spermatocyte;spermatocyte undergoing meiosis II cell cycle phase
+material entity;meiotic prophase II spermatocyte;spermatocyte undergoing meiotic prophase II
+material entity;intercellular junction;A cell junction that forms a connection between two or more cells in a multicellular organism.
+material entity;meiotic metaphase 2 spermatocyte;spermatocyte undergoing meiotic metaphase II
+material entity;inner zone of gland cells;Gland or secretory cells sandwiched between muscle and epidermal layers in the pharynx.
+material entity;meiotic anaphase II spermatocyte;spermatocyte undergoing meiotic anaphase II
+process;linear amputation;An amputation performed with a transverse, oblique or longitudinal cut.
+material entity;marginal adhesive zone;Zone present along the lateral dorsoventral boundary that sits just underneath the animal, in contact with substrates. It is comprised of bunches of adhesion gland cells whose terminal pores form pore rosettes through the dorsal ventral boundary epidermis.This region of is devoid of rhabdites.
+immaterial entity;lumen;The cavity or channel within a tube or tubular organ such as a blood vessel or the intestine.
+material entity;lipid droplet;An intracellular non-membrane-bounded organelle comprising a matrix of coalesced lipids surrounded by a phospholipid monolayer. May include associated proteins.
+process;linear incision;A breach of the epidermis and optionally down into other structures though an insult with a knife or other instrument, such that the movement includes the z direction and one or more of the x y direction.
+material entity;melanosome;A tissue-specific, membrane-bounded cytoplasmic organelle within which melanin pigments are synthesized and stored. Melanosomes are synthesized in melanocyte cells.
+material entity;meiotic germ cell;A germ cell undergoing meiosis.
+material entity;medial muscle cell;Subset of dorsal-ventral muscle cells located in the medial body region.
+material entity;mechanosensory neuron;Any neuron that is capable of some detection of mechanical stimulus involved in sensory perception.
+material entity;sagittal plane of the whole animal;Anatomical plane which divides the body into right and left parts. This plane passes through the midline at the midline but does not always the midline.
+material entity;mucus;A secreted, mucin-rich extracellular substance coating the epidermal surface of the animal implicated in gliding locomotion, substrate adhesion, innate immunity and predator avoidance.
+material entity;plasma membrane;The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+material entity;neurite;Cell appendage of the neuron which includes the axon and the dendrite.
+immaterial entity;nephridiopore;The external opening and terminus of a protonephridium made by a terminal cell.
+material entity;regenerating head fragment;a head fragment that is regenerating
+material entity;regenerating trunk fragment;a trunk fragment that is regenerating
+material entity;nuclear inner membrane;The inner, i.e. lumen-facing, lipid bilayer of the nuclear envelope.
+material entity;nuclear envelope;The double lipid bilayer enclosing the nucleus and separating its contents from the rest of the cytoplasm. includes the intermembrane space, a gap of width 20-40 nm (also called the perinuclear space).
+material entity;non-ciliated epidermis;Differentiating, immature epidermal cells lacking cilia.
+material entity;neuropeptidergic neuron;A neuron that produces and releases neuropeptides at chemical synapses.
+material entity;ommochrome pigment cell;Parenchymal cells that synthesize and contain brown ommonchrome pigment.
+material entity;regenerating posterior fragment;a posterior fragment that is regenerating
+material entity;nuclear periphery;The portion of the nuclear lumen proximal to the inner nuclear membrane.
+material entity;regenerating lateral fragment;a lateral fragment that is regenerating
+material entity;lysosome;The digestive component of the cell. They are homogenous, dense, membrane bound organelles filled with acid hydrolases which break down polymers.
+material entity;nuclear outer membrane;The outer, i.e. cytoplasm-facing, lipid bilayer of the nuclear envelope. continuous with the endoplasmic reticulum of the cell and sometimes studded with ribosomes.
+material entity;regenerating longitudinal fragment;a longitudinal fragment that is regenerating
+material entity;smooth endoplasmic reticulum;Endoplamic reticulum that does not contain ribosomes, which synthesizes lipids, phospholipids, and steroids.
+material entity;nuclear lumen;The volume enclosed by the nuclear inner membrane.
+material entity;regenerating plug fragment;a plug fragment that is regenerating
+function;nuclear pore;Any of the numerous similar discrete openings in the nuclear envelope of a eukaryotic cell, where the inner and outer nuclear membranes are joined.
+material entity;regenerating tail fragment;a tail fragment that is regenerating
+material entity;endoplasmic reticulum;Network of interconnected, flattened, and/or tubular membrane, known as cisternae. This membrane is contiguous with the outer nuclear membrane. The endoplasmic reticulum is involved in both protein and lipid synthesis.
+material entity;regenerating prepharyngeal fragment;a prepharyngeal fragment that is regenerating
+material entity;rough endoplasmic reticulum;Network of interconnected, flattened, and/or tubular membrane, known as cisternae. This membrane is contiguous with the outer nuclear membrane. The endoplasmic reticulum is involved in both protein and lipid synthesis. The outer surface is studded with protein-synthesizing particles known as ribosomes.
+material entity;regenerating postpharyngeal fragment;a postpharyngeal fragment that is regenerating
+material entity;extracellular organelle;Organized structure of distinctive morphology and function, occurring outside the cell. Includes, for example, extracellular membrane vesicles (EMVs) and the cellulosomes of anaerobic bacteria and fungi.
+material entity;regenerating anterior fragment;a anterior fragment that is regenerating
+material entity;mitochondrion;A spherical to rod shaped organelle that generates the majority of a cell's supply of ATP via cellular respiration. Mitochondria have their own genome and consist of outer and inner membranes, the latter folds inward to form cristae. This folding increases the surface area of the membrane and thus increases the space available to produce ATP. The inner and outer membranes are separated by an intermembrane space, and the inner membrane encloses the matrix.
+material entity;anterior-posterior axis of the whole animal;Axis that runs along the long axis of the animal from anterior (head) to posterior (tail). It is perpendicular to the dorsoventral axis and as such, it splits dorsal and ventral regions of the animal to either side.
+material entity;dorsal-ventral axis of the whole animal;Axis that runs along the short axis of the animal, perpendicular to the anteroposterior axis, running from the dorsal (back) side of the animal to the ventral (belly) side of the animal. This axis splits anterior and posterior regions of the animal to either side.
+material entity;pharynx outer epidermal cell;Heavily ciliated, insunk epithelial cells bounding the outside of the pharynx. Outer pharynx epithelial cell nuclei are positioned beneath the pharynx musculature.
+material entity;regenerating wedge fragment;a wedge fragment that is regenerating
+material entity;left-right axis of the whole animal;Axis perpendicular to both the anteroposterior and dorsoventral axis that runs from the left side of the animal, through the medial region (center) and out to the right side.
+material entity;optic nerve;A neuron projection bundle that connects the retina or its analog in the eye with the brain. This includes the vertebrate optic nerve (not truly a nerve) as well as analogous structures such as the Bolwig nerve in Drosophila.
+material entity;pigment granule;A small, subcellular membrane-bounded vesicle containing pigment and/or pigment precursor molecules. Pigment granule biogenesis is poorly understood, as pigment granules are derived from multiple sources including the endoplasmic reticulum, coated vesicles, lysosomes, and endosomes.
+material entity;pigment cell;A pigment cell is a cell that contains pigment granules.
+material entity;pharynx tip;The distal-most end of the pharnyx containing an opening to the pharynx lumen.
+material entity;phagocytic cell;A cell that engulfs large particles or cells via invagination of the plasma membrane and creation of a phagosome.
+material entity;glial cell;A non-neuronal cell of the nervous system. They not only provide physical support, but also respond to injury, regulate the ionic and chemical composition of the extracellular milieu, guide neuronal migration during development, and exchange metabolites with neurons.
+immaterial entity;pore;An anatomical space that is an opening, usually at the end of a canal or duct, on the surface of the integument or the lining of an internal anatomical space.
+material entity;ganglion;A biological tissue mass of nerve cell bodies.
+process;point incision;A breach of the epidermis made with a sharp pointed object, like a needle or an insect pin.
+process;plug amputation;A wound resulting from an amputation of tissue, usually though the whole depth of the animal encompassing both dorsal and ventral sides, often made with a biopsy punch.
+material entity;anterior pole;Distinct anterior cluster of muscle cells located at the midline which express notum, follistatin, zic-1, and foxD.
+material entity;posterior pole;Distinct posterior cluster of muscle cells located at the midline which express wnt1.
+material entity;medial-lateral axis of the whole animal;Axis that runs from the center of the body, starting at the anteroposterior axis and out to the lateral (left, right, dorsal or ventral) surface of the animal.
+material entity;proximal-distal axis of the whole animal;Axis that starts at the distal part of an appendage, closest to the body, and runs to the proximal part of an appendage, farthest from the body.
+material entity;presynaptic cell;The part of a synapse that is part of the presynaptic cell.
+material entity;premeiotic germ cell;A diploid germline stem cell or transit amplifying germ cell that has not committed to undergoing meiotic DNA replication, reductive divisions or terminal differentiation.
+material entity;postsynaptic cell;A specialized area of membrane facing the presynaptic membrane on the tip of the nerve ending and separated from it by a minute cleft (the synaptic cleft). Neurotransmitters cross the synaptic cleft and transmit the signal to the postsynaptic membrane.
+material entity;post-meiotic germ cell;A haploid gamete undergoing terminal differentiation.
+material entity;primitive gut;Four large phagocytic cells associated with the embryonic pharynx.
+material entity;primary gut branch;The largest branch of the triclad intestine. It is comprised of the gastrodermis, a columnar epithelium, surrounded by basal lamina and visceral musculature.
+material entity;presynaptic vesicle;A secretory organelle, typically 50 nm in diameter, of presynaptic nerve terminals. accumulates in high concentrations of neurotransmitters and secretes these into the synaptic cleft by fusion with the 'active zone' of the presynaptic plasma membrane.
+material entity;presynaptic terminal;Terminal inflated portion of the axon, containing the specialized apparatus necessary to release neurotransmitters. The axon terminus is considered to be the whole region of thickening and the terminal bouton is a specialized region of it.
+material entity;anchor cell;Specialized epithelial cell located along the dorsoventral margin that surrounds the viscid and releasing gland cells.
+material entity;reproductive organ;An organ involved in reproduction
+material entity;quarternary gut branch;Gut branches originating from and connected to the tertiary gut branches.
+material entity;adhesion gland;Groupings of specialized epithelial cells located along the dorsal ventral margin. Adhesion glands are comprised of three cell types, the viscid and releasing gland cells which penetrate through an epithelial anchor cell and terminate at the epidermal surface.
+material entity;pharynx circular muscle cell;Pharynx muscle fibers running circumferentially about the pharynx.
+material entity;pharynx inner epithelium;Heavily ciliated epidermal cells covering the inner surface of the pharynx shaft.
+material entity;reproductive structure;Any anatomical structure that is part of the reproductive system.
+material entity;secretory granule;A small subcellular vesicle, surrounded by a membrane, that is formed from the Golgi apparatus and contains a highly concentrated protein destined for secretion. Secretory granules move towards the periphery of the cell and upon stimulation, their membranes fuse with the cell membrane, and their protein load is exteriorized. Processing of the contained protein may take place in secretory granules.
+material entity;secretory duct;A tubular structure that transports secreted or excreted substances.
+material entity;TrpA+ central nervous system neuron;A subset of TrpA+ neurons, located medially in the cephalic ganglia, whose formation is dependent on function of runt-1 and ap2.
+material entity;rhabdomere;The dendritic process of a bipolar photoreceptor neuron that projects into the optic cup lumen and senses light.
+material entity;viscid gland cell;A specialized insunk epithelial cell that is part of the adhesion glands which is responsible for production and excretion of the viscid substance allowing adherence to a substrate.
+material entity;rhabdome;The light sensing structure consisting of photoreceptor neuron dendrites that project into the optic lumen and show close associations with eumelanin-containing pigment cup cells.
+material entity;releasing gland cell;Specialized insunk epithelial cell that is part of the adhesion gland which is responsible for production of releasing substance.
+material entity;stalk;A thin, flexible rod that anchors an egg capsule to a solid substrate.
+material entity;specialized neoblast;A presumptive progenitor cell that expresses both pan-neoblast markers and pro-differentiation gene(s), frequently developmental transcription factors, implicated in lineage commitment and tissue-specific differentiation programs.
+material entity;somatic gonadal cell;A non-germline cell within the ovary or testis.
+material entity;somatic cell;One of the cells of the body that compose the tissues, organs, and parts of that individual other than the germ cells.
+material entity;transverse commissure;Axon tracts from ganglia that cross the midline, connecting the two ventral nerve cords.
+process;surgical wound;A wound produced by non-autonomous physical means.
+material entity;TrpA+ neural progenitor cell;piwi-1+, runt-1+, ap2+ progenitor neoblasts required for production of TrpA+ neurons.
+material entity;anterior pole progenitor cell;piwi-1+, foxD+, prep+ progenitor neoblasts required for formation of the anterior pole.
+material entity;cintillo+ sensory neuron;A subset of sensory neurons located along the dorsal head margin.
+material entity;lateral nerve;A nerve extending laterally from the ventral nerve cord that innervates the submuscular plexus.
+material entity;klf+ sensory neuron progenitor cell;piwi-1+, klf+ progenitor neoblasts required for production of cintillo+ sensory neurons.
+material entity;nu neoblast;A population of piwi-2+, ston-2+, elav-2+, ptprd-9+ and msi-1+ progenitors that give rise to one or more neuronal (pc-2+, synapsin+) lineages.
+material entity;serotonergic neural progenitor cell;piwi-1+, lhx1/5-1+, pitx+ progenitor neoblasts required for specification of tph+ serotonergic neurons.
+material entity;ovary nerve plexus;Nerve plexus surrounding the ovary.
+material entity;testis nerve plexus;Nerve plexus surrounding the testis.
+immaterial entity;fission plane;Transverse anatomical plane, located approximately 1-2 mm from the posterior extremity of an adult animal, at which fission occurs.
+material entity;pax3/7+ neural progenitor cell;piwi-1+, pax3/7+ progenitor neoblasts implicated in the production of DBH+ ventral midline neurons.
+immaterial entity;embryonic pharynx lumen;A lumen enclosed by the embryonic pharynx epithelial cells through which yolk cells are transported into the embryonic gut cavity.
+material entity;sexual organism;An individual member of the sexual biotype of Schmidtea mediterranea.
+material entity;asexual organism;An individual member of the asexual biotype of Schmidtea mediterranea.
+material entity;glutamatergic neuron;Neurons that express the biogenic amine glutamate.
+material entity;head margin;Peripheral region of the head.
+material entity;guidepost cell;A cell present near the brain and eye where photoreceptor axons form a bundle projecting out from the eye that are near axon choice points. Guidepost cells are positive for Arrestin, notum, fz5/8-4+, 6G10, and low levels of troponin, tropomyosin, colF-2 and mp-1.
+material entity;NME cell;Guidepost cell associated with the visual circuit that are present near the eye, located along axons just anterior and ventral to the eye. Name acronym stands for notum+ muscle cell near eye.
+material entity;non-ciliated neuron;A neuron cell that does not have cilia.
+material entity;cilated neuron;A neuron that has cilia.
+material entity;NBC cell;Guidepost cell present at the medial brain, ventral to the optic chiasm. Closely associated with photoreceptor axons during regneration. Name acronym stands for notum+ brain cells.
+material entity;juvenile organism;A sexually immature member of the Schmidtea mediterranea sexuallly reproducing biotype
+material entity;NMC cell;Guidepost cell assocaited with the visual circuit, present at the axon choice point ventral, posterior to and slightly medial to the eye. Name acronym stands for notum+ muscle cells at the choice point.
+material entity;microvillus;Thin cylindrical membrane-covered projections on the surface of an animal cell containing a core bundle of actin filaments.
+material entity;cell projection;A prolongation or process extending from a cell.
+material entity;actin-based cell projection;A cell projection supported by an assembly of actin filaments.
+material entity;cell-cell junction;A cell junction that forms a connection between two or more cells in a multicellular organism. this excludes direct cytoplasmic junctions such as ring canals.
+material entity;cell-cell adhesion;The attachment of one cell to another cell via adhesion molecules.
+material entity;cell-cell contact zone;Extended zone of intimate apposition between two cells containing one or more types of intercellular junctions.
+material entity;cell junction;A cellular component that forms a specialized region of connection between two or more cells or between a cell and the extracellular matrix. At a cell junction, anchoring proteins extend through the plasma membrane to link cytoskeletal proteins in one cell to cytoskeletal proteins in neighboring cells or to proteins in the extracellular matrix.
+material entity;intracellular part;Any constituent part of the living contents of a cell. the matter contained within (but not including) the plasma membrane, usually taken to exclude large vacuoles and masses of secretory or ingested material. In eukaryotes it includes the nucleus and cytoplasm.
+material entity;cytoplasm;All of the contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures
+material entity;cytoplasmic vesicle part;Any constituent part of cytoplasmic vesicle, a vesicle formed of membrane or protein, found in the cytoplasm of a cell.
+material entity;vacuole;A closed structure, found only in eukaryotic cells, that is completely surrounded by unit membrane and contains liquid material. Cells contain one or several vacuoles, that may have different functions from each other. Vacuoles have a diverse array of functions. They can act as a storage organelle for nutrients or waste products, as a degradative compartment, as a cost-effective way of increasing cell size, and as a homeostatic regulator controlling both turgor pressure and pH of the cytosol.
+material entity;cytoplasmic part;Any constituent part of the cytoplasm, all of the contents of a cell excluding the plasma membrane and nucleus, but including other subcellular structures.
+material entity;intracellular organelle;Organized structure of distinctive morphology and function, occurring within the cell. Includes the nucleus, mitochondria, plastids, vacuoles, vesicles, ribosomes and the cytoskeleton. Excludes the plasma membrane.
+material entity;head blastema;blastema which develops into head region
+material entity;intracellular non-membrane-bounded organelle;Organized structure of distinctive morphology and function, not bounded by a lipid bilayer membrane and occurring within the cell. Includes ribosomes, the cytoskeleton and chromosomes
+material entity;tail blastema;blastema which develops into tail region
+material entity;bounding membrane of organelle;Examples include the outer membranes of double membrane bound organelles such as mitochondria as well as the bounding membranes of single-membrane bound organelles such as lysosomes.
+material entity;membrane part;Any constituent part of a membrane, a double layer of lipid molecules that encloses all cells, and, in eukaryotes, many organelles. may be a single or double lipid bilayer. also includes associated proteins.
+material entity;membrane;A lipid bilayer along with all the proteins and protein complexes embedded in it an attached to it.
+immaterial entity;pharynx lumen;Anatomical space enclosed by the pharynx inner epithelium.
+material entity;organelle;Organized structure of distinctive morphology and function. Includes the nucleus, mitochondria, plastids, vacuoles, vesicles, ribosomes and the cytoskeleton, and prokaryotic structures such as anammoxosomes and pirellulosomes. Excludes the plasma membrane.
+immaterial entity;digestive tract lumen;An anatomical space that is surrounded by a digestive tract.
+material entity;membrane-bounded organelle;Organized structure of distinctive morphology and function, bounded by a single or double lipid bilayer membrane. Includes the nucleus, mitochondria, plastids, vacuoles, and vesicles. Excludes the plasma membrane.
+material entity;plasma membrane part;Any constituent part of the plasma membrane, the membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins.
+material entity;organelle membrane;A membrane that is one of the two lipid bilayers of an organelle envelope or the outermost membrane of single membrane bound organelle.
+material entity;nucleus;A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
+material entity;apical surface of the epidermis;The apical surface of the single layered epidermis that is in contact with the environment.
+immaterial entity;oral opening;The orifice that connects the mouth to the exterior of the body.
+material entity;intracellular membrane-bounded organelle;Organized structure of distinctive morphology and function, bounded by a single or double lipid bilayer membrane and occurring within the cell. Includes the nucleus, mitochondria, plastids, vacuoles, and vesicles. Excludes the plasma membrane.
+immaterial entity;pharynx pouch cavity;Anatomical space between the pharynx and the epithelial cells comprising parapharyngeal pouch.
+material entity;Golgi apparatus;A compound membranous cytoplasmic organelle of eukaryotic cells, consisting of flattened, ribosome-free vesicles arranged in a more or less regular stack. The Golgi apparatus differs from the endoplasmic reticulum in often having slightly thicker membranes, appearing in sections as a characteristic shallow semicircle so that the convex side (cis or entry face) abuts the endoplasmic reticulum, secretory vesicles emerging from the concave side (trans or exit face). In vertebrate cells there is usually one such organelle, while in invertebrates and plants, where they are known usually as dictyosomes, there may be several scattered in the cytoplasm. The Golgi apparatus processes proteins produced on the ribosomes of the rough endoplasmic reticulum. such processing includes modification of the core oligosaccharides of glycoproteins, and the sorting and packaging of proteins for transport to a variety of cellular locations. Three different regions of the Golgi are now recognized both in terms of structure and function: cis, in the vicinity of the cis face, trans, in the vicinity of the trans face, and medial, lying between the cis and trans regions.
+material entity;anterior photoreceptor neuron;photoreceptor neuron is contained in the anterior region of the eye
+immaterial entity;gastrodermis surface;The surface of the gastrodermis in contact with the gut lumen.
+material entity;nuclear part;Any constituent part of the nucleus, a membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated.
+immaterial entity;pharynx inner epithelium surface;The epithelial surface lining the interior of the pharynx, facing the lumen.
+material entity;nucleolus;A small, dense body one or more of which are present in the nucleus of eukaryotic cells. It is rich in RNA and protein, is not bounded by a limiting membrane, and is not seen during mitosis. Its prime function is the transcription of the nucleolar DNA into 45S ribosomal-precursor RNA, the processing of this RNA into 5.8S, 18S, and 28S components of ribosomal RNA, and the association of these components with 5S RNA and proteins synthesized outside the nucleolus. This association results in the formation of ribonucleoprotein precursors. these pass into the cytoplasm and mature into the 40S and 60S subunits of the ribosome.
+material entity;secretory vesicle;A cytoplasmic, membrane bound vesicle that is capable of fusing to the plasma membrane to release its contents into the extracellular space.
+material entity;basal surface of the epidermis;The basal surface of the epidermis in direct contact with the basal lamina.
+material entity;non-membrane-bounded organelle;Organized structure of distinctive morphology and function, not bounded by a lipid bilayer membrane. Includes ribosomes, the cytoskeleton and chromosomes.
+material entity;euchromatin;A dispersed and relatively uncompacted form of chromatin.
+material entity;ribosome;An intracellular organelle, about 200 A in diameter, consisting of RNA and protein. It is the site of protein biosynthesis resulting from translation of messenger RNA (mRNA). It consists of two subunits, one large and one small, each containing only protein and RNA. Both the ribosome and its subunits are characterized by their sedimentation coefficients, expressed in Svedberg units (symbol: S). Hence, the prokaryotic ribosome (70S) comprises a large (50S) subunit and a small (30S) subunit, while the eukaryotic ribosome (80S) comprises a large (60S) subunit and a small (40S) subunit. Two sites on the ribosomal large subunit are involved in translation, namely the aminoacyl site (A site) and peptidyl site (P site). Ribosomes from prokaryotes, eukaryotes, mitochondria, and chloroplasts have characteristically distinct ribosomal proteins. [ https://www.worldcat.org/search?q=bn%3A0198506732 ]
+immaterial entity;pharynx outer epithelium surface;Epithelial surface covering the outside of the pharynx.
+material entity;chromatin;The ordered and organized complex of DNA, protein (histones), and sometimes RNA, that forms the chromosome.
+immaterial entity;pharynx pouch epithelial surface;The surface of the parapharyngeal pouch facing the pharynx.
+material entity;heterochromatin;A compact and highly condensed form of chromatin.
+material entity;prepharyngeal region;Region of the juvenile or adult animal between the posterior end of the cephalic ganglia and the anterior end of the pharynx.
+material entity;posterior photoreceptor neuron;photoreceptor neuron is contained in the posterior region of the eye
+material entity;lateral muscle cell;muscle cell is contained in the lateral region
+material entity;definitive organism subdivision;Anatomical structure which is a subdivision of a whole adult or juvenile organism, consisting of components of multiple anatomical systems.
+material entity;axon tract;A group of axons linking two or more neuropils and having a common origin, termination
+material entity;anterior muscle cell;muscle cell is contained in the anterior region
+material entity;head region;The head is the anterior-most division of the body [GO]. A three dimensional compartment bounded by the anterior margin or the head and the posterior boundary of the cephalic ganglia (brain).
+material entity;electrically responsive cell;A cell whose function is determined by its response to an electric signal.
+material entity;posterior muscle cell;muscle cell is contained in the posterior region
+material entity;electrically signaling cell;A cell that initiates an electrical signal and passes that signal to another cell.
+material entity;tail stripe;Medial region of the tail. the parenchymal space between the posterior primary gut branches.
+material entity;neuron projection bundle;A fasciculated bundle of neuron projections (GO:0043005), largely or completely lacking synapses.
+material entity;embryonic subdivision;Anatomical structure which is a subdivision of a whole developing/ embryonic organism, consisting of components of multiple anatomical systems.
+material entity;parapharyngeal region;Region of the animal lateral to and surrounding the pharynx.
+material entity;nerve;An enclosed, cable-like bundle of axons in the peripheral nervous system originating in a nerve root in the central nervous system (or a condensed nervous structure) connecting with peripheral structures.
+material entity;tail region;Caudal region, beginning at the mouth and ending at posterior pole.
+material entity;commissural neuron;A neuron that has an axon which crosses the midline.
+material entity;multicellular anatomical structure;An anatomical structure that has more than one cell as a part.
+material entity;efferent neuron;A neuron which sends impulses peripherally to activate muscles or secretory cells.
+material entity;afferent neuron;A neuron which conveys sensory information centrally from the periphery.
+material entity;bipolar neuron;A type of interneuron that has two neurites, usually an axon and a dendrite, extending from opposite poles of an ovoid cell body.
+material entity;musculature system;Total musculature of the planarian body.
+material entity;excitatory motor neuron;A motor neuron that is capable of directly inducing muscle contraction.
+material entity;neoblast;A heterogeneous population of pluripotent, somatic adult stem cells and lineage primed progenitors that are required for maintenance and regeneration of all cell types in planaria, including the germline.
+material entity;interneuron;Most generally any neuron which is not motor or sensory. Interneurons may also refer to neurons whose axons remain within a particular brain region as contrasted with projection neurons which have axons projecting to other brain regions.
+material entity;epithelial cell component;A part of an epithelial cell.
+material entity;dorsal region of head fragment;The dorsal region of a fragment derived from a prepharyngeal amputation encompassing the head.
+material entity;ventral region of head fragment;The ventral region of a fragment derived from a prepharyngeal amputation encompassing the head.
+material entity;organ;Anatomical structure that performs a specific function or group of functions.
+material entity;sensory neuron;Any neuron having a sensory function. an afferent neuron conveying sensory impulses.
+material entity;motor neuron;An efferent neuron that passes from the central nervous system or a ganglion toward or to a muscle and conducts an impulse that causes or inhibits movement.
+material entity;sympathetic neuron;Sympathetic neurons are part of the sympathetic nervous system and are primarily adrenergic producing the neurotransmitter noradrenalin along with other neuropeptides.
+material entity;anterior region of trunk fragment;The anterior region of a fragment derived from pre- and post-pharyngeal amputations, encompassing the pharynx and parapharyngeal region.
+material entity;unipolar neuron;Neuron with one neurite that extends from the cell body.
+material entity;posterior region of trunk fragment;The posterior region of a fragment derived from pre- and post-pharyngeal amputations, encompassing the pharynx and parapharyngeal region.
+material entity;neurosecretory neuron;Neuronal cells which synthesize, store and release neurohormones.
+material entity;dorsal region of tail fragment;The dorsal region of a fragment derived from a postpharyngeal amputation encompassing the tail.
+material entity;ventral region of tail fragment;The ventral region of a fragment derived from a postpharyngeal amputation encompassing the tail.
+material entity;anterior region of head fragment;The anterior region of a fragment derived from a prepharyngeal amputation encompassing the head.
+material entity;posterior region of head fragment;The posterior region of a fragment derived from a prepharyngeal amputation encompassing the head.
+material entity;dorsal region of trunk fragment;The dorsal region of a fragment derived from pre- and post-pharyngeal amputations, encompassing the pharynx and parapharyngeal region.
+material entity;ventral region of trunk fragment;The ventral region of a fragment derived from pre- and post-pharyngeal amputations, encompassing the pharynx and parapharyngeal region.
+material entity;neuron associated cell (sensu Nematoda and Protostomia);Cells that are in close proximity to neurons.
+material entity;central nervous system neuron;Any neuron that is part of a central nervous system.
+material entity;anterior region of tail fragment;The anterior region of a fragment derived from a postpharyngeal amputation encompassing the tail.
+material entity;posterior region of tail fragment;The posterior region of a fragment derived from a postpharyngeal amputation encompassing the tail.
+material entity;multipolar neuron;Neuron with an axon and two or more dendrites.
+material entity;dorsal region of prepharyngeal fragment;The dorsal region of a fragment derived from two prepharyngeal amputations, removing the head and posterior regions of the animal.
+material entity;autonomic neuron;A neruon whose cell body is within an autonomic ganglion.
+immaterial entity;gonopore;The gonopore, a component of the copulatory apparatus, is an opening located on the ventral side of the animal posterior to the pharynx. The gonopore is the sole point of exit and entry for the reproductive system, allowing from reciprocal exchange of sperm during copulation and egg capsule laying.
+material entity;enteric neuron;A neruon contained within with the enteric nervous system (gastrodermal plexus).
+material entity;bursal canal;The passageway connecting the genital atrium to the copulatory bursa. Part of the copulatory apparatus. During mating, sperm from a partner is deposited into the bursal canal, where it collects in the copulatory bursa before travelling up the oviducts to the tuba.
+material entity;peripheral nervous system neuron;Any neuron that is part of a peripheral nervous system.
+material entity;penis papilla;A rounded protuberance, connected to the seminal vesicles, responsible for transferring semen into a mating partner's bursal canal.
+material entity;ventral region of postpharyngeal fragment;The ventral region of a fragment derived from two postpharyngeal amputations, removing the anterior region and the tail tip.
+material entity;sperm duct;A network of tubes that transport sperm from the testes to the seminal vesicles. Tubes connect each testis to ducts that run along the ventral nerve cords. The ducts bifurcate immediately posterior to the pharynx, where they connect to the seminal vesicles.
+material entity;anterior region of postpharyngeal fragment;The anterior region of a fragment derived from two postpharyngeal amputations, removing the anterior region and the tail tip.
+material entity;ovary;A gonad containing female germline stem cells which fuel oocyte production. Two ovaries are located ventally, underneath the body wall musculature, immediately posterior to the cephalic ganglia (brain) and adjacent to the ventral nerve cords. The neoblast compartment, including piwi-1+, nanos+ primordial germ cells, fuel formation of the ovaries during juvenile development.
+material entity;posterior region of postpharyngeal fragment;The posterior region of a fragment derived from two postpharyngeal amputations, removing the anterior region and the tail tip.
+material entity;oviduct;Ciliated tubes adjacent to the ventral nerve cords, adjoining the tuba and the bursal canal, that transport fertilized oocytes to the genital atrium.
+material entity;ventral region of prepharyngeal fragment;The ventral region of a fragment derived from two prepharyngeal amputations, removing the head and posterior regions of the animal.
+material entity;anterior region of prepharyngeal fragment;The anterior region of a fragment derived from two prepharyngeal amputations, removing the head and posterior regions of the animal.
+material entity;testis;A gonad containing male germline stem cells which fuel sperm production. Testes are located dorsolaterally, and are excluded from the head. The neoblast compartment, including piwi-1+, nanos+ primordial germ cells, fuels formation of testes during juvenile development and regeneration.
+material entity;posterior region of prepharyngeal fragment;The posterior region of a fragment derived from two prepharyngeal amputations, removing the head and posterior regions of the animal.
+material entity;dorsal region of postpharyngeal fragment;The dorsal region of a fragment derived from two postpharyngeal amputations, removing the anterior region and the tail tip.
+material entity;dorsal region of anterior fragment;The dorsal region of a fragment encompassing all or part of the anterior region of the animal.
+material entity;head fragment;A fragment derived from a prepharyngeal amputation encompassing the head.
+material entity;ventral region of anterior fragment;The ventral region of a fragment encompassing all or part of the anterior region of the animal.
+material entity;trunk fragment;A fragment derived from pre- and post-pharyngeal amputations, encompassing the pharynx and parapharyngeal region.
+material entity;anterior region of anterior fragment;The anterior region of a fragment encompassing all or part of the anterior region of the animal.
+material entity;tail fragment;A fragment derived from a postpharyngeal amputation encompassing the tail.
+material entity;posterior region of anterior fragment;The posterior region of a fragment encompassing all or part of the anterior region of the animal.
+process;juvenile stage;A postnatal stage of Smed development that initiates with hatching and proceeds until sexual maturity is reached. Reproductive structures develop during the juvenile stage.
+material entity;primitive ectoderm cell;Primitive ectoderm cells differentiate from the blastomere population, exit the cell cycle and interact to boud the embryo during Stage 2.
+material entity;gonad;Reproductive organ that produces and releases eggs (ovary) or sperm (testis).
+material entity;optic chiasm;A decussation of the diencephalon where the fibers of the optic nerve cross
+material entity;lateral fragment;A fragment derived from an amputation parallel to or along any edge, which overlaps the lateral region, dorso-lateral region, ventro-lateral region, antero-lateral margin, lateral margin, ventro-lateral margin, postero-lateral margin, dorso-lateral margin, antero-lateral region, postero-lateral region. [SMR: a fragment that encompasses the side of the animal, not necessarily longituduinal, or parallel to the midline]
+material entity;dorsal region of lateral fragment;The dorsal region of a fragment derived from an amputation parallel to or along any edge, which overlaps the lateral region, dorso-lateral region, ventro-lateral region, antero-lateral margin, lateral margin, ventro-lateral margin, postero-lateral margin, dorso-lateral margin, antero-lateral region, postero-lateral region.
+material entity;male primordial germ cell;Cells coexpressing piwi-1 and nanos that are required for male gonad formation. Primordial germ cells are present in both asexual adults and sexual hermaphrodites. This term may be redundant with spermatogonial stem cell.
+material entity;longitudinal fragment;a fragment derived from an amputation parallel to the midline.
+material entity;ventral region of lateral fragment;The ventral region of a fragment derived from an amputation parallel to or along any edge, which overlaps the lateral region, dorso-lateral region, ventro-lateral region, antero-lateral margin, lateral margin, ventro-lateral margin, postero-lateral margin, dorso-lateral margin, antero-lateral region, postero-lateral region.
+material entity;reproductive system product;Products of the reproductive system include gametes, zygotes, yolk cells and egg capsules.
+material entity;plug fragment;A 3D piece of tissue, usually though the whole depth of the animal encompassing both dorsal and ventral sides, often made with a biopsy punch.
+material entity;egg capsule;A proteinaceous, semi-permeable shell housing yolk cells and one or more embryos.Egg capsules are anchored to a substrate via a stalk.
+material entity;prepharyngeal fragment;A fragment derived from two prepharyngeal amputations, removing the head and posterior regions of the animal.
+material entity;dorsal region of posterior fragment;The dorsal region of a fragment encompassing all or part of the posterior region of the animal.
+material entity;postpharyngeal fragment;A fragment derived from two postpharyngeal amputations, removing the anterior region and the tail tip.
+material entity;ventral region of posterior fragment;The ventral region of a fragment encompassing all or part of the posterior region of the animal.
+material entity;spermatogonial stem cell;gh4+, nanos+ cells residing at the testis periphery that self-renew and give rise to differentiating daughters that will ultimately produce haploid sperm.
+material entity;anterior fragment;A fragment encompassing all or part of the anterior region of the animal.
+material entity;anterior region of posterior fragment;The anterior region of a fragment encompassing all or part of the posterior region of the animal.
+material entity;posterior fragment;A fragment encompassing all or part of the posterior region of the animal.
+material entity;posterior region of posterior fragment;The posterior region of a fragment encompassing all or part of the posterior region of the animal.

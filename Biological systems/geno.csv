@@ -1,0 +1,223 @@
+class;term;comment
+generically dependent continuant;transgene part;A structurally or functionally defined component of a transgene (e.g. a promoter, a region coding for a fluorescent protein tag, etc)
+material entity;genomic material;A nucleic acid macromolecule that is part of a cell or virion and has been inherited from an ancestor cell or virion, and/or is capable of being replicated and inherited through successive generations of progeny.
+material entity;material genome;A material entity that represents all genetic material in a cell or virion. The material genome is typically molecular aggregate of all the chromosomal DNA and epi-chromosomal DNA that represents all sequences that are heritable by progeny of a cell or virion.
+generically dependent continuant;genomic feature location;The location of a sequence feature in a genome, defined by its start and end position on some reference genomic coordinate system
+material entity;organismal entity;A material entity that is an organism, derived from an organism, or composed of organisms (e.g. a cell line, biosample, tissue culture, population, etc).
+generically dependent continuant;aneusomic chromosomal part;A large deletion or terminal addition of part of some non-homologous chromsosome, as the result of an unbalanced translocation.
+generically dependent continuant;lost aneusomic chromosomal segment;A deletion of a terminal portion of a chromosome resulting from an unbalanced translocation to another chromosome.
+generically dependent continuant;gained aneusomic chromosomal segment;A part of some non-homologous chromosome that has been gained as the result of an unbalanced translocation event.
+generically dependent continuant;aneusomic chromosome;A complete chromosome that has been abnormally duplicated, or the absense of a chromosome that has been lost, typically as the result of a non-disjunction event or unbalanced translocation
+generically dependent continuant;gained aneusomic chromosome;A complete chromosome that has been abnormally duplicated in a genome, typically as the result of a meiotic non-disjunction event or unbalanced translocation
+specifically dependent continuant;simple heterozygous;
+generically dependent continuant;lost aneusomic chromosome;A 'deletion' resulting from the loss of a complete chromosome, typically as the result of a meiotic non-disjunction event or unbalanced translocation.
+specifically dependent continuant;zebrafish phenotype;
+generically dependent continuant;novel extrachromosomal replicon;An extrachromosomal replicon that is variant in a genome in virtue of its being a novel addition to the genome - i.e. it is not present in the reference for the genome in which it is found.
+generically dependent continuant;novel replicon;A genomic feature that represents an entirely new replicon in the genome, e.g. an extrachromosomal replicon or an extra copy of a chromosome.
+specifically dependent continuant;novel;An attribute of a genomic feature that represents a feature not previously found in a given genome, e.g. an extrachromosomal replicon or aneusomic third copy of a chromosome.
+generically dependent continuant;terminus;A sequence feature representing the end of a sequence that is bounded only on one side (e.g. at the end of an chromosome or oligonucleotide).
+generically dependent continuant;reporter transgene;A transgene that codes for a product used as a reporter of gene expression or activity.
+specifically dependent continuant;sequence feature attribute;An attribute, quality, or state of a sequence feature or collection.
+generically dependent continuant;genomic feature set;A set of genomic features (i.e. sequence features that are of genomic origin).
+generically dependent continuant;RNA residue;
+generically dependent continuant;DNA residue;
+generically dependent continuant;amino acid residue;
+generically dependent continuant;gene part;A genomic feature that is part of a gene, and delineated by some functional or structural function or role it serves (e.g.a promoter element, coding region, etc).
+generically dependent continuant;integrated transgene;A transgene that has been integrated into a chrromosome in the host genome.
+generically dependent continuant;gene trap insertion;
+generically dependent continuant;genotype;A specification of the genetic state of an organism, whether complete (defined over the whole genome) or incomplete (defined over a subset of the genome). Genotypes typically describe this genetic state as a diff between some variant component and a canonical reference.
+generically dependent continuant;genomic genotype;A genotype that describes the total variation in heritable genomic sequence of a cell or organism, typically in terms of alterations from some reference or background genotype.
+generically dependent continuant;variant genomic genotype;An intrinsic genotype that specifies variation from a defined reference genome.
+generically dependent continuant;haplotype block;A sequence feature representing a region of the genome over which there is little evidence for historical recombination, such that sequence alterations it contains are typically co-inherited across generations.
+generically dependent continuant;sequence feature set;A set of sequence features.
+generically dependent continuant;biological sequence unit;
+process;phenotypic inheritance process;
+disposition;homoplasmic mitochondrial inheritance;A mitochondrial inheritance pattern whereby manifestation of a trait occurs when only mitochondria containing the causative allele are inherited.
+disposition;heteroplasmic mitochondrial inheritance;A mitochondrial inheritance pattern whereby manifestation of a trait is observed when some inherited mitochondria contian the causative allele and some do not.
+specifically dependent continuant;variation attribute;An attribute describing a type of variation inhering in a sequence feature or collection.
+generically dependent continuant;reagent-targeted gene subregion;A region within a gene that is specifically targeted by a gene knockdown reagent, typically in virtue of bearing sequence complementary to the reagent.
+generically dependent continuant;genomic entity;An generically dependent continuant that carries biological sequence that is part of or derived from a genome.
+generically dependent continuant;gene knockdown reagent;
+generically dependent continuant;effective genotype;A genotype that describes the total intrinsic and extrinsic variation across a genome at the time of a phenotypic assessment (where 'intrinsic' refers to variation in genomic sequence, as mediated by sequence alterations, and 'extrinsic' refers to variation in gene expression, as mediated through transient gene-specific interventions such as gene knockdown reagents or overexpression constructs).
+generically dependent continuant;male intrinsic genotype;A genomic genotype here the genomic background specifies a male sex chromosome complement.
+specifically dependent continuant;germline allele origin;Describes an allele that is inherited from a parent in virtue of the allele being present in the germline of one of the parents.
+generically dependent continuant;extrinsic genotype;A specification of the known state of gene expression across a genome, and how it varies from some baseline/reference state.
+generically dependent continuant;genomic genotype (sex-qualified);A genomic genotype where the genomic background specifies a male or female sex chromosome complement.
+material entity;oryzias latipes strain;
+generically dependent continuant;reagent-targeted gene complement;A set comprised of *all* reagent-targeted genes in a single genome in the context of a given experiment (e.g. the zebrafish shha and shhb genes in a zebrafish exposed to morpholinos targeting both of these genes).
+generically dependent continuant;female intrinsic genotype;A genomic genotype here the genomic background specifies a female sex chromosome complement.
+disposition;undetermined inheritance;An inheritance pattern that is not determined or not known.
+generically dependent continuant;expression-variant gene;A gene altered in its expression level relative to some baseline of normal expression in the system under investigation (e.g. a cell line or model organism).
+generically dependent continuant;transiently-expressed transgene complement;The set of all transgenes trransiently expressed in a biological system in the context of a given experiment.
+generically dependent continuant;unspecified genomic background;A background genotype whose sequence or identity is not known or specified.
+specifically dependent continuant;de novo allele origin;Describes an allele that originated through a mutation event in a germ cell of one of the parents, or in the fertilized egg itself during early embryogenesis. De novo alleles are* heritable* but *not inherited*.
+generically dependent continuant;reporter region;
+specifically dependent continuant;somatic allele origin;Describes an allele that result from some spontaneous mutation event in a somatic cell after fertilization, and thus are not present in every cell in the body.
+specifically dependent continuant;unknown allele origin;Describes an allele whose origin is not known.
+generically dependent continuant;selectable marker transgene;A transgene whose product is used as a selectable marker.
+specifically dependent continuant;compound heterozygous;A heterozygous quality inhering in a single locus complement comprised of two different varaint alleles and no wild type locus. (e.g.fgf8a<ti282a>/fgf8a<x15>)
+generically dependent continuant;karyotype;A genotype that describes what is known about variation in a genome at a gross structural level, in terms of the number and appearance of chromosomes in the nucleus of a eukaryotic cell.
+specifically dependent continuant;allelic phase;A quality inhering in a collection of discontinuous sequence features in a single genome in virtue of their relative position on the same or separate chromosomes.
+generically dependent continuant;diplotype;An allelic genotype specifying the set of two alleles present at a particular location in a diploid genome (i.e., a diploid 'single locus complement') Alt: A sequence feature complement comprised of two haplotypes at a particular location on paired homologous chromosomes in a diploid genome.
+specifically dependent continuant;allele origin;A quality inhering in an allele that describes its genetic origin (how it came to be part of a cell's genome), i.e. whether it occurred de novo through some spontaneous mutation event, or was inherited from a parent.
+specifically dependent continuant;aneusomic;a sequence attribute of a chromosome or chromosomal region that has been abnormally duplicated or lost, as the result of a non-disjunction event or unbalanced translocation.
+generically dependent continuant;single locus complement;A set representing the complement of all sequence features occupying a particular genomic location across all homologous chromosomes in the genome of a single organism.
+generically dependent continuant;regulatory transgene region;A transgene part whose sequence regulates the synthesis of a functional product, but which is not itself transcribed.
+specifically dependent continuant;paternal allele origin;Describes an allele that is inherited from a male parent in virtue of the allele being present in the father's sperm.
+generically dependent continuant;variant gene allele;An allele of a gene that contains some sequence alteration.
+specifically dependent continuant;maternal allele origin;Describes an allele that is inherited from a female parent in virtue of the allele being present in the mother's egg.
+generically dependent continuant;expressed transgene region;A transgene part whose sequence is expressed in a gene product through transcription and/or translation.
+generically dependent continuant;haplotype;A set of discrete, genetically-linked sequence alterations that reside on the same chromosomal strand and are typically co-inherited within a haplotype block.
+generically dependent continuant;microsatellite alteration;
+generically dependent continuant;genomic sequence set;A set of genomic sequences (a biological sequence that is of genomic origin).
+generically dependent continuant;allele;One of a set of sequence features known to exist at a particular genomic location.
+specifically dependent continuant;gpos33;
+specifically dependent continuant;allelic state;A quality inhering in an 'allelic complement' (aka a 'single locus complement') that describes the allelic variability found at a particular locus in the genome of a single cell/organism
+specifically dependent continuant;wild-type;An allele attribute describing a highly common variant (typically >99% in a population), that typically exhibits canonical function, and against which rare and/or non-functional mutant alleles are compared.
+specifically dependent continuant;gpos66;
+generically dependent continuant;repeat region alteration;
+specifically dependent continuant;gpos50;
+generically dependent continuant;wild-type gene;
+specifically dependent continuant;gpos75;
+generically dependent continuant;reagent targeted gene;A gene altered in its expression level in the context of some experiment as a result of being targeted by gene-knockdown reagent(s) such as a morpholino or RNAi.
+specifically dependent continuant;gpos25;
+generically dependent continuant;short chromosome arm;A chromosome arm that is the shorter of the two arms of a given chromosome.
+generically dependent continuant;transiently-expressed transgene;A transgene that is delivered as part of a DNA expression construct into a cell or organism in order to transiently express a specified product (i.e. it has not integrated into the host genome).
+generically dependent continuant;long chromosome arm;A chromosome arm that is the longer of the two arms of a given chromosome.
+specifically dependent continuant;gneg;
+generically dependent continuant;extra-chromosomal transgene;A transgene that is not chromosomally integrated in the host genome, but instead exists as part of an extra-chromosomal construct.
+generically dependent continuant;wild-type allele;An allele representing a highly common varaint (typically >99% in a population), that typically exhibits canonical function, and against which rare and/or non-functional mutant alleles are often compared.
+specifically dependent continuant;gpos100;
+generically dependent continuant;ancestral polymorphic allele;A polymorphic allele that is determined from the sequence of a recent ancestor in a phylogentic tree.
+specifically dependent continuant;gvar;
+specifically dependent continuant;biparental allele origin;Describes an allele that is part of an allelic complement where one allele is maternally inherited and other paternally inherited.
+specifically dependent continuant;uniparental allele origin;Describes an allele that is part of an allelic complement where both alleles are inherited from the same parent.
+generically dependent continuant;location-qualified sequence feature;A sequence feature whose identity is additionally dependent on the cellular or anatomical location of the genetic material bearing the feature.
+specifically dependent continuant;nullizygous;A disomic zygosity quality inhering in a 'single locus complement' that is comprised of two non-functional copies of a gene. Loss of function may result from the gene being entirely missing via a deletion, or mutated in a way that eliminates its function.
+generically dependent continuant;chromosomal region;An extended part of a chromosome representing a term of convenience in order to hierarchically organize morphologically defined chromosome features: chromosome > arm > region > band > sub-band.
+generically dependent continuant;engineered genetic construct;An engineered region that is used to transfer foreign genetic material into a host cell.
+generically dependent continuant;chromosome sub-band;
+generically dependent continuant;expression-qualified sequence feature;A sequence feature whose identity is additionally dependent on factors specifically influencing its level of expression in the context of a biological system (e.g. being targeted by gene-knockdown reagents, or driven from exogneous expression system like recombinant construct)
+specifically dependent continuant;gpos;
+specifically dependent continuant;chromosomal band intensity;
+generically dependent continuant;homo sapiens gene;A gene that originates from the genome of a homo sapiens.
+generically dependent continuant;mus musculus gene;A gene that originates from the genome of a mus musculus.
+disposition;chromosomal deletion inheritance;An inheritance pattern wherein the trait is determined by inheritance of missing sections of one or more chromosomes, encompassing either 0 or multiple genes, possibly together with environmental factors.
+disposition;chromosomal rearrangement inheritance;An inheritance pattern wherein the trait is determined by inheritance of translocation or inversion of sections of one or more chromosomes, possibly together with environmental factors.
+generically dependent continuant;P-element construct;A construct that contains a mobile P-element, holding sequences to be delivered to a target cell or genome.
+disposition;chromosomal duplication inheritance;An inheritance pattern wherein the trait is determined by inheritance of duplicated sections of one or more chromosomes, encompassing either 0 or multiple genes, possibly together with environmental factors.
+generically dependent continuant;genomic background;A genomic genotype that specifies the baseline sequence of a genome from which a variant genome is derived (through the introduction of sequence alterations).
+specifically dependent continuant;inherited allele origin;Describes an allele that is inherited from a parent.
+process;unspecified life cycle stage;
+generically dependent continuant;intrinsic genotype;
+specifically dependent continuant;homoplasmic;an allelic state where a single allele exists at a particular location in the organellar genome (mitochondrial or plastid) of a cell/organism.
+generically dependent continuant;sequence interval;A pair of integers representing start and end position of a location on a sequence coordinate system.
+generically dependent continuant;amino acid sequence;
+specifically dependent continuant;mosaic;
+specifically dependent continuant;hemizygous X-linked;
+specifically dependent continuant;heteroplasmic;an allelic state where more than one type of allele exists at a particular location in the organellar genome (mitochondrial or plastid) of a cell/organism.
+specifically dependent continuant;hemizygous insertion-linked;
+disposition;chromosomal inheritance;An inheritance pattern wherein the trait is determined by inheritance of extra, missing, or re-arranged chromosomes possibly together with environmental factors.
+specifically dependent continuant;hemizygous Y-linked;
+generically dependent continuant;copy number complement;A set representing the complement of all copies of a particular biological sequence (typically at the scale of complete genes or larger) present in a particular genome.
+generically dependent continuant;danio rerio gene;A gene that originates from the genome of a danio rerio.
+generically dependent continuant;genomic sequence;A biological sequence that is of genomic origin (i.e. carries sequence from the genome of a cell or organism).
+generically dependent continuant;RNA sequence;
+generically dependent continuant;functional copy complement;A set representing the complement of all functional versions of a specified sequence (typically that of a gene) in a particular genome.
+generically dependent continuant;DNA sequence;
+generically dependent continuant;variant copy number complement;A 'copy number complement' that has an abnormal number of members, as the result of deletion or duplication event(s).
+specifically dependent continuant;aneusomic zygosity;A zygosity quality inhering in a 'single locus complement' in a genome with an abnormal ploidy at the location (i.e. an autosomal locus with one or three copies in a diploid genome).
+specifically dependent continuant;disomic zygosity;A zygosity quality inhering in a 'single locus complement' in a genome with a normal ploidy of two (i.e. two copies of autosomal chromosomes). Disomic zygosity terms describe the degree of similarity of the two sequence features that reside at a particular location across homozygous chromosomes (or the state of being the only feature at a given locus in the case of hemizygosity).
+specifically dependent continuant;reference;An attribute inhering in a feature that is designated to serve as a standard against which 'variant' versions of the same location are compared.
+specifically dependent continuant;trisomic heterozygous;
+generically dependent continuant;variant single locus complement;A single locus complement in which at least one member allele is considered variant, and/or the total number of features in the complement deviates from the normal poloidy of the reference genome (e.g. trisomy 13).
+specifically dependent continuant;trisomic homozygous;
+generically dependent continuant;genotype-phenotype association;
+generically dependent continuant;allele set;A set of discrete alleles within a particular genome.
+disposition;sex-limited autosomal recessive inheritance;An autosomal recessive inheritance pattern wherein the trait manifests only in homozygotes, and in a sex-specific manner (i.e. only in males or only in females).
+generically dependent continuant;qualified genomic feature;A qualified sequence feature that carries sequence derived from the genome of a cell or organism.
+generically dependent continuant;qualified sequence feature or collection;A sequence feature (or collection of features) whose identity is dependent on the context or state of its material bearer (in addition to its sequence an position). This context/state describes factors external to its inherent sequence and position that can influences its expression, such as being targeted by gene-knockdown reagents, or an epigenetic modification.
+generically dependent continuant;qualified genomic feature set;A set of qualified sequence features that carry genomic sequence.
+generically dependent continuant;knockdown reagent targeted gene complement;
+generically dependent continuant;variant genome;A genome that varies at one or more loci from the sequence of some reference genome.
+generically dependent continuant;reference allele;An allele whose sequence matches what is consdiered to be the reference sequence at that location in the genome.
+disposition;sex-limited autosomal dominant inheritance;An autosomal dominant inheritance pattern wherein the trait manifests in heterozygotes in a sex-specific manner (i.e. only in males or only in females).
+disposition;inheritance pattern;The pattern in which a genetic trait or condition is passed from one generation to the next, as determined by genetic interactions between alleles of the causal gene, and interactions between these alleles and the environment.
+disposition;non-heritable;
+generically dependent continuant;modification-qualified sequence feature;A sequence feature whose identity is additionally dependent on a chemical modification made to the genetic material bearing the feature (e.g. binding of transcriptional regulators, or epigenetic modifications including direct DNA methylation, or modification of histones associated with a feature)
+disposition;co-dominant X-linked inheritance;An X-linked dominant inheritance pattern wherein a heterozygous individual simultaneously expresses the distinct traits associated with each allele in the heterozygous locus.
+generically dependent continuant;sequence feature or set;A sequence feature or a set of such features.
+disposition;Z-linked dominant inheritance;A Z-linked inheritance pattern wherein the trait manifests in heterozygotes.
+disposition;Z-linked inheritance;An inheritance pattern wherein the trait is determined by alleles of a single causal gene on a Z-chromosome.
+disposition;incomplete Z-linked dominant inheritance;A Z-linked dominant inheritance pattern wherein the trait expressed in a heterozygous individual is intermediate between the trait expressed in individuals homozygous for either allele in the heterozygous locus.
+generically dependent continuant;biological sequence;A linear ordering of units representing monomers of a biological macromolecule (e.g. nucleotides in DNA and RNA, amino acids in polypeptides).
+generically dependent continuant;allelic genotype;A genotype that specifies the 'allelic state' at a particular location in the genome - i.e. the set of alleles present at this locus across all homologous chromosomes.
+disposition;complete Z-linked dominant inheritance;A Z-linked dominant inheritance pattern wherein the trait associated with one allele completely masks the trait associated with a different allele found at that locus.
+disposition;Z-linked reccessive inheritance;A Z-linked inheritance pattern wherein a trait caused by alleles of a gene on the Z-chromosome manifests in homozygous but not heterozygote individuals.
+disposition;co-dominant Z-linked inheritance;An Z-linked dominant inheritance pattern wherein a heterozygous individual simultaneously expresses the distinct traits associated with each allele in the heterozygous locus.
+disposition;mitochondrial inheritance;An inheritance pattern observed for traits related to a gene encoded on the mitochondrial genome.
+disposition;W-linked inheritance;An inheritance pattern wherein the trait is determined by alleles of a single causal gene on a W-chromosome.
+disposition;co-dominant autosomal inheritance;An autosomal dominant inheritance pattern wherein a heterozygous individual simultaneously expresses the distinct traits associated with each allele in the heterozygous locus.
+disposition;incomplete autosomal dominant inheritance;An autosomal dominant inheritance pattern wherein the trait expressed in a heterozygous individual is intermediate between the trait expressed in individuals homozygous for either allele in the heterozygous locus.
+disposition;complete autosomal dominant inheritance;An autosomal dominant inheritance pattern wherein the trait associated with one allele completely masks the trait associated with a different allele found at that locus.
+disposition;autosomal dominant inheritance;An inheritance pattern wherein a trait caused by alleles of an autosomal gene manifests in heterozygotes.
+disposition;X-linked dominant inheritance;An X-linked inheritance pattern wherein the trait manifests in heterozygotes.
+disposition;X-linked recessive inheritance;An X-linked inheritance pattern wherein a trait caused by alleles of a gene on the X-chromosome manifests in homozygous but not heterozygote individuals.
+disposition;Y-linked inheritance;An inheritance pattern wherein the trait is determined by alleles of a single causal gene on a Y-chromosome.
+disposition;autosomal recessive inheritance;An inheritance pattern wherein a trait caused by alleles of an autosomal gene manifests in homozygous but not heterozygote individuals.
+generically dependent continuant;mutation;A sequence alteration that is very rare allele in a population (typically <1%), or an experimentally-induced variation that derives from a wild-type feature in a given strain.
+disposition;multifactorial inheritance;An inheritance pattern that depends on a mixture of major and minor genetic determinants (i.e. alleles of more than one contributing genes), possibly together with environmental factors.
+specifically dependent continuant;clonal;A cellular distribuution in which an allele is found only in some clonal subset of cells in an organism, typically in virtue of its somatic origin.
+disposition;polygenic inheritance;A multifactorial inheritance pattern that is determined by the simultaneous action of alleles a large number of genes.
+disposition;heritable;
+disposition;oligogenic inheritance;A multifactorial inheritance pattern that is determined by the simultaneous action of alleles in few genes.
+disposition;autosomal inheritance;An inheritance pattern wherein the trait is determined by alleles of a single causal gene on a non-sex chromosome.
+disposition;monogenic inheritance;An inheritance pattern wherein the trait is determined by alleles of a single causal gene, possibly together with environmental factors.
+generically dependent continuant;sequence feature location;The location of a sequence feature as defined by its start and end position on some reference coordinate system.
+disposition;X-linked inheritance;An inheritance pattern wherein the trait is determined by alleles of a single causal gene on an X-chromosome.
+disposition;allosomal inheritance;An inheritance pattern wherein the trait is determined by alleles of a single causal gene on a sex chromosome.
+disposition;incomplete X-linked dominant inheritance;An X-linked dominant inheritance pattern wherein the trait expressed in a heterozygous individual is intermediate between the trait expressed in individuals homozygous for either allele in the heterozygous locus.
+disposition;complete X-linked dominant inheritance;An X-linked dominant inheritance pattern wherein the trait associated with one allele completely masks the trait associated with a different allele found at that locus.
+specifically dependent continuant;in trans;A quality inhering in a collection of discontinuous sequence features in a single genome that reside on different macromolecules (e.g. different chromosomes).
+generically dependent continuant;expression construct;
+generically dependent continuant;background genome;A reference genome that represents the sequence of a genome from which a variant genome is derived (through the introduction of sequence alterations).
+specifically dependent continuant;in cis;A quality inhering in a collection of discontinuous sequence features in a single genome that reside on the same macromolecule (eg the same chromosomes).
+generically dependent continuant;extrachromosomal replicon;A genetic feature that is not part of the chromosomal genome of a cell or virion, but rather a stable and heritable element that is replilcated and passed on to progeny (e.g. a replicative plasmid or transposon)
+specifically dependent continuant;hemizygous;A zygosity quality inhering in a 'single locus complement' with half the number of alleles than normal (e.g. a single allele in a diploid genome, for example, a locus on the Y chromosome in a eukaryotic male genome, or a transgene that is present only in one of the two parental chromosome sets)
+generically dependent continuant;polymorphic allele;An allele that is fixed in a population at some stable level, typically > 1%. Polymorphic alleles reside at loci where more than one version exists at some signifcant frequency in a population.
+specifically dependent continuant;zygosity;An allelic state that describes the degree of similarity between features in a 'single locus complement', within the genome of a cell or organism (i.e., whether the alleles or haplotypes that reside at the same location on paired chromosomes are the same or different).
+specifically dependent continuant;homozygous;A zygosity quality inhering in a 'single locus complement' where all copies of the feature at this location have the same sequence (in a eukaryotic diploid genome, this means having identical alleles on each of the two homologous chromosomes, one inherited from each parent).
+generically dependent continuant;minor polymorphic allele;A polymorphic allele that is not present at the highest frequency among all fixed variants at the locus (i.e. not the major polymorphic allele at a given location).
+generically dependent continuant;gene allele;A genomic feature that represents one of a set of versions of a gene (i.e. a haplotype whose extent is that of a gene)
+specifically dependent continuant;heterozygous;A zygosity quality inhering in a 'single locus complement' where the copies of the feature at this location have at least one difference in sequence (in a eukaryotic diploid genome, this means having two distinct alleles on each of the two homologous chromosomes, one inherited from each parent).
+generically dependent continuant;major polymorphic allele;A polymorphic allele that is present at the highest frequency relative to other polymorphic variants at the same genomic location.
+generically dependent continuant;reference sequence;A sequence that serves as a standard against which other sequences at the same location are compared.
+disposition;heritabililty;The disposition of an entity to be transmitted to subsequent generations following a genetic replication or organismal reproduction event.
+disposition;digenic inheritance;A multifactorial inheritance pattern that is determined by the simultaneous action of alleles in two genes.
+specifically dependent continuant;unspecified zygosity;
+specifically dependent continuant;mutant;An attribute inhering in a feature bearing a sequence alteration that is present at very low levels in a given population (typically less than 1%), or that has been experimentally generated to alter the feature with respect to some reference sequence.
+material entity;genetic material;A nucleic acid molecule that contains one or more sequences serving as a template for gene expression in a biological system (ie a cell or virion).
+generically dependent continuant;genomic feature;A sequence feature (continuous extent of biological sequence) that is of genomic origin (i.e. carries sequence from the genome of a cell or organism)
+specifically dependent continuant;organellar plasmy;An allelic state that describes the number of different alleles of a gene from an organellar genome (i.e. mitochondrial, plastid) that may exist in a cell.
+generically dependent continuant;qualified sequence feature;A sequence feature whose identity is additionally dependent on the context or state of the material sequence molecule in which the feature is concretized. This context/state describes factors external to the feature's intrinsic sequence and position that can influences its expression, such as being targeted by gene-knockdown reagents, or an epigenetic modification.
+generically dependent continuant;biological sequence or set;A biolocical sequence, or set of such sequences.
+generically dependent continuant;qualified sequence feature set;A set of qualified seqeunce features.
+generically dependent continuant;genomic variation complement;A genomic feature set representing all 'variant single locus complements' in a single genome, which together constitute the 'variant' component of a genomic genotype.
+generically dependent continuant;biological sequence set;A set of biological sequences.
+specifically dependent continuant;constitutional;A cellular distribution in which an allele is found in all cells of an organism's body, typically in virtue of its germline origin.
+specifically dependent continuant;allelic cellular distribution;A quality inhering in an allele reflecting whether it is found in all cells of an organism's body, or just some clonal subset (e.g. in mosaicism).
+generically dependent continuant;genomic genotype (sex-agnostic);A genomic genotype that does not specify the sex determining chromosomal features of its bearer (i.e. does not indicate the background sex chromosome complement)
+generically dependent continuant;variant allele;An allele that varies in it sequence from what is considered the reference or canonical sequence at that location.
+generically dependent continuant;gene product;The molecular product resulting from transcription of a single gene (either a protein or RNA molecule)
+material entity;mus musculus strain;
+specifically dependent continuant;reporter;
+generically dependent continuant;selectable marker region;
+material entity;danio rerio strain;
+specifically dependent continuant;selectable marker;
+generically dependent continuant;reference genome;A genome whose sequence is identical to that of a genome sequence considered to be the reference.
+process;biological process;
+material entity;strain or breed;A maximal collection of organisms of a single species that have been bred or experimentally manipulated with the goal of being genetically identical.
+material entity;human population;a population of homo sapiens grouped together in virtue of their sharing some commonality (either an inherent attribute or an externally assigned role)
+specifically dependent continuant;polymorphic;An attribute inhereing in a sequence feature for which there is more than one version fixed in a population at some significant percentage (typically 1% or greater), where the locus is not considered to be either reference or a variant.
+material entity;taxonomic group;
+specifically dependent continuant;variant;An attribute inhering in a sequence feature that varies from some designated reference in virtue of alterations in its sequence or expression level

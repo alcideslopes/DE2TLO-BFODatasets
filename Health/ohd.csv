@@ -1,0 +1,376 @@
+class;term;comment
+material entity;Posterior Tooth;A tooth that is either a molar or premolar.
+process;dental implant retainer attachement procedure for ceramic fixed partial denture;A dental implant retainer attachement procedure for fixed partial denture in which the retainer being attached to the implant body is to be used as a retainer for a ceramic fixed partial denture.
+material entity;prosthetic tooth;a prosthesis that has been fabricated for use as a substitute for a natural tooth
+process;direct restoration procedure;A tooth restoration procedure in which the dental restoration material is placed in the tooth via some direct dental restoration material combination process.
+process;dental implant retainer attachement procedure for fixed partial denture;A dental implant abutment attachment procedure during which a retainer for a fixed partial denture is attached to an implant body.
+material entity;prosthesis;a processed material that bears a prothetic role
+process;dental material fusion process;A dental material combination process in which one or more materials forms a substructure and then one or more materials are fused (or baked) onto this substructure.
+material entity;Anterior Tooth;A tooth that is either an incisor or a canine.
+process;indirect restoration procedure;A tooth restoration procedure in which the dental restoration material is placed in the tooth via some dental material tooth attachment process.
+process;3/4 crown restoration procedure;A crown restoration procedure in which 3 of the 4 surfaces on an anterior tooth is restored. The dental restoration material extends to (or almost to) the gum line.
+material entity;partial denture;a prosthesis that replaces one or more, but less than all, of the natural teeth and associated structures
+process;bruxism;A masticatory muscle activity that may result in a disorder within the head and neck region.
+generically dependent continuant;intracoronal restoration procedure finding;A dental finding procedure that an intracoronal restoration procedure was performed on the patient.
+generically dependent continuant;veneer restoration procedure finding;A dental finding procedure that a veneer restoration procedure was performed on the patient.
+generically dependent continuant;crown restoration procedure finding;A dental finding procedure that a crown restoration procedure was performed on the patient.
+process;oral parafunction;A pathological process that involves the mouth and can contribute to some disorder of the head and neck region.
+generically dependent continuant;oral evaluation finding;A dental finding that is about an oral evaluation.
+process;resin inlay restoration procedure;An inlay restoration procedure that uses resin to restore the tooth.
+process;ceramic inlay restoration procedure;An inlay restoration procedure that uses ceramic to restore the tooth.
+process;ceramic onlay restoration procedure;An onlay restoration procedure that uses ceramic to restore the tooth.
+role;tooth to undergo inlay procedure role;A tooth to be restored role that is realized by an inlay restoration procedure
+role;tooth to undergo onlay procedure role;A tooth to be restored role that is realized by an onlay restoration procedure
+generically dependent continuant;tooth clinically present finding;A dental finding that a tooth was present during a clinical exam.
+generically dependent continuant;missing tooth 32 finding;a missing tooth finding in which tooth 32 is found to be missing
+generically dependent continuant;missing tooth 27 finding;a missing tooth finding in which tooth 27 is found to be missing
+generically dependent continuant;missing tooth 28 finding;a missing tooth finding in which tooth 28 is found to be missing
+generically dependent continuant;missing tooth 25 finding;a missing tooth finding in which tooth 25 is found to be missing
+generically dependent continuant;missing tooth 26 finding;a missing tooth finding in which tooth 26 is found to be missing
+generically dependent continuant;missing tooth 31 finding;a missing tooth finding in which tooth 31 is found to be missing
+generically dependent continuant;missing tooth 29 finding;a missing tooth finding in which tooth 29 is found to be missing
+generically dependent continuant;missing tooth 30 finding;a missing tooth finding in which tooth 30 is found to be missing
+generically dependent continuant;missing tooth 23 finding;a missing tooth finding in which tooth 23 is found to be missing
+generically dependent continuant;missing tooth 24 finding;a missing tooth finding in which tooth 24 is found to be missing
+generically dependent continuant;missing tooth 22 finding;a missing tooth finding in which tooth 22 is found to be missing
+generically dependent continuant;missing tooth 10 finding;a missing tooth finding in which tooth 10 is found to be missing
+generically dependent continuant;missing tooth 16 finding;a missing tooth finding in which tooth 16 is found to be missing
+process;titanium onlay restoration procedure;A metallic onlay restoration procedure that uses titanium to restore the tooth.
+material entity;zinc phosphate cement dental restoration material;An acid-base cement dental restoration material containing zinc-oxide and magnesium oxide as a powder component with phosphoric acid as liquid component to complete the acid-base reaction.
+generically dependent continuant;missing tooth 17 finding;a missing tooth finding in which tooth 17 is found to be missing
+process;titanium inlay restoration procedure;A metallic inlay restoration procedure that uses titanium to restore the tooth.
+material entity;zinc polycarboxylate cement dental restoration material;A acid-base cement dental restoration material containing zinc-oxide and magnesium oxide as a powder component with polyacrylic acid and water as liquid component to complete the acid-base reaction.
+generically dependent continuant;missing tooth 13 finding;a missing tooth finding in which tooth 13 is found to be missing
+process;predominantly base metal onlay restoration procedure;An onlay restoration procedure that uses predominantly base metal to restore the tooth.
+generically dependent continuant;missing tooth 15 finding;a missing tooth finding in which tooth 15 is found to be missing
+process;predominantly base metal inlay restoration procedure;An inlay restoration procedure that uses predominantly base metal to restore the tooth.
+generically dependent continuant;missing tooth 20 finding;a missing tooth finding in which tooth 20 is found to be missing
+process;prefabricated resin crown restoration procedure;
+generically dependent continuant;missing tooth 21 finding;a missing tooth finding in which tooth 21 is found to be missing
+generically dependent continuant;missing tooth 18 finding;a missing tooth finding in which tooth 18 is found to be missing
+process;oral evaluation;A visual and tactile examination in which the clinician evaluates the status of the patient's oral cavity and related areas. An oral evaluation is performed as part of a dental exam. The examination may also include the results of tests, such as radiographs, pulp vitality, etc.
+role;dental prosthesis support role;A dental restoration material role that is borne by a portion of dental restoration material in association with bulk restoration and is realized in a tooth restoration procedure in which the restoration material becomes part of a restored tooth.
+generically dependent continuant;missing tooth 19 finding;a missing tooth finding in which tooth 19 is found to be missing
+process;periodic oral evaluation;An oral evaluation performed on a patient of record (at an interval specified by the dentist) to determine any changes in the patient’s dental and medical health status since a previous evaluation. It includes an oral cancer evaluation and periodontal screening where indicated, and may require interpretation of information acquired through additional diagnostic procedures.
+material entity;calcium hydroxide cement dental restoration material;A dental restoration material containing calcium hydroxide as a chief ingredient, suspended in a solvent carrier with a thickening agent.
+generically dependent continuant;missing tooth 11 finding;a missing tooth finding in which tooth 11 is found to be missing
+role;dental restoration material role;A material to be added role that is born by a portion of material and is realized during a process in which the material plays a role in restoring the tooth. Dental restoration material roles are realized in processes that restore teeth.
+role;dental restoration material role;A material to be added role that is born by a portion of material and is realized during a process in which the material plays a role in restoring the tooth. Dental restoration material roles are realized in processes that restore teeth.
+generically dependent continuant;missing tooth 12 finding;a missing tooth finding in which tooth 12 is found to be missing
+process;high noble metal inlay restoration procedure;
+role;dental patient role;A patient role that is realized by the process of being under the care of a dental health care provider.
+role;tooth to undergo endodontic procedure role;A role that inheres in a tooth and is realized by an endodontic procedure performed on the tooth bearing the role.
+material entity;health care provider;a Homo sapiens that bears a health care provider role
+material entity;resin-modified glass ionomer dental restoration material;An acid-base cement dental restoration material with modification of glass ionomer cement with some monomer component and associated activator initiator system to facilitate light and chemically activated polymerization reaction.
+generically dependent continuant;missing tooth 1 finding;a missing tooth finding in which tooth 1 is found to be missing
+generically dependent continuant;missing tooth 5 finding;a missing tooth finding in which tooth 5 is found to be missing
+material entity;orofacial pain dentist;a dentist that bears an orofacial pain dentist role
+process;masticatory muscle activity;A bodily process that involves the masticatory muscles of the head and neck region.
+generically dependent continuant;missing tooth 6 finding;a missing tooth finding in which tooth 6 is found to be missing
+material entity;orthodontist;a dentist that bears an orthodontist role
+generically dependent continuant;missing tooth 3 finding;a missing tooth finding in which tooth 3 is found to be missing
+material entity;endodontist;a dentists that bears a endodontist role
+generically dependent continuant;missing tooth 4 finding;a missing tooth finding in which tooth 4 is found to be missing
+material entity;oral surgeon;a dentist that bears an oral surgeon role
+generically dependent continuant;missing tooth 8 finding;a missing tooth finding in which tooth 8 is found to be missing
+generically dependent continuant;missing tooth 9 finding;a missing tooth finding in which tooth 9 is found to be missing
+material entity;restored tooth;A tooth that has been restored by using dental restoration material to replace decayed or missing parts of the tooth.
+material entity;pediatric dentist;a dentist that bears a pediatric dentist role
+generically dependent continuant;missing tooth 7 finding;a missing tooth finding in which tooth 7 is found to be missing
+material entity;periodontist;a dentist that bears a periodontist role
+material entity;registered nurse;a health care provider that bears a registered nurse role
+generically dependent continuant;missing tooth 2 finding;a missing tooth finding in which tooth 2 is found to be missing
+material entity;dental therapist;a dental health care provider that bears a dental therapist role
+material entity;mineral trioxide aggregate cement dental restoration material;A dental restoration material that primarily consists of tricalcium silicate, dicalcium silicate (similar to Portland cement), calcium aluminate, gypsum, radiopacifiers and set by hydration of silicates in the presence of moisture.
+material entity;female dental patient;A human dental patient that bears a female gender role.
+material entity;nano filled resin-based composite dental restoration material;A resin-based composite dental restoration material that contains nanometer-sized filler particles (1 to 100 nm) throughout the resin matrix.
+material entity;nano hybrid resin-based composite dental restoration material;A resin-based composite dental restoration material which consist of large particles (0.4 to 5 μm) with added nanometer-sized filler particles. Thus they are hybrid materials, not true nanofilled composites.
+role;tooth to undergo veneer procedure role;A tooth to be restored role that is realized by a veneer restoration procedure
+generically dependent continuant;unerupted tooth finding;A dental finding that a tooth has not errupted.
+process;pulpal regeneration procedure;A surgical endodontic procedure during which medications are placed inside the pulp chamber in order to induce the formation of living replacement tissue.
+material entity;microfilled resin-based composite dental restoration material;A resin-based composite dental restoration material which composed of dimethacrylate resins with 0.04-μm colloidal silica fillers and prepolymerized resins, which are sometimes filled with colloidal silica.
+material entity;metal dental restoration material;A dental restoration material that consists mostly of metal atoms
+process;resin onlay restoration procedure;An onlay restoration procedure that uses resin to restore the tooth.
+material entity;compomer resin-based composite dental restoration material;A resin-based composite dental restoration material that contains fluoride-releasing silicate glass filler phase and a methacrylate based matrix with carboxylic acid functional groups.
+role;dental health care provider role;a health care provider role that inheres in a person who is licensed to provide dental health care
+role;orofacial pain dentist role;a dentist role that inheres in a person who has received specialized training in treating disorders that cause orofacial pain, such as TMJ disorder (TMD)
+material entity;ceramic implant crown;A dental implant crown constructed out of ceramic.
+material entity;metal modified glass ionomer dental restoration material;An acid-base cement dental restoration material where in glass ionomer cements the glasses are fused with metals such as gold, silver, titanium, and silver to improve their strength.
+role;orthodontist role;a dentist role that inheres in a person who specializes in the prevention and correction of irregular teeth, as by means of braces
+material entity;porcelain fused to metal impant crown;
+material entity;acid-base cement dental restoration material;A dental restoration material containing acid and liquid components in powder liquid form.
+role;endodontist role;a dentist role that inheres in a person who specializes in performing endodontic procedures
+process;removable mandibular partial denture procedure;A removable partial denture procedure in which the prosthesis being constructed or fitted replaces some but not all of the patient's mandibular teeth.
+material entity;dental health care provider;a health care provider that bears a dental health care provider role
+role;oral surgeon role;a dentist role that inheres in a person who specializes in performing oral surgery
+material entity;interim dental implant body;A dental implant body that is placed in the mouth for short duration of time in order to allow adequate time for healing or completion of definitive treatment planning.
+role;tooth to be extracted role;A role that inheres in a tooth and is realized by a tooth extraction procedure during which the tooth bearing the role is extracted.
+role;prosthodontist role;a dentist role that inheres in a person who specializes in the aesthetic (cosmetic) restoration and replacement of teeth
+process;porcelain fused to metal dental implant crown attachement procedure;A dental implant crown attachment procedure in which the implant crown is composed of porcelain fused to metal.
+process;tooth extraction procedure;A surgical dental procedure that removes a tooth from the oral cavity.
+role;registered nurse role;a health care provider role that inheres in a person who specializes in the protection, promotion, and optimization of health and abilities, prevention of illness and injury, alleviation of suffering through the diagnosis and treatment of human response, and advocacy in the care of individuals, families, communities, and populations
+process;dental implant abutment attachement procedure;A fixed prosthodontics procedure during which an abutment is attached to an implant body.
+material entity;male dental patient;A human dental patient that bears a male gender role.
+role;pediatric dentist role;a dentist role that inheres in a person who specializes in children's oral health
+process;dental implant crown attachment procedure;A fixed prosthodontics procedure during which an artificial crown is attached to an dental implant abutment.
+material entity;zinc oxide cement dental restoration material;An acid-base cement dental restoration material containing zinc-oxide as a powder component with some specific liquid component to complete the acid-base reaction.
+role;tooth to be crowned role;A tooth to be restored role that is realized by a crown restoration procedure
+role;periodontist role;a dentist role that inheres in a person who specializes in the prevention, diagnosis, and treatment of periodontal disease, oral inflammation, and in the placement of dental implants
+process;ceramic dental implant crown attachement procedure;A dental implant crown attachment procedure in which the implant crown is composed of ceramic.
+material entity;tooth friction lesion;A mechnical tooth lesion that formed as a result of some friction process.
+role;dental therapist role;a dentist role that inheres in a person a dentist who practices as part of the dental team to provide educational, clinical and therapeutic patient services. and can provide basic preventive and restorative treatment to children and adults, and extractions of primary (baby) teeth under the supervision of a dentist
+process;removable maxillary partial denture procedure;A removable partial denture procedure in which the prosthesis being constructed or fitted replaces some but not all of the patient's maxillary teeth.
+process;dental material tooth attachment process;A material combination in which a rigid piece of restoration material is attached to a tooth. The restoration is attached to the tooth by mechanical forces or some form of cement or glue.
+process;high noble metal onlay restoration procedure;
+material entity;glass ionomer cement dental restoration material;An acid-base cement dental restoration material containing basic ion-leachable glass (fluoroaluminosilicate glass) as a powder component with polymeric water-soluble acid (polyacrylic acid, polyprotic carboxylic acid) as liquid component to complete the acid-base reaction.
+process;gold filling restoration procedure;An intracoronal restoration procedure that uses gold foil to restore the tooth.
+material entity;zinc oxide eugenol cement dental restoration material;A zinc-oxide cement dental restoration material containing eugenol as a liquid component to complete the acid-base reaction.
+material entity;resin-based composite dental restoration material;A dental restoration material that is primarily composed of highly cross-linked organic polymeric matrix reinforced by filler particles and/or short fibers bound to the matrix by coupling agents and set by light and or chemically activated polymerization reaction.
+process;high noble metal crown restoration procedure;A noble metal crown restoration procedure that uses high noble metal to restore the tooth.
+material entity;dental implant body;A prosthesis that forms the part of a prosthetic tooth that is in direct contact with the bone and actually provides the fixation to the bone.
+generically dependent continuant;tooth restoration procedure finding;A dental finding procedure that tooth restoration procedure was performed on the patient.
+process;direct dental material insertion process;A material combination in which a moldable restorative material is placed directly into or on the tooth. The material then hardens and becomes (essentially) part of the tooth.
+process;porcelain fused to high noble metal crown restoration procedure;A procelain fused to nobal metal crown restoration procedure that uses high noble metal as a substrate.
+material entity;dental implant abutment;A prosthesis that forms the part of a prosthetic tooth to which the restoration is attached and supports the restoration.
+material entity;resin-based cement dental restoration material;A dental restoration material that contains methacrylate monomers, fillers and activator initiator system to facilitate light activated and/or chemically activated polymerization reactions.
+material entity;calcium aluminate glass ionomer hybrid cement dental restoration material;A dental restoration material containing calcium aluminate, polyacrylic acid with basic ion-leachable glass particles as powder component with water as liquid component to complete the acid-base reaction of glass ionomer and hydration of calcium aluminate cement.
+process;amalgam filling restoration procedure;An intracoronal restoration procedure that uses amalgam to restore the tooth.
+process;predominantly base metal crown restoration procedure;
+material entity;subperiosteal implant framework;A dental implant body fabricated to fit the supporting areas of mandible or maxilla with permucosal extensions for support and attachment of abutments.
+process;resin filling restoration procedure;An intracoronal restoration procedure that uses resin to restore the tooth.
+process;stainless steel crown restoration procedure;A crown restoration procedure that uses stainless steel to restore the tooth.
+material entity;abrasive material;A material entity of a certain hardness and density that helps remove material from the surface of an entity.
+material entity;zinc oxide non-eugenol cement dental restoration material;A zinc-oxide cement dental restoration material containing aliphatic acid or butyric acid to substitute the eugenol as a liquid component to complete the acid-base reaction.
+process;porcelain fused to noble metal crown restoration procedure;A crown restoration procedure in which the artifical crown used to restore the tooth is formed by fusing porcelain to a substrate composed of noble metal.
+material entity;fixed prothesis;A prosthesis that is permanently attached attached to some part of the mouth.
+process;3/4 noble metal crown restoration procedure;A 3/4 crown restoration procedure that uses noble metal to restore the tooth.
+process;porcelain fused to predominantly base metal crown restoration procedure;A crown restoration procedure in which the artifical crown used to restore the tooth is formed by fusing porcelain to a substrate composed of predominatly base metal.
+process;tooth abrasive process;A process during which the tooth is affected by an abrasive material.
+process;resin laminate veneer restoration procedure;A veneer restoration procedure that uses resin laminate to restore the tooth.
+process;resin with noble metal crown restoration procedure;A crown restoration procedure in which the artifical crown used to restore the tooth is formed by covering all or some of a noble metal substrate with resin.
+process;awake bruxism;A bruxism that occurs during wakeful-ness and is characterised by repetitive or sustained tooth contact and/or by bracing or thrusting of the mandible.
+process;porcelain laminate veneer restoration procedure;A veneer restoration procedure that uses porcelain laminate to restore the tooth.
+process;noble metal inlay restoration procedure;
+material entity;macrofilled resin-based composite dental restoration material;A resin-based composite dental restoration material that contains macrosize filler particles.
+process;stainless steel with resin window crown restoration procedure;A crown restoration procedure in which the artifical crown used to restore the tooth is formed by cutting a window into a stainless steel prosthetic crown and filling the window with resin.
+material entity;mini dental implant body;A dental implant body that is less that 3mm in diameter.
+material entity;bulk-filled resin-based composite dental restoration material;A resin-based composite dental restoration material that enables the restoration to be built up in thick layers of up to 4 mm and are recommended by manufacturers to simplify clinical technique and save time compared to traditional incremental placement.
+process;surgical dental procedure;A dental procedure that consists of series of steps followed in a regular, orderly, definite way, performed by a dentist or dental surgeon by manual operation on some part of the mouth.
+role;dental assistant role;a dental health care provider role that inheres in a person who is a an auxiliary to the dental operator
+process;pulp capping procedure;An endodontic restorative procedure during which material is placed over exposed or nearly dental pulp in order to protect and promote healing of the dental pulp.
+material entity;flowable resin-based composite dental restoration material;A resin-based composite dental restoration material that has low-viscosity and is recommended for cervical lesions, restorations in deciduous teeth, and other small, low- or non-stress bearing restorations.
+material entity;dental implant crown;A prosthesis that forms the part of a prosthetic tooth which provides the prosthetic tooth with the functionallity and appearance of a natural tooth.
+process;veneer restoration procedure;A tooth restoration procedure in which a thin layer of material (i.e., a veneer) is placed over one or more surfaces of the tooth either to improve the aesthetics of the tooth or to protect the tooth's surface from damage
+process;resin with high noble metal crown restoration procedure;A resin with noble metal crown restoraton procedure that uses high noble metal as a substrate.
+material entity;tooth root carious lesion;A carious tooth lesion that is either wholly or partially part of the tooth root.
+generically dependent continuant;missing tooth 14 finding;a missing tooth finding in which tooth 14 is found to be missing
+process;3/4 resin crown restoration procedure;A 3/4 crown restoration procedure that uses resin to restore the tooth.
+process;hard tissue exam;A dental exam which includes a complete examination of hard tissues, specifically the teeth. It is performed tooth by tooth and documents aspects such as whether the tooth is missing or not, and its condition. A tooth is typically considered healthy if it is in a virgin state, or has one or more restorations that restore it to full morphology and function. Pathological conditions may include carious lesions, fractures, defective restorations, excessive wear and malpositions.
+material entity;noble metal dental restoration material;A metal dental restoration material that is composed of a metallic alloy that contains 25% or more of gold, palladium, and/or or platinum.
+material entity;enamel carious lesion;A carious tooth lesion that is found only within the enamel.
+material entity;secondary dentition missing tooth 25;A secondary dentition that is missing tooth 25.
+generically dependent continuant;missing tooth finding;A dental finding that notes the absence of a tooth that is canonically found, as identified by the universal tooth number. The criteria for determing that a tooth is missing includes its absence in a visual exam, a radiographic exam or both. Thus, an unerrupted tooth seen in a radiograph is not considered missing.
+material entity;high noble metal dental restoration material;
+material entity;dentine carious lesion;A carious tooth legion that has extended to the dentine.
+material entity;secondary dentition missing tooth 26;A secondary dentition that is missing tooth 26.
+material entity;fractured tooth;
+generically dependent continuant;fractured tooth finding;
+process;3/4 predominantly base metal crown restoration procedure;A 3/4 crown restoration procedure that uses predominantly base metal to restore the tooth.
+material entity;secondary dentition missing tooth 30;A secondary dentition that is missing tooth 30.
+disposition;dental caries;A disease realized as a disease course in which a carious lesion develops in a tooth, resulting in demineralization, loss of tooth structure/appearance of a cavity or other structural damage to the tooth.
+process;3/4 ceramic crown restoration procedure;A 3/4 crown restoration procedure that uses ceramic to restore the tooth.
+material entity;secondary dentition missing tooth 31;A secondary dentition that is missing tooth 31.
+material entity;non-carious tooth lesion;A tooth disorder that is not formed by tooth decay.
+material entity;secondary dentition missing tooth 28;A secondary dentition that is missing tooth 28.
+process;3/4 high noble metal crown restoration procedure;A 3/4 noble metal crown restoration procedure that uses high noble metal to restore the tooth.
+material entity;mechanical tooth lesion;A non-carious tooth lesion that is the result of functional or parafunctional activity of the jaws or a process of friction or an abrasive process
+material entity;secondary dentition missing tooth 29;A secondary dentition that is missing tooth 29.
+material entity;gold foil dental restoration material;A metal dental restoration material which the principal ingredient is gold.
+process;ceramic crown restoration procedure;A crown restoration procedure that uses ceramic to restore the tooth.
+process;sleep bruxism;A bruxism that occurs during sleep and is characterised by rhythmic (phasic) or non-rhythmic (tonic) movements of the jaw.
+generically dependent continuant;prosthodontics procedure finding;A dental finding procedure that procedure a prosthodontics procedure was performed on the patient.
+material entity;porcelain dental restoration material;A ceramic material used for tooth-colored restorations.
+material entity;porcelain dental restoration material;A ceramic dental restoration material that contains a glassy alumino-silicate matrix in which are embedded several crystalline phases of feldspar, mullite, or quartz.
+material entity;predominantly base metal dental restoration material;A metal dental restoration material that is composed of a metallic alloy that contains less than 25% of gold, palladium, and/or or platinum.
+material entity;tooth fracture;A tooth disorder that is an outcome of a ruture or break of some part of the tooth.
+generically dependent continuant;surgical dental procedure finding;A dental finding procedure that a surgical dental procedure was performed on the patient.
+process;soft tissue exam;a dental exam which focuses on soft tissue in and near the mouth.
+process;noble metal onlay restoration procedure;A metallic onlay restoration procedure that uses noble metal to restore the tooth.
+process;tooth cleaning process;A process during which the surface of the tooth is cleaned.
+material entity;secondary dentition missing tooth 32;A secondary dentition that is missing tooth 32.
+material entity;zirconium dental restoration material;A ceramic dental restoration material that contains crystalline oxide of zirconium.
+process;crown restoration procedure;A tooth restoration procedure whereby an artificial crown replaces all or part of the natural dental crown.
+process;resin crown restoration procedure;A crown restoration procedure that uses resin to restore the tooth.
+process;toothbrushing;A tooth cleaning process during which an object is used to clean the tooth (or teeth) by applying a powder, paste, or liquid (i.e., dentifrice).
+generically dependent continuant;endodontic procedure finding;A dental finding procedure that an endodontic procedure was performed on the patient.
+material entity;secondary dentition missing tooth 27;A secondary dentition that is missing tooth 27.
+role;dental hygienist role;a dental health care provider role that inheres in a person who is a licensed dental professional that specializes in preventative care
+material entity;stainless steel dental restoration material;A metal dental restoration material in which the principal ingredient is stainless steel.
+process;tooth decay;
+material entity;secondary dentition missing tooth 16;A secondary dentition that is missing tooth 16,
+role;dentist role;a dental health care provider role that inheres in a person who is qualified by training and licensed by a state or region to diagnose and treat abnormalities of the teeth, gums, and underlying bone, including conditions caused by disease, trauma, and heredity
+process;metallic onlay restoration procedure;An onlay restoration procedure that uses metal to restore the tooth.
+material entity;dental implant;A prosthetic tooth with an anchoring structure surgically implanted beneath the mucosal or periosteal layer or in the bone.
+material entity;ceramic dental restoration material;A dental restoration material that consists of non-metal, non-resin inorganic refractory compounds processed at high temperatures and pressed, polished or milled.
+material entity;complete full denture;A complete denture that replaces all the natural teeth and associated structures in both the maxilla and mandible.
+material entity;secondary dentition missing tooth 14;A secondary dentition that is missing tooth 14.
+material entity;titanium dental restoration material;A metal dental restoration material that contains 85% or more titanium.
+material entity;complete lower denture;A complete denture that replaces all the natural teeth and associated structures in the mandible.
+material entity;secondary dentition missing tooth 15;A secondary dentition that is missing tooth 15.
+material entity;dentist;a dental health care provider that bears a dentist role
+process;resin with predominantly base metal crown restoration procedure;A crown restoration procedure in which the artifical crown used to restore the tooth is formed by covering all or some of a predominantly base metal substrate with resin.
+process;dental exam;A conversational, visual and tactile examination in which the clinician evaluates the status of the patient's medical, dental and oral health.
+process;titanium crown restoration procedure;A crown restoration procedure that uses titanium to restore the tooth.
+material entity;tooth abfraction lesion;A mechanical tooth lesion formed as a result of the tooth being fatigued, flexed, and deformed by biomechanical loading of the tooth. Tooth abfactions are primarily found in the cervical region of the tooth.
+material entity;secondary dentition missing tooth 19;A secondary dentition that is missing tooth 19.
+material entity;dental hygienist;a dental health care provider that bears a dental hygienist role
+material entity;tooth attrition lesion;A tooth friction lesion that is caused by either the functional (e.g., mastication) or parafunctional movement of the jaws (e.g., bruxism).
+material entity;secondary dentition missing tooth 20;A secondary dentition that is missing tooth 20.
+material entity;secondary dentition missing tooth 17;A secondary dentition that is missing tooth 17.
+material entity;tooth disorder;A disorder that is part of a tooth.
+material entity;secondary dentition missing tooth 18;A secondary dentition that is missing tooth 18.
+generically dependent continuant;restored tooth finding;A dental finding that a tooth has been restored.
+material entity;arrested carious lesion;A carious tooth lesion that resulted from some tooth decay but the infected region is not currently decaying.
+material entity;secondary dentition missing tooth 23;A secondary dentition that is missing tooth 23.
+generically dependent continuant;caries finding;A dental finding that indicates a carious lesion of a tooth
+material entity;active carious lesion;A carious tooth lesion that is currently undergoing the process of tooth decay.
+material entity;secondary dentition missing tooth 24;A secondary dentition that is missing tooth 24.
+material entity;carious tooth lesion;A tooth disorder that affects a tooth that includes both the infectious organisms, the material they generate from the tooth, any immune effectors that are a response to the presence of the disorder and the physical changes to the tooth (i.e., demineralization or a cavity) resulting from the disorder. It is the physical basis for the disease "dental caries."
+process;noble metal crown restoration procedure;A crown restoration procedure that uses noble metal to restore the tooth.
+material entity;tooth erosive lesion;A non-carious tooth lesion that is formed as result of the tooth being exposed to acids.
+material entity;secondary dentition missing tooth 21;A secondary dentition that is missing tooth 21.
+process;metallic inlay restoration procedure;An inlay restoration procedure that uses metal to restore the tooth.
+material entity;tooth abrasive lesion;A tooth friction lesion that is formed as result of some abrasive process.
+material entity;secondary dentition missing tooth 22;A secondary dentition that is missing tooth 22.
+process;surgical procedure;A series of steps followed in a regular, orderly, definite way, performed by a physician, dentist or surgeon by manual operation.
+process;removable prosthodontics procedure;A prosthodontics procedure during which a removable prosthesis is either constructed or fitted to the patient's mouth.
+material entity;secondary dentition missing tooth 5;A secondary dentition that is missing tooth 5.
+process;intracoronal restoration procedure;A tooth restoration procedure in which a dental restoration material is placed into a site that is located in the crown of the tooth.
+process;dental implant procedure;A fixed prosthodontics procedure in which a dental implant is permanently attached to the jaw.
+material entity;secondary dentition missing tooth 6;A secondary dentition that is missing tooth 6.
+process;endodontic procedure;A dental procedure that is performed on the pulp chamber and/or root canal of a tooth, or a part thereof.
+process;prosthodontics procedure;A dental procedure during which some part of the mouth is replaced by or fitted for a prothesis.
+material entity;secondary dentition missing tooth 3;A secondary dentition that is missing tooth 3.
+process;tooth restoration procedure;A dental procedure in which either a whole tooth or a part of a tooth is replaced by dental restoration material in order to reestablish the tooth's anatomical and functional form and function.
+process;fixed prosthodontics procedure;A prosthodontics procedure during which a prosthesis is permanently attached to some part of the mouth.
+material entity;secondary dentition missing tooth 4;A secondary dentition that is missing tooth 4.
+process;dental visit;An outpatient encounter during which a dental health care professional and a patient meet for the purpose of evaluating, treating disorders of, or preventing deterioration of the patient's oral health.
+role;tooth to be restored role;A target of material addition role that inheres in a tooth and is realized by a tooth restoration procedure during which the tooth bearing the role is restored to health.
+process;complete denture procedure;A removable prosthodontics procedure in which the prosthesis being constructed or fitted replaces all of the patient's teeth.
+role;tooth to be filled role;A tooth to be restored role that is realized by an intracoronal restoration procedure
+process;removable partial denture procedure;A removable prosthodontics procedure in which the prosthesis being constructed or fitted replaces some but not all of the patient's teeth.
+material entity;secondary dentition missing tooth 8;A secondary dentition that is missing tooth 8.
+material entity;implant supported partial denture;A fixed partial denture that is suppored and retained by underlying tissue and one or more dental implants.
+material entity;secondary dentition missing tooth 9;A secondary dentition that is missing tooth 9.
+material entity;secondary dentition missing tooth 7;A secondary dentition that is missing tooth 7.
+material entity;human dental patient;A Homo sapiens that bears some dental patient role.
+process;inlay restoration procedure;An intracoronal restoration procedure in which dental restoration material is placed within the grooves and pits of the occlusal surface of a tooth.
+material entity;complete removable denture;
+material entity;secondary dentition missing tooth 12;A secondary dentition that is missing tooth 12.
+material entity;dental health care organization;An organization that is focused on maintaining and improving the oral health of a population.
+process;onlay restoration procedure;A crown restoration procedure in which the dental restoration material either replaces the cusp or overlays the cusp.
+material entity;complete fixed denture;A complete denture that is perminately attached to the mouth.
+material entity;secondary dentition missing tooth 13;A secondary dentition that is missing tooth 13.
+generically dependent continuant;dental finding;A clinical finding is a specified output of a dental exam and is about the oral cavity, maxillofacial area, and/or the adjacent and associated structures, or their parts, or pathological anatomical entities derived from them. The finding has a part that is about when the exam that led to the finding occured well as other data items specifying the nature of the finding.
+material entity;removable partial denture;A partial denture that is designed and constructed to be removed readily from the mouth.
+material entity;secondary dentition missing tooth 10;A secondary dentition that is missing tooth 10.
+process;performing a dental clinical assessment;should use obi class with modifications to not include restriction that has specified output is a diagnosis, and/or subclass the obi class
+material entity;complete denture;A prosthesis that replaces all the natural teeth and associated structures in either the maxilla or mandible (or both).
+material entity;secondary dentition missing tooth 11;A secondary dentition that is missing tooth 11.
+material entity;endodontically restored tooth;A restored tooth in which some portion of the tooth's root or pulp has been replaced by dental restoration material as a result of the tooth undergoing an endodontic restorative procedure.
+material entity;ceramic tooth supported partial denture;A tooth supported fixed partial denture constructed out of ceramic.
+material entity;coronally restored tooth;A restored tooth in which some portion of enamel in the tooth's crown has been restored by dental restoration material as the result of the tooth undergoing either a crown procedure or intracoronal restoration procedure.
+material entity;dental implant fixed partial denture retainer;A dental implant abutment that serves as a retainer for a fixed partial denture.
+material entity;porcelain fused to metal implant supported partial denture;An implant supported fixed partial denture constructed out of porcelain fused to metal.
+material entity;restored facial surface;A restored tooth surface that forms the lip-facing or cheek-facing surface of a restored tooth.
+material entity;porcelain fused to metal tooth supported partial denture;A tooth supported fixed partial denture constructed out of porcelain fused to metal.
+material entity;extracoronally restored tooth;A coronally restored tooth in which all or part of the natural dental crown is repalced by an artificial crown as a result of the tooth undergoing an crown procedure.
+material entity;high noble metal implant crown;A dental implant crown constructed out of high noble metal.
+material entity;intracoronally restored tooth;A coronally restored tooth in which dental restoration material is placed into a site that is located in the crown of the tooth as the result of the tooth undergoing an intracoronal restoration procedure.
+material entity;veneer surface restored tooth;A coronally restored tooth in which a thin layer of material (i.e., a veneer) has been placed over one or more surfaces of the tooth as a result of the tooth undergoing a veneer restoration procedure.
+generically dependent continuant;coronal caries finding;A caries finding in which the caries lesion is found to be in the tooth's crown.
+material entity;amalgam dental restoration material;A metal dental restoration material that consists of silver-colored, metallic alloy which is composed of a mixture of mercury and other metals.
+process;surgical endodontic procedure;A surgical dental procedure that is performed on the pulp chamber and/or root canal of a tooth, or a part thereof.
+material entity;secondary dentition missing tooth 1;A secondary dentition that is missing tooth 1.
+process;dental procedure;A heath care encounter that realizes a dental patient role in which the patient undergoes a diagnostic or therapeutic process.
+process;root amputation procedure;A surgical endodontic procure during which a root is removed from a multi-root tooth.
+material entity;secondary dentition missing tooth 2;A secondary dentition that is missing tooth 2.
+process;apicoectomy procedure;An endodontic restorative procedure during which a tooth's root tip is removed and a root end cavity is prepared and filled with dental restoration material.
+generically dependent continuant;tooth root caries finding;A caries finding in which the caries lesion is found to be in the tooth's root.
+material entity;dental restoration material;A processed material that bears a dental restoration material role.
+process;endodontic restorative procedure;A tooth restoration procedure during which some portion of the tooth's root or pulp is replaced by dental restoration material.
+material entity;restored labial surface;A restored tooth surface that forms the labial surface of a restored tooth.
+material entity;prosthetic right lower first secondary molar tooth;A prosthetic tooth that is used a substitute for a right lower first secondary molar tooth (tooth 30).
+material entity;restored lingual surface;A restored tooth surface that forms the lingual surface of a restored tooth.
+material entity;prosthetic right lower second secondary molar tooth;A prosthetic tooth that is used a substitute for a right lower second secondary molar tooth (tooth 31).
+material entity;restored distal surface;A restored tooth surface that forms the distal surface of a restored tooth.
+material entity;prosthetic right lower first secondary premolar tooth;A prosthetic tooth that is used a substitute for a right lower first secondary premolar tooth (tooth 28).
+material entity;restored incisal surface;A restored tooth surface that forms the incisal surface of a restored tooth.
+material entity;prosthetic right lower second secondary premolar tooth;A prosthetic tooth that is used a substitute for a right lower second secondary premolar tooth (tooth 29).
+process;hemisection procedure;A surgical endodontic procedure involving a multi-root tooth in which the decayed root and its related coronal portion are removed to the furcation (area of bone loss).
+material entity;restored mesial surface;A restored tooth surface that forms the mesial surface of a restored tooth.
+material entity;prosthetic right lower third secondary molar tooth;A prosthetic tooth that is used a substitute for a right lower third secondary molar tooth (tooth 32).
+material entity;restored occlusal surface;A restored tooth surface that forms the occlusal surface of a restored tooth.
+process;dental material combination process;A material combination in which two or more dental restoration materials are combined.
+role;temporary prosthetic role;A prosthetic role that is borne by a material entity which is serves as a temporary replacement for some body part in order to allow adequate time for healing or completion of other procedures.
+process;pulpal debridement procedure;A surgical endodontic procedure in which infected pulp is removed from a tooth in order to give the remaining pulp room to swell.
+material entity;porcelain fused to metal fixed partial denture;A fixed partial denture constructed out of porcelain fused to metal.
+material entity;extracted tooth;A tooth that has been surgically extracted from a patient's mouth.
+material entity;ceramic implant supported partial denture;An implant supported fixed partial denture constructed out of ceramic.
+process;endodontic treatment procedure;A restored tooth in which the tooth's pulp is removed and replaced by dental restoration material.
+process;dental implant retainer attachement procedure for porcelain fused to metal fixed partial denture;A dental implant retainer attachement procedure for fixed partial denture in which the retainer being attached to the implant body is to be used as a retainer for a porcelain fused to metal fixed partial denture.
+material entity;surgically modified tooth;A tooth that has been modified in some way as the result of some surgical dental procedure.
+material entity;ceramic fixed partial denture;A fixed partial denture constructed out of ceramic.
+role;health care organization employee role;A role borne by a person who is employed by health care organization.
+material entity;prosthetic left lower first secondary molar tooth;A prosthetic tooth that is used a substitute for a left lower first secondary molar tooth (tooth 19).
+role;health care office staff role;
+material entity;prosthetic left lower second secondary premolar tooth;A prosthetic tooth that is used a substitute for a left lower second secondary premolar tooth (tooth 20).
+role;health care provider role;a role that inheres in a person who is licensed to provide health care
+material entity;prosthetic left lower third secondary molar tooth;A prosthetic tooth that is used a substitute for a left lower third secondary molar tooth (tooth 17).
+material entity;prosthodontist;a dentist that bears a prosthodontist role
+material entity;prosthetic left lower second secondary molar tooth;A prosthetic tooth that is used a substitute for a left lower second secondary molar tooth (tooth 18).
+material entity;prosthetic left lower lateral secondary incisor tooth;A prosthetic tooth that is used a substitute for a left lower lateral secondary incisor tooth (tooth 23).
+material entity;prosthetic left lower first secondary premolar tooth;A prosthetic tooth that is used a substitute for a left lower first secondary premolar tooth (tooth 21).
+material entity;prosthetic left lower secondary canine tooth;A prosthetic tooth that is used a substitute for a left lower secondary canine tooth (tooth 22).
+generically dependent continuant;Universal tooth number;A label naming a type of secondary tooth canonically found in humans, adopted by the American Dental Association, and commonly used as labels on odontograms (toothcharts) and clinical notes. The Universal Numbering System uses No. 1 through 32 for the 32 teeth in the permanent dentition, starting with 1 for the maxillary right third molar, going around the arch to the maxillary left third molar as 16. dropping down on the same side, the left mandibular third molar becomes 17, and then the numbers increase around the lower arch to 32, which is the lower right third molar.
+generically dependent continuant;dental procedure finding;A dental finding that a dental procedure has been performed on a patient's mouth.
+material entity;prosthetic right lower lateral secondary incisor tooth;A prosthetic tooth that is used a substitute for a right lower lateral secondary incisor tooth (tooth 26).
+material entity;restored buccal surface;A restored tooth surface that forms the buccal surface of a restored tooth.
+material entity;prosthetic right lower secondary canine tooth;A prosthetic tooth that is used a substitute for a right lower secondary canine tooth (tooth 27).
+material entity;prosthetic left lower central secondary incisor tooth;A prosthetic tooth that is used a substitute for a left lower central secondary incisor tooth (tooth 24).
+generically dependent continuant;restored tooth surface finding;A dental finding that one or more surfaces of a tooth have been restored.
+material entity;prosthetic right lower central secondary incisor tooth;A prosthetic tooth that is used a substitute for a right lower central secondary incisor tooth (tooth 25).
+process;comprehensive periodontal evaluation;An oral evaluation performed on patients showing signs or symptoms of periodontal disease and for patients with risk factors for such disease, such as smoking or diabetes. It includes evaluation of periodontal conditions, probing and charting, evaluation and recording of the patients dental and medical history and general health assessment. It may include the evaluation and recording of dental caries, missing or unerupted teeth, restorations and occlusal relationships.
+material entity;prosthetic right upper central secondary incisor tooth;A prosthetic tooth that is used a substitute for a right upper central secondary incisor tooth (tooth 8).
+process;intraoral soft tissue exam;a physical examination of the soft tissue of the mouth, including the lips, mucosa, hard and soft palate, tongue, and floor of mouth
+material entity;prosthetic left upper central secondary incisor tooth;A prosthetic tooth that is used a substitute for a left upper central secondary incisor tooth (tooth 9).
+process;limited oral evaluation;An oral evaluation limited to a specific oral health problem or complaint. This may require interpretation of information acquired through additional diagnostic procedures. Typically, patients receiving this type of evaluation present with a specific problem and/or dental emergencies, trauma, acute infections, etc.
+material entity;prosthetic right upper secondary canine tooth;A prosthetic tooth that is used a substitute for a right upper secondary canine tooth (tooth 6).
+process;comprehensive oral evaluation;An oral evaluation that is performed on new patients. established patients who have had a significant change in health conditions or other unusual circumstances. or established patients who have been absent from active treatment for three or more years. It is a thorough evaluation and recording of the extraoral and intraoral hard and soft tissues. It may require interpretation of information acquired through additional diagnostic procedures. This includes an evaluation for oral cancer where indicated, the evaluation and recording of the patients dental and medical history and a general health assessment. It may include the evaluation and recording of dental caries, missing or unerupted teeth, restorations, existing prostheses, occlusal relationships, periodontal conditions (including periodontal screening and/or charting), hard and soft tissue anomalies, etc.
+material entity;prosthetic right upper lateral secondary incisor tooth;A prosthetic tooth that is used a substitute for a right upper lateral secondary incisor tooth (tooth 7).
+role;tooth surface to be restored role;A target of material addition role that inheres in some part of a tooth and is realized in a process where dental material forms a new surface
+material entity;prosthetic left upper first secondary premolar tooth;A prosthetic tooth that is used a substitute for a left upper first secondary premolar tooth (tooth 12).
+material entity;restored tooth surface;
+material entity;prosthetic left upper second secondary premolar tooth;A prosthetic tooth that is used a substitute for a left upper second secondary premolar tooth (tooth 13).
+process;extraoral soft tissue exam;a physical examination of the soft tissue of the head and neck with attention to the temporomandibular joint area
+material entity;prosthetic left upper lateral secondary incisor tooth;A prosthetic tooth that is used a substitute for a left upper lateral secondary incisor tooth (tooth 10).
+material entity;functional tooth;A natural, modified or prosthetic tooth
+material entity;prosthetic left upper secondary canine tooth;A prosthetic tooth that is used a substitute for a left upper secondary canine tooth (tooth 11).
+material entity;dental assistant;
+material entity;prosthetic left upper second secondary molar tooth;A prosthetic tooth that is used a substitute for a left upper second secondary molar tooth (tooth 15).
+independent continuant;dental practice facility;A physical structure, such as a building, in which dental care is provided by licensed providers.
+material entity;prosthetic left upper third secondary molar tooth;A prosthetic tooth that is used a substitute for a left upper third secondary molar tooth (tooth 16).
+material entity;prosthetic left upper first secondary molar tooth;A prosthetic tooth that is used a substitute for a left upper first secondary molar tooth (tooth 14).
+material entity;prosthetic right upper first secondary molar tooth;A prosthetic tooth that is used a substitute for a right upper first secondary molar tooth (tooth 3).
+process;fixed partial denture restoration procedure;
+role;prosthetic role;A material to be added role that inheres in a material entity that replaces some missing body part.
+material entity;tooth-supported partial denture;A fixed partial denture that is suppored and retained by underlying tissue and some or all of the remaining teeth.
+material entity;fixed partial denture;A partial denture that is permanently attached to prepared natural teeth, roots, or implants.
+material entity;prosthetic right upper third secondary molar tooth;A prosthetic tooth that is used a substitute for a right upper third secondary molar tooth (tooth 1).
+material entity;prosthetic right upper second secondary molar tooth;A prosthetic tooth that is used a substitute for a right upper second secondary molar tooth (tooth 2).
+role;functional prosthetic role;A prosthetic role that is realized by activities in which the material entity (bearing the role) is used a manner that is similar to how the body part that the prosthesis replaces would be used.
+material entity;pontic;
+material entity;prosthetic right upper second secondary premolar tooth;A prosthetic tooth that is used a substitute for a right upper second secondary premolar tooth (tooth 4).
+generically dependent continuant;no oral health issues reported;A dental finding in which there were no oral health issues were reported.
+material entity;prosthetic right upper first secondary premolar tooth;A prosthetic tooth that is used a substitute for a right upper first secondary premolar tooth (tooth 5).
+material entity;lithium disilicate restoration material;A ceramic dental restoration material that is composed of lithium disilicate embedded in a glass matrix.

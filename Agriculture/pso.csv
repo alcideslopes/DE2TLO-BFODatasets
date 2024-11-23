@@ -1,0 +1,232 @@
+class;term;comment
+disposition;rice Curvularia seedling blight fungal disease;A Oryza sativa disease caused a Curvularia affecting a whole plant.
+disposition;rice crown sheath rot fungal disease;A Oryza sativa disease caused a Gaeumannomyces graminis affecting a whole plant.
+disposition;rice brown spot fungal disease;A Oryza sativa disease caused a Bipolaris oryzae affecting a leaf.
+disposition;rice blast fungal disease;A Oryza sativa disease caused a Pyricularia oryzae affecting a whole plant.
+disposition;rice black streak dwarf viral disease;A Oryza sativa disease caused a Rice black streaked dwarf virus affecting a whole plant.
+disposition;plant disease;
+disposition;rice black kernel fungal disease;A Oryza sativa disease caused a Curvularia lunata affecting a whole plant.
+disposition;maize Alternaria alternata minor leaf rot fungal disease;A Zea mays disease caused a Alternaria alternata affecting a ear inflorescence.
+disposition;rice foot rot bacterial disease;A Oryza sativa disease caused a Dickeya chrysanthemi affecting a whole plant.
+disposition;Fusarium pecky rice fungal disease;A Oryza sativa disease caused a Fusarium affecting a caryopsis fruit.
+disposition;rice false smut fungal disease;A Oryza sativa disease caused a Ustilaginoidea virens affecting a whole plant.
+disposition;Curvularia pecky rice fungal disease;A Oryza sativa disease caused a Curvularia affecting a caryopsis fruit.
+disposition;rice eyespot fungal disease;A Oryza sativa disease caused a Bipolaris gigantea affecting a whole plant.
+disposition;Bipolaris oryzae pecky rice fungal disease;A Oryza sativa disease caused a Bipolaris oryzae affecting a caryopsis fruit.
+disposition;rice dwarf viral disease;A Oryza sativa disease caused a Rice dwarf virus affecting a whole plant.
+disposition;rice downy mildew fungal disease;A Oryza sativa disease caused a Sclerophthora macrospora affecting a whole plant.
+disposition;rice bacterial disease;A Oryza sativa disease caused a Bacteria affecting a plant structure.
+disposition;rice bacterial blight disease;A Oryza sativa disease caused a Xanthomonas oryzae pv. oryzae affecting a whole plant.
+disposition;rice Athelia rolfsii leafling blight fungal disease;A Oryza sativa disease caused a Agroathelia rolfsii affecting a seed.
+disposition;rice aggregate sheath spot fungal disease;A Oryza sativa disease caused a Ceratorhiza oryzae-sativae affecting a whole plant.
+disposition;plant animal damage;
+disposition;rice Achlya klebsiana water-mold fungal disease;A Oryza sativa disease caused a Achlya klebsiana affecting a whole plant.
+disposition;rice Achlya conspicua water-mold fungal disease;A Oryza sativa disease caused a Achlya conspicua affecting a whole plant.
+disposition;rice Bipolaris oryzae leafling blight fungal disease;A Oryza sativa disease caused a Bipolaris oryzae affecting a seed.
+disposition;biotic plant stress;
+disposition;rice bakanae fungal disease;A Oryza sativa disease caused a Fusarium fujikuroi affecting a whole plant.
+disposition;rice bacterial panicle blight disease;A Oryza sativa disease caused a Burkholderia glumae AU6208 affecting a whole plant.
+disposition;rice bacterial leaf streak disease;A Oryza sativa disease caused a Xanthomonas oryzae pv. oryzicola affecting a leaf.
+disposition;maize viral disease;A Zea mays disease caused a Viruses affecting a plant structure.
+disposition;maize Ustilago smut fungal disease;A Zea mays disease caused a Ustilago maydis affecting a whole plant.
+disposition;root rot of cassava;A Manihot esculenta disease caused a Piptoporellus baudonii affecting a root system.
+disposition;maize Ustilaginoidea false smut fungal disease;A Zea mays disease caused a Ustilaginoidea virens affecting a whole plant.
+disposition;cassava mealybug;A Manihot esculenta animal damage stress caused by Phenacoccus manihoti affecting a whole plant.
+disposition;maize stunt bacterial disease;A Zea mays disease caused a Spiroplasma kunkelii affecting a whole plant.
+disposition;acaro solitario;A Manihot esculenta animal damage stress caused by Oligonychus affecting a leaf.
+disposition;maize Stewart's bacterial disease;A Zea mays disease caused a Pantoea stewartii subsp. stewartii affecting a whole plant.
+disposition;cassava green mite;A Manihot esculenta animal damage stress caused by Mononychellus tanajoa affecting a whole plant.
+disposition;cassava brown streak virus;A Manihot esculenta disease caused a Cassava brown streak virus affecting a leaf.
+disposition;maize Sphacelotheca head smut fungal disease;A Zea mays disease caused a Sporisorium reilianum affecting a whole plant.
+disposition;caliothrips masculinus;A Manihot esculenta animal damage stress caused by Caliothrips affecting a whole plant.
+disposition;maize Setosphaeria root rot fungal disease;A Zea mays disease caused a Exserohilum pedicellatum affecting a whole plant.
+disposition;cassava whitefly;A Manihot esculenta animal damage stress caused by Bemisia tabaci affecting a in vitro plant structure.
+disposition;rodent damage;A Viridiplantae animal damage stress caused by Glires affecting a plant structure.
+disposition;bird damage;A Viridiplantae animal damage stress caused by Aves affecting a plant structure.
+disposition;arachnid damage;A Viridiplantae animal damage stress caused by Arachnida affecting a plant structure.
+disposition;maize Sclerospora green leaf downy mildew fungal disease;A Zea mays disease caused a Sclerospora graminicola affecting a ear inflorescence.
+disposition;verticillium root and stem rot;A Manihot esculenta disease caused a Verticillium dahliae affecting a stem.
+disposition;maize Sclerophthora crazy top downy mildew fungal disease;A Zea mays disease caused a Sclerophthora macrospora affecting a whole plant.
+disposition;verticillium root and stem rot;A Manihot esculenta disease caused a Verticillium dahliae affecting a root system.
+disposition;maize Sarocladium kernel rot fungal disease;A Zea mays disease caused a Sarocladium strictum affecting a caryopsis fruit.
+disposition;superelongation;A Manihot esculenta disease caused a Sphaceloma manihoticola affecting a whole plant.
+disposition;maize Sarocladium black bundle fungal disease;A Zea mays disease caused a Sarocladium strictum affecting a whole plant.
+disposition;sclerotium root rot;A Manihot esculenta disease caused a Agroathelia rolfsii affecting a root system.
+disposition;maize Rhizopus stolonifer minor leaf rot fungal disease;A Zea mays disease caused a Rhizopus stolonifer affecting a ear inflorescence.
+disposition;rust;A Manihot esculenta disease caused a Uromyces affecting a whole plant.
+disposition;maize Rhizopus microsporus minor leaf rot fungal disease;A Zea mays disease caused a Rhizopus microsporus affecting a ear inflorescence.
+disposition;rigidopurus root rot;A Manihot esculenta disease caused a Rigidoporus microporus affecting a root system.
+disposition;maize Rhizoctonia sheath spot fungal disease;A Zea mays disease caused a Rhizoctonia solani affecting a whole plant.
+disposition;pythium root rot;A Manihot esculenta disease caused a Pythium affecting a root system.
+disposition;maize Rhizoctonia corticium leaf rot fungal disease;A Zea mays disease caused a Rhizoctonia solani affecting a ear inflorescence.
+disposition;phytophthora root rot;A Manihot esculenta disease caused a Phytophthora nicotianae affecting a root system.
+disposition;maize Scopulariopsis brumptii minor leaf rot fungal disease;A Zea mays disease caused a Scopulariopsis brumptii affecting a ear inflorescence.
+disposition;maize Setosphaeria minor leaf spot fungal disease;A Zea mays disease caused a Exserohilum prolatum affecting a leaf.
+disposition;cassava scale;A Manihot esculenta animal damage stress caused by Aonidomytilus affecting a whole plant.
+disposition;maize seed rot and leafling blight bacterial disease;A Zea mays disease caused a Bacillus subtilis affecting a seed.
+disposition;cassava witches' broom;A Manihot esculenta disease caused a Cassava witches'-broom phytoplasma affecting a whole plant.
+disposition;white leaf spot;A Manihot esculenta disease caused a Phaeoramularia manihotis affecting a leaf.
+disposition;indian cassava mosaic;A Manihot esculenta disease caused a Indian cassava mosaic virus affecting a whole plant.
+disposition;fusarium root rot;A Manihot esculenta disease caused a Fusarium oxysporum affecting a root system.
+disposition;fusarium root rot;A Manihot esculenta disease caused a Fusarium solani affecting a root system.
+disposition;diplodia root and stem rot;A Manihot esculenta disease caused a Diplodia affecting a stem.
+disposition;diplodia root and stem rot;A Manihot esculenta disease caused a Diplodia affecting a root system.
+disposition;dematophora root rot;A Manihot esculenta disease caused a Rosellinia necatrix affecting a root system.
+disposition;concentric ring leaf spot;A Manihot esculenta disease caused a Phyllostictina affecting a leaf.
+disposition;cassava vein mosaic;A Manihot esculenta disease caused a Cassava vein mosaic virus affecting a whole plant.
+disposition;disease of grape;A Vitis disease caused a root affecting a plant structure.
+disposition;phytophthora root rot;A Manihot esculenta disease caused a Phytophthora cryptogea affecting a root system.
+disposition;maize Rhizoctonia banded leaf fungal disease;A Zea mays disease caused a Rhizoctonia solani affecting a leaf.
+disposition;phytophthora root rot;A Manihot esculenta disease caused a Phytophthora erythroseptica affecting a root system.
+disposition;phytophthora root rot;A Manihot esculenta disease caused a Phytophthora drechsleri affecting a root system.
+disposition;cassava common mosaic;A Manihot esculenta disease caused a Cassava common mosaic virus affecting a whole plant.
+disposition;cassava ash;A Manihot esculenta disease caused a Oidium affecting a whole plant.
+disposition;brown leaf spot;A Manihot esculenta disease caused a Clypeosphaerella calotropidis affecting a leaf.
+disposition;blight leaf spot;A Manihot esculenta disease caused a Cercospora affecting a leaf.
+disposition;black root and stem rot;A Manihot esculenta disease caused a Scytalidium sp. affecting a stem.
+disposition;black root and stem rot;A Manihot esculenta disease caused a Scytalidium sp. affecting a root system.
+disposition;bacterial wilt;A Manihot esculenta disease caused a Pantoea agglomerans affecting a whole plant.
+disposition;bacterial stem rot;A Manihot esculenta disease caused a Pectobacterium carotovorum subsp. carotovorum affecting a stem.
+disposition;cassava green mottle;A Manihot esculenta disease caused a Cassava green mottle virus affecting a whole plant.
+disposition;cassava frogskin;A Manihot esculenta disease caused a Cassava frogskin virus affecting a whole plant.
+disposition;cassava symptomless infections;A Manihot esculenta disease caused a Cassava Ivorian bacilliform virus affecting a whole plant.
+disposition;disease of rice;A Oryza sativa disease caused a root affecting a plant structure.
+disposition;disease of potato;A Solanum tuberosum disease caused a root affecting a plant structure.
+disposition;disease of cassava;A Manihot esculenta disease caused a root affecting a plant structure.
+disposition;maize Peronosclerospora sugarcane downy mildew fungal disease;A Zea mays disease caused a Peronosclerospora sacchari affecting a whole plant.
+disposition;maize Peronosclerospora sorghum downy mildew fungal disease;A Zea mays disease caused a Peronosclerospora sorghi affecting a whole plant.
+disposition;maize Peronosclerospora java downy mildew fungal disease;A Zea mays disease caused a Peronosclerospora maydis affecting a whole plant.
+disposition;maize Ramulispora grey leaf spot fungal disease;A Zea mays disease caused a Ramulispora sorghi affecting a leaf.
+disposition;maize Pythium stalk rot fungal disease;A Zea mays disease caused a Pythium aphanidermatum affecting a whole plant.
+disposition;maize Pithomyces maydicus minor leaf rot fungal disease;A Zea mays disease caused a Pseudopithomyces maydicus affecting a ear inflorescence.
+disposition;maize Physoderma brown spot fungal disease;A Zea mays disease caused a Physoderma maydis affecting a whole plant.
+disposition;maize Phyllachora tar spot fungal disease;A Zea mays disease caused a Phyllachora maydis affecting a whole plant.
+disposition;maize Phaeosphaeria leaf spot fungal disease;A Zea mays disease caused a Pantoea ananatis affecting a leaf.
+disposition;maize yellow leaf blight fungal disease;A Zea mays disease caused a Didymella maydis affecting a leaf.
+disposition;disease of corn (syn. maize);A Zea mays disease caused a root affecting a plant structure.
+disposition;maize holcus spot bacterial disease;A Zea mays disease caused a Pseudomonas syringae pv. syringae affecting a whole plant.
+disposition;maize Lasiodiplodia black kernel rot fungal disease;A Zea mays disease caused a Lasiodiplodia theobromae affecting a whole plant.
+disposition;maize Hyalothyridium leaf spot fungal disease;A Zea mays disease caused a Leptosphaerulina affecting a leaf.
+disposition;maize northern leaf spot fungal disease;A Zea mays disease caused a Bipolaris zeicola affecting a leaf.
+disposition;maize northern leaf blight fungal disease;A Zea mays disease caused a Exserohilum turcicum affecting a leaf.
+disposition;maize Nigrospora dry leaf rot fungal disease;A Zea mays disease caused a Nigrospora oryzae affecting a ear inflorescence.
+disposition;maize Myrothecium shuck rot fungal disease;A Zea mays disease caused a Myrothecium gramineum affecting a whole plant.
+disposition;maize Microdochium zonate leaf spot fungal disease;A Zea mays disease caused a Microdochium sorghi affecting a leaf.
+disposition;maize Marasmiellus borde blanco fungal disease;A Zea mays disease caused a Marasmiellus affecting a whole plant.
+disposition;maize Magnaporthiopsis late wilt fungal disease;A Zea mays disease caused a Magnaporthiopsis maydis affecting a whole plant.
+disposition;maize Macrophomina charcoal rot fungal disease;A Zea mays disease caused a Macrophomina phaseolina affecting a whole plant.
+disposition;maize fungal disease;A Zea mays disease caused a Fungi affecting a plant structure.
+disposition;cassava fungal disease;A Manihot esculenta disease caused a Fungi affecting a plant structure.
+disposition;maize Fusarium culmorum minor leaf rot fungal disease;A Zea mays disease caused a Fusarium culmorum affecting a ear inflorescence.
+disposition;cassava viral disease;A Manihot esculenta disease caused a Viruses affecting a plant structure.
+disposition;cassava bacterial disease;A Manihot esculenta disease caused a Bacteria affecting a plant structure.
+disposition;maize Goss's bacterial wilt disease;A Zea mays disease caused a Clavibacter michiganensis subsp. nebraskensis affecting a whole plant.
+disposition;bacterial stem gall;A Manihot esculenta disease caused a Agrobacterium tumefaciens affecting a stem.
+disposition;maize Gibberella stalk rot fungal disease;A Zea mays disease caused a Fusarium graminearum affecting a whole plant.
+disposition;bacterial blight;A Manihot esculenta disease caused a Xanthomonas phaseoli pv. manihotis affecting a whole plant.
+disposition;maize Gibberella leaf rot fungal disease;A Zea mays disease caused a Fusarium graminearum affecting a ear inflorescence.
+disposition;bacterial angular leaf spot;A Manihot esculenta disease caused a Xanthomonas cassavae affecting a leaf.
+disposition;maize Gaeumannomyces sheath rot fungal disease;A Zea mays disease caused a Gaeumannomyces graminis affecting a whole plant.
+disposition;armillaria root rot;A Manihot esculenta disease caused a Armillaria mellea affecting a root system.
+disposition;maize Fusarium seed rot fungal disease;A Zea mays disease caused a Fusarium verticillioides affecting a seed.
+disposition;anthracnose;A Manihot esculenta disease caused a Colletotrichum gloeosporioides affecting a whole plant.
+disposition;maize Fusarium seedling blight fungal disease;A Zea mays disease caused a Fusarium verticillioides affecting a whole plant.
+disposition;anthracnose;A Manihot esculenta disease caused a Colletotrichum graminicola affecting a whole plant.
+disposition;maize Fusarium leaf rot fungal disease;A Zea mays disease caused a Fusarium graminearum affecting a seed.
+disposition;antholysis;A Manihot esculenta disease caused a Candidatus Phytoplasma affecting a whole plant.
+disposition;maize Fusarium leaf rot fungal disease;A Zea mays disease caused a Fusarium verticillioides affecting a ear inflorescence.
+disposition;african cassava mosaic;A Manihot esculenta disease caused a African cassava mosaic virus affecting a whole plant.
+disposition;maize Curvularia tuberculata leaf spot fungal disease;A Zea mays disease caused a Curvularia tuberculata affecting a leaf.
+disposition;maize Curvularia senegalensis leaf spot fungal disease;A Zea mays disease caused a Curvularia senegalensis affecting a leaf.
+disposition;wheat fungal disease;A Triticum aestivum disease caused a Fungi affecting a plant structure.
+disposition;maize Curvularia lunata leaf spot fungal disease;A Zea mays disease caused a Curvularia lunata affecting a leaf.
+disposition;wheat bacterial leaf blight;A Triticum aestivum disease caused a Pseudomonas syringae pv. syringae affecting a whole plant.
+disposition;wheat viral disease;A Triticum aestivum disease caused a Viruses affecting a plant structure.
+disposition;maize Epicoccum minor leaf spot fungal disease;A Zea mays disease caused a Epicoccum nigrum affecting a leaf.
+disposition;cassava oomycete disease;A Manihot esculenta disease caused a Oomycota affecting a plant structure.
+disposition;maize Doratomyces leafonitis minor leaf rot fungal disease;A Zea mays disease caused a Cephalotrichum stemonitis affecting a ear inflorescence.
+disposition;maize oomycete disease;A Zea mays disease caused a Oomycota affecting a plant structure.
+disposition;maize Diplodia stalk rot fungal disease;A Zea mays disease caused a Physalospora zeicola affecting a whole plant.
+disposition;rice oomycete disease;A Oryza sativa disease caused a Oomycota affecting a plant structure.
+disposition;maize Diplodia leaf streak fungal disease;A Zea mays disease caused a Stenocarpella macrospora affecting a leaf.
+disposition;wheat oomycete disease;A Triticum aestivum disease caused a Oomycota affecting a plant structure.
+disposition;maize Diplodia leaf spot fungal disease;A Zea mays disease caused a Stenocarpella maydis affecting a leaf.
+disposition;Microdochium oryzae pecky rice fungal disease;A Oryza sativa disease caused a Microdochium albescens affecting a whole plant.
+disposition;maize Diplodia leaf rot fungal disease;A Zea mays disease caused a Physalospora zeicola affecting a ear inflorescence.
+disposition;rice leaf smut fungal disease;A Oryza sativa disease caused a Eballistra oryzae affecting a ear inflorescence.
+disposition;maize Didymella leaf spot fungal disease;A Zea mays disease caused a Neoascochyta exitialis affecting a leaf.
+disposition;maize Ascochyta ischaemi yellow leaf blight fungal disease;A Zea mays disease caused a Ascochyta affecting a ear inflorescence.
+disposition;maize Dictyochaeta minor root rot fungal disease;A Zea mays disease caused a Dictyochaeta fertilis affecting a whole plant.
+disposition;maize Gonatobotrys simplex minor ear rot fungal disease;A Zea mays disease caused a Gonatobotrys simplex affecting a ear infructescence.
+disposition;maize Colletotrichum falcatum Anthracnose stalk rot fungal disease;A Zea mays disease caused a Colletotrichum falcatum affecting a whole plant.
+disposition;maize Colletotrichum falcatum Anthracnose leaf blight fungal disease;A Zea mays disease caused a Colletotrichum falcatum affecting a leaf.
+disposition;rice sheath spot fungal disease;A Oryza sativa disease caused a Waitea circinata affecting a whole plant.
+disposition;maize Cochliobolus pallescens minor leaf rot fungal disease;A Zea mays disease caused a Curvularia pallescens affecting a ear inflorescence.
+disposition;rice sheath rot fungal disease;A Oryza sativa disease caused a Sarocladium oryzae affecting a whole plant.
+disposition;maize Cochliobolus pallescens leaf spot fungal disease;A Zea mays disease caused a Curvularia pallescens affecting a leaf.
+disposition;rice sheath brown rot bacterial disease;A Oryza sativa disease caused a Pseudomonas fuscovaginae affecting a whole plant.
+disposition;maize Curvularia intermedia leaf spot fungal disease;A Zea mays disease caused a Curvularia intermedia affecting a leaf.
+disposition;wheat bacterial disease;A Triticum aestivum disease caused a Bacteria affecting a plant structure.
+disposition;maize Curvularia inaequalis leaf spot fungal disease;A Zea mays disease caused a Curvularia inaequalis affecting a leaf.
+disposition;Sarocladium oryzae pecky rice fungal disease;A Oryza sativa disease caused a Sarocladium oryzae affecting a caryopsis fruit.
+disposition;maize Curvularia eragrostidis leaf spot fungal disease;A Zea mays disease caused a Curvularia eragrostidis affecting a leaf.
+disposition;rice yellow mottle viral disease;A Oryza sativa disease caused a Rice yellow mottle virus affecting a whole plant.
+disposition;maize Cunninghamella minor ear rot fungal disease;A Zea mays disease caused a Cunninghamella affecting a ear infructescence.
+disposition;rice yellow dwarf phytoplasma disease;A Oryza sativa disease caused a Candidatus Phytoplasma sp. affecting a whole plant.
+disposition;maize Culvularia clavata leaf spot fungal disease;A Zea mays disease caused a Curvularia clavata affecting a leaf.
+disposition;rice viral disease;A Oryza sativa disease caused a Viruses affecting a plant structure.
+disposition;maize Colletotrichum graminicola Anthracnose stalk rot fungal disease;A Zea mays disease caused a Colletotrichum graminicola affecting a whole plant.
+disposition;rice transitory yellowing viral disease;A Oryza sativa disease caused a Rice yellow stunt nucleorhabdovirus affecting a whole plant.
+disposition;maize Colletotrichum graminicola Anthracnose leaf blight fungal disease;A Zea mays disease caused a Colletotrichum graminicola affecting a leaf.
+disposition;rice stripe viral disease;A Oryza sativa disease caused a Rice stripe tenuivirus affecting a whole plant.
+disposition;rice stackburn fungal disease;A Oryza sativa disease caused a Alternaria padwickii affecting a whole plant.
+disposition;bacterial plant disease;A Viridiplantae disease caused a Bacteria affecting a plant structure.
+disposition;maize Bipolaris minor leaf spot fungal disease;A Zea mays disease caused a Bipolaris sorokiniana affecting a leaf.
+disposition;fungal plant disease;A Viridiplantae disease caused a Fungi affecting a plant structure.
+disposition;maize Bipolaris leaf rot fungal disease;A Zea mays disease caused a Bipolaris zeicola affecting a seed.
+disposition;rice Pythium dissotocum water-mold fungal disease;A Oryza sativa disease caused a Pythium dissotocum affecting a whole plant.
+disposition;maize bacterial stripe disease;A Zea mays disease caused a Robbsia andropogonis affecting a whole plant.
+disposition;rice Pythium dissotocum root rot fungal disease;A Oryza sativa disease caused a Pythium dissotocum affecting a root.
+disposition;maize bacterial stalk rot disease;A Zea mays disease caused a Enterobacter cloacae subsp. dissolvens affecting a whole plant.
+disposition;rice phytoplasma disease;A Oryza sativa disease caused a Candidatus Phytoplasma oryzae affecting a whole plant.
+disposition;maize bacterial stalk and top rot disease;A Zea mays disease caused a Pectobacterium carotovorum subsp. carotovorum affecting a whole plant.
+disposition;rice necrotic mosaic viral disease;A Oryza sativa disease caused a Rice necrosis mosaic virus affecting a whole plant.
+disposition;maize Claviceps ergot fungal disease;A Zea mays disease caused a Claviceps gigantea affecting a whole plant.
+disposition;rice sheath blight fungal disease;A Oryza sativa disease caused a Rhizoctonia solani affecting a whole plant.
+disposition;disease of wheat;A Triticum disease caused a root affecting a plant structure.
+disposition;maize chocolate spot bacterial disease;A Zea mays disease caused a Pseudomonas coronafaciens pv. coronafaciens affecting a whole plant.
+disposition;rice rugged stunt viral disease;A Oryza sativa disease caused a Rice ragged stunt virus affecting a whole plant.
+disposition;maize Cercospora gray leaf spot fungal disease;A Zea mays disease caused a Cercospora zeae-maydis affecting a leaf.
+disposition;rice Rhizoctonia solani leafling blight fungal disease;A Oryza sativa disease caused a Rhizoctonia solani affecting a seed.
+disposition;maize bushy stunt phytoplasma disease;A Zea mays disease caused a Maize bushy stunt phytoplasma affecting a whole plant.
+disposition;rice Pythium water-mold fungal disease;A Oryza sativa disease caused a Pythium affecting a whole plant.
+disposition;maize Botrytis cinerea minor leaf rot fungal disease;A Zea mays disease caused a Botrytis cinerea affecting a ear inflorescence.
+disposition;rice Pythium spinosum water-mold fungal disease;A Oryza sativa disease caused a Globisporangium spinosum affecting a whole plant.
+disposition;maize Bipolaris southern leaf blight fungal disease;A Zea mays disease caused a Bipolaris maydis affecting a leaf.
+disposition;rice Pythium spinosum root rot fungal disease;A Oryza sativa disease caused a Globisporangium spinosum affecting a root.
+disposition;rice Pythium root rot fungal disease;A Oryza sativa disease caused a Pythium affecting a root.
+disposition;maize Aspergillus minor ear rot fungal disease;A Zea mays disease caused a Aspergillus affecting a ear infructescence.
+disposition;maize Aspergillus kernel rot fungal disease;A Zea mays disease caused a Aspergillus flavus affecting a whole plant.
+disposition;rice giallume viral disease;A Oryza sativa disease caused a Barley yellow dwarf virus affecting a whole plant.
+disposition;maize Aspergillus glaucus minor leaf rot fungal disease;A Zea mays disease caused a Aspergillus glaucus affecting a ear inflorescence.
+disposition;maize Aspergillus flavus leaf rot fungal disease;A Zea mays disease caused a Aspergillus flavus affecting a ear inflorescence.
+disposition;rice Fusarium seedling blight fungal disease;A Oryza sativa disease caused a Fusarium affecting a whole plant.
+disposition;maize Alternaria minor root rot fungal disease;A Zea mays disease caused a Alternaria alternata affecting a whole plant.
+disposition;rice Fusarium root rot fungal disease;A Oryza sativa disease caused a Fusarium affecting a root.
+disposition;maize Alternaria minor leaf spot fungal disease;A Zea mays disease caused a Alternaria alternata affecting a leaf.
+disposition;rice fungal disease;A Oryza sativa disease caused a Fungi affecting a plant structure.
+disposition;maize bacterial leaf spot disease;A Zea mays disease caused a Xanthomonas vasicola affecting a leaf.
+disposition;rice narrow brown leaf spot fungal disease;A Oryza sativa disease caused a Cercospora janseana affecting a leaf.
+disposition;maize bacterial leaf blight and stalk rot disease;A Zea mays disease caused a Paracidovorax avenae affecting a leaf.
+disposition;rice leaf rot fungal disease;A Oryza sativa disease caused a Nakataea oryzae affecting a stem.
+disposition;maize bacterial disease;A Zea mays disease caused a Bacteria affecting a plant structure.
+disposition;rice leaf rot bacterial disease;A Oryza sativa disease caused a Burkholderia glumae affecting a caryopsis fruit.
+disposition;maize Aureobasidium eyespot fungal disease;A Zea mays disease caused a Aureobasidium zeae affecting a whole plant.
+disposition;rice kernel smut fungal disease;A Oryza sativa disease caused a Tilletia barclayana affecting a whole plant.
+disposition;maize Aspergillus niger leaf rot fungal disease;A Zea mays disease caused a Aspergillus niger affecting a ear inflorescence.
+disposition;rice hoja blanca viral disease;A Oryza sativa disease caused a Rice hoja blanca tenuivirus affecting a whole plant.
+disposition;viral plant disease;A Viridiplantae disease caused a Viruses affecting a plant structure.
+disposition;rice grassy stunt viral disease;A Oryza sativa disease caused a Rice grassy stunt tenuivirus affecting a whole plant.
+disposition;nematode damage;A Viridiplantae animal damage stress caused by Nematoda affecting a plant structure.
+disposition;oomycete plant disease;A Viridiplantae disease caused a Oomycota affecting a plant structure.
+disposition;insect damage;A Viridiplantae animal damage stress caused by Insecta affecting a plant structure.

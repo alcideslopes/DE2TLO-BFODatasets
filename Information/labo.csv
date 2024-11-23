@@ -1,0 +1,113 @@
+class;term;comment
+two-dimensional spatial region;validated laboratory test;A completed laboratory test that has as specified output a laboratory finding.
+two-dimensional spatial region;laboratory test;A measurement assay that has as input a specimen derived from an organism and that aims as having as output a data item that is about an entity related to the specimen.
+two-dimensional spatial region;laboratory result;A representation of an entity related to a specimen that is the output of a laboratory test.
+two-dimensional spatial region;directed laboratory test group;A health care process assay that is the mereological sum of laboratory test(s) that are directed by a single prescription directive item.
+two-dimensional spatial region;laboratory test report document;A document reporting on a laboratory test.
+generically dependent continuant;laboratory test start time specification;An information content entity that specifies at what time a laboratory test should start.
+generically dependent continuant;laboratory test directive item;An action specification that directs one or several laboratory tests and such that none of its proper parts directs some but not all of those laboratory tests.
+generically dependent continuant;valeur limite;A value specification that is the the lower bound or the upper bound of a range.
+generically dependent continuant;bound;A value specification that is the the lower bound or the upper bound of a range.
+two-dimensional spatial region;laboratory test reporting item;A laboratory test reporting information that is part of a laboratory test reporting group, that is about a laboratory test, and that mentions which characteristic of a specimen this test was supposed to assess, and a time at which this information was valid.
+two-dimensional spatial region;derived normalized range laboratory result;A range laboratory result that is represented in a normalized way and that is the result of the transformation of an original laboratory result.
+generically dependent continuant;excluded upper bound inclusion specification;An upper bound inclusion specification specifying the upper bound is excluded.
+generically dependent continuant;specimen characteristic specification;An information content entity that specifies a particular characteristic of a specimen or a class of characteristics of specimens.
+generically dependent continuant;scalar range;
+two-dimensional spatial region;laboratory test status specification;A laboratory test reporting information that specifies the status of a laboratory test or a group of laboratory tests.
+generically dependent continuant;excluded lower bound inclusion specification;A lower bound inclusion specification specifying the lower bound is excluded.
+two-dimensional spatial region;laboratory test reporting group;Une partie d'un document d'analyse de laboratoire qui spécifie des résultats des tests.
+two-dimensional spatial region;laboratory test reporting group;A laboratory test reporting information which reports on the test(s) directed by one laboratory test directive item.
+two-dimensional spatial region;groupement de résultats pour un test de laboratoire;Une partie d'un document d'analyse de laboratoire qui spécifie des résultats des tests.
+two-dimensional spatial region;groupement de résultats pour un test de laboratoire;A laboratory test reporting information which reports on the test(s) directed by one laboratory test directive item.
+generically dependent continuant;included upper bound inclusion specification;An upper bound inclusion specification specifying the upper bound is included.
+two-dimensional spatial region;laboratory test result item;A laboratory test reporting item that includes the result of the laboratory test.
+two-dimensional spatial region;laboratory test result item;(à revoir) Une partie d'un document d'analyse de laboratoire qui spécifie le résultat d'un test spécifique qui a été soit prescrit par une prescription de test de laboratoire, soit réalisé comme conséquence d'une prescription de test de laboratoire.
+generically dependent continuant;upper bound inclusion specification;A range inclusion specification for the upper bound of a range.
+generically dependent continuant;laboratory test reporting item identifier;
+generically dependent continuant;range;A generically dependent continuant that specifies a lower bound and an upper bound. It can also specify whether each bound is included or not in the interval.
+generically dependent continuant;laboratory test result normal range;A range of values asserted by the testing lab or the kit manufacturer to be normal based on a statistical treatment of values from a reference population.
+generically dependent continuant;laboratory test objective specification;A health care objective specification that specifies why a laboratory test should be performed.
+generically dependent continuant;laboratory test reporting item time specification;A laboratory test reporting information that specifies a time at which a laboratory test reporting item was valid.
+generically dependent continuant;range value specification;A value specification that has as part at least a lower bound or an upper bound.
+generically dependent continuant;laboratory test specimen specification;Une entité de contenu informationnel qui est à propos d'une entité biologique particulière ou d'une classe d'entité biologique sur laquelle quelqu'un a l'intention de prendre une mesure ou sur laquelle une mesure a déjà été prise.
+generically dependent continuant;laboratory test specimen specification;An information content entity that denotes a particular specimen on which a laboratory test is intended to be executed or has already been executed.
+generically dependent continuant;prescription of laboratory test objective specification;A laboratory test objective specification that is a part of a laboratory test prescription.
+two-dimensional spatial region;derived normalized scalar laboratory result;
+generically dependent continuant;calculated data item;A data item that was generated on the basis of a calculation.
+two-dimensional spatial region;derived normalized textual laboratory result;
+generically dependent continuant;mean corpuscular volume result;Une mesure qui spécifie la taille moyenne des cellules rouges d'une personne.
+generically dependent continuant;mean corpuscular volume result;A measurement datum specifying the average size of a person's red blood cells.
+generically dependent continuant;résultat de volume corpusculaire moyen;Une mesure qui spécifie la taille moyenne des cellules rouges d'une personne.
+generically dependent continuant;résultat de volume corpusculaire moyen;A measurement datum specifying the average size of a person's red blood cells.
+generically dependent continuant;sampling method specification;A data item intended to be a truthful statement about the sampling method used to extract a sample from an entity.
+generically dependent continuant;sampling method specification;Une donnée supposée être une proposition vraie à propos de la méthode d'échantillonnage utilisée pour extraire un échantillon particulier d'une entité.
+generically dependent continuant;spécification de méthode échantillonnage;A data item intended to be a truthful statement about the sampling method used to extract a sample from an entity.
+generically dependent continuant;spécification de méthode échantillonnage;Une donnée supposée être une proposition vraie à propos de la méthode d'échantillonnage utilisée pour extraire un échantillon particulier d'une entité.
+two-dimensional spatial region;reported laboratory test result normal range;A laboratory test result normal range that is reported in a laboratory test reporting item.
+generically dependent continuant;spécification de type d'échantillon;An information content entity about the type of the specimen to be used for some laboratory tests.
+generically dependent continuant;spécification de type d'échantillon;Une donnée qui est supposée être une proposition vraie à propos du type de l'échantillon pour lequel des tests ont été prescrits.
+generically dependent continuant;laboratory test specimen type specification;An information content entity about the type of the specimen to be used for some laboratory tests.
+generically dependent continuant;laboratory test specimen type specification;Une donnée qui est supposée être une proposition vraie à propos du type de l'échantillon pour lequel des tests ont été prescrits.
+generically dependent continuant;laboratory test specimen ID;A centrally registered identifier that denotes a particular specimen on which a laboratory test is intended to be executed or has already been executed.
+generically dependent continuant;laboratory test specimen ID;TODO
+generically dependent continuant;identification d'échantillon d'examen de laboratoire;A centrally registered identifier that denotes a particular specimen on which a laboratory test is intended to be executed or has already been executed.
+generically dependent continuant;identification d'échantillon d'examen de laboratoire;TODO
+generically dependent continuant;hemoglobin test result;Une mesure qui spécifie la quantité d'hémoglobine dans le sang d'une personne.
+generically dependent continuant;hemoglobin test result;A measurement datum which specifies the amount of hemoglobin in a person's blood.
+generically dependent continuant;résultat de test d'hémoglobine;Une mesure qui spécifie la quantité d'hémoglobine dans le sang d'une personne.
+generically dependent continuant;résultat de test d'hémoglobine;A measurement datum which specifies the amount of hemoglobin in a person's blood.
+generically dependent continuant;hematocrit result;A measurement datum specifying how much of a person's blood is made of red blood cells.
+generically dependent continuant;hematocrit result;Une mesure qui spécifie quelle portion du sang d'une personne est composée de cellules rouges.
+generically dependent continuant;résultat d'hématocrite;A measurement datum specifying how much of a person's blood is made of red blood cells.
+generically dependent continuant;résultat d'hématocrite;Une mesure qui spécifie quelle portion du sang d'une personne est composée de cellules rouges.
+generically dependent continuant;upper bound;A bound that is the upper bound of a range.
+generically dependent continuant;laboratory test directive item group;An action specification that has as parts one or several laboratory test directive items, as well as possibly some statements specifying a starting condition, a stopping condiiton and a testing condition.
+two-dimensional spatial region;ratio laboratory result;A laboratory result that is given as a ratio.
+two-dimensional spatial region;laboratory result-based calculated data item;A calculated data item that is produced by a calculation process that has as input a laboratory result.
+generically dependent continuant;lower bound;A bound that is the lower bound of a range.
+generically dependent continuant;ratio value specification;A value specification that specifies a ratio value, without any unit or with a dimensionless unit.
+generically dependent continuant;laboratory test reporting information;Une entité de contenu informationnel qui documente un ou plusieurs aspects d'un certain test de laboratoire.
+generically dependent continuant;laboratory test reporting information;An information content entity which reports on some aspect of a particular laboratory test.
+generically dependent continuant;information de résultat pour un test de laboratoire (WIP);Une entité de contenu informationnel qui documente un ou plusieurs aspects d'un certain test de laboratoire.
+generically dependent continuant;information de résultat pour un test de laboratoire (WIP);An information content entity which reports on some aspect of a particular laboratory test.
+generically dependent continuant;interval-notation range inclusion specification;A range inclusion specification written with interval notation. There are only two individuals.
+generically dependent continuant;range inclusion specification;An information content entity that specifies whether a cutoff value should be included or excluded in a range.
+generically dependent continuant;laboratory test prescription;A health care prescription specifying the realization of one or several laboratory test(s).
+generically dependent continuant;prescription de test de laboratoire;A health care prescription specifying the realization of one or several laboratory test(s).
+generically dependent continuant;included lower bound inclusion specification;A lower bound inclusion specification specifying the lower bound is included.
+two-dimensional spatial region;information de compte-rendu de test de laboratoire;An information content entity that encompasses all relevant information pertaining to a given laboratory test prescription.
+two-dimensional spatial region;information de compte-rendu de test de laboratoire;TODO
+two-dimensional spatial region;prescribed laboratory test complete reporting information;An information content entity that encompasses all relevant information pertaining to a given laboratory test prescription.
+two-dimensional spatial region;prescribed laboratory test complete reporting information;TODO
+generically dependent continuant;lower bound inclusion specification;A range inclusion specification for the lower bound of a range.
+generically dependent continuant;red blood cell count result;Une mesure qui spécifie le nombre de cellules rouges dans le sang d'une personne.
+generically dependent continuant;red blood cell count result;A measurement datum which specifies the number of red blood cell in a person's blood.
+generically dependent continuant;résultat de dénombrement de cellules rouges;Une mesure qui spécifie le nombre de cellules rouges dans le sang d'une personne.
+generically dependent continuant;résultat de dénombrement de cellules rouges;A measurement datum which specifies the number of red blood cell in a person's blood.
+two-dimensional spatial region;laboratory test definition range;A range of values asserted as possible valid values by the testing lab or the kit manufacturer.
+two-dimensional spatial region;laboratory test specification;
+generically dependent continuant;résultat de dénombrement de plaquettes;A measurement datum which specifies the number of platelet cells in a person's blood.
+generically dependent continuant;résultat de dénombrement de plaquettes;Une mesure qui spécifie le nombre de plaquettes dans le sang d'une personne.
+generically dependent continuant;platelets count result;A measurement datum which specifies the number of platelet cells in a person's blood.
+generically dependent continuant;platelets count result;Une mesure qui spécifie le nombre de plaquettes dans le sang d'une personne.
+two-dimensional spatial region;textual laboratory result;A laboratory result that is given as a textual entity.
+two-dimensional spatial region;derived normalized laboratory result-based range calculated data item;
+two-dimensional spatial region;laboratory test name;
+generically dependent continuant;red cell distribution width result;Une mesure qui spécifie l'étendue de la variation de la taille des cellules rouges dans le sang d'une personne.
+generically dependent continuant;red cell distribution width result;A measurement datum which specifies the range of variation of the size of red blood cell in a person's blood.
+generically dependent continuant;résultat de variation de taille des cellules rouges;Une mesure qui spécifie l'étendue de la variation de la taille des cellules rouges dans le sang d'une personne.
+generically dependent continuant;résultat de variation de taille des cellules rouges;A measurement datum which specifies the range of variation of the size of red blood cell in a person's blood.
+generically dependent continuant;result range;
+two-dimensional spatial region;laboratory test identifier;
+two-dimensional spatial region;laboratory result-based scalar calculated data item;
+generically dependent continuant;scalar calculated data item;
+generically dependent continuant;résultat de volume moyen des plaquettes;A measurement datum specifying the average size of the platetels in a person's blood.
+generically dependent continuant;résultat de volume moyen des plaquettes;Une mesure qui spécifie la taille moyenne des plaquette du sang d'une personne.
+generically dependent continuant;mean platelet volume result;A measurement datum specifying the average size of the platetels in a person's blood.
+generically dependent continuant;mean platelet volume result;Une mesure qui spécifie la taille moyenne des plaquette du sang d'une personne.
+two-dimensional spatial region;range laboratory result;A laboratory result that is given as a range.
+two-dimensional spatial region;laboratory result-based range calculated data item;
+two-dimensional spatial region;scalar laboratory result;A laboratory result that has a scalar value specification.
+two-dimensional spatial region;laboratory result-based ratio calculated data item;
+generically dependent continuant;ratio calculated data item;
+generically dependent continuant;range calculated data item;

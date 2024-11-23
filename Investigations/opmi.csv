@@ -1,0 +1,640 @@
+class;term;comment
+one-dimensional temporal region;Sunday;The 7th day of the week.
+one-dimensional temporal region;day of birth;A day when an organism (e.g., a human) is born.
+generically dependent continuant;person full name;患者本人在公安户籍管理部门正式登记注册的姓氏和名称
+generically dependent continuant;person legal name;A person name that identifies a person for legal, administrative and other official purposes
+generically dependent continuant;person last name;
+generically dependent continuant;person middle name;
+generically dependent continuant;person name;A name of a person, which can have different types
+generically dependent continuant;person first name;
+one-dimensional temporal region;birthday;the anniversary of the birth of a person
+generically dependent continuant;personal information;information associated with an individual
+one-dimensional temporal region;October;The 10th month of the year in the Gregorian calendar
+one-dimensional temporal region;Thursday;The fourth day of the week.
+one-dimensional temporal region;Friday;The fifth day of the week.
+one-dimensional temporal region;Tuesday;The second day of the week.
+one-dimensional temporal region;Wednesday;The third day of the week.
+one-dimensional temporal region;day of week;A day of a calendar week that includes covers 24 hours each day.
+one-dimensional temporal region;Monday;The first day of the week.
+one-dimensional temporal region;November;The 11th month of the year in the Gregorian calendar
+one-dimensional temporal region;December;The 12th month of the year in the Gregorian calendar
+one-dimensional temporal region;Saturday;The 6th day of the week.
+material entity;KPMP biopsy safety checklist form;A biopsy safety checklist form that is designed and used by the Kidney Precision Medicine Project (KPMP) organization.
+one-dimensional temporal region;June;The 6th month of the year in the Gregorian calendar
+generically dependent continuant;KPMP CKD hospitalization form;
+one-dimensional temporal region;July;The 7th month of the year in the Gregorian calendar
+generically dependent continuant;KPMP laboratory result form;
+one-dimensional temporal region;April;The4th month of the year in the Gregorian calendar
+generically dependent continuant;eligibility question;A textual question that is about eligibility of a person to participate in a project.
+one-dimensional temporal region;May;The 5th month of the year in the Gregorian calendar
+generically dependent continuant;KPMP AKI hospitalization form;
+one-dimensional temporal region;February;The second month of the year in the Gregorian calendar.
+generically dependent continuant;KPMP demographic information form;
+one-dimensional temporal region;March;The third month of the year in the Gregorian calendar.
+generically dependent continuant;KPMP health literacy questionnaire form;
+one-dimensional temporal region;month of year;
+generically dependent continuant;KPMP clinic reception form;A clinic reception form that is designed and used by the Kidney Precision Medicine Project (KPMP) organization.
+one-dimensional temporal region;January;The first month of the year in the Gregorian calendar
+generically dependent continuant;KPMP contact information form;A contact information form that is designed and used by the Kidney Precision Medicine Project (KPMP) organization.
+one-dimensional temporal region;August;The 8th month of the year in the Gregorian calendar
+generically dependent continuant;KPMP medical history form;
+one-dimensional temporal region;September;The 9th month of the year in the Gregorian calendar
+generically dependent continuant;central path quality metrics assessment Dx core form;
+generically dependent continuant;central path quality metrics assessment interrogation core form;
+generically dependent continuant;KPMP biopsy procedure form;A biopsy procedure form that is designed and used by the Kidney Precision Medicine Project (KPMP) organization.
+generically dependent continuant;diagnostic core .jpg images QC form;
+generically dependent continuant;diagnostic core - disease categories form;
+generically dependent continuant;tissue tracking form;A clinical report form that covers the information about the tracking of biopsied tissue
+generically dependent continuant;Whether kidney transplant recipient;A transplant question that asks whether a person has received a kidney transplant.
+generically dependent continuant;pathology images upload form;
+generically dependent continuant;KPMP clinical report form;
+generically dependent continuant;transplant question;
+generically dependent continuant;post biopsy form;
+generically dependent continuant;Whether transplant recipient;A transplant question that asks whether a person has received some transplant (includes solid transplant and bone marrow). Example transplants are kidney transplant and heart transplant.
+generically dependent continuant;post-biopsy patient experience survey form;
+generically dependent continuant;KPMP biosample collection form;A biosample collection form that is designed and used by the Kidney Precision Medicine Project (KPMP) organization.
+generically dependent continuant;adverse event entry form;
+generically dependent continuant;KPMP adverse event entry form;An adverse event entry form that is designed and used by the Kidney Precision Medicine Project (KPMP) organization.
+generically dependent continuant;Whether diabetes;
+quality;age at diagosis of diabetes;
+generically dependent continuant;What disease;
+generically dependent continuant;What type of diabetes;
+generically dependent continuant;treatment question;
+generically dependent continuant;medicatoin treatment question;
+generically dependent continuant;surgical treatment question;
+generically dependent continuant;Whether taking medication for diabetes;
+quality;age at the start of kidney stone;
+quality;age at the start of disease;An age when a disease started in a patient
+role;study participant's physician role;a role of a physician who takes care of a study participant
+quality;age at diagnosis of disease;
+quality;age at diagnosis of kidney disease;
+generically dependent continuant;Whether chronic kidney disease;
+generically dependent continuant;Whether acute kidney injury;
+zero-dimensional temporal region;time of biopsy;
+zero-dimensional temporal region;year of kidney biopsy;
+zero-dimensional temporal region;time of kidney biopsy;
+role;study participant's family member role;A role of a person who is a family member of a participant in an investigation study.
+zero-dimensional temporal region;month of kidney biopsy;
+quality;age less than 18 years;A age quality that is measured by the value of less than 18 years old
+material entity;GFR 30-59 mL/min/1.73m2;
+material entity;eGFR >=60 mL/min/1.73m2 with urine albumin excretion >= 30 mg/g creatinine;
+material entity;eGFR >= 60 mL/min/1.73m2 with urine protein excretion >= 150 mg/g creatinine;
+role;medical history information provider role;A role of a person (e.g., a study participant, participant's family member, or participant's physician) who provides the medical history information.
+material entity;USA government health plan insurance;
+realizable entity;academic Doctorate degree education level;An education level that indicates that the highest level of education achievement for a person is an academic Doctorate degree
+generically dependent continuant;patient condition question;
+material entity;Phase II/III clinical trial;A clinical trial that covers both Phase 2 and 3
+process;non-hospital institution visit;A visit to a dedicated institution for reasons of poor health, at a Care Site, long-term or permanently, with no physician but possibly other Providers permanently available to deliver service around the clock
+material entity;no insurance status;
+realizable entity;no formal school education level;An education level that indicates that a person does not have formal school education.
+generically dependent continuant;Whether diabetic kidney disease (DKD);
+process;radiation;
+process;home medical visit;A visit where a provider visits a person, without a care site, within one day, delivering service
+generically dependent continuant;Whether have physician for usual medical care;
+quality;clinical trial phase 4;A clinical trial phase that is designed for a randomized, controlled trial to evaluate the long-term safety and efficacy of a drug for a given indication. Often they are designed to study side effects that may have become apparent after the phase III study was completed. [def-source: NCI]
+process;preceding medical visit;A visit occurrence that occurs for the person prior to the given visit. There could be a few days or a few years in between.
+realizable entity;Master's degree education level;An education level that indicates that the highest level of education achievement for a person is a Master's degree.
+object;nephrology care provider;
+quality;clinical trial early phase 1;A clinical trial phase that is designed to use an investigational agent that is available only in very limited quantities and which has never previously given to humans or for which there is extremely limited human experience. Phase 0 clinical trials are intended to enable researchers to understand the path of the drug in the body and its efficacy. Adverse event reporting in Phase 0 trials is expedited. [def-source: NCI]
+process;emergency room and inpatient visit;A vist ocurrence that includes a visit to the emergency room followed by a subsequent inpatient visit.
+zero-dimensional temporal region;visit start datetime;The date and time on which a visit starts. In the case of an inpatient visit this should be the date the patient was admitted to the hospital or institution. In all other cases this should be the date of the patient-provider interaction.
+quality;clinical trial phase 3;A clinical trial phase that is designed to investigate the efficacy of the biomedical or behavioral intervention in large groups of human subjects (from several hundred to several thousand), to confirm efficacy, to monitor adverse reactions to the new medication or treatment regimen with respect to long-term use and by comparing the intervention to other standard or experimental interventions as well as to a placebo. [def-source: NCI]
+zero-dimensional temporal region;visit end datetime;The date and time on which a visit ends. For inpatient visits the end date is typically the discharge date. If a Person is still an inpatient in the hospital at the time of the data extract and does not have a visit end date, then set the visit end date to the date of the data pull.
+material entity;direct serum bilirubin level;
+realizable entity;preschool completion education level;An education level that indicates that the highest level of education achievement for a person is preschool.
+generically dependent continuant;precision medicine objective;
+material entity;body temprature by other measurement;
+realizable entity;Pharmacy complete education level;
+generically dependent continuant;Whether biopsy;
+realizable entity;higher than 7th but less than 12th Grade education level;An education level that indicates a grade of higher than 7th but lower than 12 as the highest level of educational achievement.
+realizable entity;kindergarten completion education level;An education level that indicates that the highest level of education achievement for a person is kindergarten completion.
+generically dependent continuant;CRF filled up by patient;
+material entity;body temprature by forhead;
+realizable entity;professional doctorate degree education level;An education level that indicates that a person has obtained a degree allowing them to practice a profession, such as law, medicine, music, or ministry.
+generically dependent continuant;Whether AKI percutaneous biopsy;
+material entity;study accession identifier;
+process;laboratory medical visit;A visit to a dedicated institution, at a care site, within one day, for the purpose of a measurement. The visit is carried out in a medical laboratory or clinical laboratory where tests are carried out on clinical specimens to obtain information about the health of a patient to aid in diagnosis, treatment, and prevention of disease
+material entity;arterial line body temperature;
+realizable entity;M.D. completion education level;
+generically dependent continuant;Whether AKI open biopsy;
+process;case management visit;A medical visit occurrence that involves an interaction with the healthcare system, without a care site, within a day, with no providers involved, for the administrative purpose of patient case management.
+material entity;body temperature measured orally;
+realizable entity;high school education level;An education level that indicates that the highest level of education achievement for a person is a high school completion.
+generically dependent continuant;Whether hypertensive CKD (H-CKD);
+process;genetic intervention;
+process;telehealth visit;A visit in which a patient engages with a Provider through communication media. A patient can use digital information and communication technologies, such as computers and mobile devices, to access health care services remotely and manage their health care.
+material entity;body temprature by ear (tempanic, aural);
+realizable entity;Bachelor's degree education level;An education level that indicates that the highest level of education achievement for a person is a Bachelor's degree
+generically dependent continuant;Whether diabetic nephropathy resisters percutaneous biopsy;
+process;behavioral intervention;A medical intervention that involves a behavioral process to control, prevent, or treat a behavior problem.
+process;pharmacy visit;A visit to the pharmacy for dispensing of drug, at a care site, within one day
+generically dependent continuant;ZIP code;A ZIP Code is a postal code used by the United States Postal Service (USPS). The term ZIP is an acronym for Zone Improvement Plan.
+generically dependent continuant;what name of hospital;
+material entity;visit occurrence identifier;A centrally registered identifier that refers to a specific visit occurrence. This identifier identifies a unique interaction between a person and the health care system.
+realizable entity;socioeconomic status;The personal information that indicates an individual's or his/her family's economic and social position in relation to others, based on income, education, and occupation.
+generically dependent continuant;address question;
+material entity;Phase I/II clinical trial;A clinical trial that covers both Phase 1 and 2
+process;inpatient visit;A vist ocurrence in which the patient's condition requires admission to a hospital.
+material entity;European clinical trial registry identifier;
+generically dependent continuant;hospital question;
+process;medical visit;A medical occurrence where a person engages with the healthcare system for a duration of time.
+material entity;care site identifier;A centrally registered identifier that refers to where the care provider typically provides the primary care.
+quality;birth weight declined to answer;
+generically dependent continuant;What country;
+material entity;individual plan insurance (paid by the member);
+realizable entity;temporary employment status;An employment situation where the working arrangement is limited to a certain period of time based on the needs of the employing organization.
+quality;less than 5.5 pounds (2500 grams) birth weight;
+realizable entity;self-employment status;The state of working for oneself rather than an employer.
+generically dependent continuant;What street number and name;
+quality;clinical trial phase 1;A clinical trial phase that represents the first-in-man trial, which tests within a small group of people (typically 20-80) to evaluate safety, determine safe dosage ranges, and begin to identify side effects. A drug's side effects could be subtle or long term, or may only happen with a few people, so phase 1 trials are not expected to identify all side effects.
+one-dimensional temporal region;visit duration;A temporal region that covers the time period from the visit start time to the visit end time.
+quality;unknown birth weight;
+generically dependent continuant;What apartment;
+quality;clinical trial phase 2;A clinical trial phase that is designed to study a biomedical or behavioral intervention in a larger group of people (several hundred), to evaluate the drug's effectiveness for a particular indication in patients with the disease or condition under study, and to determine the common short-term side effects and risks associated with the intervention. [def-source: NCI]
+generically dependent continuant;household size;the number of people living together supported jointly by an household income
+realizable entity;part time employment status;a status of employment that carries fewer hours per week than a full-time job.
+generically dependent continuant;What state;
+zero-dimensional temporal region;visit start date;The date on which a visit starts. In the case of an inpatient visit this should be the date the patient was admitted to the hospital or institution. In all other cases this should be the date of the patient-provider interaction.
+quality;more than 5.5 pounds (2500 grams) birth weight;
+realizable entity;hourly employment status;an employment status where the work is arranged and paid on a hourly basis.
+generically dependent continuant;What Zip code;
+quality;clinical trial phase;The quality of a clinical trial that studies a drug or biological product. The phase is based on the study's objective, the number of participants, and other characteristics. According to USA FDA, there are five phases: Early Phase 1 (formerly listed as Phase 0), Phase 1, Phase 2, Phase 3, and Phase 4.
+zero-dimensional temporal region;visit end date;The date on which a visit ends. For inpatient visits the end date is typically the discharge date. If a Person is still an inpatient in the hospital at the time of the data extract and does not have a visit end date, then set the visit end date to the date of the data pull.
+process;precision medicine process;A planned process that achieves the planned objective of precision medicine objective. Specifically, it is a medical process that includes the customization of healthcare, with medical decisions, treatments, practices, or products being tailored to the individual patient.
+realizable entity;employment status;An socioeconomic status that indicates the status of being employed in an occupation to perform an activity or service for wage or salary. It is the status of a worker in a company or institute on the basis of the contract of work or duration of work done.
+generically dependent continuant;What street name;
+process;outpatient visit;A vist ocurrence in which a patient attends an outpatient clinic with no plan to stay beyond the duration of the visit.
+material entity;precision medicine investigation;An investigation that is targeted for precision medicine
+realizable entity;full time employment status;A state of employment in which a person works for a minimum number of hours defined as full-time by their employer.
+generically dependent continuant;What city;
+process;combinational intervention;
+process;emergency room visit;A vist ocurrence in which a patient attends an outpatient clinic with no plan to stay beyond the duration of the visit.
+material entity;group plan insurance through employee union;
+process;patient care;A health care rendered for the benefit of a patient.
+realizable entity;unwilling to receive a blood transfusion;A consent status that indicates a participant unwilling to receive a procedure of blood transfusion
+material entity;date of hospital admission;指患者实际入病房的接诊时间
+material entity;date of hospital admission;A time measurement datum that is about a human being who bears a patient role and specifies the date of the patient's admission to a hospital
+generically dependent continuant;electronic drug record;An electronic health record that records the information of drug usage including drug prescriptions written, prescriptions dispensed, medication history, patient-reported exposure, etc.
+realizable entity;not married marital status;
+process;primary care;Primary care refers to the work of health professionals who act as a first point of consultation for all patients within the health care system
+realizable entity;willing to receive a blood transfusion;A consent status that indicates a participate willing to receive a procedure of blood transfusion
+one-dimensional temporal region;year of birth;A year when an organism (e.g., a human) is born.
+generically dependent continuant;medical observation data;A data item that captures clinical facts about a patient obtained in the context of examination, questioning or a procedure.
+material entity;person ID;A centrally registered identifier that is uniquely assigned to a person.
+generically dependent continuant;electronic death record;An electronic health record that records the information of the death record of a person.
+realizable entity;consent status;
+generically dependent continuant;number of hospital admissions;指患者在本医疗机构住院诊治的次数
+generically dependent continuant;electronic device record;An electronic health record that records the information of medical device usage.
+generically dependent continuant;electronic health cost record;An electronic health record that records the information of medical cost.
+generically dependent continuant;home postal address;
+generically dependent continuant;physician question;
+material entity;JMACCT clinical trial identifier;
+generically dependent continuant;work postal address;
+generically dependent continuant;What physician's specialty;
+generically dependent continuant;cellular telephone number;
+process;nephrology care;
+material entity;UMIN-CTR clinical trial identifier;A Japan clinical trial identifier provided by the University Hospital Medical Information Network Center (UMIN-CTR)
+one-dimensional temporal region;birth-related time;time that is related to the birth
+generically dependent continuant;electronic health procedure record;An electronic health record that records the information of Procedure record.
+realizable entity;unemployment status;The status of actively looking for employment, but not being currently employed.
+process;endocrinology care;
+material entity;JAPIC clinical trial identifier;
+site;care site;A care site is a uniquely identified institutional (physical or organizational) unit where healthcare delivery is practiced, for example, office, ward, hospital, clinic, etc.
+generically dependent continuant;home telephone number;A telephone number used for a phone at home
+process;quaternary care;The term quaternary care is sometimes used as an extension of tertiary care in reference to advanced levels of medicine which are highly specialized and not widely accessed.
+generically dependent continuant;What birth weight;
+material entity;date of hospital discharge;出院时间是指患者治疗结束或终止治疗离开病房的时间，其中死亡患者是指其死亡时间；记录时间应当精确到分钟
+material entity;date of hospital discharge;A time measurement datum that is about a human being who bears a patient role and specifies the date of the patient's discharge from a hospital
+generically dependent continuant;electronic health note record;An electronic health record that records the information of medical notes.
+generically dependent continuant;work telephone number;A telephone number used for a phone at work
+process;hospital care;A patient care that is provided in hospital.
+material entity;Japan clinical trial identifier;
+generically dependent continuant;residents health card number;在已统一发放“中华人民共和国居民健康卡”的地区填写健康卡号码，尚未发放“健康卡”的地区填写“-”
+generically dependent continuant;residents health card number;The number of health card for residents of the People's Republic of China
+generically dependent continuant;electronic health observation record;An electronic health record that records the information of medical observational record.
+realizable entity;education level;An education level that indicates that the highest level of education achievement for a person.
+process;secondary care;Secondary care includes acute care: necessary treatment for a short period of time for a brief but serious illness, injury, or other health condition. This care is often found in a hospital emergency department. Secondary care also includes skilled attendance during childbirth, intensive care, and medical imaging services.
+one-dimensional temporal region;year;
+one-dimensional temporal region;month of birth;A month when an organism (e.g., a human) is born.
+generically dependent continuant;electronic episode record;An electronic health record that records the information of medical Episode record.
+generically dependent continuant;telephone number;A telephone number is a sequence of digits assigned to a fixed-line telephone subscriber station connected to a telephone line or to a wireless electronic telephony device, such as a radio telephone or a mobile telephone, or to other devices for data transmission via the public switched telephone network (PSTN) or other public and private networks.
+process;tertiary care;Tertiary care is specialized consultative health care, usually for inpatients and on referral from a primary or secondary health professional, in a facility that has personnel and facilities for advanced medical investigation and treatment, such as a tertiary referral hospital.
+generically dependent continuant;medical history question;
+one-dimensional temporal region;birth datetime;The date and time of birth of a person.
+generically dependent continuant;electronic measurement record;An electronic health record that records the information of medical measurement record.
+generically dependent continuant;postal code;A series of letters or digits or both, sometimes including spaces or punctuation, included in a postal address for the purpose of sorting mail.
+realizable entity;very good health status;
+material entity;imaging disease biomarker;A biomarker that is indicative of a disease and achieved through imaging.
+material entity;clnical measurement identifier;A unique key given to a Measurement record for a Person. Such record can be used in the ETL for how duplicate Measurements during the same Visit were handled.
+generically dependent continuant;Whether self owns email address;An email question that asks whether the email address provided belongs to the person being surveyed.
+realizable entity;good health status;
+disposition;susceptibility to biological regulation;A disposition that a material entity (e.g., gene or protein) is susceptible to be up or down-regulated in an organism or virus.
+material entity;payer plan;Payer plan is a plan specification that captures the details of the period of time that a person is continuously enrolled under a specific health Plan benefit structure from a given payer. Each person receiving healthcare is typically covered by a health benefit plan, which pays for (fully or partially), or directly provides, the care. These benefit plans are provided by payers, such as health insurances or state or government agencies.
+zero-dimensional temporal region;measurement date;A date when a measurement is conducted.
+material entity;protein biomarker;A molecular biomarker at the protein level
+material entity;protein biomarker;Oliver He, Yingtong Liu
+zero-dimensional temporal region;measurement datetime;A datetime when a measurement is conducted.
+realizable entity;single marrital status;
+generically dependent continuant;physician information;
+quality;fair quality of life;
+material entity;medical record number;A centrality registered identifier for a medical record.
+realizable entity;divorced marrital status;
+generically dependent continuant;physician specialty information;
+quality;poor quality of life;
+realizable entity;marital status;Personal information that indicates a person's status in marriage
+generically dependent continuant;Who owns the 2nd email address;
+quality;very good quality of life;
+material entity;Unified Social Credit Identifier;A Unified Social Credit Identifier is issued to registered companies and other types of organization by the Chinese government.
+process;medical occurrence;A process that a patient experiences over a period of time.
+realizable entity;married marital status;
+generically dependent continuant;Who owns the 3rd email address;
+quality;good quality of life;
+material entity;healthcare organization;
+generically dependent continuant;condition occurrence record;An electronic health record that records the information of medical condition.
+generically dependent continuant;maiden name;A woman's surname before marriage
+generically dependent continuant;contact name;The textual name of the contact person or organization
+quality;quality of life;
+disposition;susceptibility to biological up-regulation;A disposition that a material entity (e.g., gene or protein) is susceptible to be up-regulated in an organism or virus.
+temporal region;payer plan period start date;A date when a payer plan period starts.
+generically dependent continuant;pseudonym;A person name that is fictitious and generated for a person to perform a particular social role.
+generically dependent continuant;emergency contact name;The textual name of the contact person or organization that will be contacted during emergency
+quality;excellent quality of life;
+disposition;susceptibility to biological down-regulation;A disposition that a material entity (e.g., gene or protein) is susceptible to be down-regulated in an organism or virus.
+temporal region;payer plan period end date;A date when a payer plan period ends.
+generically dependent continuant;birth name;A person name that is given at birth
+generically dependent continuant;Who owns email address;An email question that asks whether the email address provided belongs to the person being surveyed.
+realizable entity;fair health status;
+material entity;imaging disease biomarkers by MRI;
+temporal region;payer plan temporal region;A temporal region that is associated with the payment process defined in a payer plan
+generically dependent continuant;person login username;A person name that is used for a person to access a computer system.
+generically dependent continuant;What is your birthday;A textual question that asks the birthday of the person being surveyed
+realizable entity;poor health status;
+material entity;cancer marker;
+temporal region;payer plan period;A period time of the payment that is covered by a payer plan for a person.
+realizable entity;widowed marrital status;A marital status that indicates no marriage status due to the death of his/her spouse and no remarriage.
+process;health care;Health care or healthcare is the maintenance or improvement of health via the prevention, diagnosis, and treatment of disease, illness, injury, and other physical and mental impairments in human beings.
+realizable entity;legally separated marital status;
+generically dependent continuant;personal history form;
+generically dependent continuant;BMI greater than 40 kg per m2;
+zero-dimensional temporal region;clinical trial start date;The (estimated) date on which the clinical study is open for recruitment of participants, or the actual date on which the first participant is enrolled.
+generically dependent continuant;AKI hospitalization form;
+generically dependent continuant;question about blood transfusion;
+zero-dimensional temporal region;study completion date;The date on which a study completes
+generically dependent continuant;participant study status form;
+generically dependent continuant;BMI question;
+object;clinical investigator;An investigator who is involved in a clinical trial and is responsible for ensuring that an investigation is conducted according to the signed investigator statement, the investigational plan, and applicable regulations. for protecting the rights, safety, and welfare of subjects under the investigator's care. and for the control of drugs under investigation.
+generically dependent continuant;hospitalization form;
+generically dependent continuant;Whether BMI greater than 40 kg per m2;
+zero-dimensional temporal region;study start date;The date on which a study starts
+generically dependent continuant;clinic reception form;
+generically dependent continuant;lay title of clinical trial;A title of clinical trial that is meant for lay people understanding
+generically dependent continuant;medications form;
+material entity;KPMP eligibility assessment form;An eligibility assessment form that is designed and used by the Kidney Precision Medicine Project (KPMP. http://kpmp.org) organization.
+object;investigator;A person who performs an investigation task and takes the role of an investigator role.
+generically dependent continuant;title of clinical trial;A textual entity that is the title of a clinical trial
+generically dependent continuant;Whether age less than 18 years old;A textual question that asks whether a person's age is less than 18 years old
+generically dependent continuant;official title of clinical trial;A title of clinical trial that is recorded as official
+generically dependent continuant;health literacy questionnaire form;
+generically dependent continuant;Whether pregnant;A pregnancy question that asks whether a person is pregnant at the moment of being questioned
+generically dependent continuant;biopsy safety checklist form;
+generically dependent continuant;CKD hospitalization form;
+generically dependent continuant;Whether unwilling to receive blood transfusion;
+zero-dimensional temporal region;clinical trial study completion date;The date the final participant was examined or received an intervention for purposes of final collection of data for the primary and secondary outcome measures and adverse events (for example, last participant’s last visit), whether the clinical study concluded according to the pre-specified protocol or was terminated.
+generically dependent continuant;participant reported outcome measures form;
+generically dependent continuant;pregnancy question;
+zero-dimensional temporal region;clinical trial primary completion date;The date that the final participant was examined or received an intervention for the purposes of final collection of data for the primary outcome, whether the clinical study concluded according to the pre-specified protocol or was terminated. In the case of clinical studies with more than one primary outcome measure with different completion dates, this term refers to the date on which data collection is completed for all of the primary outcomes.
+generically dependent continuant;kidney biopsy procedure form;
+object;primary care provider;
+zero-dimensional temporal region;visit temporal region;the date or time on which a visit occurs
+generically dependent continuant;consent form;
+generically dependent continuant;centrally registered study identifier symbol;a centrally registered identifier symobol that refers to a specific study
+material entity;barcode;a machine-readable centrally registered identifier that is represented in a visual format on a surface
+generically dependent continuant;new patient form;
+generically dependent continuant;emergency contact phone number;
+generically dependent continuant;Whether diseased;
+generically dependent continuant;biopsy procedure form;
+object;care provider;
+generically dependent continuant;Whether kidney diseased;
+quality;body weight;
+realizable entity;health status;The state of being free from illness or injury
+generically dependent continuant;laboratory result form;
+quality;birth weight;A body weight that is obtained immediately after birth
+realizable entity;medical condition;The medical state or condition of a patient
+process;diabetic nephropathy resisters percutaneous biopsy;
+generically dependent continuant;biosample collection form;
+process;sanitation;A public health process that involves clean drinking water and adequate treatment and disposal of human and animal excreta and sewage.
+generically dependent continuant;2nd email address;An email address that is used secondary after the de fault first email address.
+material entity;USA National Clinical Trial identifier;A centrally registered identifier that is assigned for a specific clinical trial registered in the ClinicalTrials.gov. The format for the ClinicalTrials.gov registry number is “NCT” followed by an 8-digit number, e.g.: NCT00000419.
+generically dependent continuant;contact information form;A form that includes the information of contact for a person
+generically dependent continuant;age question;A textual question about age
+generically dependent continuant;paper form;
+object;secondary care provider;
+material entity;specimen barcode;a barcode that represents a specific specimen
+generically dependent continuant;paper form with signature required;
+object;tertiary care provider;
+process;tissue tracking;A planned process that tracks the tissue specimen including tissue vial number, storage location, time of vial arrival to storage, storage temperature, etc.
+material entity;Phase 2 clinical trial;A clinical trial that is at Phase 2, which is designed to study a biomedical or behavioral intervention in a larger group of people (several hundred), to evaluate the drug's effectiveness for a particular indication in patients with the disease or condition under study, and to determine the common short-term side effects and risks associated with the intervention. [def-source: NCI]
+generically dependent continuant;eligibility assessment form;A form with questions that is used to assess a person's eligibility to participate in a specific study (e.g., kidney precision medicine project).
+realizable entity;associate academic degree education level;An education level that indicates that the highest level of education achievement for a person is a degree from a 2 year college program.
+process;biopsy;a process that obtains a tissue from a living body in order to discover the presence, cause, or extent of a disease, or perform further biomeidcal investigation
+object;central contact person of study;A person to whom questions concerning enrollment at any location of the study can be addressed.
+generically dependent continuant;demographic information form;A form with questions that includes statistical data related to particular groups within a population where a person belongs to
+realizable entity;vocational program completion education level;An education level that indicates that the highest level of education achievement for a person is a degree from an occupational, technical, or vocational program
+generically dependent continuant;electronic health record;A systematized collection of patient and population electronically-stored health information in a digital format
+object;central contact backup of study;A person to contact if Central Contact is not available.
+generically dependent continuant;textual question;A textual entity that is a question presented in text
+realizable entity;11th Grade education level;An education level that indicates that the highest level of education achievement for a person is the 11th Grade elementary school completion.
+generically dependent continuant;Whether scanned HIPAA release form uploaded;
+object;contact for public queries;
+generically dependent continuant;medical history form;
+realizable entity;12th Grade education level;An education level that indicates that the highest level of education achievement for a person is the 12th Grade elementary school completion.
+disposition;hypertensive chronic kidney disease;A chronic kidney disease that is accompanied with elevated blood pressure or hypertension
+object;overall study official;A person who is responsible for the overall scientific leadership of the protocol, including study principal investigator
+generically dependent continuant;Whether patient signed HIPPA release form;
+role;contact person role;a role taken by a person who serves as a contact for some process.
+realizable entity;10th Grade education level;An education level that indicates that the highest level of education achievement for a person is the 10th Grade elementary school completion.
+generically dependent continuant;When HIPAA release form signed;
+process;Topical ocular hypotensive eye drops;
+role;investigator role;An investigation agent role that is taken by a human individual
+generically dependent continuant;question with enumerated responses where multiple answers may be chosen;A question with enumerated responses where one can choose multiple answers.
+material entity;worker compensation insurance plan;
+generically dependent continuant;case report form;A case report form (or CRF) is a paper or electronic questionnaire specifically used in clinical trial research
+generically dependent continuant;question with yes and no responses;A question that has two primary and definitive answers: Yes and No, and there may be other given options like Don't know or Decline to answer.
+material entity;Medicare;Medicare is a national health insurance program in the United States, begun in 1966 under the Social Security Administration and now administered by the Centers for Medicare and Medicaid Services (CMS).
+process;open biopsy;A biopsy process in which a surgical incision (cut) is made through the skin to expose and remove tissues
+role;secondary sponsor role;A sponsor role taken by an additional individual, organization or another legal person, if any, that has agreed with the primary sponsor to take on responsibilities of sponsorship.
+generically dependent continuant;question with enumerated responses where only one answer chosen;A question with enumerated responses where one can only choose one answer.
+material entity;private health insurance plan;
+process;AKI open biopsy;
+generically dependent continuant;physical measurement form;
+material entity;health insurance plan;The code in the specific coding system for the payment method of the expenses incurred in a single hospitalization of the patient
+material entity;health insurance plan;患者单次住院诊疗所发生费用的支付方式的特定编码体系中的代码
+process;percutaneous biopsy;A biopsy that takes a small piece of tissue out of a living body through the skin, using only a tiny incision
+generically dependent continuant;contact person information;information content entity about a contact person
+generically dependent continuant;question with enumerated responses;A textual question that includes a list of enumerated answers
+material entity;Medicaid;A joint federal and state program that helps with medical costs for some people with limited income and resources.
+process;AKi percutaneous biopsy;
+role;primary sponsor role;A sponsor role taken by an individual, organization, group or other legal entity which takes responsibility for initiating, managing and/or financing a study. The Primary Sponsor is responsible for ensuring that the trial is properly registered. The Primary Sponsor may or may not be the main funder.
+material entity;Phase 3 clinical trial;A clinical trial that is at Phase 3, which is designed to investigate the efficacy of the biomedical or behavioral intervention in large groups of human subjects (from several hundred to several thousand), to confirm efficacy, to monitor adverse reactions to the new medication or treatment regimen with respect to long-term use and by comparing the intervention to other standard or experimental interventions as well as to a placebo. [def-source: NCI]
+material entity;Phase 3 clinical trial;A clinical trial that is at Phase 3
+material entity;Phase 4 clinical trial;A clinical trial that is at Phase 4
+realizable entity;high school completion, GED or equivalent;An education level that indicates that the highest level of education achievement for a person is a high school completion, GED, or equivalent
+realizable entity;2nd Grade education level;An education level that indicates that the highest level of education achievement for a person is the second Grade elementary school completion.
+generically dependent continuant;biopsy-related CRF;
+object;facility contact;A contact person for each facility participating in a study.
+generically dependent continuant;answer to question;An information content entity that is the answer to a specific question
+realizable entity;3rd Grade education level;An education level that indicates that the highest level of education achievement for a person is the third Grade elementary school completion.
+generically dependent continuant;post biopsy hospitlization form;
+material entity;biosample identifier;
+realizable entity;GED education level;An education level that indicates that the highest level of education achievement for a person is the pass of a General Education Development (GED) tests. The GED tests are a group of four subject tests which, when passed, provide certification that the test taker has United States or Canadian high school-level academic skills.
+generically dependent continuant;CRF filled up by research coordinator;
+realizable entity;less than 8th Grade education level;An education level that indicates the 7th grade complete or less as the highest level of educational achievement.
+realizable entity;1st Grade education level;An education level that indicates that the highest level of education achievement for a person is the 1st Grade elementary school completion.
+generically dependent continuant;CRF filled up by biopsy operator;
+object;contact person;A person who serves as a contact role and has disclosed specified information to be reached. Usually the contact information, such as email and phone number, is provided.,
+generically dependent continuant;title of study;
+generically dependent continuant;What postal code;
+object;human subject;A livinging individual who is or becomes a participant in research, either as a recipient of a test article or as a control. A subject may be either a healthy human or a patient. Based on the NIH definition, a living individual about whom an investigator (whether professional or student) conducting the following research: (1) Obtains information or biospecimens through intervention or interaction with the individual, and uses, studies, or analyzes the information or biospecimens. or (2) Obtains, uses, studies, analyzes, or generates identifiable private information or identifiable biospecimens.
+generically dependent continuant;none answer to question;An answer to question that is not listed in the whole list of response options
+material entity;Early Phase 1 clinical trial;A clinical trial that is at an Early Phase i or Phase 0, which is designed to use an investigational agent that is available only in very limited quantities and which has never previously given to humans or for which there is extremely limited human experience. Phase 0 clinical trials are intended to enable researchers to understand the path of the drug in the body and its efficacy. Adverse event reporting in Phase 0 trials is expedited. [def-source: NCI]
+material entity;Early Phase 1 clinical trial;A clinical trial that is at Early Phase 1 or Phase 0
+material entity;Phase 1 clinical trial;A clinical trial that is at Phase 1, which is often the first-in-man trial, and it tests within a small group of people (typically 20-80) to evaluate safety, determine safe dosage ranges, and begin to identify side effects. A drug's side effects could be subtle or long term, or may only happen with a few people, so phase 1 trials are not expected to identify all side effects.
+generically dependent continuant;declined to answer to question;An answer to question where one declines to answer the specified question.
+realizable entity;8th Grade education level;An education level that indicates that the highest level of education achievement for a person is the 8th Grade elementary school completion.
+generically dependent continuant;HIPAA release;
+generically dependent continuant;other answer to question;An answer to question that is not enumerated in the list and then may be entered with free text in a separate text box
+realizable entity;9th Grade education level;An education level that indicates that the highest level of education achievement for a person is the 9th Grade elementary school completion.
+generically dependent continuant;unknown answer to question;An answer to question that indicates the response to the specified question is unknown.
+realizable entity;6th Grade education level;An education level that indicates that the highest level of education achievement for a person is the 6th Grade elementary school completion.
+generically dependent continuant;enrollment CRF;
+object;facility contact backup;Person to contact if Facility Contact is not available (that is, a second contact person).
+generically dependent continuant;do not know due to data unavailable answer to question;A do not know answer to question that is answered due to data unavailable
+realizable entity;7th Grade education level;An education level that indicates that the highest level of education achievement for a person is the 7th Grade elementary school completion.
+generically dependent continuant;Whether patient eligible to consent;A eligibility question that asks whether a patient is eligible to consent to participate in a project.
+object;contact of scientific queries;
+generically dependent continuant;yes answer to question;An answer to question where the answer is Yes.
+realizable entity;4th Grade education level;An education level that indicates that the highest level of education achievement for a person is the 4th Grade elementary school completion.
+generically dependent continuant;pathology CRF;A clinical report form that is related to the processing and analysis of tissue of diseased patient.
+material entity;GSM identiifier;
+generically dependent continuant;no answer to question;An answer to question where the answer is No.
+realizable entity;5th Grade education level;An education level that indicates that the highest level of education achievement for a person is the 5th Grade elementary school completion.
+generically dependent continuant;screening and patient tracking CRF;
+material entity;ImmPort biosample identifier;
+quality;age at the start of medication;An age when a medication is first used
+quality;age at the start of taking medication for diabetes;
+generically dependent continuant;What medication;
+generically dependent continuant;What medication taken for diabetes;
+generically dependent continuant;Whether insulin taken for diabetes;
+generically dependent continuant;Whether diabetes during pregnancy;
+material entity;clinical trial;a clinical trial is a medical interventional study where participants are assigned prospectively to an intervention or interventions according to a protocol to evaluate the safety and efficacy of the intervention(s) on biomedical or other health related outcomes. The Interventions include but are not restricted to drugs, cells and other biological products, surgical procedures, radiologic procedures, devices, behavioral treatments, process-of-care changes, preventive care, etc.
+entity;obsolete class;
+realizable entity;primary admission diagnosis status;The status of have the primary admission diagnosis
+role;secondary registry identifier role;An identifier role that inheres in a unique record which provides an identifier secondary to the primary registry identifier.
+realizable entity;confirmed diagnosis status;
+object;sponsor investigator;An investigator role taken by an individual who both initiates and conducts the study
+realizable entity;medical condition status;The state or status at the point during the visit the diagnosis was given (admitting diagnosis, final diagnosis), whether the diagnosis was determined due to laboratory findings, if the diagnosis was exclusionary, or if it was a preliminary diagnosis, among others.
+role;identifier role;A role taken by a string (which may have mixed integer and text) that serves as a unique record.
+generically dependent continuant;medical condition stop reason specification;An action specification that indicates why a Condition is no longer valid with respect to the purpose specified within the source data.
+material entity;collaborator;An agent (an individual, organization, group or another legal entity) who provides support to an investigation. The support may include funding, design, implementation, data analysis or reporting. The responsible party is responsible for confirming all collaborators before listing them.
+zero-dimensional temporal region;condition start date;The date on which a condition starts.
+object;principal investigator;An investigator who is designated as responsible party by the sponsor
+zero-dimensional temporal region;condition start datetime;The date and time on which a condition starts.
+zero-dimensional temporal region;condition end datetime;The date and time on which a clinical condition ends.
+material entity;human subject study;A systematic, scientific investigation that can be either interventional or observational and involves human beings as research subjects. Human subject research can be either medical (clinical) research or non-medical (e.g., social science) research.
+realizable entity;postoperative diagnosis status;A postoperative diagnosis is a diagnosis or diagnoses discovered or confirmed during the surgery. Often it is the same as the preoperative diagnosis.
+material entity;human cohort;A collection of humans who share a defining characteristic, typically those who are collectively experiencing a common event (e.g., a clincal trial study) in a selected period.
+role;primary registry identifier role;An identifier role that is assigned by a primary registry and provides a unique record.
+generically dependent continuant;principal diagnosis;Principal diagnosis describes the underlying cause behind a patient’s initial hospital admission and is assigned only after a physician has completed necessary tests and examinations.
+object;patient;a human who is a recipient of a health care service performed by healthcare professionals.
+realizable entity;discharge diagnosis status;A discharge diagnosis is a final diagnosis given a patient before release from the hospital after all testing, surgery, and workup are complete.
+entity;inclusion criterion - obsolete;a selection criterion (rule) which defines and states the inclusion condition for an entity to be considered as suitable for a given task or participation in a process.
+generically dependent continuant;provenance of visit record;A provenance of record that determines the provenance of the visit record, or where the record comes from.
+material entity;primary registry identifier;A centrally registered unique identifier assigned by the primary registry to a study including a clinical trial.
+generically dependent continuant;provenance of condition occurrence record;A provenance of record that determines the provenance of the Condition record, as in whether the condition was from an EHR system, insurance claim, registry, or other sources.
+role;sponsor investigator role;An investigator role taken by an individual who both initiates and conducts the study
+generically dependent continuant;provenance of observation record;A provenance of record that determines the provenance of the Observation record, as in whether the measurement was from an EHR system, insurance claim, registry, or other sources.
+role;investigation collaborator role;An investigation agent role taken by an agent (an individual, organization, group or another legal entity) who provides support to an investigation. The support may include funding, design, implementation, data analysis or reporting. The responsible party is responsible for confirming all collaborators before listing them.
+generically dependent continuant;provenance of specimen record;A provenance of record that determines the source of the specimen record, as in an EHR system.
+generically dependent continuant;provenance of measurement record;A provenance of record that determines the provenance of the Measurement record, as in whether the procedure was from an EHR system, insurance claim, registry, or other sources.
+role;principal investigator role;An investigator role taken by an individual who is designated as responsible party by the sponsor
+generically dependent continuant;provenance of note record;A provenance of record that determines the provenance of the note.
+material entity;secondary registry identifier;A centrally registered unique identifier besides the primary registry identifier allocated by the Primary Registry, if any.
+material entity;primary sponsor;The individual, organization, group or other legal entity which takes responsibility for initiating, managing and/or financing a study. In clinical trial, the Primary Sponsor is responsible for ensuring that the trial is properly registered. The Primary Sponsor may or may not be the main funder.
+zero-dimensional temporal region;condition temporal region;the date or time on which a condition occurs
+material entity;secondary sponsor;An additional individual, organization or another legal person, if any, that has agreed with the primary sponsor to take on responsibilities of sponsorship.
+zero-dimensional temporal region;condition end date;The date on which a condition ends.
+material entity;sponsor;An individual, organization, group or other legal entity that involves with any of the following activities: initiating, managing and funding a study
+realizable entity;primary diagnosis status;The primary diagnosis refers to the patient condition that demands the most provider resources during the patient’s stay.
+material entity;investigation agent;
+process;medical condition occurrence;A medicl occurrence where a person presents a disease or medical condition stated as a diagnosis, a sign, or a symptom, which is either observed by a Provider or reported by the patient.
+generically dependent continuant;provenance of procedure record;A provenance of record that determines the provenance of the Procedure record, as in whether the procedure was from an EHR system, insurance claim, registry, or other sources.
+realizable entity;death diagnosis status;The status of being diagnosed as death
+zero-dimensional temporal region;procedure end datetime;The date and time when a procedure ends
+generically dependent continuant;provenance of record;The information content entity that represents the origin of record such as the clinical form as the origin record of death.
+zero-dimensional temporal region;procedure end date;The date when a procedure ends
+generically dependent continuant;provenance of episode record;A provenance of record that determines the provenance of the Episode record, as in whether the procedure was from an EHR system, insurance claim, registry, or other sources.
+generically dependent continuant;provenance of device record;A provenance of record that determines the provenance of the record, as in whether the record is from administrative claims or EHR.
+generically dependent continuant;provenance of drug record;A provenance of record that determines the provenance of a drug prescription, which delineates prescriptions written, prescriptions dispensed, medication history, patient-reported exposure, etc.
+generically dependent continuant;provenance of cost record;A provenance of record that designates the source (provenance) of the cost data.
+generically dependent continuant;provenance of death record;A provenance of record that determines the provenance of the death record, i.e., where it came from.
+material entity;mobile genetic element;A self-replicating nucleic acid that can move around within a genome, or that can be transferred from one species or replicon to another.
+material entity;National Provider Identifier;A centrally registered identifier that refers to the National Provider Number issued to health care providers in the US by the Centers for Medicare and Medicaid Services (CMS). NPI is assigned for use in all administrative and financial transactions specified by HIPAA.
+material entity;plasmid;A mobile genetic element that is composed of a generally circular extrachromosomal DNA molecule and is able to replicate and be transmitted independent of chromosomal DNA.
+site;home;A site that is used as a permanent or semi-permanent residence for one or many humans.
+material entity;self-replicating nucleic acid;An acellular self-replicating organic structure that is composed of nucleic acid
+generically dependent continuant;referral diagnosis;A referral is a written request from one health professional to another health professional or health service, asking them to diagnose or treat you for a particular condition.
+zero-dimensional temporal region;procedure start date;The date when a procedure starts
+zero-dimensional temporal region;procedure start datetime;The date and time when a procedure starts
+material entity;procedure occurrence identifier;A centrally registered identifier that refers to a procedure occurrence, which is an activity or process that is ordered by, or carried out by, a healthcare provider on a patient with a diagnostic or therapeutic purpose.
+zero-dimensional temporal region;procedure temporal region;A temporal region that is associated with a procedure
+material entity;DEA identifier;A centrally registered identifier that is issued by the Drug Enforcement Administration (DEA), a US federal agency, that allows a provider to write prescriptions for controlled substances.
+material entity;transposon;A mobile genetic element that is composed of a DNA sequence and can move and replicate in different parts of a cell's genome.
+process;medical procedure occurrence;A medicl occurrence that is ordered by, or carried out by, a healthcare provider on a patient with a diagnostic or therapeutic purpose.
+material entity;disease biomarker;A biomarker that is indicative of a disease
+zero-dimensional temporal region;drug exposure verbatim end date;The end date of a drug exposure as it appears in the source data
+generically dependent continuant;bleeding exclusion criteria;An exclusion criterion that relates to the process of bleeding
+material entity;cell lineage biomarker;A biomarker that is an indicator of a cell lineage or cell type
+process;drug exposure;An exposure or contact of a person to a drug. The drug exposure includes drug dispensing or administration for a person.
+generically dependent continuant;drug refills specification;An action specification that represents the intended refills at time of the prescription.
+generically dependent continuant;health status question;A textual question about health condition
+material entity;DNA biomarker;Oliver He, Yingtong Liu
+material entity;DNA biomarker;A molecular biomarker at the DNA gene level
+zero-dimensional temporal region;measurement time;A time when a measurement is conducted.
+object;self;The self is an individual person as the object of his or her own reflective consciousness.
+generically dependent continuant;what health status;A health status question that asks about the condition of a person's heath, which can be a selection from different options such as Excellent, Very good, Good, Fair, or Poor.
+material entity;RNA biomarker;Oliver He, Yingtong Liu
+material entity;RNA biomarker;A molecular biomarker at the RNA level
+generically dependent continuant;KPMP central path quality metrics assessment interrogation core form;
+process;biopsy pass;A biopsy attempt
+material entity;prognostic biomarker;A biomarker that provides information about the patient's overall outcome, regardless of therapy.
+zero-dimensional temporal region;observation period start date;A date when an observation starts.
+material entity;last four digits of social security number;The last four digits of a social security number, which is often asked in a survey form.
+process;needle biopsy;A biopsy that uses needle
+material entity;diagnostic biomarker;A biomarker that can serve a role in narrowing down diagnosis, which can lead to diagnosis that is significantly more specific to individual patients.
+zero-dimensional temporal region;observation period end date;A date when an observation ends.
+generically dependent continuant;KPMP Dx core - disease categories form;
+material entity;biopsy kit identifier;A centrally registered identifier that is for a kit used in biopsy
+material entity;imaging biomarker;
+one-dimensional temporal region;observation period;A period time when an observation is conducted.
+generically dependent continuant;KPMP central path quality metrics assessment Dx core form;
+material entity;KPMP PROMIS form;A PROMIS form that is designed and used by the KPMP project (http://kpmp.org).
+material entity;predictive biomarker;A biomarker that can predict clincal outcome.
+temporal region;observation temporal region;A temporal region that is associated with an observation
+generically dependent continuant;KPMP tissue tracking form;
+generically dependent continuant;PROMIS form;A case report form of PROMIS: Patient-Reported Outcomes Measurement Information System. PROMIS is a set of person-centered measures that evaluates and monitors physical, mental, and social health in adults and children. It can be used with the general population and with individuals living with chronic conditions.
+material entity;molecular biomarker;
+material entity;quantity of drug exposure;The quantity of drug exposure refers to the number of drug pieces, e.g. tablets, that are exposed to a person.
+generically dependent continuant;KPMP Dx core - .jpg images QC form;
+material entity;kit identifier;
+material entity;cellular biomarker;Cellular biomarkers are marked cells that can be isolated, sorted, quantified and characterized by their morphology and physiology, and used in both clinical and laboratory settings for different biomarker applications. An example of a cellular biomarker sorting technique is Fluorescent-activated cell sorting.
+material entity;days of drug supply;This days of the supply of a drug that is given on the prescription.
+generically dependent continuant;email question;A textual question about age
+realizable entity;excellent health status;
+generically dependent continuant;What email address;An email question that asks the exact email address
+realizable entity;resolved condition status;A medical condition status in which the subject is not presently experiencing the condition or situation and there is a negligible perceived risk of the condition or situation returning.
+realizable entity;underlying cause of death status;The underlying cause of death refers to the disease or injury that initiated the train of morbid events leading directly to death or the circumstances of the accident or violence that produced the injury.
+generically dependent continuant;KPMP pathology images upload form;
+realizable entity;status;
+material entity;cytokine biomarker;
+zero-dimensional temporal region;drug exposure end datetime;The date and time on which a drug exposure ends for a patient.
+generically dependent continuant;KPMP patient experience survey form;
+realizable entity;study status;The current stage of a clinical study and whether it is or will be open for enrollment
+material entity;inflammatory cytokine biomarker;
+generically dependent continuant;drug exposure stop reason specification;The reason a person stopped a medication as it is represented in the source. Reasons include regimen completed, changed, removed, etc.
+generically dependent continuant;KPMP participant reported outcome measures form;
+generically dependent continuant;person first and last name;A person name that includes both the first and last name
+material entity;biomarker;A material entity that has a measurable quality or process profile(s), which can be used as an indicator of an underlying biological state or identity.
+zero-dimensional temporal region;drug exposure start datetime;The date and time on which a drug exposure starts.
+generically dependent continuant;KPMP participant study status form;
+zero-dimensional temporal region;sign date;A date when a document is signed
+material entity;immune biomarker;
+zero-dimensional temporal region;drug exposure end date;The date on which a drug exposure ends for a patient.
+generically dependent continuant;KPMP medications form;
+zero-dimensional temporal region;date of test;a date when a test is performed
+role;cytokine signature role;
+zero-dimensional temporal region;drug exposure temporal region;the date or time on which a drug exposure occurs in a patient
+generically dependent continuant;KPMP new patient form;
+zero-dimensional temporal region;date of second test;a date when a test is performed at the second time
+role;inflammatory cytokine signature role;
+zero-dimensional temporal region;drug exposure start date;The date on which a drug exposure starts.
+generically dependent continuant;hemoglobin test positive with result < 9 g/dl;
+role;biomarker role;
+zero-dimensional temporal region;device exposure start date;The date on which a device exposure starts.
+material entity;KPMP consent form;
+zero-dimensional temporal region;date of first test;a date when a test is performed at the first time
+role;immune signature role;
+zero-dimensional temporal region;device exposure start datetime;The date and time on which a device exposure starts.
+generically dependent continuant;KPMP post biopsy form;
+generically dependent continuant;KPMP personal history form;
+realizable entity;patient status;
+role;disease biomarker role;
+generically dependent continuant;KPMP physical measurement form;
+entity;exclusion criterion - obsolete;a selection criterion (rule) which defines and states the exclusion condition for an entity to be considered as suitable for a given task or participation in a process.
+realizable entity;preliminary discharge diagnosis status;The status of have the primary admission diagnosis
+object;older adult human subject;A human subject classified as adult, which is defined by NIH as an individual 65 years of age or older. For the purposes of the NIH Policy and Guidelines on the Inclusion of Individuals Across the Lifespan as Participants in Research Involving Human Subjects, an older adult is defined as an individual 65 years of age or older.
+zero-dimensional temporal region;device exposure end date;The date on which a device exposure ends.
+object;adult human subject;A human subject classified as adult, which is defined by NIH as an individual over 18 years of age.
+zero-dimensional temporal region;device exposure end datetime;The date and time on which a device exposure ends.
+zero-dimensional temporal region;today's date;a date of the present date
+realizable entity;primary discharge diagnosis status;
+generically dependent continuant;CRF filled up by participant candidate;
+object;child human subject;A human subject classified as adult, which is defined by NIH as an individual under the age of 18 years. For the purposes of the NIH Policy and Guidelines on the Inclusion of Individuals Across the Lifespan as Participants in Research Involving Human Subjects, a child is defined as an individual under the age of 18 years.
+zero-dimensional temporal region;device exposure temporal region;the date or time on which a device exposure occurs
+generically dependent continuant;negative diagnosis;The representation of a negative conclusion of a diagnostic process, which indicates that the patient is diagnozed as negative for a hypothetic disease.
+realizable entity;immediate cause of death status;An immediate cause of death is a final disease, injury, or complication directly causing the death
+process;answering textual question;
+generically dependent continuant;presumptive positive diagnosis;The representation of a presumptive positive conclusion of a diagnostic process, which indicates that the patient is diagnozed as presumptive positive for a hypothetic disease.
+process;medical device exposure;A process of a person’s exposure to a foreign physical object or instrument which is used for diagnostic or therapeutic purposes through a mechanism beyond chemical action. Devices include implantable objects (e.g. pacemakers, stents, artificial joints), medical equipment and supplies (e.g. bandages, crutches, syringes), other instruments used in medical procedures (e.g. sutures, defibrillators) and material used in clinical care (e.g. adhesives, body material, dental material, surgical material).
+material entity;older adult data of human subject (by NIH);For the purposes of the NIH Policy and Guidelines on the Inclusion of Individuals Across the Lifespan as Participants in Research Involving Human Subjects, an older adult is defined as an individual 65 years of age or older.
+realizable entity;condition to be diagnosed by procedure status;
+generically dependent continuant;positive diagnosis;The representation of a positive conclusion of a diagnostic process, which indicates that the patient is diagnozed as positive for a hypothetic disease.
+realizable entity;contributory cause of death status;A contributory cause of death is a significant condition that unfavourably influences the course of the morbid process and thus contributes to the fatal outcome, but which is not related to the disease or condition directly causing death.
+generically dependent continuant;hemoglobin test finding;
+realizable entity;secondary admission diagnosis status;
+generically dependent continuant;pregnancy test positive;
+realizable entity;recruitment status;The current stage of a clinical study and whether it is or will be open for enrollment
+process;self-replication;A process of a dynamic system that produces an identiical or similar copy of itself.
+realizable entity;secondary diagnosis status;A secondary diagnosis is a condition that coexists at the time of admission, that develops subsequently, or that affects the treatment received and/or length of stay.
+material entity;organic chemical entity;
+realizable entity;secondary discharge diagnosis status;
+zero-dimensional temporal region;date of registration;a date when a registration occurs
+material entity;viroid;
+material entity;viroid;An non-organism infectious agent that is composed solely of a short strand of circular, single-stranded RNA and has no protein coating.
+realizable entity;primary referral diagnosis status;
+material entity;primary health outcome measurement datum;A primary outcome measure used to describe patterns of diseases or traits or associations with exposures, risk factors or treatment.
+realizable entity;referral diagnosis status;A referral is a written request from one health professional to another health professional or health service, asking them to diagnose or treat you for a particular condition.
+generically dependent continuant;clinical trial primary purpose specification;The main objective of the intervention(s) being evaluated by the clinical trial.
+material entity;cellular organism;A self-replicating organic structure that is composed of one cell or multiple cells and embodies the properties of life.
+realizable entity;admission diagnosis status;An admitting diagnosis is defined as the initial working diagnosis documented by the patient's admitting or attending physician who determined that inpatient care was necessary.
+material entity;acellular self-replicating organic structure;A self-replicating organic structure that does not have the unit of cell but it may use the cells to replicate.
+realizable entity;cause of death status;A cause of death is an official determination of conditions resulting in a human's death, which may be recorded on a death certificate. A cause of death is determined by a medical examiner.
+realizable entity;preliminary diagnosis status;
+material entity;self-replicating organic structure;A material entity that is composed of organic structure and is capable of self-replication (with or without host support). Various types of self-replicating organic structures can be found at: https://en.wikipedia.org/wiki/Template:Self-replicating organic structures.
+realizable entity;preoperative diagnosis status;A preoperative diagnosis is a surgical diagnosis or diagnoses that are assigned to the patient before the surgical procedure, and is the reason for the surgery. A preoperative diagnosis is, in the opinion of the surgeon, the diagnosis that will be confirmed during surgery.
+object;clinical study participant candidate;A human being who is a candidate to participant in a clinical study
+material entity;adult age data of human subject;The regular aged adult group is defined here as an individual over 18 years of age.
+material entity;human subject age data;A measurement datum that is about the age of human subject
+realizable entity;secondary referral diagnosis status;
+generically dependent continuant;electronic case report form;A case report form that is presented in an electronic format
+material entity;child age data of human subject (by NIH);For the purposes of the NIH Policy and Guidelines on the Inclusion of Individuals Across the Lifespan as Participants in Research Involving Human Subjects, a child is defined as an individual under the age of 18 years.
+realizable entity;preliminary admission diagnosis status;The status of have the primary admission diagnosis
+generically dependent continuant;secondary referral diagnosis;
+generically dependent continuant;admission diagnosis;An admitting diagnosis is defined as the initial working diagnosis documented by the patient's admitting or attending physician who determined that inpatient care was necessary.
+generically dependent continuant;secondary admission diagnosis;
+generically dependent continuant;secondary discharge diagnosis;
+process;medical exposure;A medical occurrence in which a patience is exposed to a medical related material entity such as drug or medical device. Medical exposure refers primarily to exposure incurred by patients for the purpose of medical diagnosis or treatment.
+generically dependent continuant;preoperative diagnosis;A preoperative diagnosis is a surgical diagnosis or diagnoses that are assigned to the patient before the surgical procedure, and is the reason for the surgery. A preoperative diagnosis is, in the opinion of the surgeon, the diagnosis that will be confirmed during surgery.
+generically dependent continuant;discharge diagnosis;A discharge diagnosis is a final diagnosis given a patient before release from the hospital after all testing, surgery, and workup are complete.
+generically dependent continuant;postoperative diagnosis;A postoperative diagnosis is a diagnosis or diagnoses discovered or confirmed during the surgery. Often it is the same as the preoperative diagnosis.
+generically dependent continuant;confirmed diagnosis;
+generically dependent continuant;death diagnosis;The diagnosis of the death of a person
+generically dependent continuant;electronic medical visit record;An electronic health record that records the information of medical visit.
+generically dependent continuant;preliminary diagnosis;
+generically dependent continuant;electronic specimen record;An electronic health record that records the information of the specimen record.
+generically dependent continuant;secondary diagnosis;A secondary diagnosis is a diagnosis made at the time of admission, that develops subsequently, or that affects the treatment received and/or length of stay.
+generically dependent continuant;primary discharge diagnosis;
+generically dependent continuant;primary referral diagnosis;
+generically dependent continuant;primary diagnosis;The primary diagnosis is a diagnosis of the patient condition that demands the most provider resources during the patient’s stay.
+generically dependent continuant;primary admission diagnosis;
+generically dependent continuant;preliminary admission diagnosis;
+generically dependent continuant;preliminary discharge diagnosis;
